@@ -28,8 +28,7 @@ Description = Мгновенный поиск файлов и папок.
 Size = 906,4 КиБ
 
 [Section.041f]
-Name = Tüm Şeyler Arama Motoru
 License = Ücretsiz
-Description = Kütükleri ve dizinleri ada göre gecikmeden bulunuz.
+Description = Dosyaları ve dizinleri ada göre gecikmeden bulunuz.
 Size = 906,4 KiB
 

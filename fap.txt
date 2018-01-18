@@ -39,8 +39,7 @@ Description = Простой и лёгкий аудио плеер.
 Size = 1,9 МиБ
 
 [Section.041f]
-Name = Fox Ses Oynatıcısı
-Description = Bayağı ve yeğni ses oynatıcısı.
+Description = Basit ve hafif ses oynatıcısı.
 Size = 1,9 MiB
 
 [Section.0422]

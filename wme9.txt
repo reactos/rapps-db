@@ -46,9 +46,8 @@ Size = 9,5 МиБ
 Description = Neznáma
 
 [Section.041f]
-Name = Windows Media Kodlayıcısı 9
 License = Bilinmiyor
-Description = Windows Media biçimlerinde ses ve vidyo dönüştürür ve yayımlar.
+Description = Windows Media biçimlerinde ses ve video dönüştürür ve yayımlar.
 Size = 9,5 MiB
 
 [Section.0422]

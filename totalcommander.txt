@@ -39,7 +39,7 @@ Size = 4,1 МиБ
 
 [Section.041f]
 License = Paylaşımlı
-Description = Güçlü kullanıcılar için yan yana iki bölmeli bir kütük yöneticisi.
+Description = Güçlü kullanıcılar için yan yana iki bölmeli bir dosya yöneticisi.
 Size = 4,1 MiB
 
 [Section.0804]

@@ -30,6 +30,6 @@ Size = 1,5 МиБ
 [Section.041f]
 Name = Ücretsiz Süreölçer
 License = Ücretsiz
-Description = Esnek bir sayılık süreölçer yazılımı.
+Description = Esnek bir sayısal süreölçer yazılımı.
 Size = 1,5 MiB
 

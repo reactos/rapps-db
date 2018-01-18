@@ -45,7 +45,7 @@ Size = 7,2 МиБ
 
 [Section.041f]
 License = Ücretsiz
-Description = Bir posta ve BitTorrent istemcisini kapsayan birçok gelişmiş husûsiyetle, tutulan Opera Tarayıcı.
+Description = Bir posta ve BitTorrent istemcisini kapsayan birçok gelişmiş özellikle tutulan Opera Tarayıcı.
 Size = 7,2 MiB
 
 [Section.0422]

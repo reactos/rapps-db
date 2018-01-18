@@ -28,8 +28,7 @@ Description = Просмотр Linux разделов в Windows/ReactOS. Под
 Size = 21,2 МиБ
 
 [Section.041f]
-Name = DiskInternals Linux Okuyucu
 License = Ücretsiz
-Description = Windows ya da ReactOS ile Ext2, Ext3, Ext4, HFS ve ReiserFS kütük dizgeleri arasında köprü kurmak için kolay bir yol.
+Description = Windows ya da ReactOS ile Ext2, Ext3, Ext4, HFS ve ReiserFS dosya sistemleri arasında köprü kurmak için kolay bir yol.
 Size = 21,2 MiB
 

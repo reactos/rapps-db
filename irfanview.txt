@@ -48,7 +48,7 @@ Size = 2,3 МиБ
 
 [Section.041f]
 License = Şahsî kullanım için ücretsiz.
-Description = Çizgelerin, ses kütüklerinin, vidyo kütüklerinin tüm türleri için görüntüleyici.
+Description = Çizgelerin, ses kütüklerinin, video kütüklerinin tüm türleri için görüntüleyici.
 Size = 2,3 MiB
 
 [Section.0422]

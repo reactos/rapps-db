@@ -35,8 +35,7 @@ Description = Double Commander - это открытый двухпанельн�
 Size = 5,2 МиБ
 
 [Section.041f]
-Version = 0.7.1 Gelişme
-Description = Yan yana iki bölmeli bir açık kaynak kütük yöneticisidir. Çıkartmak için 7-Zip gibi bir araca gereksinim duyacaksınız.
+Description = Yan yana iki bölmeli bir açık kaynak dosya yöneticisidir. Çıkartmak için 7-Zip gibi bir araca gereksinim duyacaksınız.
 Size = 5,2 MiB
 
 [Section.0422]

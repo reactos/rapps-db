@@ -26,6 +26,6 @@ Size = 58,3 КиБ
 
 [Section.041f]
 License = Ücretsiz
-Description = Dizgedeki bir pencerenin husûsiyetlerini görüntülemek ve seçmek için kullanılabilecek bir usta izlencecinin aracı. Onu çıkartmak için 7-Zip gibi bir araç gereklidir.
+Description = Sistemdeki bir pencerenin özelliklerini görüntülemek ve seçmek için kullanılabilecek bir usta programının aracı. Onu çıkartmak için 7-Zip gibi bir araç gereklidir.
 Size = 58,3 KiB
 

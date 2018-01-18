@@ -23,6 +23,6 @@ Description = Графический SVN клиент для обновлени�
 Size = 14,9 МиБ
 
 [Section.041f]
-Description = Kod eş zamanlama ve şimdikileştirme için çizgelik SVN istemcisi.
+Description = Kod eş zamanlama ve güncelleme için grafik SVN istemcisi.
 Size = 14,9 MiB
 

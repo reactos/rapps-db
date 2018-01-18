@@ -22,6 +22,6 @@ Description = Визуальная объектно-ориентированна
 Size = 33,0 МиБ
 
 [Section.041f]
-Description = Çocuklar için görmelik nesneye yönelik izlenceleme ortamı.
+Description = Çocuklar için görmelik nesneye yönelik programlama ortamı.
 Size = 33,0 MiB
 

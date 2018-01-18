@@ -43,7 +43,7 @@ Description = Графический интерфейс для MPlayer.
 Size = 23,1 МиБ
 
 [Section.041f]
-Description = MPlayer için çizgelik arayüz.
+Description = MPlayer için grafik arayüz.
 URLSite = http://smplayer.sourceforge.net/tr/
 Size = 23,1 MiB
 

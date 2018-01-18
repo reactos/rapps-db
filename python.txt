@@ -39,7 +39,7 @@ Description = Удивительно мощный динамический яз�
 Size = 23,7 МиБ
 
 [Section.041f]
-Description = Dikkat çekici, güçlü ve devingen bir izlenceleme dili.
+Description = Dikkat çekici, güçlü ve dinamik bir programlama dili.
 Size = 23,7 MiB
 
 [Section.0422]

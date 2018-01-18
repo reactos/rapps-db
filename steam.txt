@@ -49,7 +49,7 @@ Size = 1,4 МиБ
 
 [Section.041f]
 License = Ücretsiz
-Description = Tutulan Umûmî Ağ oyun dağıtım platformu ve toplumluk ağ. DRM içerir.
+Description = Tutulan internet oyun dağıtım platformu ve sosyal ağ. DRM içerir.
 URLSite = http://store.steampowered.com/?l=turkish
 Size = 1,4 MiB
 

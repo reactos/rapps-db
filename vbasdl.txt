@@ -26,7 +26,7 @@ Size = 438,9 КиБ
 
 [Section.041f]
 Name = VisualBoyAdvance (SDL sürümü)
-Description = Gameboy ve GameboyAdvance dizgeleri için bir öykünücü. Çalıştırmak için bir ZIP çıkartma izlencesi gerekir.
+Description = Gameboy ve GameboyAdvance sistemleri için bir öykünücü. Çalıştırmak için bir ZIP çıkartma programı gerekir.
 Size = 438,9 KiB
 
 [Section.0804]

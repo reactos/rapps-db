@@ -22,7 +22,7 @@ Size = 4,3 МиБ
 
 [Section.041f]
 License = Deneme sürümü
-Description = CD/DVD kalıp kütüğünü doğrudan düzenleyebilmekle ve ondan kütükleri ve dizinleri çıkartabilmekle birlikte CD/DVD-ROM diskinizden ya da sâbit diskinizden doğrudan ISO kütükleri oluşturabilen bir ISO CD/DVD kalıp kütüğü oluşturma, düzenleme, dönüştürme uygulaması ve bir ön yüklenebilir CD/DVD oluşturucusudur.
+Description = CD/DVD kalıp dosyasını doğrudan düzenleyebilmekle ve ondan dosyaları ve dizinleri çıkartabilmekle birlikte CD/DVD-ROM diskinizden ya da sâbit diskinizden doğrudan ISO dosyaları oluşturabilen bir ISO CD/DVD kalıp dosyası oluşturma, düzenleme, dönüştürme uygulaması ve bir ön yüklenebilir CD/DVD oluşturucusudur.
 Size = 4,3 MiB
 
 [Section.0804]

@@ -44,7 +44,7 @@ Description = Нужен для запуска многих игр с откры
 Size = 136,7 КиБ
 
 [Section.041f]
-Name = SDL (Bayağı Doğrudan Ortam Katmanı) Yürütücü
+Name = Simple Direct Media Layer (SDL) Yürütücü
 Description = Birçok açık kaynak oyunu çalıştırmak için gereklidir. Çıkartmak için Zip gibi bir araca gereksinim duyacaksınız.
 Size = 136,7 KiB
 

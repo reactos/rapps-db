@@ -26,7 +26,6 @@ Description = Сборка графической библиотеки Mesa3D. �
 Size = 5,7 МиБ
 
 [Section.041f]
-Name = Mesa3D Çizge Kitaplığı
-Description = Mesa3D'nin bu yapısı Mesa, Gallium ve llvmpipe'tan oluşmaktadır. OpenGL donanım hızlandırması olmayan dizgeler için önemli bir başarım artışı sağlar. Dizgenizde OGL sürücüsünün yerini alabilir, bunu kurulum sırasında ya da OpenGL Yapılandırma denetim masası ögesi yoluyla ayarlanabilir.
+Description = Mesa3D'nin bu yapısı Mesa, Gallium ve llvmpipe'tan oluşmaktadır. OpenGL donanım hızlandırması olmayan sistemler için önemli bir başarım artışı sağlar. Dizgenizde OGL sürücüsünün yerini alabilir, bunu kurulum sırasında ya da OpenGL Yapılandırma denetim masası ögesi yoluyla ayarlanabilir.
 Size = 5,7 MiB
 

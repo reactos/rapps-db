@@ -15,7 +15,7 @@ Description = Ermöglicht den Zugriff auf ReiserFS Partitionen unter Windows Sys
 Size = 53,4 KiB
 
 [Section.041f]
-Description = Bir Windows dizgesinden ReiserFS bölümlerine erişmenize olanak sağlar.
+Description = Bir Windows sisteminden ReiserFS bölümlerine erişmenize olanak sağlar.
 Size = 53,4 KiB
 
 [Section.0418]

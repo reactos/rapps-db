@@ -22,6 +22,6 @@ Description = Набор инструментов для работы с фай�
 Size = 5,3 МиБ
 
 [Section.041f]
-Description = MKV biçiminde kütüklerle çalışma için araç takımı.
+Description = MKV biçiminde dosyalarla çalışma için araç takımı.
 Size = 5,3 MiB
 

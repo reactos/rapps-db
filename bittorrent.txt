@@ -36,7 +36,7 @@ Description = Оригинальный клиент BitTorrent
 Size = 3,0 МиБ
 
 [Section.041f]
-License = Tecimlik olmayan kullanımlar için ücretsiz.
+License = Ticarî olmayan kullanımlar için ücretsiz.
 Description = Özgün BitTorrent istemcisi.
 Size = 3,0 MiB
 

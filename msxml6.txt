@@ -2,7 +2,7 @@
 Name = Microsoft XML 6
 Version = 6.0
 License = Unknown
-Description = Needed for some MSI Installers. Contains: msxml6.dll, msxml6r.dll.
+Description = Needed for some Microsoft Installers. Contains: msxml6.dll, msxml6r.dll.
 Size = 1.5 MiB
 Category = 14
 URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=3988
@@ -48,7 +48,7 @@ Size = 1,5 МиБ
 
 [Section.041f]
 License = Bilinmiyor
-Description = Birtakım Microsoft Yükleyicileri için gereklidir. Şunları içerir: msxml6.dll, msxml6r.dll.
+Description = Bazı Microsoft Yükleyicileri için gereklidir. Şunları içerir: msxml6.dll, msxml6r.dll.
 Size = 1,5 MiB
 
 [Section.0422]

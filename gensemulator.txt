@@ -26,7 +26,6 @@ Description = Эмулятор Sega Genesis / Sega CD / Sega 32X для Win32.
 Size = 573,1 КиБ
 
 [Section.041f]
-Name = Gens Öykünücü
 License = GPL sürüm 2
 Description = Bir Win32 Sega Genesis, Sega CD, Sega 32X öykünücüsü.
 Size = 573,1 KiB

@@ -39,7 +39,6 @@ Description = KDE для Windows.
 Size = 2,2 МиБ
 
 [Section.041f]
-Name = K Masaüstü Ortamı
 Description = Windows için KDE.
 Size = 2,2 MiB
 

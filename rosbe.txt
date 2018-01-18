@@ -2,7 +2,7 @@
 Name = ReactOS Build Environment
 Version = 2.1.5
 License = GPL
-Description = Allows you to build the ReactOS Source. For more instructions see ReactOS wiki.
+Description = Allows you to build the ReactOS source. For more instructions see ReactOS wiki.
 Size = 37.9 MiB
 Category = 7
 URLSite = http://reactos.org/wiki/Build_Environment
@@ -42,8 +42,7 @@ Description = Позволит Вам собрать ReactOS из исходны
 Size = 37,9 МиБ
 
 [Section.041f]
-Name = ReactOS Yapma Ortamı
-Description = ReactOS Kaynak Kodları'nı derlemenize olanak sağlar. Daha çok açıklama için ReactOS Wiki'ye bakınız.
+Description = ReactOS kaynak kodlarını derlemenize olanak sağlar. Daha çok açıklama için ReactOS wikiye bakınız.
 Size = 37,9 MiB
 
 [Section.0422]

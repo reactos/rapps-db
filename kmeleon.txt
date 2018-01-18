@@ -15,7 +15,7 @@ Description = Extrem schneller, erweiterbarer und dennoch kleiner Web Browser ba
 Size = 25,3 MiB
 
 [Section.041f]
-Description = Gecko dizgi motoru tabanlı, aşırı hızlı, husûsîleştirilebilir ve şimdi bile yeğni bir Umûmî Ağ tarayıcısı.
+Description = Gecko düzen motoru tabanlı, aşırı hızlı, özelleştirilebilir ve şimdi bile hafif bir ağ tarayıcısı.
 Size = 25,3 MiB
 
 [Section.0418]

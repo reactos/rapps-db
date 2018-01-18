@@ -39,7 +39,7 @@ Description = Расширение оболочки, которое позвол
 Size = 2,1 МиБ
 
 [Section.041f]
-Description = Bir DOS uygulamasını DOSBox'ta sağ tıklamayla açtırılabilmesini olanaklı duruma getiren bir kabuk uzantısıdır. Bu sürüm DOSBox 0.70 içerir ancak daha yeni bir DOSBox'u DosBlaster dizinlerinin içine kurarak kolayca şimdikileştirilebilir.
+Description = Bir DOS uygulamasını DOSBox'ta sağ tıklamayla açtırılabilmesini olanaklı duruma getiren bir kabuk uzantısıdır. Bu sürüm DOSBox 0.70 içerir ancak daha yeni bir DOSBox'u DosBlaster dizinlerinin içine kurarak kolayca günceleştirilebilir.
 Size = 2,1 MiB
 
 [Section.0422]

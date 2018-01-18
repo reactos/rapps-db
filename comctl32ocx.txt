@@ -63,7 +63,7 @@ Size = 913,7 КиБ
 [Section.041f]
 Name = Microsoft Visual Basic 6.0 Ortak Denetimler
 License = Bilinmiyor
-Description = Birtakım uygulamalar için gerekli kütük. Şunları içerir: comctl32.ocx, mscomctl.ocx, advpack.dll.
+Description = Bir takım uygulamalar için gerekli dosya. Şunları içerir: comctl32.ocx, mscomctl.ocx, advpack.dll.
 Size = 913,7 KiB
 
 [Section.0422]
