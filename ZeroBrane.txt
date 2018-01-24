@@ -7,4 +7,5 @@ Size = 6.19 MB
 Category = 7
 URLSite = https://studio.zerobrane.com
 URLDownload = https://download.zerobrane.com/ZeroBraneStudioEduPack-1.70-win32.exe
+SHA1 = C4858A520E4F8F0E980C9AF0711D2BC5037B495D
 CDPath = none
