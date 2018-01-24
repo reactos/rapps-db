@@ -32,8 +32,8 @@ Description = Отдельный FTP-сервер, который работае
 Size = 556,0 КиБ
 
 [Section.041f]
-Version = 1.0.9 Gelişme
-Description = Bir tek çalıştırılabilir kütükten çalışan tek başına bir FTP sunucusudur. Bir kullanıcının, çabucak, çalışan bir sunucuya iye olmak istediği ve dizgesinde bir sunucu kurmak/yapılandırmak istemediği (veyâ bunu yapmaya izni olmadığı) durumlar için tasarlanmıştır.
+Version = 1.0.9 Beta
+Description = Bir tek çalıştırılabilir dosyadan oluşan tek başına bir FTP sunucusudur. Bir kullanıcının, çabucak, çalışan bir sunucuya sahip olmak istediği ve sisteminde bir sunucu kurmak/yapılandırmak istemediği (veyâ bunu yapmaya izni olmadığı) durumlar için tasarlanmıştır.
 Size = 556,0 KiB
 
 [Section.0804]

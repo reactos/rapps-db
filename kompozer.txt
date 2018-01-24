@@ -23,7 +23,7 @@ Description = Визуальный HTML-редактор, основанный �
 Size = 7,6 МиБ
 
 [Section.041f]
-Description = Umûmî Ağ kütük yönetimiyle kullanımı kolay WYSIWYG Umûmî Ağ sayfası düzenlemesini birleştiren eksiksiz bir Umûmî Ağ yazarlık dizgesidir. Çalıştırmak için bir ZIP çıkartma izlencesi gerekir.
+Description = Ağ kütük yönetimiyle kullanımı kolay WYSIWYG ağ sayfası düzenlemesini birleştiren eksiksiz bir ağ yazarlık dizgesidir. Çalıştırmak için bir ZIP çıkartma programı gerekir.
 Size = 7,6 MiB
 
 [Section.0804]

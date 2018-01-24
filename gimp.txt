@@ -26,7 +26,7 @@ Description = Программа для создания и обработки �
 Size = 92,3 МиБ
 
 [Section.041f]
-Description = GNU Resim Oynama İzlencesi (GNU Image Manipulation Program) için bir kısaltma. Fotoğraf düzeltme, resim birleştirme ve resim oluşturma gibi görevler için özgürce dağıtılan bir izlencedir.
+Description = "GNU Image Manipulation Program" için bir kısaltma. Fotoğraf düzeltme, resim birleştirme ve resim oluşturma gibi görevler için özgürce dağıtılan bir programdır.
 Size = 92,3 MiB
 
 [Section.0a]

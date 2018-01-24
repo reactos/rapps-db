@@ -32,7 +32,7 @@ Description = Фильтры DirectShow для аудио/видео форма�
 Size = 2,5 МиБ
 
 [Section.041f]
-Description = Ogg Vorbis, Speex, Theora, FLAC ve WebM ses ve vidyo kütük biçimleri için DirectShow süzgeçleri.
+Description = Ogg Vorbis, Speex, Theora, FLAC ve WebM ses ve video dosya biçimleri için DirectShow süzgeçleri.
 Size = 2,5 MiB
 
 [Section.0804]

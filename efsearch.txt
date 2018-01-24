@@ -31,9 +31,8 @@ Description = Утилита для поиска файлов, совмести�
 Size = 944,4 КиБ
 
 [Section.041f]
-Name = Etkili Kütük Arama
 License = Ücretsiz
-Description = ReactOS'la uyumlu kütük arama aracı.
+Description = ReactOS'la uyumlu dosya arama aracı.
 Size = 944,4 KiB
 
 [Section.0804]

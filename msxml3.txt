@@ -2,7 +2,7 @@
 Name = Microsoft XML 3
 Version = 3.0
 License = Unknown
-Description = Needed for some MSI Installers. Contains: msxml3.dll, msxml3a.dll, msxml3r.dll.
+Description = Needed for some Microsoft Installers. Contains: msxml3.dll, msxml3a.dll, msxml3r.dll.
 Size = 1.0 MiB
 Category = 14
 URLSite = http://www.microsoft.com/downloads/details.aspx?FamilyID=28494391-052B-42FF-9674-F752BDCA9582&displaylang=en
@@ -48,7 +48,7 @@ Size = 1,0 МиБ
 
 [Section.041f]
 License = Bilinmiyor
-Description = Birtakım Microsoft Yükleyicileri için gereklidir. Şunları içerir: msxml3.dll, msxml3a.dll, msxml3r.dll.
+Description = Birtakım Microsoft Installers için gereklidir. Şunları içerir: msxml3.dll, msxml3a.dll, msxml3r.dll.
 Size = 1,0 MiB
 
 [Section.0422]

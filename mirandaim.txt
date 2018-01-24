@@ -39,7 +39,7 @@ Description = Мультипротокольное приложение для �
 Size = 2,8 МиБ
 
 [Section.041f]
-Description = Açık kaynak, çoklu iletişim kâideli, evgin iletileşme uygulaması. Eksiksiz olarak çalışmayabilir.
+Description = Açık kaynak, çoklu iletişim özellikli, anlık iletileşme uygulaması. Eksiksiz olarak çalışmayabilir.
 Size = 2,8 MiB
 
 [Section.0422]

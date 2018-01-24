@@ -49,7 +49,7 @@ Description = Open-source program, ktorý prináša profesionálnej stránke roz
 
 [Section.041f]
 License = GPL sürüm 2
-Description = ReactOS'a profesyonel sayfa düzenlemesi getiren bir açık kaynak izlence.
+Description = ReactOS'a profesyonel sayfa düzenlemesi getiren bir açık kaynak program.
 Size = 78,2 MiB
 
 [Section.0422]

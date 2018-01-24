@@ -23,7 +23,7 @@ Description = Свободный трёхмерный шутер от перво
 Size = 405,5 МиБ
 
 [Section.041f]
-Description = GPL idTech3 uygulayım bilimi tabanlı, topluluk üretimi, ölüm karşılaşmalı bir FPS oyunudur. Çalıştırmak için bir ZIP çıkartma izlencesi gerekir.
+Description = GPL idTech3 teknolojisi tabanlı, topluluk üretimi, ölüm karşılaşmalı bir FPS oyunudur. Çalıştırmak için bir ZIP çıkartma programı gerekir.
 Size = 405,5 MiB
 
 [Section.0804]

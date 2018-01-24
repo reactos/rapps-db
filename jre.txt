@@ -18,9 +18,9 @@ Size = 28,1 MiB
 Description = Plataforma y bibliotecas necesarias para la ejecución de aplicaciones programadas en Java.
 
 [Section.041f]
-Name = Java SE Yürütücü Ortamı 7
+Name = Java SE Runtime Environment 7
 License = Oracle İkili Kod Ruhsatı
-Description = Java izlencelerini çalıştırmak ister misiniz? Öyleyse Java Yürütücü Ortamı'nı indiriniz.
+Description = Java programlarını çalıştırmak ister misiniz? Öyleyse Java Runtime Environment'ı indiriniz.
 Size = 28,1 MiB
 
 [Section.0418]

@@ -24,7 +24,7 @@ Description = HTTP-сервер и обратный прокси-сервер, �
 Size = 1,3 МиБ
 
 [Section.041f]
-Description = Igor Sysoev eliyle yazılmış, bir posta vekil sunucusu denli iyi bir HTTP ve tersine vekil sunucusu.
+Description = Igor Sysoev tarafından yazılmış, bir posta vekil sunucusu denli iyi bir HTTP ve tersine vekil sunucusu.
 Size = 1,3 MiB
 
 [Section.0804]

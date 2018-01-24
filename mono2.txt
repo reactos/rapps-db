@@ -38,9 +38,8 @@ Description = .NET Framework с открытым исходным кодом.
 Size = 118,7 МиБ
 
 [Section.041f]
-Name = Mono .NET Geliştirme Çatısı
 License = Bilinmiyor
-Description = Açık kaynak .NET Çatısı.
+Description = Açık kaynak .NET Framework.
 Size = 118,7 MiB
 
 [Section.0422]

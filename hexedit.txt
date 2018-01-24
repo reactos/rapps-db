@@ -29,7 +29,7 @@ Size = 146,3 КиБ
 
 [Section.041f]
 License = Ücretsiz
-Description = Windows için bir onaltılık kütük düzenleyicisi.
+Description = Windows için bir onaltılık dosya düzenleyicisi.
 Size = 146,3 KiB
 
 [Section.0804]

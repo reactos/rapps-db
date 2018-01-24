@@ -31,7 +31,7 @@ Description = Классическая игра с целью захвата ф�
 Size = 6,2 МиБ
 
 [Section.041f]
-Description = Windows 95 CD'sinde bulunan kökleşik Hover CTF oyunu.
+Description = Windows 95 CD'sinde bulunan klasik Hover CTF oyunu.
 Size = 6,2 MiB
 
 [Section.0804]

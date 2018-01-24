@@ -32,7 +32,7 @@ Description = Бесплатная аркадная компьютерная и�
 Size = 20,9 МиБ
 
 [Section.041f]
-Description = Ücretsiz, atari salonu oyunu türünde, devingen bir bulmaca oyunudur, birazcık Frozen Bubble'a benzer.
+Description = Ücretsiz, atari salonu oyunu türünde, dinamik bir bulmaca oyunudur, birazcık Frozen Bubble'a benzer.
 Size = 20,9 MiB
 
 [Section.0804]

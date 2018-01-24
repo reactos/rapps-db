@@ -27,6 +27,6 @@ Size = 10,2 МиБ
 
 [Section.041f]
 Version = 3.0 yapı 4700
-Description = Yan yana iki bölmeli, açık kaynak konsol tabanlı bir kütük yöneticisi.
+Description = Yan yana iki bölmeli, açık kaynak konsol tabanlı bir dosya yöneticisi.
 Size = 10,2 MiB
 

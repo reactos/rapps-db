@@ -15,7 +15,6 @@ Description = Pinguine fallen von einem Eisberg herunter und man muss sie auf si
 Size = 370,9 KiB
 
 [Section.041f]
-Name = Düşüş
 Description = Penguenler buz dağından düşüyor ve siz onları limanların içine sektirmelisiniz.
 Size = 370,9 KiB
 

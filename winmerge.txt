@@ -24,7 +24,7 @@ Size = 6,1 МиБ
 
 [Section.041f]
 License = GPL sürüm 2
-Description = Kütükler ve dizinler için, görmelik ayrım görüntüleme ve birleştirme için bir araç.
+Description = Dosyalar ve dizinler için, görsel ayrım görüntüleme ve birleştirme için bir araç.
 Size = 6,1 MiB
 
 [Section.0804]

@@ -22,6 +22,6 @@ Description = Программа для анализа использовани�
 Size = 630,6 КиБ
 
 [Section.041f]
-Description = Disk kullanımını çözümleme ve silme için izlence.
+Description = Disk kullanımını çözümleme ve silme için program.
 Size = 630,6 KiB
 

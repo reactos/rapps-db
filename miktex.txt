@@ -30,7 +30,7 @@ Size = 163,2 МиБ
 
 [Section.041f]
 License = Ücretsiz
-Description = Windows için, TeX'in, LaTeX'in ve ilişkili izlencelerin bir şimdiki uygulaması.
+Description = Windows için, TeX'in, LaTeX'in ve ilişkili programların bir şimdiki uygulaması.
 Size = 163,2 MiB
 
 [Section.0804]

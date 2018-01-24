@@ -32,7 +32,7 @@ Description = Свободная аркадная игра в жанре шут�
 Size = 2,2 МиБ
 
 [Section.041f]
-Description = Oyun konsolu salonu oyunu türünde, üstten kaydırmalı bir uzay gezleyicisidir.
+Description = Oyun konsolu salonu oyunu türünde, üstten kaydırmalı bir uzay atışçısıdır.
 Size = 2,2 MiB
 
 [Section.0804]

@@ -15,9 +15,8 @@ Description = Hilft Software zu deinstallieren und einfach ungewollte Programme 
 Size = 2,5 MiB
 
 [Section.041f]
-Name = Revo Kaldırıcı
 License = Bilinmiyor
-Description = Yazılımları kaldırmak ve istenmeyen kurulu izlenceleri kolayca silmek için yardım eder.
+Description = Yazılımları kaldırmak ve istenmeyen kurulu programları kolayca silmek için yardım eder.
 Size = 2,5 MiB
 
 [Section.0418]

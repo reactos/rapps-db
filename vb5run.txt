@@ -47,9 +47,8 @@ Description = Необходим для приложений, написанны
 Size = 969,6 КиБ
 
 [Section.041f]
-Name = Microsoft Visual Basic 5 Yürütücü
 License = Bilinmiyor
-Description = Visual Basic 5'te yazılmış uygulamalar eliyle gereklidir. Şunları içerir: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
+Description = Visual Basic 5'te yazılmış uygulamalar tarafından gereklidir. Şunları içerir: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
 Size = 969,6 KiB
 
 [Section.0422]

@@ -42,7 +42,7 @@ Description = Свободный графический редактор для 
 Size = 13,5 МиБ
 
 [Section.041f]
-Description = Küçük çocuklar için yapılmış bir açık kaynak bit eşlem çizge düzenleyicisi.
+Description = Küçük çocuklar için yapılmış bir açık kaynak bit eşlem grafik düzenleyicisi.
 Size = 13,5 MiB
 
 [Section.0422]

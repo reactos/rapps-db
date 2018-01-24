@@ -42,7 +42,7 @@ Size = 788,5 КиБ
 
 [Section.041f]
 License = Ücretsiz
-Description = Bir Scintilla tabanlı metin düzenleyicisidir. İlk başta Scintilla'yı göstermek için yapıldı; izlenceleri yapmak ve çalıştırmak yetenekleriyle, umûmiyetle kullanışlı bir düzenleyici olmak için gelişti.
+Description = Bir Scintilla tabanlı metin düzenleyicisidir. İlk başta Scintilla'yı göstermek için yapıldı; programları yapmak ve çalıştırmak yetenekleriyle, özellikle kullanışlı bir düzenleyici olmak için gelişti.
 Size = 788,5 KiB
 
 [Section.0422]

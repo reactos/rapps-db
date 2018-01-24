@@ -22,6 +22,10 @@ Size = 8,6 Mio
 Description = Программа обмена мгновенными сообщениями, которая позволит Вам войти в аккаунты нескольких чат-сетей одновременно.
 Size = 8,6 МиБ
 
+[Section.041f]
+Description = Aynı anda birden çok sohbet ağında bulunan hesaplarda oturum açmanızı sağlayan bir anlık yazışma programı.
+Size = 8,6 MiB
+
 [Section.0804]
 Description = 该对话框允许您登录到帐户多个聊天网络上同时即时消息程序。
 

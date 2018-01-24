@@ -42,7 +42,7 @@ Size = 1,7 МиБ
 
 [Section.041f]
 License = Paylaşımlı
-Description = Umûmî Ağ Eş Zamanlı Söyleşi (IRC) için en çok tutulan istemci.
+Description = İnternet Eş Zamanlı Söyleşi (IRC) için en çok tutulan istemci.
 Size = 1,7 MiB
 
 [Section.0422]

@@ -18,11 +18,6 @@ Size = 6,6 MiB
 License = Gratuita
 Description = Una herramienta de limpieza y mantenimiento con la que borrar archivos temporales.
 
-[Section.041f]
-License = Ücretsiz
-Description = PC'nizi temizleme için çok iyi araç.
-Size = 6,6 MiB
-
 [Section.0415]
 Description = Przyzwoite narzędzie do czyszczenia tymczasowych plików i ogólnej konserwacji komputera.
 
@@ -35,6 +30,11 @@ Size = 6,6 Mio
 License = Бесплатно
 Description = Мощный и простой в использовании инструмент для очистки и оптимизации системы.
 Size = 6,6 МиБ
+
+[Section.041f]
+License = Ücretsiz
+Description = Geçici dosya temizleme ve genel bilgisayar yönetimi için çok iyi bir araç.
+Size = 6,6 MiB
 
 [Section.0804]
 Description = 非常好的工具，清理您的电脑。

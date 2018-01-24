@@ -36,9 +36,8 @@ Description = Свободная реализация .NET Framework, испол
 Size = 51,2 МиБ
 
 [Section.041f]
-Name = Wine Mono .NET Çatısı
 License = GPL sürüm 2, LGPL sürüm 2, MIT, BSD, MS-PL, MPL sürüm 1.1
-Description = Wine kitaplıkları eliyle kullanılan .NET Çatısı'nın özgür uyarlaması.
+Description = Wine kitaplıkları tarafından kullanılan .NET Framework'ün özgür uyarlaması.
 Size = 51,2 MiB
 
 [Section.0804]

@@ -42,7 +42,7 @@ Size = 4,9 МиБ
 
 [Section.041f]
 License = Ücretsiz
-Description = Hızlı ve husûsiyet zengini bir arama uygulaması.
+Description = Hızlı ve özellik zengini bir arama uygulaması.
 Size = 4,9 MiB
 
 [Section.0422]

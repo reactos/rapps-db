@@ -41,7 +41,7 @@ Size = 3,2 МиБ
 
 [Section.041f]
 License = Ücretsiz
-Description = Çok iyi bir CD ripleyicisi ve ses kütüğü dönüştürücüsü.
+Description = Çok iyi bir CD kaydedicisi ve ses dosyası dönüştürücüsü.
 Size = 3,2 MiB
 
 [Section.0422]

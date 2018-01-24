@@ -29,7 +29,7 @@ Description = AkelPad - текстовый редактор с открытым 
 Size = 1,2 МиБ
 
 [Section.041f]
-Description = Küçük ve hızlı olmak içn tasarlanmış bir açık kaynak metin düzenleyicisi.
+Description = Küçük ve hızlı olmak için tasarlanmış bir açık kaynak metin düzenleyicisi.
 Size = 1,2 MiB
 
 [Section.0804]
