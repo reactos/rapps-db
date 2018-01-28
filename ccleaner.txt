@@ -1,18 +1,18 @@
 [Section]
 Name = CCleaner
-Version = 5.16
+Version = 5.39
 License = Freeware
 Description = A decent tool for cleaning temporary files and general computer maintenance.
-Size = 6.6 MiB
+Size = 10.6 MiB
 Category = 12
 URLSite = http://www.piriform.com/ccleaner
-URLDownload = http://download.piriform.com/ccsetup516.exe
-SHA1 = e473f5db747773b80fcca8a50b4cf7baeec1ea47
+URLDownload = http://download.piriform.com/ccsetup539.exe
+SHA1 = 46ac9f993765f87ff419d58554739b03273a3c79
 CDPath = none
 
 [Section.0407]
 Description = Sehr gutes Bereinigungswerkzeug für den PC.
-Size = 6,6 MiB
+Size = 10,6 MiB
 
 [Section.0a]
 License = Gratuita
@@ -24,17 +24,17 @@ Description = Przyzwoite narzędzie do czyszczenia tymczasowych plików i ogóln
 [Section.0418]
 License = Gratuită
 Description = Utilitar pentru mentenanța ordinii în configurația sistemului.
-Size = 6,6 Mio
+Size = 10,6 Mio
 
 [Section.0419]
 License = Бесплатно
 Description = Мощный и простой в использовании инструмент для очистки и оптимизации системы.
-Size = 6,6 МиБ
+Size = 10,6 МиБ
 
 [Section.041f]
 License = Ücretsiz
 Description = Geçici dosya temizleme ve genel bilgisayar yönetimi için çok iyi bir araç.
-Size = 6,6 MiB
+Size = 10,6 MiB
 
 [Section.0804]
 Description = 非常好的工具，清理您的电脑。
