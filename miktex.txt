@@ -18,6 +18,10 @@ Size = 163,2 MiB
 License = Gratuita
 Description = MikTEX es una implementación actualizada de TeX/LaTeX y otros programas.
 
+[Section.0415]
+Description = Nowoczesna implementacja TeX/LaTeX i pokrewnych programów dla Windows.
+Size = 163,2 MiB
+
 [Section.0418]
 License = Gratuită
 Description = MikTEX este o implementare actualizată de TeX/LaTeX și aprogramelor aferente.

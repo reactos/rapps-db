@@ -17,6 +17,11 @@ Description = Grafická knihovna obsahujicí moduly Mesa, Gallium a llvmpipe. Po
 Description = Beinhaltet Mesa, Gallium und llvmpipe. Signifikanter Geschwindigkeitsschub für Systeme ohne OpenGL Hardwarebeschleunigung.
 Size = 5,7 MiB
 
+[Section.0415]
+Name = Biblioteka graficzna Mesa3D
+Description = Ta kompilacja Mesa3D składa się z Mesa, Gallium i llvmpipe. Zapewnia znaczny wzrost wydajności dla systemów bez akceleracji sprzętowej OpenGL. Może równierz zastąpić aktualnie używany sterownik OGL w twoim systemie - można to ustawić podczas instalacji lub za pomocą apletu Konfiguracja OpenGL w panelu sterowania.
+Size = 5,7 MiB
+
 [Section.0418]
 Description = Acest pachet este compus din Mesa, Gallium, și LLVMpipe. Oferă un spor semnificativ de performanță pentru sistemele fără accelerare grafică OpenGL. Poate înlocui modulul-pilot din sistem - fie prin instalare sau cu ajutorul interfeței Configurație OpenGL din Panoul de control.
 Size = 5,7 Mio

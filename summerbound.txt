@@ -2,7 +2,7 @@
 Name = Summer Bound
 Version = 1.4
 License = Freeware
-Description = A game similar Frozen Fruits.
+Description = A game similar to Frozen Fruits.
 Size = 764.5 KiB
 Category = 4
 URLSite = http://www.blueskied.com/summer_bound.htm

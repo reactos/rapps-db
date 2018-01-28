@@ -23,6 +23,10 @@ License = Oracle İkili Kod Ruhsatı
 Description = Java programlarını çalıştırmak ister misiniz? Öyleyse Java Runtime Environment'ı indiriniz.
 Size = 28,1 MiB
 
+[Section.0415]
+Description = Platforma i biblioteki potrzebne do uruchamiania programów Java.
+Size = 28,1 MiB
+
 [Section.0418]
 License = Licență Oracle pentru cod binar
 Description = Platformă necesară pentru aplicațiile Java.

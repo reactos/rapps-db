@@ -14,6 +14,10 @@ CDPath = none
 Description = Editor für Vektorgrafiken, lizensiert unter der GNU General Public License.
 Size = 41,3 MiB
 
+[Section.0415]
+Description = Edytor grafiki wektorowej na licencji GNU General Public Licence.
+Size = 41,3 MiB
+
 [Section.0418]
 Description = Editor de grafică vectorială oferit sub Licența Publică Generală GNU.
 Size = 41,3 Mio
