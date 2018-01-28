@@ -34,7 +34,7 @@ Description = MSXML3 is nodig voor bepaalde MSI installaties. Bevat: msxml6.dll,
 
 [Section.0415]
 License = Nieznana
-Description = Niektóre spośród plików instalacyjnych MSI potrzebują parsera MSXML3. Zawiera: msxml6.dll, msxml6r.dll.
+Description = Niektóre spośród plików instalacyjnych MSI potrzebują parsera MSXML6. Zawiera: msxml6.dll, msxml6r.dll.
 
 [Section.0418]
 License = Nespecificată

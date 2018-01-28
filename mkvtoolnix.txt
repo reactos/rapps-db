@@ -2,7 +2,7 @@
 Name = MkvToolnix
 Version = 3.1.0
 License = GPL
-Description = Set of tools for working with files mkv format.
+Description = Set of tools for working with MKV format files.
 Size = 5.3 MiB
 Category = 2
 URLSite = https://www.bunkus.org/
@@ -11,6 +11,14 @@ SHA1 = ed3addfe6e78cfbb6d306b621ba4a9ee9a389de6
 
 [Section.0407]
 Description = Sammlung von Werkzeugen zum Bearbeiten von MKV Dateien.
+Size = 5,3 MiB
+
+[Section.0407]
+Description = Sammlung von Werkzeugen zum Bearbeiten von MKV Dateien.
+Size = 5,3 MiB
+
+[Section.0415]
+Description = Narzędzia do pracy z plikami w formacie MKV.
 Size = 5,3 MiB
 
 [Section.0418]

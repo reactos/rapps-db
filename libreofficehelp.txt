@@ -17,6 +17,13 @@ Size = 7,2 MiB
 URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.3.2/win/x86/LibreOffice_5.4.3.2_Win_x86_helppack_de.msi
 SHA1 = 879b8203ffe4fce1dbaf53cc37caef7c2d6da202
 
+[Section.0415]
+Name = LibreOffice Help Pack
+Description = Zawartość pomocy offline dla LibreOffice.
+Size = 7,2 MiB
+URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.3.2/win/x86/LibreOffice_5.4.3.2_Win_x86_helppack_pl.msi
+SHA1 = 9eab08e26da0ae3089ad7e98abb36f6d157318fa
+
 [Section.0418]
 Description = Conținut de asistență și ajutor (în limba engleză) pentru LibreOffice.
 Size = 5,1 Mio

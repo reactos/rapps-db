@@ -18,6 +18,10 @@ Size = 25,3 MiB
 Description = Gecko dizgi motoru tabanlı, aşırı hızlı, husûsîleştirilebilir ve şimdi bile yeğni bir Umûmî Ağ tarayıcısı.
 Size = 25,3 MiB
 
+[Section.0415]
+Description = Bardzo szybka, konfigurowalna i lekka przeglądarka internetowa oparta na silniku Gecko.
+Size = 25,3 MiB
+
 [Section.0418]
 Description = Navigator web extrem de rapid, particularizabil, și totuși ușor, bazat pe motorul de afișare Gecko.
 Size = 25,3 Mio

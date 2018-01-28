@@ -14,6 +14,10 @@ CDPath = none
 Description = Anwendung, welche MD5 Checksummen generiert und verifiziert.
 Size = 452,5 KiB
 
+[Section.0415]
+Description = Aplikacja, która generuje i weryfikuje sumy kontrolne md5.
+Size = 452,5 KiB
+
 [Section.0418]
 License = Gratuită
 Description = Aplicație pentru generarea și verificarea sumelor de control md5.

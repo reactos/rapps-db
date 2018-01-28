@@ -1,7 +1,7 @@
 [Section]
 Name = Bound Around (Demo)
 License = Shareware
-Description = A game similar Frozen Fruits.
+Description = A game similar to Frozen Fruits.
 Size = 2.0 MiB
 Category = 4
 URLSite = http://www.blueskied.com/boundaround.htm

@@ -14,6 +14,10 @@ CDPath = none
 Description = Ein vollständiges Web-Authoring-System, welches Web-Datei-Management und leicht zu bedienende WYSIWYG Web-Seite Bearbeitung verbindet. Ein Werkzeug wie 7-Zip ist zum extrahieren notwendig.
 Size = 7,6 MiB
 
+[Section.0415]
+Description = Oprogramowanie do tworzenia stron internetowych, które łączy zarządzanie plikami stron internetowych i łatwą edycję stron za pomocą WYSIWYG. Do jego uruchomienia potrzebny jest program dekompresyjny ZIP.
+Size = 7,6 MiB
+
 [Section.0418]
 Description = Sistem complet de autorizare web care combină gestiunea fișierelor web și modul de editare directă a paginilor. Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.
 Size = 7,6 Mio
