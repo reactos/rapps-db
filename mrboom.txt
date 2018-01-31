@@ -1,0 +1,15 @@
+[Section]
+Name = Mr. Boom
+Version = 4.1
+License = GPL
+Description = An arcade-style, Bomberman clone.
+Size = 2.5 MiB
+Category = 4
+URLSite = http://mrboom.mumblecore.org/
+URLDownload = https://github.com/Javanaise/mrboom-libretro/releases/download/4.1/MrBoom-win64-4.1.zip
+SHA1 = 0bf067e0b3c44f07398f8889c9a29c0f8317775a
+CDPath = none
+
+[Section.0407]
+Description = Arcade-Style, Bomberman clone.
+Size = 2,5 MiB
