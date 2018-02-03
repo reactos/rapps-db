@@ -7,7 +7,7 @@ Size = 92.3 MiB
 Category = 3
 URLSite = http://www.gimp.org/
 URLDownload = https://download.gimp.org/pub/gimp/v2.8/windows/gimp-2.8.22-setup.exe
-SHA1 = CF6FA10746A056AC728A83BD0121B83D645423DE
+SHA1 = cf6fa10746a056ac728a83bd0121b83d645423de
 CDPath = none
 
 [Section.0407]
