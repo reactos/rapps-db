@@ -13,7 +13,7 @@ CDPath = none
 [Section.0407]
 License = Unbekannt
 Description = Benötigt für Visual Studio 2017 basierte Anwendungen.  
-Size = 6,2 MiB
+Size = 14,56 MiB
 
 [Section.0a]
 License = Desconocida
@@ -22,7 +22,7 @@ Description = Necesario para aplicaciones compiladas con Visual Studio 2017.
 [Section.040c]
 License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2017. 
-Size = 6,2 Mio
+Size = 14,56 Mio
 
 [Section.0410]
 License = Sconosciuta
@@ -39,17 +39,17 @@ Description = Biblioteki uruchomieniowe Microsoft Visual Studio 2017.
 [Section.0418]
 License = Nespecificată
 Description = Pachet necesar pentru aplicațiile compilate cu Visual Studio 2017. 
-Size = 6,2 Mio
+Size = 14,56 Mio
 
 [Section.0419]
 License = Неизвестно
 Description = Необходим для приложений, написанных в Visual Studio 2017. 
-Size = 6,2 МиБ
+Size = 14,56 МиБ
 
 [Section.041f]
 License = Bilinmiyor
 Description = Visual Studio 2017 ile derlenmiş uygulamalar tarafından gereklidir. 
-Size = 6,2 MiB
+Size = 14,56 MiB
 
 [Section.0422]
 License = Невідома
