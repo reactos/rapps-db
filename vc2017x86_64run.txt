@@ -6,7 +6,7 @@ Description = Needed by applications compiled with Visual Studio 2017.
 Size = 15.33 MiB
 Category = 14
 URLSite = https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
-URLDownload = https://aka.ms/vs/15/release/vc_redist.x64.exe
+URLDownload = hhttps://download.microsoft.com/download/7/2/5/72572684-052f-4aa9-9170-9d40813a87be/vc_redist.x64.exe
 SHA1 = 6699383B22F2AD050245866A176C2EDE6E348443
 CDPath = none
 
