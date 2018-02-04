@@ -1,5 +1,5 @@
 [Section]
-Name = Microsoft Visual C++ 2017 Redistributable(x86)
+Name = Microsoft Visual C++ 2017 Redistributable (x86)
 Version = 14.12.25810.0 03/02/2018  07:05:28
 License = Unknown
 Description = Needed by applications compiled with Visual Studio 2017. 
