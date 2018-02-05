@@ -1,4 +1,4 @@
-[Section]
+﻿[Section]
 Name = AkelPad
 Version = 4.9.7
 License = GPL
@@ -33,5 +33,5 @@ Description = Küçük ve hızlı olmak için tasarlanmış bir açık kaynak me
 Size = 1,2 MiB
 
 [Section.0804]
-Description = 开放源码纯文本编辑器旨在又小又快。
+Description = 轻巧的开源纯文本编辑器。
 

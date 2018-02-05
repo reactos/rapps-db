@@ -1,4 +1,4 @@
-[Section]
+﻿[Section]
 Name = SumatraPDF
 Version = 3.1.1
 License = GPLv3
@@ -49,7 +49,7 @@ Description = Yeğni, ücretsiz ve açık kaynak bir PDF okuyucusu. Kutunun dı�
 Size = 4,6 MiB
 
 [Section.0804]
-Description = 一个纤细、 免费、 开源的 PDF 阅读器。开箱即用的便携式。
+Description = 一个轻巧、 免费、 开源的 PDF 阅读器。开箱即用。
 URLSite = http://www.sumatrapdfreader.org/free-pdf-reader-cn.html
 
 [Section.0813]

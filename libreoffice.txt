@@ -1,4 +1,4 @@
-[Section]
+﻿[Section]
 Name = LibreOffice
 Version = 5.4.3.2
 License = LGPL
@@ -46,7 +46,7 @@ Size = 214,9 MiB
 Description = Відкритий офісний пакет.
 
 [Section.0804]
-Description = 功能强大的开源办公套件。它已经从 OpenOffice 中分叉。
+Description = 功能强大的开源办公套件。它是 OpenOffice 的分支。
 
 [Section.0813]
 Description = Voorheen OpenOffice. Open-bron Office pakket.

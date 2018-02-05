@@ -1,4 +1,4 @@
-[Section]
+﻿[Section]
 Name = VLC media player
 Version = 2.2.2
 License = GPL
@@ -50,7 +50,7 @@ Size = 29,1 MiB
 Description = Мультимедійний програвач.
 
 [Section.0804]
-Description = 齐全的自由和开放源码媒体播放器内置编码解码器。
+Description = 功能完善的包含内置编码解码器的自由开源媒体播放器。
 URLSite = http://www.videolan.org/vlc/index.zh.html
 
 [Section.0813]

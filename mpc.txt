@@ -1,4 +1,4 @@
-[Section]
+﻿[Section]
 Name = Media Player Classic Home Cinema
 Version = 1.7.13
 License = GPL
@@ -49,7 +49,7 @@ Size = 12,7 MiB
 Description = Мультимедійний програвач.
 
 [Section.0804]
-Description = 替代的媒体播放器。
+Description = Media Player 的替代品。
 
 [Section.0813]
 Description = Mediaspeler.
