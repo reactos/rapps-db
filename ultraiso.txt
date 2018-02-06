@@ -27,5 +27,5 @@ Size = 4,3 MiB
 
 [Section.0804]
 License = 试用版本
-Description = UltraISO 是一种 ISO CD/DVD 图像文件创建/编辑/转换工具和一个可启动的 CD/DVD 制造商，它可以直接编辑的 CD/DVD 图像文件和提取的文件和文件夹，以及直接从您的 CD 的 DVD-ROM 或硬盘使 ISO 文件。
+Description = UltraISO 是一种 ISO CD/DVD 图像文件创建/编辑/转换工具和一个可启动 CD/DVD 的制造工具，它可以直接编辑 CD/DVD 镜像文件和提取的文件和文件夹，以及直接从您的 CD 的 DVD-ROM 或硬盘制作 ISO 文件。
 

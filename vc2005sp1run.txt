@@ -57,7 +57,7 @@ Description = Бібліотеки Microsoft Visual Studio 2005 SP1. включ�
 
 [Section.0804]
 License = 未知
-Description = 用 Visual Studio 2005 编译的应用程序所需。包含: atl80.dll、 mfc80.dll、 mfcm80.dll、 mfcm80u.dll、 msdia80.dll、 msvcm80.dll、 msvcp80.dll、 msvcr80.dll、 vcomp.dll。
+Description = 一些用 Visual Studio 2005 编译的应用程序需要这个。包含: atl80.dll、 mfc80.dll、 mfcm80.dll、 mfcm80u.dll、 msdia80.dll、 msvcm80.dll、 msvcp80.dll、 msvcr80.dll、 vcomp.dll。
 
 [Section.0813]
 License = Ongekend

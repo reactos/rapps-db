@@ -49,7 +49,7 @@ Size = 37,9 MiB
 Description = Дозволяє зібрати ReactOS з вихідних кодів. За детальною інформацією дивіться в ReactOS Вікі.
 
 [Section.0804]
-Description = 允许您建立 ReactOS 源。更多的说明请参阅 ReactOS 维基百科。
+Description = 可以让您编译 ReactOS 源码。更多的介绍请参阅 ReactOS wiki。
 
 [Section.0813]
 Description = Maakt het mogelijk om de ReactOS broncode te bouwen. Meer instructies vind u op de ReastOS wiki.

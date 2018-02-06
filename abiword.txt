@@ -46,7 +46,7 @@ Size = 9,4 MiB
 Description = Текстовий процесор.
 
 [Section.0804]
-Description = 时髦和开放源代码的文字处理器。
+Description = 时髦和开源的文字处理器。
 
 [Section.0813]
 Description = Tekstverwerker.
