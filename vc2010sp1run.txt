@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Microsoft Visual C++ 2010 SP1 Redistributable
 Version = 10.0
 License = Unknown

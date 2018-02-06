@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Abyss Web server X1
 Version = 2.11.2
 License = Freeware

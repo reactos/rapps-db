@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = AkelPad
 Version = 4.9.7
 License = GPL

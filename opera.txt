@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Opera
 Version = 12.18
 License = Freeware

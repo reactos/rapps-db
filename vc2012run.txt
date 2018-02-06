@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Microsoft Visual C++ 2012 Redistributable Update 4
 Version = 11.0
 License = Unknown

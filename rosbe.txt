@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = ReactOS Build Environment
 Version = 2.1.5
 License = GPL

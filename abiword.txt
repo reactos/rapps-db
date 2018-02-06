@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = AbiWord
 Version = 2.9.4
 License = GPL

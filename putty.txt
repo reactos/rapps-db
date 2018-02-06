@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = PuTTY
 Version = 0.67
 License = MIT

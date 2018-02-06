@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Microsoft XML 3
 Version = 3.0
 License = Unknown

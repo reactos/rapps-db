@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = 7-Zip
 Version = 16.04
 License = LGPL

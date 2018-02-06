@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = VLC media player
 Version = 2.2.2
 License = GPL

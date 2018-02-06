@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Microsoft Visual C++ 2013 Redistributable
 Version = 12.0
 License = Unknown

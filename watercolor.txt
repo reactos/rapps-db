@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Watercolor
 Version = 4.3
 License = Freeware

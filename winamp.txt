@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Winamp
 Version = 5.666 Full
 License = Freemium
