@@ -42,5 +42,6 @@ Description = Bir yazı tipi paketi, Mono ve Sans yazı tiplerini kapsar. ReactO
 Size = 2,9 MiB
 
 [Section.0804]
-Description = 含有 Mono 和 Sans 字体的字体包。在 ReactOS 文件夹中解压缩。
+License = 未知
+Description = 包含 Mono 和 Sans 的字体包，请解压到 ReactOS 文件夹。
 

@@ -55,7 +55,7 @@ License = Невідома
 
 [Section.0804]
 License = 未知
-Description = 转换和播放音频和视频在 Windows 媒体格式。
+Description = 以 Windows Media 格式转换并广播音频和视频
 
 [Section.0813]
 License = Ongekend

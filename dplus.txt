@@ -39,5 +39,5 @@ Description = Güvenlik, başarım ve taşınabilirlik üzerine bir vurguyla, gr
 Size = 1,4 MiB
 
 [Section.0804]
-Description = 强调在安全、 性能和可移植性的互联网浏览器。它基于 Dillo，它是从 Dillo-Win32 方案分叉的。
+Description = 强调安全、 性能和可移植性的互联网浏览器。它基于 Dillo，它是 Dillo-Win32 方案的分支。
 
