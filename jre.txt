@@ -38,5 +38,5 @@ Size = 28,1 МиБ
 
 [Section.0804]
 License = Oracle 二进制代码许可
-Description = 你想要运行 Java 程序吗？如果是这样，下载 Java Runtime Environment。
+Description = 若想运行 Java 程序，请下载 Java Runtime Environment。
 

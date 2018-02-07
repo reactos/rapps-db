@@ -57,7 +57,7 @@ Description = Бібліотеки Microsoft Visual Studio 2012 Update 4. вкл
 
 [Section.0804]
 License = 未知
-Description = 一些用 Visual Studio 2012 编译的应用程序需要这个。包含: atl110.dll、 mfc110.dll、 mfc110u.dll、 mfcm110.dll、 mfcm110u.dll、 msdia110.dll、 msvcm110.dll、 msvcp110.dll、 msvcr110.dll、 vcomp110.dll。
+Description = 用 Visual Studio 2012 Update 4 编译的应用程序所需。包含: atl110.dll、 mfc110.dll、 mfc110u.dll、 mfcm110.dll、 mfcm110u.dll、 msdia110.dll、 msvcm110.dll、 msvcp110.dll、 msvcr110.dll、 vcomp110.dll。
 
 [Section.0813]
 License = Ongekend

@@ -48,7 +48,7 @@ Size = 3,2 MiB
 Description = Чудовий CD Ріппер/Конвертер аудіо файлів.
 
 [Section.0804]
-Description = 一个很好的 CD 提取器/音频文件转换器。
+Description = 一个很好的 CD 翻录工具和音频文件转换器。
 
 [Section.0813]
 Description = Een goede CD Ripper/Audio-bestandsomzetter.

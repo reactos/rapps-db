@@ -57,7 +57,7 @@ Description = Бібліотеки Microsoft Visual Studio 2010 SP1. включ�
 
 [Section.0804]
 License = 未知
-Description = 一些用 Visual Studio 2010 编译的应用程序需要这个。包含: atl100.dll、 mfc100.dll、 mfc100u.dll、 mfcm100.dll、 mfcm100u.dll、 msdia100.dll、 msvcm100.dll、 msvcp100.dll、 msvcr100.dll、 vcomp100.dll。
+Description = 用 Visual Studio 2010 SP1 编译的应用程序所需。包含: atl100.dll、 mfc100.dll、 mfc100u.dll、 mfcm100.dll、 mfcm100u.dll、 msdia100.dll、 msvcm100.dll、 msvcp100.dll、 msvcr100.dll、 vcomp100.dll。
 
 [Section.0813]
 License = Ongekend
