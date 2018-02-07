@@ -37,5 +37,5 @@ Description = Özgün C64 Snoopy'in yeniden yapılmışı.
 Size = 704,2 KiB
 
 [Section.0804]
-Description = 原始的 C64 史努比翻拍。
+Description = 原版 C64 Snoppy 的复刻。
 

@@ -33,5 +33,5 @@ Description = Sesleri kaydetme ve düzenleme için özgür, açık kaynak ve ça
 Size = 25,3 MiB
 
 [Section.0804]
-Description = 免费、 开源的、 跨平台软件的录制和编辑声音。
+Description = 免费、 开源的、 跨平台的录制和编辑声音软件的。
 

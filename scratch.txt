@@ -25,3 +25,5 @@ Size = 33,0 МиБ
 Description = Çocuklar için görmelik nesneye yönelik programlama ortamı.
 Size = 33,0 MiB
 
+[Section.0804]
+Description = 面向儿童的可视化面向对象编程环境。

@@ -41,5 +41,6 @@ Description = Özgün BitTorrent istemcisi.
 Size = 3,0 MiB
 
 [Section.0804]
-Description = 原本的 BitTorrent 客户端。
+License = 非商业用途的免费软件
+Description = 原版 BitTorrent 客户端。
 

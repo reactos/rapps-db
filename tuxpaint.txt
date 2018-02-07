@@ -49,7 +49,7 @@ Size = 13,5 MiB
 Description = Відкритий графічний редактор для малих дітей.
 
 [Section.0804]
-Description = 开放源位图图形编辑器面向年幼的孩子。
+Description = 一款面向儿童的开源位图编辑器。
 
 [Section.0813]
 Description = Een open-bron grafische ontwerker voor kinderen.
