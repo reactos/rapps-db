@@ -1,0 +1,15 @@
+[Section]
+Name = MySql Community Server
+Version = 5.5.58
+License = GPL
+Description = The world's most popular open source database.
+Size = 35.7 MiB
+Category = 15
+URLSite = https://dev.mysql.com/
+URLDownload = https://dev.mysql.com/get/Downloads/MySQL-5.5/mysql-5.5.58-win32.msi
+SHA1 = 129b2ed8f14cdca096da9378e99d572da8335b95
+CDPath = none
+
+[Section.0419]
+Description = Самая популярная open source база данных в мире.
+Size = 35.7 МиБ
