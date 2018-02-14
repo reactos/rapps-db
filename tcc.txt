@@ -26,3 +26,4 @@ Size = 385,7 КиБ
 Name = Minik C Derleyicisi
 Description = Küçük ancak aşırı hızlı bir C derleyicisi.
 Size = 385,7 KiB
+
