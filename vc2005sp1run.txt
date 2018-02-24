@@ -1,6 +1,6 @@
 [Section]
 Name = Microsoft Visual C++ 2005 SP1 Redistributable
-Version = 6.0
+Version = 8.0
 License = Unknown
 Description = Needed by applications compiled with Visual Studio 2005. Contains: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
 Size = 2.6 MiB
