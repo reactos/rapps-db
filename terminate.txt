@@ -1,0 +1,116 @@
+[Section]
+Name = Terminate 5
+Version = 5.00
+License = unknown
+Description = A popular prompt Terminal to use over MODEM, cFos, Capi, Com and Fossil (Oldschool)
+Size = 1,44 MiB
+Category = 5
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+CDPath = none
+
+[Section.0405]
+Description = Populární Terminálová výzva k použití přes MODEM, cFos, Capi, Com a Fossil
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.0407]
+Description = Ein populärer Dos Terminal für die Benutzung über Modem, cFos, Capi, Com-port und Fossil um Lan-Area Terminals ordentlich an zeigen zu lassen ;)
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.0a]
+Description = Un terminal de solicitud popular para usar sobre MODEM, cFos, Capi, Com y Fossil (Oldschool)
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.040c]
+Description = Une invite populaire Terminal à utiliser sur MODEM, cFos, Capi, Com et Fossil (Oldschool)
+Size = 1,44 Mio
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.0410]
+Description = Un popolare terminale pronto all'uso su MODEM, cFos, Capi, Com e Fossil (Oldschool)
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.0413]
+Description = Een populaire promptterminal voor gebruik over MODEM, cFos, Capi, Com en Fossil (Oldschool)
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.0414]
+Description = Et populært ledende Terminal å bruke over MODEM, cFos, Capi, Com og Fossil (Oldschool)
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.0415]
+Description = Popularna zachęta Terminal do używania przez MODEM, cFos, Capi, Com i Fossil (Oldschool)
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.0418]
+Description = Un terminal de populară popular pentru a utiliza peste MODEM, cFos, Capi, Com și Fossil (Oldschool)
+Size = 1,44 Mio
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.0419]
+Description = Популярный запрос терминала для использования через MODEM, cFos, Capi, Com и Fossil (Oldschool)
+Size = 1,44 МиБ
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.041b]
+Description = Populárny rýchly terminál, ktorý používa MODEM, cFos, Capi, Com a Fossil (Oldschool)
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.041f]
+Description = üzerinde kullanmak üzere popüler bir istemci Terminali MODEM, cFos, Capi, Com ve Fossil (Oldschool) 
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.0422]
+Description = Популярний оперативний термінал для використання через MODEM, cFos, Capi, Com і Fossil (Oldschool).
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.0804]
+Description = 在MODEM，cFos，Capi，Com和Fossil（Oldschool）上使用的受欢迎的提示终端
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
+
+[Section.0813]
+Description = Een populaire promptterminal voor gebruik over MODEM, cFos, Capi, Com en Fossil (Oldschool)
+Size = 1,44 MiB
+URLSite = http://www.terminate.com/
+URLDownload = http://www.terminate.com/download/500ter.zip
+SHA1 = b7f546ea12ec6cf07add18208d92a09755ce164d
