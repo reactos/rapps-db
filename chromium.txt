@@ -36,5 +36,5 @@ Description = Oyun konsolu salonu oyunu türünde, üstten kaydırmalı bir uzay
 Size = 2,2 MiB
 
 [Section.0804]
-Description = 一个街机风格，滚动条太空射击游戏。
+Description = 一款街机风格，纵向卷轴滚动的太空射击游戏。
 

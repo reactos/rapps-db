@@ -36,5 +36,5 @@ Description = Gelecekçi ve gerçek zamanlı bir izlem oyunu. Çalıştırmak i�
 Size = 62,3 MiB
 
 [Section.0804]
-Description = 一个未来派的实时战略游戏。需要 Microsoft Visual C++ 2008运行工作。
+Description = 一个未来风的即时战略游戏。需要 Microsoft Visual C++ 2008 运行库才能运行。
 

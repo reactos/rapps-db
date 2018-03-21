@@ -79,7 +79,7 @@ SHA1 = b3615522dfc69496aca84a1f5b5ac44f4134955b
 
 [Section.0804]
 License = 未知
-Description = 查看应用程序对于 Office 格式的免费软件文档 (*.doc)
+Description = 免费的 Office 格式（*.doc）的文档阅读器
 Size = 24.4 MiB
 URLDownload = https://web.archive.org/web/20130403002713/http://download.microsoft.com/download/3/a/c/3ac87e64-8099-46d6-8e04-363d2da30f5a/wordview_zh-cn.exe
 SHA1 = b0f98fef2b5c1e12c0850c4a9188f9ec3c52e1b4
