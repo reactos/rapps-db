@@ -1,5 +1,5 @@
 [Section]
-Name = MySql Community Server
+Name = MySQL Community Server
 Version = 5.5.58
 License = GPL
 Description = The world's most popular open source database.
