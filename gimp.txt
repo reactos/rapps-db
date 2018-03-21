@@ -1,13 +1,13 @@
 [Section]
 Name = GIMP
-Version = 2.8.16
+Version = 2.8.22
 License = GPL
 Description = An acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.
 Size = 92.3 MiB
 Category = 3
 URLSite = http://www.gimp.org/
-URLDownload = http://download.gimp.org/pub/gimp/v2.8/windows/gimp-2.8.16-setup-1.exe
-SHA1 = 816dd248ff188235e78b6d45bfec3e79e0cc08e1
+URLDownload = https://download.gimp.org/pub/gimp/v2.8/windows/gimp-2.8.22-setup.exe
+SHA1 = cf6fa10746a056ac728a83bd0121b83d645423de
 CDPath = none
 
 [Section.0407]
