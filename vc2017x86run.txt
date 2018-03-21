@@ -1,0 +1,65 @@
+[Section]
+Name = Microsoft Visual C++ 2017 Redistributable (x86)
+Version = 14.12.25810.0 03/02/2018  07:05:28
+License = Unknown
+Description = Needed by applications compiled with Visual Studio 2017. 
+Size = 14,56 MiB
+Category = 14
+URLSite = https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+URLSite1 = https://github.com/WPN-XM/vcredist
+URLDownload = https://download.microsoft.com/download/e/6/6/e66c5871-7afe-4640-a454-786eabe8aae8/vc_redist.x86.exe
+SHA1 = 735BFA44D4B475FAFD175BA0E1CED21888C7A2DB
+CDPath = none
+
+[Section.0407]
+License = Unbekannt
+Description = Benötigt für Visual Studio 2017 basierte Anwendungen.  
+Size = 14,56 MiB
+
+[Section.0a]
+License = Desconocida
+Description = Necesario para aplicaciones compiladas con Visual Studio 2017. 
+
+[Section.040c]
+License = Inconnue
+Description = Bibliothèque Microsoft Visual Studio 2017. 
+Size = 14,56 Mio
+
+[Section.0410]
+License = Sconosciuta
+Description = Libreria Microsoft Visual Studio 2017. 
+
+[Section.0413]
+License = Ongekend
+Description = Microsoft Visual Studio 2017 Runtime. 
+
+[Section.0415]
+License = Nieznana
+Description = Biblioteki uruchomieniowe Microsoft Visual Studio 2017. 
+
+[Section.0418]
+License = Nespecificată
+Description = Pachet necesar pentru aplicațiile compilate cu Visual Studio 2017. 
+Size = 14,56 Mio
+
+[Section.0419]
+License = Неизвестно
+Description = Необходим для приложений, написанных в Visual Studio 2017. 
+Size = 14,56 МиБ
+
+[Section.041f]
+License = Bilinmiyor
+Description = Visual Studio 2017 ile derlenmiş uygulamalar tarafından gereklidir. 
+Size = 14,56 MiB
+
+[Section.0422]
+License = Невідома
+Description = Бібліотеки Microsoft Visual Studio 2017. 
+
+[Section.0804]
+License = 未知
+Description = 用 Visual Studio 2017年编译的应用程序所需。
+
+[Section.0813]
+License = Ongekend
+Description = Microsoft Visual Studio 2017 Runtime. 
