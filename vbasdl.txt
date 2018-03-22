@@ -30,5 +30,5 @@ Description = Gameboy ve GameboyAdvance sistemleri için bir öykünücü. Çal�
 Size = 438,9 KiB
 
 [Section.0804]
-Description = 一个 Gameboy 和 GameboyAdvance 系统的模拟器。你将需要一个 ZIP 减压程序来运行它。
+Description = 一个 Gameboy 和 GameboyAdvance 系统的模拟器。你将需要一个 ZIP 解压缩程序来运行它。
 

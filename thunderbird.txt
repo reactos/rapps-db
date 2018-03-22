@@ -81,7 +81,7 @@ URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/38.7.1
 SHA1 = b9402337f659c526fc0458c4ee6e81953d1c94fc
 
 [Section.0804]
-Description = 最受欢迎的开源电子邮件客户端。
+Description = 流行的开源电子邮件客户端。
 Size = 32.4 MiB
 URLSite = https://www.mozilla.org/zh-CN/thunderbird/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/38.7.1/win32/zh-CN/Thunderbird%20Setup%2038.7.1.exe

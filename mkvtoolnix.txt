@@ -33,3 +33,6 @@ Size = 5,3 МиБ
 Description = MKV biçiminde dosyalarla çalışma için araç takımı.
 Size = 5,3 MiB
 
+[Section.0804]
+Description = 处理 MKV 格式文件的套件。
+

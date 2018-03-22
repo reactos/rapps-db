@@ -37,5 +37,5 @@ Description = Dev-C++'nın sürdürülen bir sürümü. 64 bitlik TDM-GCC derley
 Size = 48,1 MiB
 
 [Section.0804]
-Description = Dev-C++ 维护的版本。它包含 64 位 TDM GCC 编译器。
+Description = 尚在维护的 Dev-C++ 的版本。它包含 64 位 TDM-GCC 编译器。
 

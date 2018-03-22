@@ -40,5 +40,5 @@ Description = Açık kaynak, çapraz platform, güçlü bir tümleşik geliştir
 Size = 79,9 MiB
 
 [Section.0804]
-Description = 开源、 跨平台的强大的 IDE。它包含 (4.9.2 版本 32 位) 的 TDM GCC 编译器。
+Description = 开源、跨平台的强大的 IDE。它包含 TDM-GCC (版本 4.9.2, 32 位) 编译器。
 

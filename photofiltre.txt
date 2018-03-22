@@ -39,5 +39,6 @@ Description = Eksiksiz bir resim düzeltme yazılımı. Bu sürüm, katmanlarla 
 Size = 5,0 MiB
 
 [Section.0804]
-Description = 一个完整的图像修饰的程序。此版本附带层，但是比 Studio X 版本更有限。
+License = 免费软件
+Description = 完整的图像修描程序。此版本带有图层支持，但相较于 Studio X 版本有所限制。
 

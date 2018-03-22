@@ -71,7 +71,8 @@ License = Невідома
 Description = Файл потрібен декотрим програмам. включає: comctl32.ocx, mscomctl.ocx, advpack.dll.
 
 [Section.0804]
-Description = 这些文件被一些应用程序所需。包含： comctl32.ocx、 mscomctl.ocx、 advpack.dll。
+License = 未知
+Description = 一些应用程序需要这些文件。包含：comctl32.ocx、mscomctl.ocx、advpack.dll。
 URLSite = http://www.microsoft.com/zh-CN/download/details.aspx?id=10019
 URLDownload = http://download.microsoft.com/download/4/9/f/49f00daa-e664-4cc9-9c0c-be282cc899d6/VisualBasic6-KB896559-v1-CHS.exe
 SHA1 = 27ba395a2e2a999dbe37929d15c438d58cc6637f

@@ -35,5 +35,5 @@ Description = Süre bitmeden önce bir engel gidişi boyunca bir topu yuvarlamak
 Size = 72,3 MiB
 
 [Section.0804]
-Description = 倾斜地板滚球通过障碍的路线，在时间耗尽之前。个综合了 Neverball 是技能的一部分的益智游戏、 部分动作游戏，和完全测试。像 7-Zip 提取游戏所需的工具。
+Description = 倾斜地板来使小球在规定时间内绕过障碍物。Neverball 一款是半解密半动作游戏，也是一种对技巧的考验。您将需要一个类似 7-Zip 的工具来提取游戏。
 

@@ -28,4 +28,4 @@ Size = 14,9 MiB
 
 [Section.0804]
 Description = 用来做代码同步及更新的图形化 SVN 客户端。
-Size = 14.9 MiB
+

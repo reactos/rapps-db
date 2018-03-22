@@ -46,7 +46,7 @@ Size = 1,4 MiB
 Description = Клон гри Atomix, що використовує бібліотеки SDL.
 
 [Section.0804]
-Description = 使用 SDL libs 的 Atomix Clone。
+Description = 使用 SDL 库的 Atomix 的复刻。
 
 [Section.0813]
 Description = Atomix kloon, gebruikt SDL.

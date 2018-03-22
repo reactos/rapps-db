@@ -37,5 +37,6 @@ Description = Frozen Fruits'e benzeyen bir oyun.
 Size = 764,5 KiB
 
 [Section.0804]
-Description = 游戏类似的冷冻水果。
+License = 免费软件
+Description = 类似 Frozen Fruits 的游戏。
 

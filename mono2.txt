@@ -46,5 +46,7 @@ Size = 118,7 MiB
 Description = Відкритий .NET Фреймворк.
 
 [Section.0804]
-Description = 开放源码 .NET 框架。
+Name = Mono .NET 开发框架
+License = 未知
+Description = 开源的 .NET 框架。
 

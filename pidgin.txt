@@ -27,5 +27,5 @@ Description = Aynı anda birden çok sohbet ağında bulunan hesaplarda oturum a
 Size = 8,6 MiB
 
 [Section.0804]
-Description = 该对话框允许您登录到帐户多个聊天网络上同时即时消息程序。
+Description = 允许您同时登录多个聊天网络账号的即时通讯程序。
 

@@ -57,7 +57,7 @@ Description = Бібліотеки Microsoft Visual Studio 2013. включає:
 
 [Section.0804]
 License = 未知
-Description = 用 Visual Studio 2013 编译的应用程序所需。包含: atl120.dll、 mfc120.dll、 mfc120u.dll、 mfcm120.dll、 mfcm120u.dll、 msdia120.dll、 msvcm120.dll、 msvcp120.dll、 msvcr120.dll、 vcomp120.dll。
+Description = 用 Visual Studio 2013 编译的应用程序需要它。包含: atl120.dll, mfc120.dll, mfc120u.dll, mfcm120.dll, mfcm120u.dll, msdia120.dll, msvcm120.dll, msvcp120.dll, msvcr120.dll, vcomp120.dll。
 
 [Section.0813]
 License = Ongekend

@@ -56,7 +56,7 @@ Size = 78,2 MiB
 Description = Відкритим вихідним кодом програми, що приносить професійний режим перегляду для ReactOS.
 
 [Section.0804]
-Description = 一个开放源码程序，以给 ReactOS 带来专业的页面布局。
+Description = 一个给 ReactOS 带来专业的页面布局的开源程序。
 
 [Section.0813]
 Description = Een open-source programma dat professionele pagina-indeling aan ReactOS brengt.

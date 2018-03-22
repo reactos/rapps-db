@@ -13,3 +13,7 @@ CDPath = none
 [Section.0419]
 Description = Профессиональный open source нотный редактор.
 Size = 54.6 МиБ
+
+[Section.0804]
+Description = 专业的开源乐谱软件。
+

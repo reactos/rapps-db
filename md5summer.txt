@@ -34,5 +34,6 @@ Description = MD5 sağlama toplamlarını oluşturan ve doğrulayan bir uygulama
 Size = 452,5 KiB
 
 [Section.0804]
-Description = 生成并验证 md5 校验的应用程序。
+License = 免费软件
+Description = 生成并验证 md5 校验码的应用程序。
 

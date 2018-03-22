@@ -13,3 +13,7 @@ CDPath = none
 [Section.0419]
 Description = Свободный и open source фоторедактор.
 Size = 11.8 МиБ
+
+[Section.0804]
+Description = 免费开源的图片处理软件。
+

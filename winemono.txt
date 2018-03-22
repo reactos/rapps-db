@@ -41,5 +41,5 @@ Description = Wine kitaplıkları tarafından kullanılan .NET Framework'ün öz
 Size = 51,2 MiB
 
 [Section.0804]
-Description = 自由的由 Wine 库重新实现的 .NET 框架。
+Description = 由 Wine 库重新实现的自由的 .NET 框架。
 

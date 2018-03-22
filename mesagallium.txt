@@ -34,3 +34,7 @@ Size = 5,7 МиБ
 Description = Mesa3D'nin bu yapısı Mesa, Gallium ve llvmpipe'tan oluşmaktadır. OpenGL donanım hızlandırması olmayan sistemler için önemli bir başarım artışı sağlar. Dizgenizde OGL sürücüsünün yerini alabilir, bunu kurulum sırasında ya da OpenGL Yapılandırma denetim masası ögesi yoluyla ayarlanabilir.
 Size = 5,7 MiB
 
+[Section.0804]
+Name = Mesa3D 图形库
+Description = 这个 Mesa3D 图形库由 Mesa, Gallium 和 llvmpipe 组成。它为不带有 OpenGL 硬件加速的系统提供重要的性能提升。它可以替代您的系统中的 OGL 驱动 —— 这个可以在安装过程中或通过控制面板的 OpenGL 配置程序中设置。
+

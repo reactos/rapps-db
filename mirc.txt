@@ -49,7 +49,8 @@ Size = 2,6 MiB
 Description = Найпопулярніший клієнт IRC (Internet Relay Chat).
 
 [Section.0804]
-Description = 最受欢迎的客户端的互联网中继聊天 （IRC）。
+License = 共享软件
+Description = 最流行的互联网中继聊天(IRC)客户端。
 
 [Section.0813]
 Description = De meest populaire afnemer voor Internet Relay Chat (IRC).

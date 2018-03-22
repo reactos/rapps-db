@@ -52,8 +52,8 @@ Description = Графічний інтерфейс для MPlayer (мульти
 URLSite = http://smplayer.sourceforge.net/uk/
 
 [Section.0804]
-Description = MPlayer 用户图形界面。
-URLSite = http://smplayer.sourceforge.net/zh
+Description = MPlayer 用户图形前端。
+URLSite = http://smplayer.sourceforge.net/zh/
 
 [Section.0813]
 Description = Mediaspeler, grafische interface voor MPlayer.

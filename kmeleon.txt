@@ -31,5 +31,5 @@ Description = Быстрый, настраиваемый, легкий веб-б
 Size = 25,3 МиБ
 
 [Section.0804]
-Description = 基于 Gecko 布局引擎,速度极快、 可自定义和仍然轻量级网络浏览器。
+Description = 基于 Gecko 布局引擎，速度极快、可定制却仍旧轻量的网络浏览器。
 

@@ -37,5 +37,5 @@ Description = Bir tek çalıştırılabilir dosyadan oluşan tek başına bir FT
 Size = 556,0 KiB
 
 [Section.0804]
-Description = 作为一个单一的可执行文件的功能的独立 FTP 服务器。它专为情况下，当用户不想安装/配置系统上的服务器 （或不具有权限这样做），想要快速运行的服务器。
+Description = 单可执行文件的独立 FTP 服务器。它被设计成适用于用户不想在系统上安装或配置服务器（或者没有权限这么做）并且想马上运行一个服务器的情况。
 

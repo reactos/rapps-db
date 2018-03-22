@@ -36,5 +36,5 @@ Description = Windows için, 32 bitlik, konsolluk bir ses oynatıcısıdır. Ç�
 Size = 525,3 KiB
 
 [Section.0804]
-Description = Windows 32 位控制台音频播放器。像 7-Zip 这样的工具被需要解压缩它。
+Description = Windows 32 位控制台音频播放器。需要像 7-Zip 之类的工具来解压缩它。
 

@@ -31,5 +31,5 @@ Description = Yan yana iki bölmeli, açık kaynak konsol tabanlı bir dosya yö
 Size = 10,2 MiB
 
 [Section.0804]
-Description = 开源，基于控制台的面板并排文件管理器
-Size = 10,2 MiB
+Description = 一款开源的拥有两个并排面板的基于控制台的文件管理器。
+

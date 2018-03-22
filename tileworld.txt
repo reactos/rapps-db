@@ -46,7 +46,7 @@ Size = 1,1 MiB
 Description = Чудовий клон гри Chip's Challenge для Atari Lynx. Включено безплатний графічний пакет CCLP2, тому вам не потрібен оригінальний.
 
 [Section.0804]
-Description = 好的 Chip's Challenge 克隆最初作 Atari Lynx。包括免费的 CCLP2 图形包，所以你不需要受版权保护的原件。
+Description = 曾用于 Atari Lynx 平台的 Chip's Challenge 的优秀的复刻版。已包含免费的 CCLP2 图形包，因此您不需要受版权保护的原版。
 
 [Section.0813]
 Description = Kloon van Chip's Challenge origineel gemaakt voor de Atari Lynx. Bevat het gratis CCLP2 Graphics Pack, zodat je zonder het origineel kan, dat onder auteursrecht valt.

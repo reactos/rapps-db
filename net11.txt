@@ -69,7 +69,7 @@ SHA1 = 101c6256a6be6bb3d2acb0263de9c4e932f4ab0c
 
 [Section.0804]
 License = 未知
-Description = 运行在中间的语言，如 C# 中编译托管的 Windows 应用程序所需的组件。
+Description = 运行由 C# 之类所编译成中间语言所组成的托管 Windows 应用程序所需的组件。
 Size = 23.2 MiB
 URLSite = http://www.microsoft.com/zh-CN/download/details.aspx?id=26
 URLDownload = http://download.microsoft.com/download/7/b/9/7b90644d-1af0-42b9-b76d-a2770319a568/dotnetfx.exe

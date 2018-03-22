@@ -43,5 +43,5 @@ Size = 10,7 MiB
 Description = Відкритий компілятор BASIC. Синтаксис сумісний з QBASIC.
 
 [Section.0804]
-Description = 开放源码 BASIC 编译器。BASIC语法是与 QBASIC 兼容。
+Description = 开放源码 BASIC 编译器。BASIC 语法与 QBASIC 兼容。
 

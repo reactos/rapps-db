@@ -41,5 +41,6 @@ Description = Microsoft Windows, Linux ve Mac OS X için, Microsoft QBasic ve Mi
 Size = 104,7 MiB
 
 [Section.0804]
-Description = BASIC 自托管的编译器为 Microsoft Windows、 Linux 和 Mac OS X，设计要与微软 QBasic 和 Microsoft QuickBASIC 兼容。您将需要一个像 7-Zip 文件中解压它的工具。
+License = 免费软件
+Description = Microsoft Windows, Linux 及 Mac OS X 平台上的自托管 BASIC 编译器，设计上兼容 Microsoft QBasic 和 Microsoft QuickBASIC。您将需要一个像 7-Zip 的工具来解压它。
 

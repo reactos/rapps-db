@@ -36,5 +36,6 @@ Description = ReactOS'la uyumlu dosya arama aracı.
 Size = 944,4 KiB
 
 [Section.0804]
-Description = 文件搜索实用程序与 ReactOS 兼容。
+License = 免费软件
+Description = 与 ReactOS 兼容的文件搜索实用程序。
 

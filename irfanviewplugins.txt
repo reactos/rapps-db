@@ -57,8 +57,8 @@ License = Freeware (для домашнього використання)
 Description = Додаткові плагіни для підтримки більшої кількості файлових типів.
 
 [Section.0804]
-License = Freeware（供个人使用）
-Description = 为支持更多的文件类型的附加插件。
+License = 免费软件（仅限个人用户）
+Description = 支持更多文件类型的额外的插件。
 
 [Section.0813]
 License = Freeware (voor persoonlijk gebruik)
