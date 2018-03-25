@@ -12,3 +12,4 @@ CDPath = none
 
 [Section.0804]
 Description = Zerobrane Studio 是一款轻量级开源 Lua 集成开发环境编辑器，它实现了很多能够使用户轻松编写 Lua 代码和脚本的特性与功能。
+

@@ -64,7 +64,7 @@ Description = Бібліотека MFC 4 необхідна декотрим п�
 [Section.0804]
 Name = OLE 查看器和 Microsoft Foundation Classes 第 4 版
 License = 未知
-Description = MFC 4 是一些应用程序所需的。包含： mfc40.dll、 msvcrt40.dll。
+Description = 一些应用程序需要 MFC 4。包含：mfc40.dll, msvcrt40.dll。
 
 [Section.0813]
 License = Ongekend

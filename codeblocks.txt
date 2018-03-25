@@ -41,5 +41,5 @@ Description = Açık kaynak, çapraz platform, güçlü bir tümleşik geliştir
 Size = 32,9 MiB
 
 [Section.0804]
-Description = 开源、 跨平台的强大的 IDE。它不包含一个编译器。
+Description = 开源、跨平台的强大的 IDE。不含编译器。
 

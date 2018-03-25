@@ -39,5 +39,6 @@ Description = Canlı ve renkli bir tuğla kırma oyunu.
 Size = 3,8 MiB
 
 [Section.0804]
-Description = 一个充满活力、 多姿多彩的砖破游戏。
+License = 共享软件
+Description = 一款快节奏、颜色丰富的敲砖块游戏。
 

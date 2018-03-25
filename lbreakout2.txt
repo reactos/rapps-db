@@ -46,7 +46,7 @@ Size = 3,0 MiB
 Description = Клон Breakouta/Arkanoida, що використовує бібліотеки SDL.
 
 [Section.0804]
-Description = 使用 SDL libs 突破 Clone。
+Description = 使用 SDL 库的 Breakout 的复刻。
 
 [Section.0813]
 Description = Breakout kloon, gebruikt SDL.

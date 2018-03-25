@@ -46,7 +46,7 @@ Size = 2,8 MiB
 Description = Відкрита мультипротокольна програма миттєвих повідомлень - може не працювати повністю.
 
 [Section.0804]
-Description = 开源协议的即时消息应用程序。可能会完全不起作用。
+Description = 开源的多协议即时通信应用程序。可能不会完全正常工作。
 
 [Section.0813]
 Description = Open-bron multi-protocol instant message toepassing - werkt mogelijk niet volledig.

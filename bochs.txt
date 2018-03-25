@@ -37,5 +37,5 @@ Description = Çok taşınabilir, C++ ile yazılmış, en yaygın platformlarda 
 Size = 4,8 MiB
 
 [Section.0804]
-Description = 由 C++ 编写的便携式开源 IA-32 (86) PC 模拟器，它可在主流平台上运行。
+Description = 由 C++ 编写的高度可移植的开源 IA-32 (x86) PC 模拟器，它可在绝大多数主流平台上运行。
 

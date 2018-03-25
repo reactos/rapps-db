@@ -45,5 +45,5 @@ Size = 22,4 MiB
 
 [Section.0804]
 License = 未知
-Description = 运行在中间的语言，如 C# 中编译托管的 Windows 应用程序所需的组件。
+Description = 运行由 C# 之类所编译成中间语言所组成的托管 Windows 应用程序所需的组件。
 

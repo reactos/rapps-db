@@ -56,7 +56,8 @@ Size = 43,5 MiB
 Description = Безкоштовна програма, яка дозволяє читати книги Kindle.
 
 [Section.0804]
-Description = 一个免费的应用程序，允许您读取 Kindle 电子书。
+License = 免费软件
+Description = 一个允许您阅读 Kindle 电子书的免费应用程序。
 
 [Section.0813]
 Description = Een gratis toepassing waarmee u Lees Kindle boeken.

@@ -34,5 +34,5 @@ Description = Win32 için Apple ][ ve Agat 7/9 yazılım benzetim programı.
 Size = 6,0 MiB
 
 [Section.0804]
-Description = 苹果][和 Win32 的 Agat 7/9 软件仿真程序。
+Description = Win32 的 Apple ][ 和 Agat 7/9 的软件模拟程序。
 

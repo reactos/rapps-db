@@ -56,7 +56,8 @@ License = Freeware (для домашнього використання)
 Description = Переглядач для всіх видів графічних та аудіо/відео файлів.
 
 [Section.0804]
-Description = 各种各样的图形和音频文件和视频文件的查看器。
+License = 免费软件（尽显个人用户）
+Description = 各种类型的图像音视频的查看器。
 
 [Section.0813]
 License = Freeware (voor persoonlijk gebruik)

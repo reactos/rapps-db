@@ -33,5 +33,6 @@ Description = FamiTracker, NES ve Famicom dizgeleri için mûsikî üretmeye bir
 Size = 1,5 MiB
 
 [Section.0804]
-Description = 一个免费的 Windows 跟踪器来制作 NES 和 Famicom 系统音乐。
+License = 免费软件
+Description = 一个免费的用来制作 NES 和 Famicom 系统音乐的 Windows 跟踪器。
 

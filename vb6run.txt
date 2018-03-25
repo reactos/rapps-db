@@ -57,7 +57,7 @@ Description = Бібліотеки Microsoft Visual Basic 6. включає: adv
 
 [Section.0804]
 License = 未知
-Description = 在 Visual Basic 6 中编写的应用程序所需。包含: advpack.dll、 asycfilt.dll、 comcat.dll、 msvbvm60.dll、 oleaut32.dll，olepro32.dll。
+Description = 用 Visual Basic 6 中编写的应用程序需要它。包含: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll。
 
 [Section.0813]
 License = Ongekend

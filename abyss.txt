@@ -49,7 +49,8 @@ Size = 2,3 MiB
 Description = Abyss Web Server дозволить вам утримувати веб-сайти на вашому комп'ютері. Від підтримує безпечні SSL/TLS з'єднання (HTTPS) та великий ряд веб-технологій. Він також запускає PHP, Perl, Python, ASP, ASP.NET, та Ruby on Rails веб-додатки, які можуть підтримуватись такими базами даних, як MySQL, SQLite, MS SQL Server, MS Access, чи Oracle.
 
 [Section.0804]
-Description = 使您能够在计算机上搭建您的网站。它支持 SSL/TLS 的安全连接 (HTTPS) 以及多种网络技术。它还可以对 Rails 的网络应用程序，可以由数据库 MySQL，SQLite，MS SQL Server，MS Access 或 Oracle 支持运行高级 PHP、 Perl、 Python、 ASP、 ASP.NET、 和Ruby。
+License = 免费软件
+Description = 使您能够在您的计算机上搭建网站。它支持安全 SSL/TLS 连接（HTTPS）以及相当多的网络技术。它也可以运行由诸如 MySQL, SQLite, MS SQL Server, MS Access 或 Oracle 之类的数据库提供支持的 PHP, Perl, Python, ASP, ASP.NET, 及 Ruby on Rails 的网络程序。
 
 [Section.0813]
 Description = Abyss Web Server staat u toe om websites aan te bieden op uw computer. Het ondersteunt beveiligde SSL/TLS verbindingen (HTTPS) en ook een breed gamma aan andere Web technologieën. Het kan ook gevorderde PHP, Perl, Python, ASP, ASP.NET en Ruby on Rails Web applicaties uitvoeren, die kunnen ondersteund zijn door databanken zoals MySQL, SQLite, MS SQL Server, MS Access or Oracle.

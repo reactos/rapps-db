@@ -30,4 +30,6 @@ Description = Sistemdeki bir pencerenin özelliklerini görüntülemek ve seçme
 Size = 58,3 KiB
 
 [Section.0804]
+License = 免费软件
 Description = 一款能够用来选择和查看系统中任意窗口属性的面向高级程序员的实用工具。需要类似 7-Zip 的工具来解压它。
+

@@ -43,6 +43,7 @@ Description = Güçlü kullanıcılar için yan yana iki bölmeli bir dosya yön
 Size = 4,1 MiB
 
 [Section.0804]
+License = 共享软件
 Description = 为高级用户提供并排面板的文件管理器。
 
 [Section.0813]

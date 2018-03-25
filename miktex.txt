@@ -38,5 +38,6 @@ Description = Windows için, TeX'in, LaTeX'in ve ilişkili programların bir şi
 Size = 163,2 MiB
 
 [Section.0804]
-Description = TeX/LaTeX 和相关的程序的 Windows 的一个最新执行情况。
+License = 免费软件
+Description = Windows 上的 TeX/LaTeX 及相关程序的最新实现。
 

@@ -34,5 +34,5 @@ Description = GNU Genel Kamu Ruhsatı altında ruhsatlanmış bir vektör çizge
 Size = 41,3 MiB
 
 [Section.0804]
-Description = GNU 通用公共许可证授权的矢量图形编辑器。
+Description = 以 GNU General Public 协议发行的矢量图编辑器。
 

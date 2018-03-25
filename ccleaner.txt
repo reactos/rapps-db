@@ -37,5 +37,6 @@ Description = Geçici dosya temizleme ve genel bilgisayar yönetimi için çok i
 Size = 10,6 MiB
 
 [Section.0804]
-Description = 一个清理垃圾和日常维护计算机的好工具。
+License = 免费软件
+Description = 一个清理临时文件和日常维护计算机的好工具。
 

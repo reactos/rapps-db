@@ -37,5 +37,5 @@ Description = "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga/PC
 Size = 2,4 MiB
 
 [Section.0804]
-Description = 街机风格的游戏为 UNIX、 Mac OS X、 Windows 和 DOS 中的传统:"Boulder Dash"(C64)、"Emerald Mine"(Amiga)、"Supaplex"(Amiga/PC)、"Sokoban"(PC)。你需要一个 ZIP 减压程序来安装它。
+Description = UNIX, Mac OS X, Windows 及 DOS 平台上的街机风格游戏，包含 "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga/PC), "Sokoban" (PC)。您将需要一个 ZIP 解压缩程序来安装它。
 

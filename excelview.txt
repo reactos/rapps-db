@@ -79,7 +79,8 @@ URLDownload = http://download.microsoft.com/download/7/4/9/749A8D59-A2D5-4A64-99
 SHA1 = 5c3227d253f9ff1eabd3a8f2d1408228c7e6f134
 
 [Section.0804]
-Description = 免费软件电子表格查看器 Office 格式 (*.xls)。
+License = 未知
+Description = 免费的 Office 电子表格格式 (*.xls) 查看器。
 
 [Section.0813]
 License = Ongekend

@@ -40,5 +40,6 @@ Description = Frozen Fruits benzeri bir oyun.
 Size = 892,3 KiB
 
 [Section.0804]
+License = 免费软件
 Description = 一款类似 Frozen Fruits 的游戏。
 

@@ -37,7 +37,8 @@ Description = Word ve Excel Viewer'lar ve Office 2003 üzerinde *.docx, *.xlsx v
 Size = 37,0 MiB
 
 [Section.0804]
-Name = Microsoft Office 兼容包为 Word、 Excel、 PowerPoint 文件格式
+Name = Word、Excel 和 PowerPoint 文件格式适用的 Microsoft Office 兼容包
 License = 未知
-Description = 打开 *.docx、 *.xlsx 等所需 Word/Excel Viewer 和 Office 2003。
+Description = 在 Word/Excel Viewer 和 Office 2003 上打开 *.docx、*.xlsx 等格式时需要它。
+URLSite = http://www.microsoft.com/zh-cn/download/details.aspx?id=3
 

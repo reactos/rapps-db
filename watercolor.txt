@@ -30,5 +30,6 @@ Description = Windows Codename Whistler görünümü tabanlı bir Windows temas�
 Size = 861,1 KiB
 
 [Section.0804]
-Description = 基于 Windows Whistler 外观的 Windows 主题。
+License = 免费软件
+Description = 基于 Windows 代号 Whistler 外观的 Windows 主题。
 

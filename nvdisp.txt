@@ -37,5 +37,5 @@ Size = 18,5 МиБ
 [Section.0804]
 Name = NVidia 显示驱动程序
 License = 未知
-Description = 从 NVidia GeForce/Quadro 1/2/3/4 卡 RIVA TNT2 的显示驱动程序。
+Description = NVidia 生产的 RIVA TNT2, GeForce/Quadro 1/2/3/4 所用的显示驱动程序。
 

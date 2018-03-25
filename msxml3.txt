@@ -57,7 +57,7 @@ Description = MSXML3 необхідна для декотрих MSI інстал
 
 [Section.0804]
 License = 未知
-Description = 被一些安装包所需。包含： msxml3.dll、 msxml3a.dll、 msxml3r.dll。
+Description = 一些 Microsoft Installer 安装程序需要它。包含：msxml3.dll, msxml3a.dll, msxml3r.dll。
 
 [Section.0813]
 License = Ongekend

@@ -39,5 +39,5 @@ Description = Object Pascal programları oluşturmanızı sağlayan çapraz plat
 Size = 122,9 MiB
 
 [Section.0804]
-Description = 允许您创建 Object Pascal 程序的跨平台 IDE。它使用 Free Pascal 语言编译器来生成您的项目。
+Description = 允许您创建 Object Pascal 程序的跨平台 IDE。它使用 Free Pascal 语言编译器来构造您的项目。
 

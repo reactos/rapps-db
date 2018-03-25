@@ -46,7 +46,7 @@ Size = 1,9 MiB
 Description = Клон гри Panzer General, що використовує бібліотеки SDL.
 
 [Section.0804]
-Description = 使用 SDL libs的 Panzer General Clone。
+Description = 使用 SDL 库的 Panzer General 的复刻。
 
 [Section.0813]
 Description = Panzer General kloon, gebruikt SDL.

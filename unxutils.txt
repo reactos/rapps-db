@@ -31,4 +31,4 @@ Size = 3,2 MiB
 
 [Section.0804]
 Description = 一些常用 GNU 实用工具的原生 Win32 移植。
-Size = 3,2 MiB
+

@@ -51,7 +51,8 @@ SHA1 = 6295bb977a12460a3aee8d3d1209d453832e4095
 
 [Section.0804]
 Version = 7.3.8.425
-Description = PDF 阅读器替代品，媲美 Adobe Reader 功能智者。
+License = 免费软件
+Description = PDF 阅读器替代品，拥有媲美 Adobe Reader 的功能水平。
 Size = 47.5 MiB
 URLDownload = http://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/win/7.x/7.3/zh_cn/FoxitReader_CHS_7.3.8.425.exe
 SHA1 = ac6b2a98e78beb01108d919d3ad18bfbfa63b0ae

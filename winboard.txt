@@ -47,7 +47,7 @@ Size = 2,4 MiB
 Description = Графічна шахматна дошка для Windows/ReactOS, що може слугувати графічним інтерфейсом для GNU Chess, Crafty, та інших шахматних двигунів, для серверів інтернет-шахмат та для шахматної переписки по е-мейл.
 
 [Section.0804]
-Description = 适用于 Windows/ReactOS，可以为 GNU 象棋、 Crafty，和其他 Chess 引擎、 互联网棋服务器，和电子邮件函授国际象棋棋盘图形提供一个用户界面，。
+Description = 适用于 Windows/ReactOS 的图形化棋盘软件，能够作为 GNU Chess, Crafty 及其他棋类游戏引擎的用户界面，支持网络棋类游戏服务器及通过电邮下棋。
 
 [Section.0813]
 Description = WinBoard is een grafisch schaakbord voor Windows/ReactOS dat kan worden gebruikt als gebruikersinterface voor GNU Check, Crafty en andere schaakmotoren, voor Internet Chess Servers en voor schaak via elektronische post.

@@ -37,5 +37,5 @@ Description = Ücretsiz, çapraz platform, açık kaynak bir kütük ve belgelik
 Size = 6,5 MiB
 
 [Section.0804]
-Description = 免费的、 跨平台的、 开放源代码文件和档案管理器。它支持超过 150 的档案格式。
+Description = 免费跨平台开源的文件和归档管理器。它支持超过 150 种归档格式。
 

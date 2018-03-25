@@ -70,7 +70,9 @@ License = Невідома
 Description = Pозархівуйте вміст в теку "ReactOS" після чого двічі перезавантажте систему.
 
 [Section.0804]
-Description = AC'97 兼容设备的音频驱动程序。在电脑文件夹中解压缩并重新启动两次。
+Name = VirtualBox 的 AC'97 驱动程序
+License = 未知
+Description = AC'97 兼容设备的音频驱动程序。解压进 ReactOS 文件夹并重新启动两次。
 
 [Section.0813]
 Name = AC97 Driver voor VirtualBox

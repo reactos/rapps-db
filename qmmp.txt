@@ -39,5 +39,5 @@ Description = Qt kütüphaneleri tabanlı bir ses oynatıcısı. Kullanıcı ara
 Size = 12,6 MiB
 
 [Section.0804]
-Description = 基于 Qt 库音频播放器。用户界面是类似于 WinAMP 或 XMMS。替代用户界面也是可用的。
+Description = 基于 Qt 库的音频播放器。用户界面是类似于 WinAMP 或 XMMS。备选用户界面也是可用的。
 

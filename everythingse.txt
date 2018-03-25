@@ -32,3 +32,7 @@ License = Ücretsiz
 Description = Dosyaları ve dizinleri ada göre gecikmeden bulunuz.
 Size = 906,4 KiB
 
+[Section.0804]
+License = 免费软件
+Description = 即刻通过名字找到文件和文件夹。
+
