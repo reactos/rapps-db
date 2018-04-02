@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Wine Gecko Engine
 Version = 2.40
 License = GPL
