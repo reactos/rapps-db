@@ -1,0 +1,11 @@
+[Section]
+Name = ProTracker Clone
+Version = 2.3D
+License = WTFPL
+Description = Music tracker for modern platforms
+Size = 2.5 MiB
+Category = 1
+URLSite = https://16-bits.org/pt.php
+URLDownload = https://16-bits.org/ProTracker-win32.zip
+SHA1 = a4e77c7b17cf32a28930179974f4f3e56fd3f388
+CDPath = none
