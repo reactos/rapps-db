@@ -1,0 +1,11 @@
+[Section]
+Name = Grafx2
+Version = 2.5wip
+License = GPL-2
+Description = Deluxe Paint 2 clone
+Size = 2.0 MiB
+Category = 3
+URLSite = http://pulkomandy.tk/projects/GrafX2
+URLDownload = http://pulkomandy.tk/projects/GrafX2/downloads/25
+SHA1 = http://pulkomandy.tk/projects/GrafX2/downloads/25
+CDPath = none
