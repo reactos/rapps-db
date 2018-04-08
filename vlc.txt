@@ -29,7 +29,7 @@ Description = Lettore multimediale.
 Description = Een mediaspeler.
 
 [Section.0415]
-Description = Odtwarzacz multimediów.
+Description = W pełni funkcjonalny, otwartoźródłowy odtwarzacz multimediów z wbudowanymi kodekami.
 
 [Section.0418]
 Description = Lector multimedia complet, gratuit cu surse deschise și codecuri încorporate.

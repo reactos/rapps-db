@@ -52,7 +52,7 @@ SHA1 = 15742ca81075a80914e58b69c5e25a882dc578ed
 SizeBytes = 34636624
 
 [Section.0415]
-Description = Najpopularniejszy i jeden z najlepszych darmowych klientów poczty.
+Description = Popularny i jeden z najlepszych darmowych klientów poczty.
 Size = 33.3 MiB
 URLSite = https://www.mozilla.org/pl/thunderbird/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/38.7.1/win32/pl/Thunderbird%20Setup%2038.7.1.exe

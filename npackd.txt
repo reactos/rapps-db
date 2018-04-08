@@ -18,6 +18,9 @@ Size = 8,1 MiB
 [Section.040c]
 Size = 8,1 Mio
 
+[Section.0415]
+Description = Menedżer pakietów i instalator aplikacji dla systemów Windows.
+
 [Section.0418]
 Size = 8,1 Mio
 

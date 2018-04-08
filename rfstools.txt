@@ -19,6 +19,9 @@ Size = 53,4 KiB
 Description = Bir Windows sisteminden ReiserFS bölümlerine erişmenize olanak sağlar.
 Size = 53,4 KiB
 
+[Section.0415]
+Description = Umożliwia dostęp do partycji ReiserFS z systemu Windows.
+
 [Section.0418]
 Description = Utilitar pentru accesarea de partiții ReiserFS din sistemul Windows.
 Size = 53,4 Kio

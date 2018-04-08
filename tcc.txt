@@ -15,6 +15,9 @@ SizeBytes = 394987
 Description = Ein kleiner, aber sehr schneller C-Compiler.
 Size = 385,7 KiB
 
+[Section.0415]
+Description = Mały, ale bardzo szybki kompilator języka C.
+
 [Section.0418]
 Description = Compilator mic și foarte rapid de C.
 Size = 385,7 Kio

@@ -11,6 +11,9 @@ SHA1 = 4af01c0267ab0b22be2e8a5ec957903fbec68c62
 CDPath = none
 SizeBytes = 57233408
 
+[Section.0415]
+Description = Profesjonalne oprogramowanie do zapisu nutowego o otwartym kodzie źródłowym.
+
 [Section.0419]
 Description = Профессиональный open source нотный редактор.
 Size = 54.6 МиБ

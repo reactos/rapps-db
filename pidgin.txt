@@ -15,6 +15,9 @@ SizeBytes = 9047960
 Description = Ein instant messaging-Programm, welches läßt Sie zu Konten auf mehreren Chat-Netzwerken gleichzeitig anmelden.
 Size = 8,6 MiB
 
+[Section.0415]
+Description = Komunikator internetowy, który pozwala na jednoczesne logowanie się w wielu sieciach czatowych.
+
 [Section.0418]
 Description = Program de mesagerie instantă. Permite autentificarea simultană în diverse rețele de conversație.
 Size = 8,6 Mio

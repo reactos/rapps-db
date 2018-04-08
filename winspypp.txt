@@ -15,6 +15,9 @@ SizeBytes = 59726
 Description = Ein nützliches Werkzeug für Programmierer, das verwendet werden kann, um die Eigenschaften jedes Fensters im System sehen zu können. Ein Werkzeug wie 7-Zip ist zum extrahieren notwendig.
 Size = 58,3 KiB
 
+[Section.0415]
+Description = Poręczne narzędzie programisty, które może być używane do przeglądania właściwości dowolnego okna w systemie. Wymagany jest archiwizator plików do wypakowania programu.
+
 [Section.0418]
 License = Gratuită
 Description = Un utilitar pentru programatori care poate fi utilizat pentru a selecta și a inspecta proprietățile unei ferestre din sistem. Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.

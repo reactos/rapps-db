@@ -15,6 +15,9 @@ SizeBytes = 15023516
 Description = Media Player welcher Erweiterbarkeit mit Plug-Ins und Skins ermöglicht und Musikvisualisierung, Playlist und Medienbibliothek bietet. Er wird durch eine große Online-Community unterstützt.
 Size = 14,3 MiB
 
+[Section.0415]
+Description = Odtwarzacz multimedialny ze wsparciem dla rozszerzeń i skórek, oferujący takie funkcje jak wizualizacja muzyki, playlista i biblioteka, wspierany przez dużą społeczność internetową.
+
 [Section.0418]
 License = Gratuită, cu funcționalități opționale negratuite
 Description = Lector media cu diverse extensii, având o largă comunitate de utilizatori.

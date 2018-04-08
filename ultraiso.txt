@@ -10,6 +10,10 @@ URLDownload = http://dw.ezbsys.net/uiso9_pe.exe
 SHA1 = 14a1f3ff0929185ee5943ecec56d066c3cb0d986
 CDPath = none
 
+[Section.0415]
+License = Wersja próbna
+Description = Program do tworzenia, edycji, lub konwertowania obrazów płyt CD/DVD (bootowalnych i zwykłych). Można bezpośrednio edytować plik obrazu, wypakować z niego pliki i foldery, potrafi równierz utworzyć obrazy ISO z napędu optycznego lub plików na dysku twardym.
+
 [Section.0418]
 License = Versiune de evaluare
 Description = Instrument pentru crearea/editarea/conversia fișierelor de tip imagine ISO CD/DVD. Permite editarea copierea fișierelor ISO de pe o unitate CD/DVD, extracția din asemenea fișiere, și editarea directă, inclusiv pentru medii de inițializare.

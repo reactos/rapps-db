@@ -15,6 +15,9 @@ SizeBytes = 712140
 Description = Anwendung zum Herunterladen von Podcasts.
 Size = 696 KiB
 
+[Section.0415]
+Description = Aplikacja do pobierania podcastów.
+
 [Section.0418]
 Description = Aplicație pentru descărcarea de fișiere audio.
 Size = 696 Kio

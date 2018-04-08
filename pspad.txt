@@ -33,7 +33,7 @@ URLSite = http://www.pspad.com/it/
 Description = Een teksteditor.
 
 [Section.0415]
-Description = Edytor tekstu.
+Description = Lekki edytor tekstu.
 
 [Section.0418]
 License = Gratuită

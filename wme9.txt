@@ -32,6 +32,7 @@ License = Ongekend
 
 [Section.0415]
 License = Nieznana
+Description = Konwertuj i transmituj audio i wideo w formatach Windows Media.
 
 [Section.0418]
 License = Nespecificată
