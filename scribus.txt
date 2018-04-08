@@ -9,6 +9,7 @@ URLSite = http://www.scribus.net/
 URLDownload = http://download.sourceforge.net/project/scribus/scribus/1.4.6/scribus-1.4.6-windows.exe
 SHA1 = 5818b5c57dad4e23d7bddb15486c852ec1b9e1b0
 CDPath = none
+SizeBytes = 81998195
 
 [Section.0405]
 Description = Open-source program, který přináší profesionální stránky rozložení ReactOS.

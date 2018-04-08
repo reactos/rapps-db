@@ -9,6 +9,7 @@ URLSite = http://www.ghisler.com/
 URLDownload = http://totalcommander.ch/win/tcmd900ax32.exe
 SHA1 = c5d5c5f1b5ca558de549069beb61d443d09a59d8
 CDPath = none
+SizeBytes = 4289984
 
 [Section.0407]
 Description = Dateimanager für Power User mit zwei nebeneinander liegenden Panels.

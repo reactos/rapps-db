@@ -9,6 +9,7 @@ URLSite = http://www.scilab.org/
 URLDownload = http://www.scilab.org/download/5.5.2/scilab-5.5.2.exe
 SHA1 = 9f6eeabe4a90a4a3c84889eed1a82c866b02a1de
 CDPath = none
+SizeBytes = 134667168
 
 [Section.0407]
 Description = Eine Software für die numerische Berechnung in technischen und wissenschaftlichen Anwendungen.

@@ -9,6 +9,7 @@ URLSite = http://sourceforge.net/projects/vba/
 URLDownload = http://download.sourceforge.net/project/vba/VisualBoyAdvance/1.7.2/VisualBoyAdvance-1.7.2-SDL-Win32.zip
 SHA1 = 550882e10d873b84a2034d68fe66e4c470eb1b57
 CDPath = none
+SizeBytes = 449393
 
 [Section.0407]
 Description = Ein Gameboy und Gameboy Advance System Emulator. Ein Werkzeug wie 7-Zip ist zum extrahieren notwendig.

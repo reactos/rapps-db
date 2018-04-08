@@ -9,6 +9,7 @@ URLSite = http://dosblaster.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/dosblaster/DosBlaster%202.5%20%28x86%29/Downloads/DosbasterSetup_2_5.exe
 SHA1 = 900927b51b67e09d83d924670e0ca72ba8151901
 CDPath = none
+SizeBytes = 2152137
 
 [Section.0407]
 Description = Shell Extension, die es ermöglicht jede DOS Anwendung via Rechtsklick in DOSBox zu öffnen. Diese Version beinhaltet DOSBox 0.70, kann aber sehr einfach aktualisiert werden, indem man ein neueres DOSBox in die DosBlaster Ordner installiert.

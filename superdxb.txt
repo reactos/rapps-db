@@ -9,6 +9,7 @@ URLSite = http://www.blitwise.com/superdxb.html
 URLDownload = http://www.blitwise.com/superdxb.exe
 SHA1 = c8b6992e6879d4b607f248eb05d630cb44eb553f
 CDPath = none
+SizeBytes = 3995248
 
 [Section.0407]
 Description = Lebendiges und buntes Brick-Breaking-Spiel.

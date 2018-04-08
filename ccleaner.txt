@@ -9,6 +9,7 @@ URLSite = http://www.piriform.com/ccleaner
 URLDownload = http://download.piriform.com/ccsetup539.exe
 SHA1 = 46ac9f993765f87ff419d58554739b03273a3c79
 CDPath = none
+SizeBytes = 11205832
 
 [Section.0407]
 Description = Sehr gutes Bereinigungswerkzeug für den PC.

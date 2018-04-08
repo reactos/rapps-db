@@ -9,6 +9,7 @@ URLSite = http://www.kompozer.net/
 URLDownload = http://download.sourceforge.net/project/kompozer/current/0.7.10/kompozer-0.7.10-win32.zip
 SHA1 = cb0fbb2f9d4a547131176158e9e7185ee525a8a3
 CDPath = none
+SizeBytes = 7949158
 
 [Section.0407]
 Description = Ein vollständiges Web-Authoring-System, welches Web-Datei-Management und leicht zu bedienende WYSIWYG Web-Seite Bearbeitung verbindet. Ein Werkzeug wie 7-Zip ist zum extrahieren notwendig.

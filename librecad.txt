@@ -9,6 +9,7 @@ URLSite = http://librecad.org/
 URLDownload = http://download.sourceforge.net/librecad/Windows/2.0.9/LibreCAD-Installer-2.0.9.exe
 SHA1 = b62f5b788d48e68bc91a981af7205ddc33f264c3
 CDPath = none
+SizeBytes = 29187808
 
 [Section.0407]
 Description = Kostenloses und quelloffenes 2D-CAD Programm für Windows, Linux und OS X.

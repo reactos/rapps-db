@@ -9,6 +9,7 @@ URLSite = http://www.codeblocks.org/
 URLDownload = http://download.sourceforge.net/project/codeblocks/Binaries/16.01/Windows/codeblocks-16.01-setup.exe
 SHA1 = fac3803e842057742d993de3ccc54ecfe870c4d1
 CDPath = none
+SizeBytes = 34486727
 
 [Section.0407]
 Description = Quelloffene, plattformübergreifende, mächtige IDE. Diese enthält keinen Compiler.

@@ -9,6 +9,7 @@ URLSite = http://free-stopwatch.com/
 URLDownload = http://free-stopwatch.com/FreeStopwatchSetup.exe
 SHA1 = 17df516838698e717925b2d58a5e76ad14f795c9
 CDPath = none
+SizeBytes = 1527424
 
 [Section.0407]
 Description = Eine flexible digitale Stoppuhr-Software.

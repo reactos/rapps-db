@@ -9,6 +9,7 @@ URLSite = http://www.codeblocks.org/
 URLDownload = http://download.sourceforge.net/project/codeblocks/Binaries/16.01/Windows/codeblocks-16.01mingw-setup.exe
 SHA1 = a721554bae68bd9fde68491a8046225deae4091e
 CDPath = none
+SizeBytes = 83783938
 
 [Section.0407]
 Description = Quelloffene, plattformübergreifende, mächtige IDE. Diese enthält den TDM-GCC (version 4.9.2, 32 bit) Compiler.

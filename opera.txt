@@ -9,6 +9,7 @@ URLSite = http://www.opera.com/
 URLDownload = http://ftp.opera.com/pub/opera/win/1218/int/Opera_1218_int_Setup.exe
 SHA1 = b2344bfd13e85dab4f50c0b579b9a485bf473136
 CDPath = none
+SizeBytes = 12956472
 
 [Section.0405]
 Description = Populární prohlížeč Opera s mnoha pokročilými vlastnostmi, včetně vestavené podpory pro e-mail a BitTorrent.

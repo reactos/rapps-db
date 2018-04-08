@@ -7,6 +7,7 @@ Category = 6
 URLDownload = https://svn.reactos.org/packages/AlReader2Setup.exe
 SHA1 = 84093c0a4af21e733357c20b649d2cec20ea67bb
 CDPath = none
+SizeBytes = 4776658
 
 [Section.0407]
 Description = FB2 eBook Reader. Unterstützung für folgende Formate: fb2, fbz, txt, epub, html, doc, docx, odt, rtf, mobi, prc (PalmDoc), tcr. ZIP und GZ Archive werden ebenfalls unterstützt.

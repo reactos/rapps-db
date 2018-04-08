@@ -9,6 +9,7 @@ URLSite = http://mpxplay.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/mpxplay/Mpxplay/Mpxplay%20v1.60%20final/mpxp160w.zip
 SHA1 = d2b1ad5cd95a7b0b16391888ba40aafaf0918518
 CDPath = none
+SizeBytes = 537943
 
 [Section.0407]
 Description = Konsolenbasierter 32-bit Audio Player für Windows. Zum extrahieren wird 7-Zip oder ein ähnliches Tool benötigt.

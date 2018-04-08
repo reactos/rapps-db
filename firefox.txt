@@ -9,6 +9,7 @@ URLSite = https://www.mozilla.org/en-US/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/en-US/Firefox%20Setup%2048.0.2.exe
 SHA1 = 82e3a5075a4aeb053fb45a573c0388cb576fb6cb
 CDPath = none
+SizeBytes = 45172688
 
 [Section.0405]
 Description = Nejpopulárnější a jeden z nejlepších svobodných webových prohlížečů.
@@ -16,6 +17,7 @@ Size = 45.1 MiB
 URLSite = https://www.mozilla.org/cs/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/cs/Firefox%20Setup%2048.0.2.exe
 SHA1 = 77f47d7cf1665b226dcda9884155c2a23b2ff6d4
+SizeBytes = 45027560
 
 [Section.0407]
 Description = Populärer, freier und quelloffener Webbrowser.
@@ -23,6 +25,7 @@ Size = 45,1 MiB
 URLSite = https://www.mozilla.org/de/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/de/Firefox%20Setup%2048.0.2.exe
 SHA1 = bbdbb9b0b3a35e4f355fca4735826fd1d78706c3
+SizeBytes = 45031256
 
 [Section.0a]
 Description = Navegador web popular, libre y gratuito.
@@ -30,6 +33,7 @@ Size = 45.1 MiB
 URLSite = https://www.mozilla.org/es-ES/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/es-ES/Firefox%20Setup%2048.0.2.exe
 SHA1 = f49bc1d402f5bcb7a63c0cae6313045fadf6fd01
+SizeBytes = 44931032
 
 [Section.040c]
 Description = Le navigateur web gratuit le plus populaire et l'un des meilleurs.
@@ -37,6 +41,7 @@ Size = 45,1 Mio
 URLSite = https://www.mozilla.org/fr/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/fr/Firefox%20Setup%2048.0.2.exe
 SHA1 = 5ab2a014fa098ed2f6aec0c589326c5d86de3560
+SizeBytes = 45348408
 
 [Section.0410]
 Description = Il più popolare e uno dei migliori web browser gratuiti.
@@ -44,6 +49,7 @@ Size = 45.1 MiB
 URLSite = https://www.mozilla.org/it/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/it/Firefox%20Setup%2048.0.2.exe
 SHA1 = a2f31d2138406885081ee5301a57997228a833d2
+SizeBytes = 44932680
 
 [Section.0413]
 Description = De meest populaire en een van de beste gratis Web browsers.
@@ -51,12 +57,14 @@ Size = 45.1 MiB
 URLSite = https://www.mozilla.org/nl/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/nl/Firefox%20Setup%2048.0.2.exe
 SHA1 = 2bfbad89e65c3bebb8f2352943738fed261a7a6b
+SizeBytes = 45684280
 
 [Section.0414]
 Description = Mest populære og best også gratis nettleserene der ute.
 Size = 45.1 MiB
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/nb-NO/Firefox%20Setup%2048.0.2.exe
 SHA1 = d43ec282d162c750757dd3b4ebd0ffacd81e5e07
+SizeBytes = 45013520
 
 [Section.0415]
 Description = Popularna i jedna z najlepszych darmowych przeglądarek internetowych.
@@ -64,6 +72,7 @@ Size = 45.1 MiB
 URLSite = https://www.mozilla.org/pl/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/pl/Firefox%20Setup%2048.0.2.exe
 SHA1 = aab25c5ff0f00eec750a8ef9ffe7dd45c88fa7f0
+SizeBytes = 45881216
 
 [Section.0418]
 Description = Navigator web popular. Gratuit, cu surse deschise, creat de o comunitate globală.
@@ -71,6 +80,7 @@ Size = 45,1 Mio
 URLSite = https://www.mozilla.org/ro/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/ro/Firefox%20Setup%2048.0.2.exe
 SHA1 = a2bc8f586c896df9503e09903596e06fb612f1ac
+SizeBytes = 45525824
 
 [Section.0419]
 Description = Один из самых популярных и лучших бесплатных браузеров.
@@ -78,6 +88,7 @@ Size = 45,1 МиБ
 URLSite = https://www.mozilla.org/ru/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/ru/Firefox%20Setup%2048.0.2.exe
 SHA1 = 134c8e5a73aedb438b1576a4d33bc8f54d1ced0a
+SizeBytes = 45400208
 
 [Section.041b]
 Description = Najpopulárnejší a jeden z najlepších slobodný webových prehliadačov.
@@ -85,6 +96,7 @@ Size = 45.1 MiB
 URLSite = https://www.mozilla.org/sk/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/sk/Firefox%20Setup%2048.0.2.exe
 SHA1 = a94c7961288a247e2325b451a01dc2e3e8eb3efc
+SizeBytes = 45720240
 
 [Section.041f]
 Description = Tutulan bir ağ tarayıcısı. Ücretsiz ve açık kaynaktır, küresel bir topluluk tarafından yapılmıştır.
@@ -92,6 +104,7 @@ Size = 45,1 MiB
 URLSite = https://www.mozilla.org/tr/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/tr/Firefox%20Setup%2048.0.2.exe
 SHA1 = 5e43ff5442aa249818704099eb452655cf2ca127
+SizeBytes = 45033560
 
 [Section.0422]
 Description = Найпопулярніший та один з кращих безплатних веб-браузерів.
@@ -99,6 +112,7 @@ Size = 45.1 MiB
 URLSite = https://www.mozilla.org/uk/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/uk/Firefox%20Setup%2048.0.2.exe
 SHA1 = 0dce994dad0dc47acbb6c0c4ea8d6172d14b87df
+SizeBytes = 45473616
 
 [Section.0804]
 Description = 一个流行的网页浏览器。免费又开源，由一个全球社区制作。
@@ -106,6 +120,7 @@ Size = 45.1 MiB
 URLSite = https://www.mozilla.org/zh-CN/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/zh-CN/Firefox%20Setup%2048.0.2.exe
 SHA1 = 730e8a00fce229aa7401464c540524a7d89d5819
+SizeBytes = 45054600
 
 [Section.0813]
 Description = De meest populaire en een van de beste gratis Web browsers.
@@ -113,3 +128,5 @@ Size = 45.1 MiB
 URLSite = https://www.mozilla.org/nl/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/nl/Firefox%20Setup%2048.0.2.exe
 SHA1 = 2bfbad89e65c3bebb8f2352943738fed261a7a6b
+SizeBytes = 45684280
+

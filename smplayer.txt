@@ -9,6 +9,7 @@ URLSite = http://smplayer.sourceforge.net/en/
 URLDownload = http://download.sourceforge.net/project/smplayer/SMPlayer/16.1.0/smplayer-16.1.0-win32.exe
 SHA1 = 477e0b57877e96c44d2b5b4e3360134649369993
 CDPath = none
+SizeBytes = 24181216
 
 [Section.0407]
 Description = Grafische Oberfläche für MPlayer.

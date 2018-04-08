@@ -9,6 +9,7 @@ URLSite = http://www.dftpd.com/products.php#indiftpd
 URLDownload = http://www.dftpd.com/files/IndiFTPD/1.0.9_beta/Windows/Intel/indiftpd.exe
 SHA1 = 106b5c86c563ed4d4d1976014a8b2562281e5e2d
 CDPath = none
+SizeBytes = 569344
 
 [Section.0407]
 Description = Eigenständiger FTP Server in einer einzigen Anwendung. Er wurde erstellt für Situationen, in denen ein Anwender keinen Server auf dem System installieren/konfigurieren möchte (oder nicht die Rechte dafür besitzt) und schnell einen Server lauffähig bekommen will.

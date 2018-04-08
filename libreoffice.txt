@@ -9,6 +9,7 @@ URLSite = http://www.documentfoundation.org/
 URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.3.2/win/x86/LibreOffice_5.4.3.2_Win_x86.msi
 SHA1 = 622a73946b1a6c033f13e2a6e348d697ba67fb1b
 CDPath = none
+SizeBytes = 225288192
 
 [Section.0407]
 Description = Vorher bekannt als OpenOffice. Quelloffene Office Suite.

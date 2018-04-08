@@ -9,6 +9,7 @@ URLSite = https://pidgin.im/
 URLDownload = http://download.sourceforge.net/project/pidgin/Pidgin/2.10.12/pidgin-2.10.12.exe
 SHA1 = 1112b1ec1c6145d6b416b492b6c203219bed6deb
 CDPath = none
+SizeBytes = 9047960
 
 [Section.0407]
 Description = Ein instant messaging-Programm, welches läßt Sie zu Konten auf mehreren Chat-Netzwerken gleichzeitig anmelden.

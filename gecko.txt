@@ -9,6 +9,7 @@ URLSite =
 URLDownload = https://svn.reactos.org/amine/wine_gecko-2.40-x86.msi
 SHA1 = 8a3adedf3707973d1ed4ac3b2e791486abf814bd
 CDPath = none
+SizeBytes = 27959808
 
 [Section.0407]
 Description = Die Gecko Engine, welche normalerweise während des 1st stage Setups installiert wird, aber nur wenn zu diesem Zeitpunkt Internet verfügbar war. Wird für Anwendungen benötigt, die mshtml.dll einsetzen.

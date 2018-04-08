@@ -9,6 +9,7 @@ URLSite = http://www.chiark.greenend.org.uk/~sgtatham/putty/
 URLDownload = http://the.earth.li/~sgtatham/putty/0.67/x86/putty-0.67-installer.exe
 SHA1 = 3911d72eb2371b9a530744a4afef993ecdd2f57e
 CDPath = none
+SizeBytes = 1798184
 
 [Section.0407]
 Description = Freier SSH-, Telnet-, rlogin- und TCP-Client.

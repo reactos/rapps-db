@@ -9,6 +9,7 @@ URLSite = http://insomnia.sourceforge.net/fall/fall.html
 URLDownload = http://download.sourceforge.net/project/insomnia/fall/stable/Fall-win32.zip
 SHA1 = b8364dd7a015c1b9d5dbb2e8ac3cad34f803f0cb
 CDPath = none
+SizeBytes = 379782
 
 [Section.0407]
 Description = Pinguine fallen von einem Eisberg herunter und man muss sie auf sicheres Land befördern.

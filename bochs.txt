@@ -9,6 +9,7 @@ URLSite = http://bochs.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/bochs/bochs/2.6.8/Bochs-2.6.8.exe
 SHA1 = 6e585be74195e1b26e25c034ab804b9b076eb591
 CDPath = none
+SizeBytes = 5041575
 
 [Section.0407]
 Description = Portabler, quelloffener IA-32 (x86) PC-Emulator geschrieben in C++, der auf den meisten populären Plattformen läuft.

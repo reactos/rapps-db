@@ -9,6 +9,7 @@ URLSite = http://www.catch22.net/software/winspy-17
 URLDownload = http://www.catch22.net/sites/default/files/WinSpy17.zip
 SHA1 = 0a6be8167a52db8d982956b012bb64d19fa7b12c
 CDPath = none
+SizeBytes = 59726
 
 [Section.0407]
 Description = Ein nützliches Werkzeug für Programmierer, das verwendet werden kann, um die Eigenschaften jedes Fensters im System sehen zu können. Ein Werkzeug wie 7-Zip ist zum extrahieren notwendig.

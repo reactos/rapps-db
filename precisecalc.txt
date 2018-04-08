@@ -9,6 +9,7 @@ URLSite = http://preccalc.sourceforge.net
 URLDownload = http://download.sourceforge.net/preccalc/preccalc-32bit.zip
 SHA1 = 8877a4b8c9ac90db8256681c6c5b4583d9610c31
 CDPath = none
+SizeBytes = 186050
 
 [Section.0407]
 Description = Freier und quelloffener wissenschaftlicher Rechner für Windows. Zum extrahieren wird 7-Zip oder ein ähnliches Tool benötigt.

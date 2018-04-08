@@ -9,6 +9,7 @@ URLSite = http://www.7-zip.org/
 URLDownload = http://www.7-zip.org/a/7z1604.exe
 SHA1 = dd1cb1163c5572951c9cd27f5a8dd550b33c58a4
 CDPath = none
+SizeBytes = 1110564
 
 [Section.0407]
 Description = Dateiarchivierungswerkzeug zum Erstellen und Öffnen von 7zip, zip, tar, rar und vielen anderen Archivformaten.

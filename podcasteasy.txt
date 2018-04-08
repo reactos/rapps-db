@@ -9,6 +9,7 @@ URLSite = http://r57zone.github.io
 URLDownload = https://github.com/r57zone/Podcast-Easy-for-Windows/releases/download/0.9/Podcast.Easy.0.9.1.setup.exe
 CDPath = none
 SHA1 = 660043ce04ad04d65cfa98ad47e7177b34bd708f
+SizeBytes = 712140
 
 [Section.0407]
 Description = Anwendung zum Herunterladen von Podcasts.

@@ -9,6 +9,7 @@ URLSite = http://peazip.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/peazip/6.0.0/peazip-6.0.0.WINDOWS.exe
 SHA1 = fb2aa6dc9c186d42748c0b1de937bf980cdedd9f
 CDPath = none
+SizeBytes = 6783560
 
 [Section.0407]
 Description = Freier, plattformübergreifender, quelloffener Datei- und Archivmanager. Er unterstützt über 150 Archiv-Formate.

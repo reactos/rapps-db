@@ -9,6 +9,7 @@ URLSite = http://www.globulation2.org
 URLDownload = http://dl.sv.nongnu.org/releases/glob2/0.9.4/glob2-0.9.4.4.exe
 SHA1 = 030490b12518719388986c571b88efe2192981fa
 CDPath = none
+SizeBytes = 14079010
 
 [Section.0407]
 Description = Echtzeitstrategiespiel. Das Spiel vereinfacht das Mikromanagement, indem es Einheiten automatisch mit Aufträgen versieht.

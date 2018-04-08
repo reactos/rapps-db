@@ -9,6 +9,7 @@ URLSite = http://audacityteam.org/
 URLDownload = https://www.jabawok.net/installers/audacity-win-2.1.2.exe
 SHA1 = 850f643bb715782f120edb8eee982b0f3543a332
 CDPath = none
+SizeBytes = 26496761
 
 [Section.0407]
 Description = Freie, quelloffene Cross-Plattform Software zur Aufnahme und Bearbeitung von Sounds.

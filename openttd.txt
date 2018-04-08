@@ -9,6 +9,7 @@ URLSite = http://www.openttd.org/
 URLDownload = https://binaries.openttd.org/releases/1.5.3/openttd-1.5.3-windows-win32.exe
 SHA1 = c7112d839266b33b3cd0c7faa87f69dca783f844
 CDPath = none
+SizeBytes = 7496134
 
 [Section.0407]
 Description = Quelloffener Klon der "Transport Tycoon Deluxe" Spiel-Engine. Sie benötigen eine Kopie von Transport Tycoon.

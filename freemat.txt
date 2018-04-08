@@ -8,6 +8,7 @@ Category = 11
 URLSite = http://freemat.sf.net
 URLDownload = http://download.sourceforge.net/project/freemat/FreeMat4/FreeMat-4.2-setup-32bit-xpcompat.exe
 SHA1 = 0f3dce8d6109e0da87f1851f4f4b8fec5f0e8943
+SizeBytes = 52264419
 
 [Section.0407]
 Description = Eine freie Umgebung für schnelle technische und wissenschaftliche Prototyping und Datenverarbeitung.

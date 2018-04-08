@@ -9,6 +9,7 @@ URLSite = http://www.diskinternals.com/linux-reader/
 URLDownload = http://www.diskinternals.com/download/Linux_Reader.exe
 SHA1 = 681c0edd288b2c995b2837e00fcf7a46c9146643
 CDPath = none
+SizeBytes = 22190620
 
 [Section.0407]
 Description = Eine einfache Möglichkeit zwischen Windows/ReactOS und Ext2/Ext3/Ext4, HFS und ReiserFS-Dateisystemen zu überbrücken.

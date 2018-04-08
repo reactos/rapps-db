@@ -9,6 +9,7 @@ URLSite = http://agatemulator.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/agatemulator/agatemulator/1.27/agatemulator-1.27.exe
 SHA1 = 4584110ca12dcb1536cc675624716b4c0e0ace6d
 CDPath = none
+SizeBytes = 6314919
 
 [Section.0407]
 Description = Apple ][ und Agat 7/9 Emulator für Win32.

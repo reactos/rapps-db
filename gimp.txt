@@ -9,6 +9,7 @@ URLSite = http://www.gimp.org/
 URLDownload = http://download.gimp.org/pub/gimp/v2.8/windows/gimp-2.8.16-setup-1.exe
 SHA1 = 816dd248ff188235e78b6d45bfec3e79e0cc08e1
 CDPath = none
+SizeBytes = 96823808
 
 [Section.0407]
 Description = Akronym für GNU Image Manipulation Program. Es ist ein frei verfügbares Programm für Aufgaben wie Foto-Retusche, Bildkomposition und Bild-Authoring.

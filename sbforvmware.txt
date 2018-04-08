@@ -8,6 +8,7 @@ Category = 13
 URLDownload = http://svn.reactos.org/packages/sb_vmware.exe
 SHA1 = d731e7490e5d287fff41d1cc19598fad48b743cd
 CDPath = none
+SizeBytes = 2332019
 
 [Section.0405]
 Name = Ovladač SoundBlaster pro VMWare

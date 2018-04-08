@@ -9,6 +9,7 @@ URLSite = https://musescore.org/
 URLDownload = https://ftp.osuosl.org/pub/musescore/releases/MuseScore-2.1/MuseScore-2.1.msi
 SHA1 = 4af01c0267ab0b22be2e8a5ec957903fbec68c62
 CDPath = none
+SizeBytes = 57233408
 
 [Section.0419]
 Description = Профессиональный open source нотный редактор.

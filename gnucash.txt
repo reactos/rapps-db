@@ -9,6 +9,7 @@ URLSite = http://gnucash.org/
 URLDownload = http://download.sourceforge.net/sourceforge/gnucash/gnucash%20%28stable%29/2.6.11/gnucash-2.6.11-setup.exe
 SHA1 = 24fb59d123e05d66938173ecc92550d0ce604083
 CDPath = none
+SizeBytes = 102438491
 
 [Section.0407]
 Description = Privat und Small-Business Finanzbuchhaltungssoftware, unter der GNU GPL lizenziert und frei für GNU / Linux, BSD, Solaris, Mac OS X und Microsoft Windows verfügbar.

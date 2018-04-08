@@ -9,6 +9,7 @@ URLSite = http://www.inkscape.org/
 URLDownload = https://inkscape.global.ssl.fastly.net/media/resources/file/Inkscape-0.91-1.exe
 SHA1 = aac506f8a71c943d89a27a38970733a8bc6f9b32
 CDPath = none
+SizeBytes = 43314243
 
 [Section.0407]
 Description = Editor für Vektorgrafiken, lizensiert unter der GNU General Public License.

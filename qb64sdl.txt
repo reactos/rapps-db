@@ -9,6 +9,7 @@ URLSite = http://www.qb64.net/
 URLDownload = http://www.qb64.net/release/official/2015_03_12__02_08_19__v0000/windows/qb64v1000-win.zip
 SHA1 = 2f5ef738da9851b54e6bb25dab96829d161ee65b
 CDPath = none
+SizeBytes = 109775901
 
 [Section.0407]
 Description = Self-Hosting BASIC-Compiler für Microsoft Windows, Linux und Mac OS X, entwickelt, um mit Microsoft QBasic und Microsoft QuickBASIC kompatibel zu sein. Sie müssen 7-Zip oder ein ähnliches Dienstprogramm installiert haben, um es zu extrahieren.

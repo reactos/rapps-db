@@ -9,6 +9,7 @@ URLSite = http://www.freebasic.net/
 URLDownload = http://download.sourceforge.net/project/fbc/Binaries%20-%20Windows/FreeBASIC-1.05.0-win32.exe
 SHA1 = fb88a42c83ac9cc589207e91c2d7039e7832e823
 CDPath = none
+SizeBytes = 11253280
 
 [Section.0407]
 Description = Quelloffener BASIC Compiler. Die BASIC Syntax ist kompatibel zu QBASIC.

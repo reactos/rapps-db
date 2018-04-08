@@ -9,6 +9,7 @@ URLSite = http://www.videolan.org/vlc/
 URLDownload = http://artfiles.org/videolan.org/vlc/2.2.2/win32/vlc-2.2.2-win32.exe
 SHA1 = 8a5a71bb10cbcf24eb393ea7feb9196f19d60edf
 CDPath = none
+SizeBytes = 30510920
 
 [Section.0407]
 Description = Voll funktionsfähiger FOSS Media-Player mit eingebauten Codecs.

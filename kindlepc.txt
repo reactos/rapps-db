@@ -9,6 +9,7 @@ URLSite = www.amazon.com/kindleforpc
 URLDownload = http://kindleforpc.amazon.com/43061/KindleForPC-installer-1.15.43061.exe
 SHA1 = 27364a6867aac562426494312c2b3f4b673f13e2
 CDPath = none
+SizeBytes = 45580176
 
 [Section.0405]
 Description = Bezplatná aplikace, která umožňuje číst knihy Kindle.

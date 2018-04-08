@@ -9,6 +9,7 @@ URLSite = http://www.gens.me/
 URLDownload = http://www.emucamp.com/sega_megadrive/gens/windows/gens-win32-bin-2.14.zip
 SHA1 = 664af709eeb828aeae57e79739f4edcdfbc156dd
 CDPath = none
+SizeBytes = 586839
 
 [Section.0407]
 Description = Ein Win32 Sega Genesis / Sega CD / Sega 32X Emulator.

@@ -9,6 +9,7 @@ URLSite = http://pingus.seul.org
 URLDownload = https://github.com/Pingus/downloads/raw/master/Pingus-0.7.6.exe
 SHA1 = 925d9a46eb1e063a3f792b9205cac7a01741632c
 CDPath = none
+SizeBytes = 16569464
 
 [Section.0407]
 Description = Freies Lemmings-ähnliches Puzzle Spiel.

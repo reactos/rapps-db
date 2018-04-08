@@ -9,6 +9,7 @@ URLSite = http://www.pdfsam.org/
 URLDownload = http://download.sourceforge.net/project/pdfsam/pdfsam/3.0.2.RELEASE/pdfsam-v3.0.2.RELEASE.msi
 SHA1 = 252324f10f3046d4fe30b5743a01731f6e882244
 CDPath = none
+SizeBytes = 16600064
 
 [Section.0407]
 Description = Freies, quelloffenes, Plattformunabhängiges Werkzeug zum spiltten, zusammenfügen und anderer Manipulationen an PDF Dokumenten. Java Runtime benötigt!

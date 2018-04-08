@@ -9,6 +9,7 @@ URLSite = https://www.hiawatha-webserver.org/
 URLDownload = https://www.hiawatha-webserver.org/files/hiawatha-10.1.zip
 SHA1 = 5b3808fe57c71449413682b8c3def477bc4dd8ec
 CDPath = none
+SizeBytes = 3726797
 
 [Section.0407]
 Description = Quelloffener Webserver mit einem Augenmerk auf Sicherheit.

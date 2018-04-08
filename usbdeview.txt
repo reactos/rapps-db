@@ -9,6 +9,7 @@ URLSite = https://www.nirsoft.net/utils/usb_devices_view.html
 URLDownload = https://www.nirsoft.net/utils/usbdeview.zip
 SHA1 = 7d9c5ef40a4a0263cee45764e327fe3e6dd318cd
 CDPath = none
+SizeBytes = 94634
 
 [Section.0419]
 Description = Небольшая утилита, которая позволяет просмотреть как USB-устройства, подключённые к компьютеру в настоящий момент, так и USB-устройства, использованные в прошлом.

@@ -8,6 +8,7 @@ Category = 2
 URLSite = https://www.bunkus.org/
 URLDownload = https://www.bunkus.org/videotools/mkvtoolnix/windows/releases/3.1.0/mkvtoolnix-unicode-3.1.0-setup.exe
 SHA1 = ed3addfe6e78cfbb6d306b621ba4a9ee9a389de6
+SizeBytes = 5565064
 
 [Section.0407]
 Description = Sammlung von Werkzeugen zum Bearbeiten von MKV Dateien.

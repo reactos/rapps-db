@@ -9,6 +9,7 @@ URLSite = http://akelpad.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/akelpad/AkelPad%204/4.9.7/AkelPad-4.9.7-setup.exe
 SHA1 = 86cf372b53d483f015ccd824efc79e9cc90e7955
 CDPath = none
+SizeBytes = 1218737
 
 [Section.0a]
 Description = Un editor de texto plano de código abierto. Se diseñó para ser ligero y rápido.

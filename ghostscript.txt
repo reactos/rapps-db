@@ -9,6 +9,7 @@ URLSite = http://www.ghostscript.com/
 URLDownload = https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs919/gs919w32.exe
 SHA1 = 0de9de433d2e3b00e5843593134ebede0e1ed818
 CDPath = none
+SizeBytes = 14543397
 
 [Section.0407]
 Description = Offener Interpreter für die PostScript Sprache und PDF.

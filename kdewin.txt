@@ -9,6 +9,7 @@ URLSite = http://www.winkde.org/
 URLDownload = http://download.kde.org/stable/kdewin/installer/kdewin-installer-gui-1.0.0.exe
 SHA1 = 0d798facb7fbf11529e7ecd067e875d76adb9d78
 CDPath = none
+SizeBytes = 2267648
 
 [Section.0407]
 Description = KDE für Windows.

@@ -9,6 +9,7 @@ URLSite = http://www.scintilla.org/
 URLDownload = http://download.sourceforge.net/project/scintilla/SciTE/3.6.4/Sc364.exe
 SHA1 = ffde24a398e3703c9714bc0b127348e7b690b115
 CDPath = none
+SizeBytes = 807424
 
 [Section.0407]
 Description = SCIntilla basierter Text Editor. Ursprünglich wurde er erstellt, um Scintilla vorzuführen, wuchs aber zu einem nützlichen Editor mit der Fähigkeit Programme zu erstellen und auszuführen.

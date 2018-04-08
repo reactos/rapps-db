@@ -9,6 +9,7 @@ URLSite = http://www.mirc.com/
 URLDownload = http://svn.reactos.org/packages/mirc635.exe
 SHA1 = d9c26f7e40298b20f553934ed69dcbe6223c1101
 CDPath = none
+SizeBytes = 1751280
 
 [Section.0407]
 Description = Der populärste Client für Internet Relay Chat (IRC).

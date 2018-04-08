@@ -9,6 +9,7 @@ URLSite = http://nginx.org/
 URLDownload = http://nginx.org/download/nginx-1.9.12.zip
 SHA1 = cd944402823832d83b18940b914608e2d0ebf3a1
 CDPath = none
+SizeBytes = 1365056
 
 [Section.0407]
 Description = HTTP- und Reverse Proxy Server, sowie Mail Proxy Server, erstellt von Igor Sysoev.

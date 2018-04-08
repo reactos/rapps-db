@@ -9,6 +9,7 @@ URLSite = http://cynagames.com/
 URLDownload = http://files.cynagames.com/kyo2006.exe
 SHA1 = 2f877cd6f01cfd25a8fc5e48715602bea03f05f3
 CDPath = none
+SizeBytes = 14520461
 
 [Section.0407]
 Description = Eines der besten Mahjongg Solitaire Spiele im Netz.

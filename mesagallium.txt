@@ -9,6 +9,7 @@ URLSite = https://www.mesa3d.org
 URLDownload = http://svn.reactos.org/packages/mesa3d_setup.exe
 SHA1 = 4c0d42844ff3693612edfdac51799fd7c63dcafd
 CDPath = none
+SizeBytes = 5978718
 
 [Section.0405]
 Description = Grafická knihovna obsahujicí moduly Mesa, Gallium a llvmpipe. Poskytuje vyšší výkon na systémech bez hardwarové OpenGL akcelerace. Tato knihovna může nahradit výchozí OGL ovladač na Vašem systému - nastavení lze provést během instalace, nebo pomocí ovládacího panelu Nastavení OpenGL.

@@ -9,6 +9,7 @@ URLSite = http://support.microsoft.com/
 URLDownload = http://linux4u.jinr.ru/pub/win9x/fonts/tahoma32.exe
 SHA1 = 888ce7b7ab5fd41f9802f3a65fd0622eb651a068
 CDPath = none
+SizeBytes = 312440
 
 [Section.0407]
 License = Unbekannt

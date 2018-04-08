@@ -9,6 +9,7 @@ URLSite = http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html
 URLDownload = https://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-3.1.1-install.exe
 SHA1 = 65fb8e2e82b14edbadbdd1c2181bda09de7b7deb
 CDPath = none
+SizeBytes = 4816456
 
 [Section.0407]
 Description = Freies, schlankes, quelloffenes PDF-Anzeigeprogramm.

@@ -9,6 +9,7 @@ URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=3
 URLDownload = http://download.microsoft.com/download/9/2/2/9222D67F-7630-4F49-BD26-476B51517FC1/FileFormatConverters.exe
 SHA1 = 455b076bc8c805225f65c8935378d2c3906c4ec2
 CDPath = none
+SizeBytes = 38808920
 
 [Section.0407]
 License = Unbekannt
@@ -29,6 +30,7 @@ Size = 37,2 МиБ
 URLSite = http://www.microsoft.com/ru-RU/download/details.aspx?id=3
 URLDownload = http://download.microsoft.com/download/b/c/4/bc41c3a1-c243-4440-a771-8260515e4cc7/FileFormatConverters.exe
 SHA1 = 03908a853cbdb39a026fa99687c6e243d1888b1f
+SizeBytes = 38986320
 
 [Section.041f]
 Name = Word, Excel ve PowerPoint Dosya Biçimleri İçin Microsoft Office Uyumluluk Paketi

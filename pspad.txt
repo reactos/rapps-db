@@ -9,6 +9,7 @@ URLSite = http://www.pspad.com
 URLDownload = http://www.pspad.com/files/pspad/pspad461_setup.exe
 SHA1 = f9bc86221108e52b641b44b8abb158636972c4d2
 CDPath = none
+SizeBytes = 5301696
 
 [Section.0407]
 Description = Leichtgewichtiger Texteditor.

@@ -9,6 +9,7 @@ URLSite = http://npackd.appspot.com
 URLDownload = https://github.com/tim-lebedkov/npackd-cpp/releases/download/version_1.23/Npackd32-1.23.msi
 SHA1 = fefef7531f9c03a081403efae7a6d560cfe3cdb9
 CDPath = none
+SizeBytes = 8467968
 
 [Section.0407]
 Description = Leistungsstarke Paketverwaltung, bietet die Installation von Software in verschiedenen Versionen an.

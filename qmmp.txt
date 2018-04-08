@@ -9,6 +9,7 @@ URLSite = http://qmmp.ylsoftware.com/
 URLDownload = http://qmmp.ylsoftware.com/files/windows/qmmp-0.9.7-win32.exe
 SHA1 = c9cc99f73842c46282c855deafb9ce4acf004e95
 CDPath = none
+SizeBytes = 13237076
 
 [Section.0407]
 Description = Audio-Player, der mit Hilfe der Qt Bibliothek geschrieben wurde. Die Benutzeroberfläche ist ähnlich zu WinAMP oder XMMS. Alternative Benutzeroberflächen sind ebenfalls verfügbar.

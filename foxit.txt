@@ -7,8 +7,9 @@ Size = 51.6 MiB
 Category = 6
 URLSite = http://www.foxitsoftware.com/Secure_PDF_Reader/
 URLDownload = http://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/win/7.x/7.3/en_us/FoxitReader734_prom_enu_Setup.exe
-SHA1 = a0798bb1d11b93b54f6531c93c03592aa41bd5b2
+SHA1 = adfc207b6744f405056ef8504934e136ac67a04f
 CDPath = none
+SizeBytes = 53779464
 
 [Section.0407]
 Version = 7.3.6
@@ -16,6 +17,7 @@ Description = Alternativer PDF Reader. Neben Adobe Reader der beste PDF Reader.
 Size = 172,5 MiB
 URLDownload = http://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/win/7.x/7.3/L10N/FoxitReader736.321_L10N.exe
 SHA1 = 6295bb977a12460a3aee8d3d1209d453832e4095
+SizeBytes = 180833504
 
 [Section.0a]
 Version = 7.3.6
@@ -24,6 +26,7 @@ Description = Uno de los mejores lectores de PDF, parecido a Adobe Reader.
 Size = 172.5 MiB
 URLDownload = http://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/win/7.x/7.3/L10N/FoxitReader736.321_L10N.exe
 SHA1 = 6295bb977a12460a3aee8d3d1209d453832e4095
+SizeBytes = 180833504
 
 [Section.0415]
 Description = Alternatywny czytnik PDF, konkurujący funkcjonalnością z Adobe Reader.
@@ -40,6 +43,7 @@ Description = Бесплатное приложение для просмотр�
 Size = 172,5 МиБ
 URLDownload = http://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/win/7.x/7.3/L10N/FoxitReader736.321_L10N.exe
 SHA1 = 6295bb977a12460a3aee8d3d1209d453832e4095
+SizeBytes = 180833504
 
 [Section.041f]
 Version = 7.3.6
@@ -48,6 +52,7 @@ Description = Alternatif PDF okuyucusu, işlevlilik yöntemi olarak Adobe Reader
 Size = 172,5 MiB
 URLDownload = http://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/win/7.x/7.3/L10N/FoxitReader736.321_L10N.exe
 SHA1 = 6295bb977a12460a3aee8d3d1209d453832e4095
+SizeBytes = 180833504
 
 [Section.0804]
 Version = 7.3.8.425
@@ -56,4 +61,5 @@ Description = PDF 阅读器替代品，拥有媲美 Adobe Reader 的功能水平
 Size = 47.5 MiB
 URLDownload = http://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/win/7.x/7.3/zh_cn/FoxitReader_CHS_7.3.8.425.exe
 SHA1 = ac6b2a98e78beb01108d919d3ad18bfbfa63b0ae
+SizeBytes = 49855200
 

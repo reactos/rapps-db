@@ -9,6 +9,7 @@ URLSite = http://www.python.org/
 URLDownload = https://www.python.org/ftp/python/3.4.3/python-3.4.3.msi
 SHA1 = 026145533de07346f2f523b9415d3f69d3d78b59
 CDPath = none
+SizeBytes = 24846336
 
 [Section.0407]
 Description = Sehr mächtige, dynamische Programmiersprache.

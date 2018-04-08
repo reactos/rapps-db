@@ -9,6 +9,7 @@ URLSite = http://www.blueskied.com/snoopinfo.htm
 URLDownload = http://www.blueskied.com/snoop/Snoop_install.exe
 SHA1 = 51417f07cec3771513c70b718a87dac6fa41d1f1
 CDPath = none
+SizeBytes = 721152
 
 [Section.0407]
 Description = Das Original C64 Snoopy Remake.

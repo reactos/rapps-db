@@ -9,6 +9,7 @@ URLSite = https://get.adobe.com/air/
 URLDownload = http://airdownload.adobe.com/air/win/download/21.0/AdobeAIRInstaller.exe
 CDPath = none
 SHA1 = d8360785c749bd37fb246016bdc5a76761e0a2cd
+SizeBytes = 18681728
 
 [Section.0407]
 Description = Mithilfe der Adobe AIR-Laufzeit können Entwickler den gleichen Code in native Anwendungen und Spiele einbinden.
@@ -33,3 +34,4 @@ Size = 17,8 MiB
 
 [Section.0804]
 Description = Adobe AIR 运行库允许开发者将同样的代码打包成原生应用及游戏。
+

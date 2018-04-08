@@ -9,6 +9,7 @@ URLSite = http://www.lazarus.freepascal.org/
 URLDownload = http://mirrors.iwi.me/lazarus/releases/Lazarus%20Windows%2032%20bits/Lazarus%201.6.4/lazarus-1.6.4-fpc-3.0.2-win32.exe
 SHA1 = fab604f9ba9049fa9c9cc660a09338005bd71418
 CDPath = none
+SizeBytes = 128826379
 
 [Section.0407]
 Description = Plattformunabhängige IDE, mit der man Pascal-Programme erstellen kann. Es verwendet den Free Pascal Compiler um die Programme zu erzeugen.

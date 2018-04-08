@@ -9,6 +9,7 @@ URLSite = http://samba-tng.org/
 URLDownload = http://svn.reactos.org/packages/samba-tng.exe
 SHA1 = 23daea49ec9fb08cbee044fa49dfbcc195073c62
 CDPath = none
+SizeBytes = 2238545
 
 [Section.0407]
 Description = Erlaubt den Zugriff auf Windows' gemeinsame Verzeichnisse und Drucker aus ReactOS heraus.
