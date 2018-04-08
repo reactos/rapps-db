@@ -23,6 +23,11 @@ License = Bilinmiyor
 Description = NVidia'dan RIVA TNT2, GeForce/Quadro 1/2/3/4 kartları için görüntü sürücüsü.
 Size = 18,5 MiB
 
+[Section.0415]
+Name = Sterownik graficzny NVidia
+License = Nieznana
+Description = Sterownik graficzny do kart RIVA TNT2, GeForce/Quadro 1/2/3/4 firmy NVidia.
+
 [Section.0418]
 Name = Modúl-pilot video pentru NVidia
 License = Nespecificată

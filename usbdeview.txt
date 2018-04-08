@@ -11,6 +11,9 @@ SHA1 = 7d9c5ef40a4a0263cee45764e327fe3e6dd318cd
 CDPath = none
 SizeBytes = 94634
 
+[Section.0415]
+Description = Małe narzędzie, które wyświetla wszystkie urządzenia USB podłączone do komputera, a także wszystkie urządzenia USB, z których korzystałeś wcześniej.
+
 [Section.0419]
 Description = Небольшая утилита, которая позволяет просмотреть как USB-устройства, подключённые к компьютеру в настоящий момент, так и USB-устройства, использованные в прошлом.
 Size = 92.4 KиБ

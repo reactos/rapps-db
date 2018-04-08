@@ -14,6 +14,9 @@ SizeBytes = 34637975
 Description = Visuelle objektorientierte Programmierumgebug für Kinder.
 Size = 33,0 MiB
 
+[Section.0415]
+Description = Obiektowe środowisko programistyczne dla dzieci.
+
 [Section.0418]
 Description = Mediu de programare orientat pe obiecte adresat copiilor.
 Size = 33,0 Mio

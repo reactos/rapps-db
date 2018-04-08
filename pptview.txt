@@ -51,6 +51,7 @@ SizeBytes = 63265480
 
 [Section.0415]
 License = Nieznana
+Description = Bezpłatny program służący do przeglądania prezentacji multimedialnych w formacie Office (*.ppt).
 Size = 60.4 MiB
 URLDownload = http://download.microsoft.com/download/9/E/4/9E4A5F9A-210D-44B7-ADA2-F47CE00541ED/PowerPointViewer.exe
 SHA1 = 785369bccc6e75a38e90efb5e1c4fc030e98ddc1

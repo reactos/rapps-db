@@ -15,6 +15,9 @@ SizeBytes = 67371
 Description = Ein Single-Player-Kartenspiel für Windows. Es basiert auf dem beliebten Kartenpiel "Arschloch".
 Size = 65,8 KiB
 
+[Section.0415]
+Description = Jednoosobowa gra w karty dla systemów Windows. Opiera się na popularnej grze studenckiej "Shit-head".
+
 [Section.0418]
 License = Gratuită
 Description = Joc de cărți pentru Windows. Este bazat pe popularul joc de cărți studențesc „Shit-head”.

@@ -11,6 +11,9 @@ SHA1 = 129b2ed8f14cdca096da9378e99d572da8335b95
 CDPath = none
 SizeBytes = 37462016
 
+[Section.0415]
+Description = Najpopularniejsza otwartoźródłowa baza danych.
+
 [Section.0419]
 Description = Самая популярная open source база данных в мире.
 Size = 35.7 МиБ

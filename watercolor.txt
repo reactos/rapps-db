@@ -15,6 +15,9 @@ SizeBytes = 881783
 Description = Ein Windows Design basierend auf dem Aussehenvon Windows Codename Whistler.
 Size = 861,1 KiB
 
+[Section.0415]
+Description = Motyw Windows oparty na wyglądzie systemu Windows Whistler.
+
 [Section.0418]
 License = Gratuită
 Description = Temă pentru Windows bazată pe Windows Codename Whistler.

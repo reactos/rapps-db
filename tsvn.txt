@@ -15,6 +15,9 @@ SizeBytes = 15646720
 Description = Grafischer SVN Client für Code Synchronisation/Aktualisierung.
 Size = 14,9 MiB
 
+[Section.0415]
+Description = Graficzny klient SVN do synchronizacji/aktualizacji kodu.
+
 [Section.0418]
 Description = Client SVN cu interfață grafică pentru sincronizare/actualizare de cod sursă.
 Size = 14,9 Mio

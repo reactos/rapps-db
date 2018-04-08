@@ -33,7 +33,7 @@ Description = Het Steam platform, veel gebruikt voor spelletjes.
 URLSite = http://store.steampowered.com/?l=dutch
 
 [Section.0415]
-Description = Steam - platforma, którą używa obecnie wiele gier.
+Description = Popularna platforma internetowa do dystrybucji gier, i sieć społeczna. Zawiera DRM.
 URLSite = http://store.steampowered.com/?l=polish
 
 [Section.0418]
