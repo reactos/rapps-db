@@ -49,7 +49,7 @@ Size = 12,7 MiB
 Description = Мультимедійний програвач.
 
 [Section.0804]
-Description = Media Player 的替代品。
+Description = 媒体播放器的另一种选择。
 
 [Section.0813]
 Description = Mediaspeler.

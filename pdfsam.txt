@@ -32,5 +32,5 @@ Description = PDF belgesi üzerinde bölme, birleştirme ve başka oynamalar yap
 Size = 15,8 MiB
 
 [Section.0804]
-Description = 免费、 开源、 平台独立的工具，旨在对 PDF 文档执行拆分、 合并和其他操作。Java Runtime 所需!
+Description = 一款免费、开源和平台独立的用于对 PDF 文档进行拆分、合并及其他操作的工具。需要 Java 运行库。
 

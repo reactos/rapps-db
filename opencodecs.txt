@@ -36,5 +36,5 @@ Description = Ogg Vorbis, Speex, Theora, FLAC ve WebM ses ve video dosya biçiml
 Size = 2,5 MiB
 
 [Section.0804]
-Description = DirectShow 过滤器为 Ogg Vorbis，Speex，Theora，FLAC，WebM 的音频/视频文件格式。
+Description = Ogg Vorbis, Speex, Theora, FLAC 和 WebM 的音视频文件格式的 DirectShow 过滤器。
 

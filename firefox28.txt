@@ -101,7 +101,7 @@ URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/28.0/win32
 SHA1 = 8c8a4ca65ce8f2e5c28f868c1ebe258ab6b5a634
 
 [Section.0804]
-Description = 一个流行的网页浏览器。自由和开放源码，由一个全球社区作出。
+Description = 一个流行的网页浏览器。免费又开源，由一个全球社区制作。
 Size = 23.9 MiB
 URLSite = https://www.mozilla.org/zh-CN/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/28.0/win32/zh-CN/Firefox%20Setup%2028.0.exe

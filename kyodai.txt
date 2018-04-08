@@ -1,6 +1,6 @@
 [Section]
 Name = Kyodai Mahjongg
-Version = 21.42
+Version = 1.42
 License = Shareware
 Description = One of the best Mahjongg Solitaire games out there.
 Size = 13.8 MiB
@@ -39,5 +39,6 @@ Description = Mahjong solitaire oyunları arasında en iyilerinden biri.
 Size = 13,8 MiB
 
 [Section.0804]
+License = 共享软件
 Description = 最棒的麻将纸牌游戏之一。
 

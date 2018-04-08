@@ -32,3 +32,7 @@ License = Ücretsiz
 Description = Windows ya da ReactOS ile Ext2, Ext3, Ext4, HFS ve ReiserFS dosya sistemleri arasında köprü kurmak için kolay bir yol.
 Size = 21,2 MiB
 
+[Section.0804]
+License = 免费软件
+Description = 一种能够简单使 Windows/ReactOS 与 Ext2/Ext3/Ext4、HFS 和 ReiserFS 文件系统建立联系的软件。
+

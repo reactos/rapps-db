@@ -42,5 +42,6 @@ Description = Windows için 180 araçtan daha çoğunun bir paketi.
 Size = 23,6 MiB
 
 [Section.0804]
-Description = 超过 180 实用程序可用于 Windows 的一整套行动。
+License = 免费软件
+Description = 一款 Windows 用的超过 180 个工具的合集。
 

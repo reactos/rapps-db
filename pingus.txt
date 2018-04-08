@@ -36,5 +36,5 @@ Description = Ücretsiz, Lemmings gibi bir bulmaca oyunudur.
 Size = 15,8 MiB
 
 [Section.0804]
-Description = 一个免费的旅鼠般益智游戏。
+Description = 一个免费的类似 Lemmings 解谜游戏。
 

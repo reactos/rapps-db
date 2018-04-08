@@ -49,7 +49,8 @@ URLDownload = http://mh-nexus.de/downloads/HxDSetupTR.zip
 SHA1 = 5416fcf31a82795bbada64c67abd17dc6ed1bb45
 
 [Section.0804]
-Description = 一个很好的十六进制编辑器。您将需要一个像 7-Zip 文件中解压它的工具。
+License = 免费软件
+Description = 一个好用的十六进制编辑器。您将需要一个像 7-Zip 的工具来解压它。
 Size = 851.5 KiB
 URLDownload = http://mh-nexus.de/downloads/HxDSetupCHS.zip
 SHA1 = e193cc70b3424619950bd1444681f754409b4dd8

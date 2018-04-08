@@ -32,5 +32,5 @@ Description = Dosyalar ve dizinler için, görsel ayrım görüntüleme ve birle
 Size = 6,1 MiB
 
 [Section.0804]
-Description = 视觉上的差异显示和合并、 文件和目录的工具。
+Description = 一款可视化文件及目录差异显示及合并的工具。
 

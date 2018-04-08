@@ -49,7 +49,8 @@ Size = 788,5 KiB
 Description = Текстовий редактор на основі SCIntilla. Був зібраний як презентація Scintilla, але виріс до редактора загального користування з засобами збирання та запуску програм.
 
 [Section.0804]
-Description = 一个 Scintilla 基于文本编辑器。最初建立以证明的 Scintilla，它已经发展成为一般有用的编辑器与设施建设和运行的程序。
+License = 免费软件
+Description = 一个基于 SCIntilla 的文本编辑器。最初构建用于证明 Scintilla，现在已经发展成能够构造并运行程序的可用的编辑器。
 
 [Section.0813]
 Description = SciTE is een tekstbewerker gebaseerd op SCIntilla. Origineel bedoeld om Scontilla te demonstreren, is uitgegroeid tot een handige editor met mogelijkheden voor ontwerken en uitvoeren van programma's.

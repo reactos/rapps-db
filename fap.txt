@@ -46,7 +46,7 @@ Size = 1,9 MiB
 Description = Простий та маленький програвач аудіо файлів.
 
 [Section.0804]
-Description = 简单、 轻量级的音频播放器。
+Description = 简单、轻量级的音频播放器。
 
 [Section.0813]
 Description = Eenvoudige en lichte audio speler.

@@ -72,7 +72,7 @@ Description = Pозархівуйте вміст в теку "ReactOS" післ�
 [Section.0804]
 Name = VMWare 的 SoundBlaster 驱动程序
 License = 未知
-Description = Sound Blaster兼容设备的音频驱动程序。解压在电脑文件夹中并重新启动两次。
+Description = Sound Blaster 兼容设备的音频驱动程序。解压在 ReactOS 目录中并重新启动两次。
 
 [Section.0813]
 Name = SoundBlaster Driver voor VMWare

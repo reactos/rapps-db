@@ -53,7 +53,7 @@ Name = Бібліотека Simple Direct Media Layer (SDL)
 Description = Необхідна для роботи багатьох відкритих ігор. Вам потрібен 7-Zip або подібна утиліта щоб розпакувати її.
 
 [Section.0804]
-Description = 需要很多的开源游戏才能够运行。您将需要一个像 7-Zip 文件中解压它的工具。
+Description = 很多的开源游戏需要它才能够运行。您将需要一个像 7-Zip 的工具来解压它。
 
 [Section.0813]
 Description = Gebruikt door veel open-bron-spelletjes. Gebruik 7-zip om het uit te pakken.

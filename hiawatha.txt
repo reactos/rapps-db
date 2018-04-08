@@ -31,3 +31,6 @@ Size = 3,6 Mio
 Description = Веб-сервер с упором на безопасность.
 Size = 3,6 МиБ
 
+[Section.0804]
+Description = 一款专注于安全的开源网络服务器。
+

@@ -38,5 +38,6 @@ Description = Ücretsiz düğme takımında yazma öğreticisi.
 Size = 4,9 MiB
 
 [Section.0804]
+License = 免费软件
 Description = 免费打字导师。
 

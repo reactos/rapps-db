@@ -36,5 +36,5 @@ Description = Windows için özgür ve açık kaynak bir bilimsel hesap makinesi
 Size = 181,7 KiB
 
 [Section.0804]
-Description = Windows 一个自由和开放源码科学计算器。你将需要一个 ZIP 减压程序来安装它。
+Description = 一个 Windows 上的免费开源科学计算器。你将需要一个 ZIP 解压缩程序来安装它。
 

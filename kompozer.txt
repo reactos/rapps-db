@@ -31,5 +31,5 @@ Description = Ağ kütük yönetimiyle kullanımı kolay WYSIWYG ağ sayfası d�
 Size = 7,6 MiB
 
 [Section.0804]
-Description = KompoZer 是一个完整的网站创作结合网站文件管理和容易使用所见即所得的网站页面编辑的系统。你将需要一个 ZIP 减压程序来运行它。
+Description = 一套完整的结合网络文件管理和简单易用的所见即所得网页编辑的网络创作系统。您将需要一个 ZIP 解压缩程序来运行它。
 

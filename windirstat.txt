@@ -29,3 +29,5 @@ Size = 630,6 КиБ
 Description = Disk kullanımını çözümleme ve silme için program.
 Size = 630,6 KiB
 
+[Section.0804]
+Description = 分析磁盘使用情况及清理磁盘的程序

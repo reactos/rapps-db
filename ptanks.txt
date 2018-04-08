@@ -39,5 +39,6 @@ Description = Şimdiye dek oynayacağınız en hızlı topçuluk oyunu.
 Size = 2,9 MiB
 
 [Section.0804]
-Description = 你玩过的火炮最快的游戏。
+License = 免费软件
+Description = 你玩过最快的炮战游戏。
 

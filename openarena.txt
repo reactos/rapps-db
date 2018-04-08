@@ -31,5 +31,5 @@ Description = GPL idTech3 teknolojisi tabanlı, topluluk üretimi, ölüm karş�
 Size = 405,5 MiB
 
 [Section.0804]
-Description = OpenArena是基于 GPL idTech3 技术社区产生死亡竞赛 FPS 游戏。你将需要一个 ZIP 减压程序来运行它。
+Description = 基于 GPL idTech3 技术的由社区制作的死亡竞赛 FPS 游戏。您将需要一个 ZIP 解压缩程序来运行它。
 

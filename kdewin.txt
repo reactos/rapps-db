@@ -46,7 +46,8 @@ Size = 2,2 MiB
 Description = KDE для Windows.
 
 [Section.0804]
-Description = 对于 Windows 的 KDE。
+Name = K 桌面环境
+Description = 适用于 Windows 的 KDE。
 
 [Section.0813]
 Description = KDE voor Windows.

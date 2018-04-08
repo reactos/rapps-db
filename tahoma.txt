@@ -56,7 +56,7 @@ Description = Пакет шрифтів Tahoma, що необхідні деяк
 
 [Section.0804]
 License = 未知
-Description = Tahoma 字体包所需的一些应用程序 (Steam)。包含: Tahoma.ttf，Tahomabd.ttf。
+Description = Tahoma 字体包被一些应用程序(比如 Steam)所需要。其中包含: Tahoma.ttf，Tahomabd.ttf。
 
 [Section.0813]
 License = Ongekend

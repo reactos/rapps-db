@@ -46,7 +46,7 @@ Size = 1,1 MiB
 Description = ReMooD э Портом вихідних кодів Doom Legacy. Його метою є додати нові можливості та стабільність до досвіду класичного Legacy.
 
 [Section.0804]
-Description = 源端口的 Doom Legacy。它旨在提供新功能的经典传统经验和更多的稳定性。
+Description = 一个 Doom Legacy 的开源移植。它旨在提供带有新功能和更好稳定性的经典传统游戏体验。
 
 [Section.0813]
 Description = ReMood is een broncodeoverdracht van Doom Legacy. Het biedt de klassieke Legacy Ervaring met nieuwe mogelijkheden en betere stabiliteit.

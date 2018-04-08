@@ -6,7 +6,7 @@ Description = The popular Opera Browser with many advanced features, including a
 Size = 7.2 MiB
 Category = 5
 URLSite = http://www.opera.com/
-URLDownload = http://arc.opera.com/pub/opera/win/964/int/Opera_964_int_Setup.exe
+URLDownload = https://web.archive.org/web/20140327183619if_/http://arc.opera.com/pub/opera/win/964/int/Opera_964_int_Setup.exe
 SHA1 = e7354e79956acae6f76727a3c9bb3c25ea3a7b6f
 CDPath = none
 
@@ -52,7 +52,8 @@ Size = 7,2 MiB
 Description = Популярний браузер з багатьма додатковими можливостями, який включає в себе поштовий та BitTorrent клієнти.
 
 [Section.0804]
-Description = 最受欢迎的 Opera 浏览器，有着许多高级功能，包括电子邮件和 BitTorrent 客户端。
+License = 免费软件
+Description = 流行的 Opera 浏览器，带有许多高级功能，包含电子邮件和 BitTorrent 客户端。
 
 [Section.0813]
 Description = De populaire Opera Browser met vele gevorderde mogelijkheden, inclusief e-mail en BitTorrent afnemers.

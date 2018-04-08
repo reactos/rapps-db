@@ -57,7 +57,7 @@ Description = Бібліотеки Microsoft Visual Studio 2008 SP1. включ�
 
 [Section.0804]
 License = 未知
-Description = 一些用 Visual Studio 2008 编译的应用程序需要这个。包含: atl90.dll、 mfc90.dll、 mfc90u.dll、 mfcm90.dll、 mfcm90u.dll、 msdia90.dll、 msvcm90.dll、 msvcp90.dll、 msvcr90.dll、 vcomp90.dll。
+Description = 用 Visual Studio 2008 SP1 编译的应用程序需要它。。包含: atl90.dll, mfc90.dll, mfc90u.dll, mfcm90.dll, mfcm90u.dll, msdia90.dll, msvcm90.dll, msvcp90.dll, msvcr90.dll, vcomp90.dll。
 
 [Section.0813]
 License = Ongekend

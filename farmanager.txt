@@ -30,3 +30,6 @@ Version = 3.0 yapı 4700
 Description = Yan yana iki bölmeli, açık kaynak konsol tabanlı bir dosya yöneticisi.
 Size = 10,2 MiB
 
+[Section.0804]
+Description = 一款开源的拥有两个并排面板的基于控制台的文件管理器。
+

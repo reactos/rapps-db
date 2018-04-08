@@ -35,6 +35,6 @@ Description = Winamp, eklentilerle ve dış görünümlerle genişletilebilirli�
 Size = 14,3 MiB
 
 [Section.0804]
-License = 免费商业模式
-Description = 一个媒体播放器，支持插件、皮肤、音乐可视化功能，播放列表和媒体库，由一个大型的在线社区支持。
+License = 免费商业软件
+Description = 一个支持插件、皮肤、音乐可视化功能、播放列表和媒体库媒体播放器，由一个大型的在线社区提供支持。
 

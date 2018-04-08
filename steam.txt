@@ -58,7 +58,8 @@ Description = Ігрова платформа, що використовуєть
 URLSite = http://store.steampowered.com/?l=ukrainian
 
 [Section.0804]
-Description = 最受欢迎的互联网游戏分销平台和社交网络。包括数字版权管理 (DRM)。
+License = 免费软件
+Description = 最受欢迎的互联网游戏分销平台和社交网络。包含数字版权管理 (DRM)。
 URLSite = http://store.steampowered.com/?l=schinese
 
 [Section.0813]

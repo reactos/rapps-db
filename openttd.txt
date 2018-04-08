@@ -49,3 +49,6 @@ Description = Відкритий клон двигуна гри "Transport Tycoo
 [Section.0813]
 Description = Open-bron kloon van de "Transport Tycoon Deluxe" spelletjesmotor. Je hebt een kopij van Transport Tycoon nodig.
 
+[Section.0804]
+Description = Transport Tycoon Deluxe 游戏引擎的开源复刻。您可能需要一份 Transport Tycoon 的副本。
+

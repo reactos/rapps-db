@@ -43,5 +43,5 @@ Size = 1,4 MiB
 Description = DOSBox - емулятор DOSу.
 
 [Section.0804]
-Description = 开放源码的 DOS 仿真器。
+Description = 开源的 DOS 模拟器。
 

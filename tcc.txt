@@ -31,3 +31,6 @@ Name = Minik C Derleyicisi
 Description = Küçük ancak aşırı hızlı bir C derleyicisi.
 Size = 385,7 KiB
 
+[Section.0804]
+Description = 小而精的 C 语言编译器。
+

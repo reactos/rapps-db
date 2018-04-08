@@ -31,3 +31,6 @@ Size = 8,1 МиБ
 Size = 8,1 MiB
 Description = Npackd (önceki adı "unpacked") Windows uygulamaları için bir GPL sürüm 3 lisanslı yükleyici, uygulama mağazası, paket yöneticisidir, ve pazar yeridir.
 
+[Section.0804]
+Description = Npackd (读作 "unpacked") 是一款 Windows 平台的 GPLv3 许可的安装程序、应用商店、包管理和应用购买的应用程序。
+

@@ -57,7 +57,7 @@ Description = Бібліотеки Microsoft Visual Studio 6. включає: ad
 
 [Section.0804]
 License = 未知
-Description = 用 Visual Studio 6 编译的应用程序所需。包含: advpack.dll、 asycfilt.dll、 atla.dll、 atlu.dll、 comcat.dll、 mfc42.dll、 mfc42u.dll、 msvcirt.dll、 msvcp60.dll、 msvcrt.dll，oleaut32.dll、 olepro32.dll。
+Description = 用 Visual Studio 6 编译的应用程序需要它。包含: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll, oleaut32.dll, olepro32.dll。
 
 [Section.0813]
 License = Ongekend

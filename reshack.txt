@@ -39,5 +39,6 @@ Description = 32 ve 64 bitlik Windows çaılştırılabilirlerindeki ve kaynak k
 Size = 2,8 MiB
 
 [Section.0804]
-Description = 一个免费软件实用程序来查看、 修改、 重命名、 添加、 删除和提取资源在 32 位与 64 位的 Windows 可执行文件和资源文件 (*.res)。
+License = 免费软件
+Description = 一个从 32 位及 64 位 Windows 可执行程序和资源文件(*.res)中查看、修改、重命名、添加、删除和提取资源的实用工具。
 

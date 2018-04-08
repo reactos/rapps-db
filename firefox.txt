@@ -101,9 +101,9 @@ URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/uk/Firef
 SHA1 = 0dce994dad0dc47acbb6c0c4ea8d6172d14b87df
 
 [Section.0804]
-Description = 一个流行的网页浏览器。自由和开放源码，由一个全球社区作出。
+Description = 一个流行的网页浏览器。免费又开源，由一个全球社区制作。
 Size = 45.1 MiB
-URLSite = https://www.mozilla.org/zh-CN/firefox/new/
+URLSite = https://www.mozilla.org/zh-CN/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/zh-CN/Firefox%20Setup%2048.0.2.exe
 SHA1 = 730e8a00fce229aa7401464c540524a7d89d5819
 

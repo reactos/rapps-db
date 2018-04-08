@@ -35,5 +35,5 @@ Description = Bu oyunun amacı, oyun alanınızda üç ya da daha çok takımdan
 Size = 1,7 MiB
 
 [Section.0804]
-Description = 这个游戏的目的是要射进你的操场，彩色的球体，所以他们组成的三人或以上团体。
+Description = 游戏的目的是将彩色弹珠发射到游戏台上，它们可以以三个或更多组成组。
 
