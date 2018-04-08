@@ -15,6 +15,14 @@ License = Unbekannt
 Description = Wird zum Öffnen von *.docx, *.xlsx, etc unter Word/Excel Viewer und Office 2003 benötigt.
 Size = 37,0 MiB
 
+[Section.0415]
+Name = Pakiet kompatybilności Microsoft Office dla formatów plików Word, Excel i PowerPoint.
+License = Nieznana
+Description = Potrzebne do otwarcia plików *.docx, *.xlsx, itp. w programach Word/Excel Viewer i Office 2003.
+Size = 37,2 MiB
+URLDownload = https://download.microsoft.com/download/7/8/f/78f25e6d-7ac3-4003-88c3-e7db2837caef/FileFormatConverters.exe
+SHA1 = e8462e2b4fc49a8b86b4a0f93fec3a36b2cbfe2e
+
 [Section.0418]
 Name = Pachet de compatibilitate pentru Microsoft Office
 License = Nespecificată

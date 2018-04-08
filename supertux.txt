@@ -21,7 +21,7 @@ Description = Un juego 2D plataformero de código abierto.
 Description = SuperTux è un gioco open-source gratuito in 2D.
 
 [Section.0415]
-Description = SuperTux to darmowa dwu wymiarowa gra platformowa OpenSource.
+Description = SuperTux to darmowa dwuwymiarowa gra platformowa OpenSource.
 
 [Section.0418]
 Description = Joc 2D gratuit, cu surse deschise.

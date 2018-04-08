@@ -13,6 +13,10 @@ SHA1 = 6fa92dd2ca691c11dfbfc0a239e34369897a7fab
 Description = Programm zur Laufwerkanalyse und Bereinigung.
 Size = 630,6 KiB
 
+[Section.0415]
+Description = Program do analizy zużycia dysku i jego oczyszczania.
+Size = 630,6 KiB
+
 [Section.0418]
 Description = Program pentru analiza utilizării și curățarea discurilor.
 Size = 630,6 Kio

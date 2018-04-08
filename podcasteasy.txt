@@ -14,6 +14,10 @@ SHA1 = 660043ce04ad04d65cfa98ad47e7177b34bd708f
 Description = Anwendung zum Herunterladen von Podcasts.
 Size = 696 KiB
 
+[Section.0415]
+Description = Aplikacja do pobierania podcastów.
+Size = 696 KiB
+
 [Section.0418]
 Description = Aplicație pentru descărcarea de fișiere audio.
 Size = 696 Kio

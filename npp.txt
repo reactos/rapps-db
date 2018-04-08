@@ -29,7 +29,7 @@ Description = Un editor di testo.
 Description = Een teksteditor.
 
 [Section.0415]
-Description = Edytor tekstu.
+Description = Otwartoźródłowy edytor tekstu z wieloma funkcjami i obsługą rozszerzeń.
 
 [Section.0418]
 Description = Editor complet și gratuit de text, cu multe extensii.

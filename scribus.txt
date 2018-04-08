@@ -34,7 +34,7 @@ Description = Een open-source programma dat professionele pagina-indeling aan Re
 Description = En åpen kildekode-program som gir profesjonell sidelayout til ReactOS.
 
 [Section.0415]
-Description = Program open source, który przynosi profesjonalny ³ad strony ReactOS.
+Description = Program open source, który przynosi profesjonalny układ strony ReactOS.
 
 [Section.0418]
 Description = Program, cu surse deschise, de tehnoredactare computerizată.

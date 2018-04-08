@@ -21,6 +21,10 @@ Description = Nueva versión del juego Snoopy para Commodore 64.
 [Section.0410]
 Description = Il remake del gioco Snoopy per Commodore 64.
 
+[Section.0415]
+Description = Przeróbka oryginalnej gry Snoopy na Commodore 64.
+Size = 704,2 KiB
+
 [Section.0418]
 License = Gratuită
 Description = Recrearea jocului Snoppy (original pe C64).
