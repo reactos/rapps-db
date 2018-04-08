@@ -45,6 +45,7 @@ SHA1 = ff39a41cdaf2be65408d10a4a1da01ab9469906c
 
 [Section.0415]
 License = Nieznana
+Description = Bezpłatny program służący do przeglądania dokumentów tekstowych w formacie Office (*.doc).
 Size = 24.6 MiB
 URLDownload = https://web.archive.org/web/20170514205418/http://download.microsoft.com/download/c/e/1/ce1e1286-67a2-4069-a8c4-b3552f18dfa8/wordview_pl-pl.exe
 SHA1 = 02a6c2be40f0163bcb89953c1da6bda47b2ea8db

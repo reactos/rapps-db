@@ -14,6 +14,11 @@ CDPath = none
 Description = Einige Portierungen der bekannten GNU Utilities auf natives Win32.
 Size = 3,2 MiB
 
+[Section.0415]
+Name = Narzędzia GNU dla Win32
+Description = Porty niektórych narzędzi GNU na Win32.
+Size = 3,2 MiB
+
 [Section.0418]
 Name = Utilitarele GNU pentru Win32
 Description = Portarea utilitarelor GNU obișnuite pe platforma Win32.

@@ -22,6 +22,10 @@ Size = 23,6 Mio
 License = Gratuita
 Description = Un paquete con más de 180 utilidades.
 
+[Section.0415]
+Description = Pakiet zawierający ponad 180 narzędzi dla Windows.
+Size = 23,6 MiB
+
 [Section.0418]
 License = Gratuită
 Description = Pachet cu peste 180 de utilitare.

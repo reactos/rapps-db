@@ -14,6 +14,10 @@ CDPath = none
 Description = Freier und quelloffener wissenschaftlicher Rechner für Windows. Zum extrahieren wird 7-Zip oder ein ähnliches Tool benötigt.
 Size = 181,7 KiB
 
+[Section.0415]
+Description = Darmowy i otwartoźródłowy kalkulator naukowy dla systemu Windows. Do instalacji wymagany jest program dekompresyjny ZIP.
+Size = 181,7 KiB
+
 [Section.0418]
 Description = Calculatr științific gratuit, cu surse deschise. Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.
 Size = 181,7 Kio

@@ -14,6 +14,10 @@ CDPath = none
 Description = Werkzeug zur grafischen Darstellung und Zusammenführen von Dateien und Ordnern.
 Size = 6,1 MiB
 
+[Section.0415]
+Description = Narzędzie do wizualnego wyświetlania i scalania różnic, zarówno dla plików, jak i katalogów.
+Size = 6,1 MiB
+
 [Section.0418]
 Description = Instrument pentru inspecția vizuală a diferențelor și unificarea de fișiere și dosare.
 Size = 6,1 Mio

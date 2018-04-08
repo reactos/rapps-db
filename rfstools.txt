@@ -14,6 +14,10 @@ CDPath = none
 Description = Ermöglicht den Zugriff auf ReiserFS Partitionen unter Windows Systemen.
 Size = 53,4 KiB
 
+[Section.0415]
+Description = Umożliwia dostęp do partycji ReiserFS z systemu Windows.
+Size = 53,4 KiB
+
 [Section.041f]
 Description = Bir Windows sisteminden ReiserFS bölümlerine erişmenize olanak sağlar.
 Size = 53,4 KiB

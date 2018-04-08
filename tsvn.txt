@@ -14,6 +14,10 @@ CDPath = none
 Description = Grafischer SVN Client für Code Synchronisation/Aktualisierung.
 Size = 14,9 MiB
 
+[Section.0415]
+Description = Graficzny klient SVN do synchronizacji/aktualizacji kodu.
+Size = 14,9 MiB
+
 [Section.0418]
 Description = Client SVN cu interfață grafică pentru sincronizare/actualizare de cod sursă.
 Size = 14,9 Mio

@@ -14,6 +14,10 @@ CDPath = none
 Description = Hilft Software zu deinstallieren und einfach ungewollte Programme loszuwerden.
 Size = 2,5 MiB
 
+[Section.0415]
+Description = Pomaga w dezinstalacji oprogramowania i w łatwym usuwaniu niechcianych programów.
+Size = 2,5 MiB
+
 [Section.041f]
 License = Bilinmiyor
 Description = Yazılımları kaldırmak ve istenmeyen kurulu programları kolayca silmek için yardım eder.

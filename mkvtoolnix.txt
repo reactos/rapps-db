@@ -13,10 +13,6 @@ SHA1 = ed3addfe6e78cfbb6d306b621ba4a9ee9a389de6
 Description = Sammlung von Werkzeugen zum Bearbeiten von MKV Dateien.
 Size = 5,3 MiB
 
-[Section.0407]
-Description = Sammlung von Werkzeugen zum Bearbeiten von MKV Dateien.
-Size = 5,3 MiB
-
 [Section.0415]
 Description = Narzędzia do pracy z plikami w formacie MKV.
 Size = 5,3 MiB
