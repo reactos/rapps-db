@@ -1,1 +1,17 @@
-1
+[Section]
+Name = GOG Galaxy
+Version = 1.19.98
+License = Freeware
+Description =  GOG Galaxy is a Steam-like client for digital distribution platform of games and films
+Size = 139 MiB
+Category =  4
+URLSite = https://www.gog.com/galaxy
+URLDownload = https://web.archive.org/web/20160928035203if_/https://cdn.gog.com//open/galaxy/client/setup_galaxy_1.1.15.13.exe
+SHA1 = 
+CDPath = none
+SizeBytes = 146623848
+
+[Section.0419]
+License = Бесплатно
+Description = Клиет для игровой платформы GOG Galaxy
+Size = 139 МиБ
