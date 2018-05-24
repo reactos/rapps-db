@@ -31,20 +31,20 @@ Description = Libreria Microsoft Visual Studio 2012 Update 4. Include: atl110.dl
 
 [Section.0413]
 License = Ongekend
-Description = Microsoft Visual Studio 2012 Runtime Update 4. Bevat: atl110.dll, mfc110.dll, mfc90u.dll, mfcm110.dll, mfcm90u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
+Description = Microsoft Visual Studio 2012 Runtime Update 4. Bevat: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.0415]
 License = Nieznana
-Description = Biblioteki uruchomieniowe Microsoft Visual Studio 2012 Update 4. Zawiera: atl110.dll, mfc110.dll, mfc90u.dll, mfcm110.dll, mfcm90u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
+Description = Biblioteki uruchomieniowe Microsoft Visual Studio 2012 Update 4. Zawiera: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.0418]
 License = Nespecificată
-Description = Pachet necesar pentru aplicațiile compilate cu Visual Studio 2012. Conține: atl110.dll, mfc110.dll, mfc90u.dll, mfcm110.dll, mfcm90u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
+Description = Pachet necesar pentru aplicațiile compilate cu Visual Studio 2012. Conține: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 Size = 6,3 Mio
 
 [Section.0419]
 License = Неизвестно
-Description = Необходим для приложений, написанных в Visual Studio 2012. Содержит: atl110.dll, mfc110.dll, mfc90u.dll, mfcm110.dll, mfcm90u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
+Description = Необходим для приложений, написанных в Visual Studio 2012. Содержит: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 Size = 6,3 МиБ
 
 [Section.041f]
@@ -54,7 +54,7 @@ Size = 6,3 MiB
 
 [Section.0422]
 License = Невідома
-Description = Бібліотеки Microsoft Visual Studio 2012 Update 4. включає: atl110.dll, mfc110.dll, mfc90u.dll, mfcm110.dll, mfcm90u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
+Description = Бібліотеки Microsoft Visual Studio 2012 Update 4. включає: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.0804]
 License = 未知
@@ -62,5 +62,5 @@ Description = 用 Visual Studio 2012 Update 4 编译的应用程序需要它。�
 
 [Section.0813]
 License = Ongekend
-Description = Microsoft Visual Studio 2012 Runtime Update 4. Bevat: atl110.dll, mfc110.dll, mfc90u.dll, mfcm110.dll, mfcm90u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
+Description = Microsoft Visual Studio 2012 Runtime Update 4. Bevat: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 

@@ -1,0 +1,17 @@
+[Section]
+Name = Adobe Flash Player 29
+Version = 29.0.0.140
+License = Freeware
+Description = This archive contains Flash Player and its plugins for Gecko and Chromium based browsers.
+Size = 44.9 MiB
+Category = 6
+URLSite = https://www.adobe.com/products/flashplayer.html
+URLDownload = http://svn.reactos.org/packages/fp_29.0.0.140.zip
+SHA1 = 1e969604941d21827cca70bda54319776493f4fa
+CDPath = none
+SizeBytes = 47169462
+
+[Section.0415]
+License = Darmowe
+Description = To archiwum zawiera program Flash Player i jego wtyczki przeznaczone do przeglądarek opartych na Gecko i Chromium.
+Size = 44,9 MiB
