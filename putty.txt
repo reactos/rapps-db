@@ -1,26 +1,26 @@
 [Section]
 Name = PuTTY
-Version = 0.67
+Version = 0.70
 License = MIT
 Description = A free SSH, Telnet, rlogin, and raw TCP client.
-Size = 1.7 MiB
+Size = 2.8 MiB
 Category = 5
 URLSite = http://www.chiark.greenend.org.uk/~sgtatham/putty/
-URLDownload = http://the.earth.li/~sgtatham/putty/0.67/x86/putty-0.67-installer.exe
-SHA1 = 3911d72eb2371b9a530744a4afef993ecdd2f57e
+URLDownload = https://the.earth.li/~sgtatham/putty/0.70/w32/putty-0.70-installer.msi
+SHA1 = 2031fc9b6a972f5c3f3e506987143dfc1f7214e0
 CDPath = none
-SizeBytes = 1798184
+SizeBytes = 2942464
 
 [Section.0407]
 Description = Freier SSH-, Telnet-, rlogin- und TCP-Client.
-Size = 1,7 MiB
+Size = 2,8 MiB
 
 [Section.0a]
 Description = Un cliente SSH, Telnet, rlogin y TCP libre y gratuito.
 
 [Section.040c]
 Description = Un client SSH, Telnet, rlogin et raw TCP gratuit.
-Size = 1,7 Mio
+Size = 2,8 Mio
 
 [Section.0410]
 Description = Un client SSH, Telnet, rlogin, and raw TCP gratuito.
@@ -33,15 +33,15 @@ Description = Darmowy klient obsługujący protokoły SSH, Telnet, rlogin oraz b
 
 [Section.0418]
 Description = Client gratuit de SSH, Telnet, rlogin, și TCP brut.
-Size = 1,7 Mio
+Size = 2,8 Mio
 
 [Section.0419]
 Description = Свободно распространяемый клиент для различных протоколов удалённого доступа, включая SSH, Telnet, rlogin.
-Size = 1,7 МиБ
+Size = 2,8 МиБ
 
 [Section.041f]
 Description = Ücretsiz bir SSH, Telnet, rlogin ve işlenmemiş TCP istemcisi.
-Size = 1,7 MiB
+Size = 2,8 MiB
 
 [Section.0422]
 Description = Безплатний SSH, Telnet, rlogin та raw TCP клієнт.

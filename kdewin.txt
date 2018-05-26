@@ -1,26 +1,26 @@
 [Section]
 Name = K Desktop Environment
-Version = 1.0.0
+Version = 1.1.0
 License = GPL
 Description = KDE for Windows.
-Size = 2.2 MiB
+Size = 2.7 MiB
 Category = 15
 URLSite = http://www.winkde.org/
-URLDownload = http://download.kde.org/stable/kdewin/installer/kdewin-installer-gui-1.0.0.exe
-SHA1 = 0d798facb7fbf11529e7ecd067e875d76adb9d78
+URLDownload = https://download.kde.org/stable/kdewin/installer/kdewin-installer-gui-1.1.0.exe
+SHA1 = f9a4eba9d813fa7cf63138d83efc7a297806cd28
 CDPath = none
-SizeBytes = 2267648
+SizeBytes = 2836480
 
 [Section.0407]
 Description = KDE für Windows.
-Size = 2,2 MiB
+Size = 2,7 MiB
 
 [Section.0a]
 Description = KDE para Windows.
 
 [Section.040c]
 Description = KDE pour Windows.
-Size = 2,2 Mio
+Size = 2,7 Mio
 
 [Section.0410]
 Description = KDE per Windows.
@@ -33,15 +33,15 @@ Description = KDE dla Windows.
 
 [Section.0418]
 Description = KDE pentru Windows.
-Size = 2,2 Mio
+Size = 2,7 Mio
 
 [Section.0419]
 Description = KDE для Windows.
-Size = 2,2 МиБ
+Size = 2,7 МиБ
 
 [Section.041f]
 Description = Windows için KDE.
-Size = 2,2 MiB
+Size = 2,7 MiB
 
 [Section.0422]
 Description = KDE для Windows.

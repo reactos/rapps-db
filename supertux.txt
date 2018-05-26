@@ -1,19 +1,19 @@
 [Section]
 Name = SuperTux
-Version = 0.1.3
+Version = 0.5.1
 License = GPL
 Description = A free, open-source two-dimensional platform game.
-Size = 7.3 MiB
+Size = 86.0 MiB
 Category = 4
 URLSite = http://www.supertux.lethargik.org
-URLDownload = http://download.sourceforge.net/project/supertux.berlios/supertux-0.1.3-setup.exe
-SHA1 = 58cd8c443bcb9f4dda73a49630eca21c82795b81
+URLDownload = https://github.com/SuperTux/supertux/releases/download/v0.5.1/SuperTux-v0.5.1-win32.msi
+SHA1 = e8ce99f3197b0c1cb329054ba82d957255c54cea
 CDPath = none
-SizeBytes = 7623968
+SizeBytes = 90194764
 
 [Section.0407]
 Description = Zweidimensionales, freies, quelloffenes Plattformspiel.
-Size = 7,3 MiB
+Size = 86,0 MiB
 
 [Section.0a]
 Description = Un juego 2D plataformero de código abierto.
@@ -26,15 +26,15 @@ Description = SuperTux to darmowa dwu wymiarowa gra platformowa OpenSource.
 
 [Section.0418]
 Description = Joc 2D gratuit, cu surse deschise.
-Size = 7,3 Mio
+Size = 86,0 Mio
 
 [Section.0419]
 Description = Свободный классический платформер в стиле Super Mario Bros.
-Size = 7,3 МиБ
+Size = 86,0 МиБ
 
 [Section.041f]
 Description = Ücretsiz, açık kaynak ve iki boyutlu bir platform oyunu.
-Size = 7,3 MiB
+Size = 86,0 MiB
 
 [Section.0804]
 Description = 一个免费、 开源的二维平台游戏。

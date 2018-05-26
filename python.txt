@@ -1,15 +1,15 @@
 [Section]
 Name = Python 3
-Version = 3.4.3
+Version = 3.4.4
 License = GPL/LGPL
 Description = A remarkably powerful dynamic programming language.
 Size = 23.7 MiB
 Category = 7
 URLSite = http://www.python.org/
-URLDownload = https://www.python.org/ftp/python/3.4.3/python-3.4.3.msi
-SHA1 = 026145533de07346f2f523b9415d3f69d3d78b59
+URLDownload = https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi
+SHA1 = 46c89a6eebfb5f2e8f9b7edbe5409e314366a66a
 CDPath = none
-SizeBytes = 24846336
+SizeBytes = 24932352
 
 [Section.0407]
 Description = Sehr mächtige, dynamische Programmiersprache.

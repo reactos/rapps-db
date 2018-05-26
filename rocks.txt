@@ -1,19 +1,19 @@
 [Section]
 Name = Rocks'n'Diamonds
-Version = 3.3.1.2
+Version = 4.1.0.0
 License = GPL v2
 Description = Arcade style game for UNIX, Mac OS X, Windows and DOS in the tradition of: "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga/PC), "Sokoban" (PC). You need a ZIP decompression program to install it.
-Size = 2.4 MiB
+Size = 3.1 MiB
 Category = 4
 URLSite = http://www.artsoft.org/rocksndiamonds/
-URLDownload = http://www.artsoft.org/RELEASES/win32/rocksndiamonds/rocksndiamonds-3.3.1.2-setup.exe
-SHA1 = c00f508ec5edebc98d3159c1673bd02a2769d10b
+URLDownload = https://www.artsoft.org/RELEASES/win32/rocksndiamonds/rocksndiamonds-4.1.0.0-setup.exe
+SHA1 = fe12722bd7dbb9dd36210a03b702c20404acf6e3
 CDPath = none
-SizeBytes = 2549896
+SizeBytes = 3247785
 
 [Section.0407]
 Description = Arcade-Style Spiel für UNIX, Mac OS X, Windows und DOS in der Tradition von: "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga / PC), "Sokoban" (PC). Sie benötigen ein ZIP-Programm, um es zu installieren.
-Size = 2,4 MiB
+Size = 3,1 MiB
 
 [Section.0a]
 Description = Juego al estilo arcade para UNIX, Mac OS X, Windows y DOS siguiendo la tradición de: «Boulder Dash» (C64), «Emerald Mine» (Amiga), «Supaplex» (Amiga/PC), «Sokoban» (PC). Es necesario un programa de extracción de archivos zip para utilizarlo.
@@ -26,16 +26,16 @@ Description = Gra typu Arcade dla UNIX, Mac OS X, Windows i DOS. Bazująca na "B
 
 [Section.0418]
 Description = Joc de tip arcadă pentru UNIX, Mac OS X, Windows și DOS; respectând tradiția: „Boulder Dash” (C64), „Emerald Mine” (Amiga), „Supaplex” (Amiga/PC), și „Sokoban” (PC).
-Size = 2,4 Mio
+Size = 3,1 Mio
 
 [Section.0419]
 Description = Игра в стиле аркады для Unix, Мас OS X, Windows и DOS в традициях: "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga/PC), "Sokoban" (PC). Вам нужна потребуется программа распаковки zip для установки.
-Size = 2,4 МиБ
+Size = 3,1 МиБ
 
 [Section.041f]
 License = GPL sürüm 2
 Description = "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga/PC), "Sokoban" (PC) gelenekleri içinde; UNIX, Mac OS X, Windows ve DOS için atari oyun salonu türünde oyun. Kurmak için bir ZIP çıkartma izlencesi gerekir.
-Size = 2,4 MiB
+Size = 3,1 MiB
 
 [Section.0804]
 Description = UNIX, Mac OS X, Windows 及 DOS 平台上的街机风格游戏，包含 "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga/PC), "Sokoban" (PC)。您将需要一个 ZIP 解压缩程序来安装它。

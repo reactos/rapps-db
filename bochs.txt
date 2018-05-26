@@ -1,19 +1,19 @@
 [Section]
 Name = Bochs
-Version = 2.6.8
+Version = 2.6.9
 License = LGPL v2
 Description = A highly portable open source IA-32 (x86) PC emulator written in C++, that runs on most popular platforms.
-Size = 4.8 MiB
+Size = 5.1 MiB
 Category = 15
 URLSite = http://bochs.sourceforge.net/
-URLDownload = http://download.sourceforge.net/project/bochs/bochs/2.6.8/Bochs-2.6.8.exe
-SHA1 = 6e585be74195e1b26e25c034ab804b9b076eb591
+URLDownload = https://download.sourceforge.net/project/bochs/bochs/2.6.9/Bochs-2.6.9.exe
+SHA1 = ad2d245b9f7d0492ec800df4b38b8893d8bb0642
 CDPath = none
-SizeBytes = 5041575
+SizeBytes = 5335913
 
 [Section.0407]
 Description = Portabler, quelloffener IA-32 (x86) PC-Emulator geschrieben in C++, der auf den meisten populären Plattformen läuft.
-Size = 4,8 MiB
+Size = 5.1 MiB
 
 [Section.0a]
 Description = Un emulador de PC IA-32 (x86) multiplataforma y de código abierto escrito en C++, funciona en gran cantidad de arquitecturas.
@@ -26,16 +26,16 @@ Description = Bochs to przenośny (portable) emulator platformy IA-32 (x86) napi
 
 [Section.0418]
 Description = Emulator de PC (x86) cu surse deschise și portabilitate înaltă, scris în C++, compatibil cu majoritatea platformelor.
-Size = 4,8 Mio
+Size = 5.1 Mio
 
 [Section.0419]
 Description = Программа эмуляции аппаратного обеспечения IBM PC (IA-32). Эмулирует x86-совместимые процессоры, поддерживает MMX, SSE, SSE2, 3DNow!, SSE3, SSE4, x86-64, VMX, AES.
-Size = 4,8 МиБ
+Size = 5.1 МиБ
 
 [Section.041f]
 License = LGPL sürüm 2
 Description = Çok taşınabilir, C++ ile yazılmış, en yaygın platformlarda çalışan, açık kaynak bir IA-32 (x86) PC öykünücüsüdür.
-Size = 4,8 MiB
+Size = 5.1 MiB
 
 [Section.0804]
 Description = 由 C++ 编写的高度可移植的开源 IA-32 (x86) PC 模拟器，它可在绝大多数主流平台上运行。

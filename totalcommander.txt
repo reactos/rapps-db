@@ -1,20 +1,20 @@
 [Section]
 Name = Total Commander
-Version = 9.00a
+Version = 9.12
 License = Shareware
 Description = A file manager for power users with two panels side by side.
-Size = 4.1 MiB
+Size = 4.2 MiB
 Category = 12
 URLSite = http://www.ghisler.com/
-URLDownload = http://totalcommander.ch/win/tcmd900ax32.exe
-SHA1 = c5d5c5f1b5ca558de549069beb61d443d09a59d8
+URLDownload = https://totalcommander.ch/win/tcmd912x32.exe
+SHA1 = edec52556aea94d2f5d895abf7bfacb12e00f991
 CDPath = none
-SizeBytes = 4289984
+SizeBytes = 4366296
 
 [Section.0407]
 Description = Dateimanager für Power User mit zwei nebeneinander liegenden Panels.
 URLSite = http://www.ghisler.com/deutsch.htm
-Size = 4,1 MiB
+Size = 4,2 MiB
 
 [Section.0a]
 Description = Un navegador de archivos multipanel para usuarios avanzados.
@@ -31,17 +31,17 @@ Description = Total Commander to popularny menedżer plików z dwoma panelami, u
 [Section.0418]
 License = Versiune de evaluare
 Description = Gestionar de fișiere după modelul paneluri-alăturate, pentru utilizatori avansați.
-Size = 4,1 Mio
+Size = 4,2 Mio
 
 [Section.0419]
 License = Условно бесплатно
 Description = Файловый менеджер с двумя панелями.
-Size = 4,1 МиБ
+Size = 4,2 МиБ
 
 [Section.041f]
 License = Paylaşımlı
 Description = Güçlü kullanıcılar için yan yana iki bölmeli bir dosya yöneticisi.
-Size = 4,1 MiB
+Size = 4,2 MiB
 
 [Section.0804]
 License = 共享软件

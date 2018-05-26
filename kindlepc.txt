@@ -1,29 +1,29 @@
 [Section]
 Name = Kindle For PC
-Version = 1.15.43061
+Version = 1.16.44025
 License = Freeware
 Description = A free application that lets you read Kindle books.
-Size = 43.5 MiB
+Size = 62.2 MiB
 Category = 6
 URLSite = www.amazon.com/kindleforpc
-URLDownload = http://kindleforpc.amazon.com/43061/KindleForPC-installer-1.15.43061.exe
-SHA1 = 27364a6867aac562426494312c2b3f4b673f13e2
+URLDownload = https://kindleforpc.amazon.com/44025/KindleForPC-installer-1.16.44025.exe
+SHA1 = c57d0a7d8cd5f1c3020536edf336c3187f3e051f
 CDPath = none
-SizeBytes = 45580176
+SizeBytes = 65292192
 
 [Section.0405]
 Description = Bezplatná aplikace, která umožňuje číst knihy Kindle.
 
 [Section.0407]
 Description = Ein kostenloses Programm, mit dem Sie Kindle Bücher lesen können.
-Size = 43,5 MiB
+Size = 62,2 MiB
 
 [Section.0a]
 Description = Una aplicación gratuita que te permite lee libros Kindle.
 
 [Section.040c]
 Description = Une application gratuite qui vous permet de lire des livres Kindle.
-Size = 43,5 Mio
+Size = 62,2 Mio
 
 [Section.0410]
 Description = Un'applicazione gratuita che consente di leggere libri per Kindle.
@@ -39,19 +39,19 @@ Description = Darmowa aplikacja, która pozwala czytać książki Kindle.
 
 [Section.0418]
 Description = Aplicație gratuită care permite lectura de cărți Kindle.
-Size = 43,5 Mio
+Size = 62,2 Mio
 
 [Section.0419]
 License = Бесплатно
 Description = Свободная программа, которая позволит читать книги Kindle.
-Size = 43,5 МиБ
+Size = 62,2 МиБ
 
 [Section.041b]
 Description = Bezplatná aplikácia, ktorá umožňuje čítanie Kindle kníh.
 
 [Section.041f]
 Description = Kindle kitaplarını okumanızı sağlayan ücretsiz bir uygulama.
-Size = 43,5 MiB
+Size = 62,2 MiB
 
 [Section.0422]
 Description = Безкоштовна програма, яка дозволяє читати книги Kindle.

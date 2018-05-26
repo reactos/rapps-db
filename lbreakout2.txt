@@ -1,26 +1,26 @@
 [Section]
 Name = LBreakout2
-Version = 2.4.1
+Version = 2.6.3
 License = GPL
 Description = Breakout Clone using SDL libs.
-Size = 3.0 MiB
+Size = 2.8 MiB
 Category = 4
 URLSite = http://lgames.sourceforge.net/index.php?project=LBreakout2
-URLDownload = http://download.sourceforge.net/project/lgames/binaries/lbreakout2-2.4.1-win32.exe
-SHA1 = 98204a126662fd8246e8a9fd01c7376fd3c016d4
+URLDownload = https://sourceforge.net/projects/portableapps/files/LBreakout2%20Portable/LBreakout2Portable_2.6.3_English.paf.exe
+SHA1 = 4a61f55e861c71c13469fc1692d0ffac7783480d
 CDPath = none
-SizeBytes = 3180349
+SizeBytes = 2895032
 
 [Section.0407]
 Description = Breakout-Klon. Verwendet SDL Bibliothek.
-Size = 3,0 MiB
+Size = 2,8 MiB
 
 [Section.0a]
 Description = Clon de Breakout usando las librerias SDL.
 
 [Section.040c]
 Description = Clone de casse-brique utilisant la bibliothèque SDL.
-Size = 3,0 Mio
+Size = 2,8 Mio
 
 [Section.0410]
 Description = Clone di Breakout che utilizza librerie SDL.
@@ -33,15 +33,15 @@ Description = Klon Breakouta/Arkanoida napisany przy użyciu biblioteki SDL.
 
 [Section.0418]
 Description = Ramificație-clonă a bibliotecilor SDL.
-Size = 3,0 Mio
+Size = 2,8 Mio
 
 [Section.0419]
 Description = Разновидность популярного арканойда Breakout.
-Size = 3,0 МиБ
+Size = 2,8 МиБ
 
 [Section.041f]
 Description = SDL kitaplıklarını kullanan Breakout taklidi.
-Size = 3,0 MiB
+Size = 2,8 MiB
 
 [Section.0422]
 Description = Клон Breakouta/Arkanoida, що використовує бібліотеки SDL.

@@ -1,34 +1,34 @@
 [Section]
 Name = MkvToolnix
-Version = 3.1.0
+Version = 10.0.0
 License = GPL
 Description = Set of tools for working with MKV format files.
-Size = 5.3 MiB
+Size = 14.7 MiB
 Category = 2
 URLSite = https://www.bunkus.org/
-URLDownload = https://www.bunkus.org/videotools/mkvtoolnix/windows/releases/3.1.0/mkvtoolnix-unicode-3.1.0-setup.exe
-SHA1 = ed3addfe6e78cfbb6d306b621ba4a9ee9a389de6
-SizeBytes = 5565064
+URLDownload = https://mkvtoolnix.download/windows/releases/10.0.0/mkvtoolnix-32bit-10.0.0-setup.exe
+SHA1 = 58828d5916bfc1c12eae58ace9b26c070fbd6356
+SizeBytes = 15467976
 
 [Section.0407]
 Description = Sammlung von Werkzeugen zum Bearbeiten von MKV Dateien.
-Size = 5,3 MiB
+Size = 14,7 MiB
 
 [Section.0415]
 Description = Narzędzia do pracy z plikami w formacie MKV.
-Size = 5,3 MiB
+Size = 14,7 MiB
 
 [Section.0418]
 Description = Grup de instrumente pentru formatul de fișiere MKV.
-Size = 5,3 Mio
+Size = 14,7 Mio
 
 [Section.0419]
 Description = Набор инструментов для работы с файлами формата mkv.
-Size = 5,3 МиБ
+Size = 14,7 МиБ
 
 [Section.041f]
 Description = MKV biçiminde dosyalarla çalışma için araç takımı.
-Size = 5,3 MiB
+Size = 14,7 MiB
 
 [Section.0804]
 Description = 处理 MKV 格式文件的套件。

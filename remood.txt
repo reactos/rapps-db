@@ -1,19 +1,19 @@
 [Section]
 Name = ReMooD
-Version = 0.8a
+Version = 0.9a
 License = GPL
 Description = A source port of Doom Legacy. It aims to provide the classic legacy experience with new features and more stability.
-Size = 1.1 MiB
+Size = 1.2 MiB
 Category = 4
 URLSite = http://remood.sourceforge.net/
-URLDownload = http://download.sourceforge.net/project/remood/ReMooD/0.8a/remoodsetup-win32_08a.exe
-SHA1 = 3d91e4feb9f56616a17baeedafc55fd7fe30d560
+URLDownload = https://download.sourceforge.net/project/remood/ReMooD/0.9a/remood-win32_09a.zip
+SHA1 = 4e951e7ca73b5a5895c3b601263f0231419f1d4c
 CDPath = none
-SizeBytes = 1205484
+SizeBytes = 193533
 
 [Section.0407]
 Description = Port des Doom Legacy Sources. Es versucht das klassische Legacy Erfahrung zusammen mit neuen Features und mehr Stabilität zu bieten.
-Size = 1,1 MiB
+Size = 1,2 MiB
 
 [Section.0410]
 Description = ReMooD è un porting sorgente di Doom Legacy. Punta a provedere la classica esperienza ereditaria con nuove funzionalità e maggiore stabilità.
@@ -23,7 +23,7 @@ Description = Una versión derivada de Doom Legacy. Su fin es revivir la experie
 
 [Section.040c]
 Description = ReMood est un portage du source de Doom Legacy. Son but est de fournir l'expérience classique de Legacy avec de nouvelles fonctionnalités et plus de stabilité.
-Size = 1,1 Mio
+Size = 1,2 Mio
 
 [Section.0413]
 Description = ReMood is een broncodeoverdracht van Doom Legacy. Het biedt de klassieke Legacy Ervaring met nieuwe mogelijkheden en betere stabiliteit.
@@ -33,15 +33,15 @@ Description = Źródłowy port Doom. Jego celem jest zapewnienie rozrywki znanej
 
 [Section.0418]
 Description = Portare a codului Doom Legacy, având ca scop de a oferi clasica experiență cu noi funcționalități și o mai bună stabilitate.
-Size = 1,1 Mio
+Size = 1,2 Mio
 
 [Section.0419]
 Description = Очередная версия игры Doom.
-Size = 1,1 МиБ
+Size = 1,2 МиБ
 
 [Section.041f]
 Description = Doom Legacy'in bir kaynak kodu uyarlamasıdır. Yeni özelliklerle ve daha çok kararlılıkla klasik eski deneyimini sağlamayı amaçlar.
-Size = 1,1 MiB
+Size = 1,2 MiB
 
 [Section.0422]
 Description = ReMooD э Портом вихідних кодів Doom Legacy. Його метою є додати нові можливості та стабільність до досвіду класичного Legacy.

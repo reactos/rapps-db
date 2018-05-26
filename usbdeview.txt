@@ -1,12 +1,12 @@
 [Section]
 Name = USBDeview
-Version = 2.71
+Version = 2.75
 License = Freeware
 Description = Small utility that lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used.
 Size = 92.4 KiB
 Category = 12
 URLSite = https://www.nirsoft.net/utils/usb_devices_view.html
-URLDownload = https://www.nirsoft.net/utils/usbdeview.zip
+URLDownload = https://web.archive.org/web/20180524095442if_/http://nirsoft.net/utils/usbdeview.zip
 SHA1 = 7d9c5ef40a4a0263cee45764e327fe3e6dd318cd
 CDPath = none
 SizeBytes = 94634

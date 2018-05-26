@@ -1,33 +1,33 @@
 [Section]
 Name = Scratch
-Version = 1.4
+Version = 2.0.460.0.1
 License = GPL
 Description = Visual object-oriented programming enviroment for children.
-Size = 33.0 MiB
+Size = 58.3 MiB
 Category = 8
 URLSite = http://scratch.mit.edu/
-URLDownload = http://download.scratch.mit.edu/ScratchInstaller1.4.exe
-SHA1 = fc48f579616cab2c2986c018745852e6c8817460
-SizeBytes = 34637975
+URLDownload = https://scratch.mit.edu/scratchr2/static/sa/Scratch-460.0.1.exe
+SHA1 = 03a13c17c20cd0cd219a89a471660e13b5d177d6
+SizeBytes = 61169576
 
 [Section.0407]
 Description = Visuelle objektorientierte Programmierumgebug für Kinder.
-Size = 33,0 MiB
+Size = 58,3 MiB
 
 [Section.0415]
 Description = Obiektowe środowisko programistyczne dla dzieci.
 
 [Section.0418]
 Description = Mediu de programare orientat pe obiecte adresat copiilor.
-Size = 33,0 Mio
+Size = 58,3 Mio
 
 [Section.0419]
 Description = Визуальная объектно-ориентированная среда программирования для детей.
-Size = 33,0 МиБ
+Size = 58,3 МиБ
 
 [Section.041f]
 Description = Çocuklar için görmelik nesneye yönelik programlama ortamı.
-Size = 33,0 MiB
+Size = 58,3 MiB
 
 [Section.0804]
 Description = 面向儿童的可视化面向对象编程环境。

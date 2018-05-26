@@ -1,22 +1,22 @@
 [Section]
 Name = MuseScore
-Version = 2.1
+Version = 2.2.1
 License = GNU GPLv2
 Description = Professional open source music notation software.
-Size = 54.6 MiB
+Size = 75.9 MiB
 Category = 15
 URLSite = https://musescore.org/
-URLDownload = https://ftp.osuosl.org/pub/musescore/releases/MuseScore-2.1/MuseScore-2.1.msi
-SHA1 = 4af01c0267ab0b22be2e8a5ec957903fbec68c62
+URLDownload = https://ftp.osuosl.org/pub/musescore/releases/MuseScore-2.2.1/MuseScore-2.2.1.msi
+SHA1 = a187d1f99659535dcff87d58b3c5546dac0f83c8
 CDPath = none
-SizeBytes = 57233408
+SizeBytes = 79675392
 
 [Section.0415]
 Description = Profesjonalne oprogramowanie do zapisu nutowego o otwartym kodzie źródłowym.
 
 [Section.0419]
 Description = Профессиональный open source нотный редактор.
-Size = 54.6 МиБ
+Size = 75.9 МиБ
 
 [Section.0804]
 Description = 专业的开源乐谱软件。

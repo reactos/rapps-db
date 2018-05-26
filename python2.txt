@@ -1,26 +1,26 @@
 [Section]
 Name = Python 2
-Version = 2.7.9
+Version = 2.7.15
 License = GPL/LGPL
 Description = A remarkably powerful dynamic programming language.
-Size = 17.5 MiB
+Size = 18.4 MiB
 Category = 7
 URLSite = http://www.python.org/
-URLDownload = http://www.python.org/ftp/python/2.7.9/python-2.7.9.msi
-SHA1 = 719832e0159eebf9cd48104c7db49aa978f6156c
+URLDownload = https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi
+SHA1 = 70830dd027e250a17b2265e24440785b1e2f3a16
 CDPath = none
-SizeBytes = 18309120
+SizeBytes = 19304448
 
 [Section.0407]
 Description = Sehr mächtige, dynamische Programmiersprache.
-Size = 17,5 MiB
+Size = 18,4 MiB
 
 [Section.0a]
 Description = Un lenguaje de programación dinámico sumamente potente.
 
 [Section.040c]
 Description = Un langage de programmation dynamique remarquablement puissant.
-Size = 17,5 Mio
+Size = 18,4 Mio
 
 [Section.0410]
 Description = Un Linguaggio di programmazione dinamico e potente.
@@ -33,15 +33,15 @@ Description = Potęży i dynamiczny język programowania.
 
 [Section.0418]
 Description = Limbaj de programare dinamic și puternic.
-Size = 17,5 Mio
+Size = 18,4 Mio
 
 [Section.0419]
 Description = Удивительно мощный динамический язык программирования.
-Size = 17,5 МиБ
+Size = 18,4 МиБ
 
 [Section.041f]
 Description = Dikkat çekici, güçlü ve dinamik bir programlama dili.
-Size = 17,5 MiB
+Size = 18,4 MiB
 
 [Section.0422]
 Description = Дуже потужна динамічна мова програмування.
