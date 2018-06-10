@@ -6,7 +6,7 @@ Description = Needed to open *.docx, *.xlsx, etc on Word/Excel Viewer and Office
 Size = 37.0 MiB
 Category = 6
 URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=3
-URLDownload = http://download.microsoft.com/download/9/2/2/9222D67F-7630-4F49-BD26-476B51517FC1/FileFormatConverters.exe
+URLDownload = https://web.archive.org/web/20180403110858/http://download.microsoft.com/download/9/2/2/9222D67F-7630-4F49-BD26-476B51517FC1/FileFormatConverters.exe
 SHA1 = 455b076bc8c805225f65c8935378d2c3906c4ec2
 CDPath = none
 SizeBytes = 38808920
@@ -14,16 +14,11 @@ SizeBytes = 38808920
 [Section.0407]
 License = Unbekannt
 Description = Wird zum Öffnen von *.docx, *.xlsx, etc unter Word/Excel Viewer und Office 2003 benötigt.
-Size = 37,0 MiB
 
 [Section.0415]
 Name = Pakiet kompatybilności Microsoft Office dla formatów plików Word, Excel i PowerPoint.
 License = Nieznana
 Description = Potrzebne do otwarcia plików *.docx, *.xlsx, itp. w programach Word/Excel Viewer i Office 2003.
-Size = 37,2 MiB
-URLDownload = https://download.microsoft.com/download/7/8/f/78f25e6d-7ac3-4003-88c3-e7db2837caef/FileFormatConverters.exe
-SHA1 = e8462e2b4fc49a8b86b4a0f93fec3a36b2cbfe2e
-SizeBytes = 39057384
 
 [Section.0418]
 Name = Pachet de compatibilitate pentru Microsoft Office
@@ -37,7 +32,7 @@ License = Неизвестно
 Description = Нужен, для открытия файлов *.docx, *.xlsx, и т.д. в Word/Excel Viewer и Office 2003.
 Size = 37,2 МиБ
 URLSite = http://www.microsoft.com/ru-RU/download/details.aspx?id=3
-URLDownload = http://download.microsoft.com/download/b/c/4/bc41c3a1-c243-4440-a771-8260515e4cc7/FileFormatConverters.exe
+URLDownload = https://web.archive.org/web/20170227131908/http://download.microsoft.com/download/b/c/4/bc41c3a1-c243-4440-a771-8260515e4cc7/FileFormatConverters.exe
 SHA1 = 03908a853cbdb39a026fa99687c6e243d1888b1f
 SizeBytes = 38986320
 
