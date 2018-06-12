@@ -2,7 +2,7 @@
 Name = QEMU
 Version = 2.7.0
 License = GPL v2
-Description = An open source and very fast machine emulator/virtualizer. It can emulate processors based on many various architectures (eg. x86, ARM, MIPS, PowerPC). Run with -display sdl flag to avoid the display glitches.
+Description = An open source and very fast machine emulator/virtualizer. It can emulate processors based on many various architectures (eg. x86, ARM, MIPS, PowerPC). Run with "-display sdl" flag to avoid the display glitches.
 Size = 20.9 MiB
 Category = 15
 URLSite = https://www.qemu.org/
@@ -12,5 +12,5 @@ CDPath = none
 SizeBytes = 21868888
 
 [Section.0415]
-Description = Otwartoźródłowy i bardzo szybki emulator/virtualizer maszyny. Potrafi emulować procesory bazujące na wielu różnych architekturach (np. x86, ARM, MIPS, PowerPC). Uruchom z opcją -display sdl, aby zapobiec błędom w wyświetlaniu.
+Description = Otwartoźródłowy i bardzo szybki emulator/virtualizer maszyny. Potrafi emulować procesory bazujące na wielu różnych architekturach (np. x86, ARM, MIPS, PowerPC). Uruchom z opcją "-display sdl", aby zapobiec błędom w wyświetlaniu.
 Size = 20,9 MiB
