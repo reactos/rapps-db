@@ -8,7 +8,7 @@ URLSite = http://store.steampowered.com/
 URLDownload = http://media.steampowered.com/client/installer/SteamSetup.exe
 SHA1 = 4b1b85ec2499a4ce07c89609b256923a4fc479e5
 CDPath = none
-SizeBytes = 1446792
+SizeBytes = 1573568
 
 [Section.0407]
 Description = Beliebte Internet Spiel-Vertriebsplattform und soziales Netz. Enthält DRM.

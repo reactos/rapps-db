@@ -7,9 +7,9 @@ Size = 2.3 MiB
 Category = 5
 URLSite = http://www.aprelium.com/
 URLDownload = http://www.aprelium.com/data/abwsx1.exe
-SHA1 = 198cdeac164f115a78766d092d30f23fd2c3180c
+SHA1 = de9dc520c9592bfde768a82f9e78608aa37428dc
 CDPath = none
-SizeBytes = 2414785
+SizeBytes = 2426128
 
 [Section.0407]
 Description = Ermöglicht es Webseiten auf Ihrem Computer zu hosten. Er unterstützt sichere SSL/TLS Verbindungen (HTTPS) sowie eine Vielfalt an Web Technologien. Er kann ebenfalls PHP, Perl, Python, ASP, ASP.NET, und Ruby on Rails Web Anwendungen ausführen, welche von Datenbanken, wie MySQL, SQLite, MS SQL Server, MS Access, oder Oracle unterstützt werden können.

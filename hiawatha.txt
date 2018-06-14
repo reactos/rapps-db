@@ -20,7 +20,7 @@ License = GPL sürüm 2
 Description = Güvenlik üzerine odaklı açık kaynak bir ağ sunucusu.
 Size = 3,4 MiB
 
-[Section.0145]
+[Section.0415]
 Description = Otwartoźródłowy serwer internetowy z naciskiem na bezpieczeństwo.
 Size = 3,4 MiB
 

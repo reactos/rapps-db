@@ -1,6 +1,6 @@
 [Section]
 Name = Mesa3D Graphics Library
-Version = 17.0.0
+Version = 17.0.1
 License = MIT
 Description = This build of the Mesa3D Graphics Library consits of Mesa, Gallium and llvmpipe. It provides a significant performance boost for systems with no OpenGL hardware acceleration. It can replace the OGL driver on your system - this can be set during setup or via the OpenGL Configuration control panel applet.
 Size = 5.7 MiB
