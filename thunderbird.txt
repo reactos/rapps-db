@@ -1,5 +1,5 @@
 [Section]
-Name = Mozilla Thunderbird 38
+Name = Mozilla Thunderbird 45
 Version = 45.8.0
 License = MPL/GPL/LGPL
 Description = Popular and open source e-mail client.
