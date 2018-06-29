@@ -1,7 +1,7 @@
 [Section]
 Name = Mypal
 Version = 27.9.3
-License = FOSS
+License = MPL/GPL/LGPL
 Description = Mypal is a current and maintained Windows XP web browser.
 Size = 30.0 MiB
 Category = 5
