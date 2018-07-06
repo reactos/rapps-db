@@ -1,24 +1,24 @@
 [Section]
 Name = Revo Uninstaller
-Version = 2.0.5
+Version = 1.95
 License = Freeware
 Description = Helps to uninstall software and remove unwanted programs installed easily.
-Size = 6.9 MiB
+Size = 2.5 MiB
 Category = 12
 URLSite = http://www.revouninstaller.com/
-URLDownload = http://www.filepuma.com/download/revo_uninstaller_2.0.5-18553/download/
-SHA1 = a4673ef72222007f7d4706e57651f8ecd5e1e50d
+URLDownload = http://9d4da85dff3fdd198886-459beec849893df302ec58f8a71b3ad1.r61.cf1.rackcdn.com/revosetup.exe
+SHA1 = 7fc81fb6cee0ba858b3801162c231a5f43c94a02
 CDPath = none
-SizeBytes = 7197480
+SizeBytes = 2623656
 
 [Section.0407]
 Description = Hilft Software zu deinstallieren und einfach ungewollte Programme loszuwerden.
-Size = 6,9 MiB
+Size = 2,5 MiB
 
 [Section.041f]
 License = Bilinmiyor
 Description = Yazılımları kaldırmak ve istenmeyen kurulu programları kolayca silmek için yardım eder.
-Size = 6,9 MiB
+Size = 2,5 MiB
 
 [Section.0415]
 Description = Pomaga w dezinstalacji oprogramowania i w łatwym usuwaniu niechcianych programów.
@@ -26,12 +26,12 @@ Description = Pomaga w dezinstalacji oprogramowania i w łatwym usuwaniu niechci
 [Section.0418]
 License = Gratuită
 Description = Program de dezinstalare a programelor și de eliminare a programelor nedorite.
-Size = 6,9 Mio
+Size = 2,5 Mio
 
 [Section.0419]
 License = Бесплатно
 Description = Помогает удалить софт и нежелательные программы, легко установить.
-Size = 6,9 МиБ
+Size = 2,5 МиБ
 
 [Section.0804]
 License = 免费软件
