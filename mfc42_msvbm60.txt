@@ -1,0 +1,12 @@
+[Section]
+Name = MFC 4.2 & VB6 (Home-made)
+Version = 1.0
+License = FOSS
+Description = A script to install VS6 dlls to ReactOS. Needed by some applications. Contains: mfc42.dll, mfc42u.dll, msvbvm60.dll.
+Size = 1.4 KiB
+Category = 14
+URLSite = https://jira.reactos.org/browse/CORE-13069
+URLDownload = https://svn.reactos.org/packages/vc6vb6hack.bat
+SHA1 = 7bfdb6610a403730a11cb88a9e43c49705aca25d
+CDPath = none
+SizeBytes = 1464
