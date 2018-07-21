@@ -1,0 +1,17 @@
+[Section]
+Name = iQPuzzle
+Version = 1.1.1
+License = Open Source (GPLv3)
+Description = A diverting I.Q. challenging pentomino puzzle
+Size = 22.8 MiB
+Category = 4
+URLSite = https://elth0r0.github.io/iqpuzzle/
+URLDownload = https://github.com/ElTh0r0/iqpuzzle/releases/download/v1.1.1/iQPuzzle-1.1.1-ReactOS_Installer.exe
+SHA1 = 728ead626903ef58192cdae856624e005ed450db
+CDPath = none
+SizeBytes = 24003230
+
+[Section.0407]
+Description = Ein kurzweiliges herausforderndes Pentomino-Puzzle
+Size = 22.8 MiB
+
