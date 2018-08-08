@@ -1,0 +1,11 @@
+[Section]
+Name = Fuse Emulator
+Version = 1.5.6
+License = GPL-2
+Description = A Sinclair ZX Spectrum emulator. It supports several models (including 16K/48K/128K/+2/+2A/+3 and some clones), with quite faithful emulation of the display and sound.
+Size = 1.88 MiB
+Category = 15
+URLSite = https://sourceforge.net/projects/fuse-emulator
+URLDownload = https://download.sourceforge.net/project/fuse-emulator/fuse/1.5.6/fuse-1.5.6-win32-setup.exe
+SHA1 = 8e6052bcb400ebb4439998602815b128a6305a5a
+CDPath = none
