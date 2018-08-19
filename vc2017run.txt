@@ -1,0 +1,64 @@
+[Section]
+Name = Microsoft Visual C++ 2017 Redistributable
+Version = 14.14
+License = Unknown
+Description = Needed by applications compiled with Visual Studio 2015/2017. Contains: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+Size = 13.9 MiB
+Category = 14
+URLDownload = https://aka.ms/vs/15/release/vc_redist.x86.exe
+SHA1 = f3e489cc471e82effd5c0b0165b19c4f6f6d3cb1
+CDPath = none
+SizeBytes = 14611496
+
+[Section.0407]
+License = Unbekannt
+Description = Benötigt für Visual Studio 2015/2017 basierte Anwendungen. Beinhaltet: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+Size = 13,9 MiB
+
+[Section.0a]
+License = Desconocida
+Description = Necesario para aplicaciones compiladas con Visual Studio 2015/2017. Incluye: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+
+[Section.040c]
+License = Inconnue
+Description = Bibliothèque Microsoft Visual Studio 2015/2017. Contient: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+Size = 13,9 Mio
+
+[Section.0410]
+License = Sconosciuta
+Description = Libreria Microsoft Visual Studio 2015/2017. Include: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+
+[Section.0413]
+License = Ongekend
+Description = Microsoft Visual Studio 2015/2017 Runtime. Bevat: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+
+[Section.0415]
+License = Nieznana
+Description = Biblioteki uruchomieniowe Microsoft Visual Studio 2015/2017. Zawiera: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+
+[Section.0418]
+License = Nespecificată
+Description = Pachet necesar pentru aplicațiile compilate cu Visual Studio 2015/2017. Conține: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+Size = 13,9 Mio
+
+[Section.0419]
+License = Неизвестно
+Description = Необходим для приложений, написанных в Visual Studio 2015/2017. Содержит: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+Size = 13,9 МиБ
+
+[Section.041f]
+License = Bilinmiyor
+Description = Visual Studio 2015/2017 ile derlenmiş uygulamalar tarafından gereklidir. Şunları içerir: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+Size = 13,9 MiB
+
+[Section.0422]
+License = Невідома
+Description = Бібліотеки Microsoft Visual Studio 2015/2017. включає: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+
+[Section.0804]
+License = 未知
+Description = 用 Visual Studio 2015/2017 编译的应用程序需要它。包含: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll。
+
+[Section.0813]
+License = Ongekend
+Description = Microsoft Visual Studio 2015/2017 Runtime. Bevat: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.

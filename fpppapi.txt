@@ -1,0 +1,17 @@
+[Section]
+Name = Adobe Flash Player 29 PPAPI Plugin
+Version = 29.0.0.171
+License = Freeware
+Description = Flash Player plugin for web browsers with PPAPI spupport (eg. Chrome, Vivaldi).
+Size = 19.9 MiB
+Category = 6
+URLSite = https://www.adobe.com/products/flashplayer.html
+URLDownload = https://web.archive.org/web/20180516032306if_/http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ppapi.exe
+SHA1 = e0ddb0f3c4bc9a48ebbe164ee5a068b133c7e156
+CDPath = none
+SizeBytes = 20846592
+
+[Section.0415]
+License = Darmowe
+Description = Wtyczka Flash Player do przeglądarek internetowych obsługujących PPAPI (np. Chrome, Vivaldi).
+Size = 19,9 MiB

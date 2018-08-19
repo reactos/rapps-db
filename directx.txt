@@ -1,0 +1,17 @@
+[Section]
+Name = DirectX End-User Runtimes (June 2010) 
+Version = 9.29
+License = Unknown
+Description = Provides the runtimes required by most DirectX based applications and games. You have to manually run the installer after unpacking.
+Size = 95.6 MiB
+Category = 14
+URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=8109
+URLDownload = https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe
+SHA1 = f8f1217f666bf2f6863631a7d5e5fb3a8d1542df
+CDPath = none
+SizeBytes = 100271992
+
+[Section.0415]
+License = Nieznana
+Description = Zawiera biblioteki wymagane przez większość gier i aplikacji opartych na DirectX. Należy uruchomić instalator po wypakowaniu plików.
+Size = 95,6 MiB

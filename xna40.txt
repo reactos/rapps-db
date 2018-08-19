@@ -1,0 +1,17 @@
+[Section]
+Name = Microsoft XNA Framework Redistributable 4.0 
+Version = 4.0
+License = Unknown
+Description = The XNA Framework Redistributable provides the necessary runtime components to execute a game on Windows that was developed using Microsoft XNA Game Studio 4.0.
+Size = 6.7 MiB
+Category = 14
+URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=20914
+URLDownload = https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi
+SHA1 = 49efdc29f65fc8263c196338552c7009fc96c5de
+CDPath = none
+SizeBytes = 7054336
+
+[Section.0415]
+License = Nieznana
+Description = Pakiet redystrybucyjny XNA zawiera niezbędne biblioteki do uruchomienia gier w systemie Windows, które zostały opracowane przy użyciu oprogramowania Microsoft XNA Game Studio 4.0.
+Size = 6,7 MiB
