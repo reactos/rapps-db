@@ -1,0 +1,16 @@
+[Section]
+Name = Otter Browser
+Version = win32-0.9.99.3-rc12-xp
+License = GPLv3
+Description = Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
+Size = 67.1 MiB
+Category = 5
+URLSite = https://otter-browser.org
+URLDownload = https://datapacket.dl.sourceforge.net/project/otter-browser/otter-browser-rc12/otter-browser-win32-0.9.99.3-rc12-xp.zip
+SHA1 = ebd36c009b8c9e66d99ebf9acc08fd53117946e2
+CDPath = none
+SizeBytes = 70367330
+
+[Section.0407]
+Description = Otter Browser ist ein Web-Browser, der das klassische Opera (12.x) UI mittels Qt5 wiederbelebt.
+
