@@ -1,0 +1,11 @@
+[Section]
+Name = Fasttracker II Clone
+Version = b94
+License = BSD-3-clause
+Description = Fasttracker II clone
+Size = 3 MiB
+Category = 1
+URLSite = https://16-bits.org/ft2.php
+URLDownload = https://16-bits.org/ft2-win32.zip
+SHA1 = 74c561d47426fc067c84e15c25a3dde3da8d78a8
+CDPath = none
