@@ -2,7 +2,7 @@
 Name = Adobe Flash Player 29 PPAPI Plugin
 Version = 29.0.0.171
 License = Freeware
-Description = Flash Player plugin for web browsers with PPAPI spupport (eg. Chrome, Vivaldi).
+Description = Flash Player plugin for web browsers with PPAPI support (eg. Chrome, Vivaldi).
 Size = 19.9 MiB
 Category = 6
 URLSite = https://www.adobe.com/products/flashplayer.html

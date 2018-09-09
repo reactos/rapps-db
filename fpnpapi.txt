@@ -2,7 +2,7 @@
 Name = Adobe Flash Player 29 NPAPI Plugin
 Version = 29.0.0.171
 License = Freeware
-Description = Flash Player plugin for web browsers with NPAPI spupport (eg. Firefox, Opera 12).
+Description = Flash Player plugin for web browsers with NPAPI support (eg. Firefox, Opera 12).
 Size = 19.9 MiB
 Category = 6
 URLSite = https://www.adobe.com/products/flashplayer.html
