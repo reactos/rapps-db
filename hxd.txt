@@ -1,44 +1,44 @@
 [Section]
 Name = HxD
-Version = 2.0.0.0
+Version = 2.1.0.0
 License = Freeware
-Description = A good hexadecimal editor. You will need a tool like 7-Zip to extract it.
+Description = A good hexadecimal editor.
 Size = 2.9 MiB
 Category = 7
 URLSite = http://mh-nexus.de/en/
 URLDownload = https://mh-nexus.de/downloads/HxDSetup.zip
-SHA1 = 6530a0d934f851d07c75f492e33c867e65c5d8a9
+SHA1 = c72ba64ede219eb80bcf44040ef6514b79a19d81
 CDPath = none
-SizeBytes = 872029
+SizeBytes = 3022723
 
 [Section.0407]
-Description = Guter Hexadezimal Editor. Zum extrahieren wird 7-Zip oder ein ähnliches Tool benötigt.
+Description = Guter Hexadezimal Editor.
 Size = 2,9 MiB
 URLSite = http://mh-nexus.de/de/
 
 [Section.0a]
 License = Gratuito
-Description = Un buen editor hexadecimal. Para extraerlo es necesario emplear una utilidad del estilo a 7-Zip.
+Description = Un buen editor hexadecimal.
 
 [Section.0415]
-Description = Dobry edytor Hex. Do wypakowania pliku potrzebny jest program archiwizujący np. 7-Zip.
+Description = Dobry edytor Hex.
 
 [Section.0410]
-Description = Un buon editor hexadecimale. Necessita 7-Zip o un programma simile per estrarlo.
+Description = Un buon editor hexadecimale.
 
 [Section.0418]
 License = Gratuită
-Description = Editor hexazecimal. Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.
+Description = Editor hexazecimal.
 Size = 2,9 Mio
 
 [Section.0419]
 License = Бесплатно
-Description = Хороший шестнадцатеричный редактор. Вам понадобится 7-zip, чтобы распаковать его.
+Description = Хороший шестнадцатеричный редактор.
 Size = 2,9 МиБ
 
 [Section.041f]
 License = Ücretsiz
-Description = İyi bir onaltılık düzenleyici. Çıkartmak için 7-Zip ya da benzeri bir yazılım kullanmanız gerekir.
+Description = İyi bir onaltılık düzenleyici.
 Size = 2,9 MiB
 
 [Section.0804]
