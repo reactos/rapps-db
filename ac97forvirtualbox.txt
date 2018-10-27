@@ -70,6 +70,12 @@ Name = Драйвер AC97 для VirtualBox
 License = Невідома
 Description = Pозархівуйте вміст в теку "ReactOS" після чого двічі перезавантажте систему.
 
+[Section.0425]
+Name = AC'97 draiver VirtualBox'ile
+License = Tundmatu
+Description = Audio driver for AC'97-compatible devices. Unzip in the ReactOS folder and restart twice.
+Size = 185,5 KiB
+
 [Section.0804]
 Name = VirtualBox 的 AC'97 驱动程序
 License = 未知

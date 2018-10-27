@@ -35,6 +35,10 @@ Size = 6,2 МиБ
 Description = Windows 95 CD'sinde bulunan klasik Hover CTF oyunu.
 Size = 6,2 MiB
 
+[Section.0425]
+Description = Klassikaline Windows 95 CD'l olev "Hover CTF" mäng.
+Size = 6,2 MiB
+
 [Section.0804]
 Description = 可以在 Windows 95 CD 中找到的经典 Hover 夺旗游戏。
 

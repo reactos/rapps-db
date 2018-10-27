@@ -40,6 +40,11 @@ License = GPL sürüm 3
 Description = Açık kaynak, çapraz platform, güçlü bir tümleşik geliştirme ortamı. TDM-GCC (sürüm 5.1.0, 32 bitlik) derleyicisini içerir.
 Size = 86,1 MiB
 
+[Section.0425]
+Name = Code::Blocks TDM-GCC (versioon 5.1.0, 32 bitti)
+Description = Avatud lähtekoodiga, mitmikplatvormil, võimas IDE. Sisaldab TDM-GCC (versioon 5.1.0, 32 bitti) kompileerijat.
+Size = 86,1 MiB
+
 [Section.0804]
 Description = 开源、跨平台的强大的 IDE。它包含 TDM-GCC (版本 5.1.0, 32 位) 编译器。
 

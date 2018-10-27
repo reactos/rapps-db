@@ -46,6 +46,10 @@ Size = 1,1 MiB
 [Section.0422]
 Description = Утиліта для створення та відкриття 7zip, zip, tar, rar та інших архівних файлів.
 
+[Strings.0425]
+Description = Failiarhiveerimise utiliit mis toetab 7zip, zip, tar, rar ja palju muid arhiivi formaate.
+Size = 1,1 MiB
+
 [Section.0804]
 Description = 一个文件归档实用程序，支持 7zip、zip、tar、rar 及许多其他归档格式。
 

@@ -52,6 +52,10 @@ Size = 249,0 KiB
 [Section.0422]
 Description = glidewrapper необхідний для запуску Diablo2 в ReactOS.
 
+[Section.0425]
+Description = Glide API kiht (emuleerib 3dfx kaarte OpenGL toega) mida on vaja Diablo II käivitamiseks ReactOS'il.
+Size = 249,0 KiB
+
 [Section.0804]
 License = 免费软件
 Description = 在 ReactOS 上运行 Diablo II 时需要的 Glide API 转换层(用 OpenGL 模拟 3dfx 显卡)。

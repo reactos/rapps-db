@@ -31,6 +31,10 @@ License = GPL sürüm 2
 Description = Bir Win32 Sega Genesis, Sega CD, Sega 32X öykünücüsü.
 Size = 573,1 KiB
 
+[Section.0425]
+Description = Win32 Sega Genesis / Sega CD / Sega 32X emulaator.
+Size = 573,1 KiB
+
 [Section.0804]
 Description = Win32 用的 Sega Genesis / Sega CD / Sega 32X 模拟器。
 

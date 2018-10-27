@@ -32,6 +32,10 @@ Size = 2,2 Mio
 Description = Свободная аркадная игра в жанре шутер.
 Size = 2,2 МиБ
 
+[Section.0425]
+Description = Arkaadistiilis, üles keriv komoses tulistaja.
+Size = 2,2 MiB
+
 [Section.041f]
 Description = Oyun konsolu salonu oyunu türünde, üstten kaydırmalı bir uzay atışçısıdır.
 Size = 2,2 MiB

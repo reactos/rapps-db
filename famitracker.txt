@@ -33,6 +33,11 @@ License = Ücretsiz
 Description = FamiTracker, NES ve Famicom dizgeleri için mûsikî üretmeye bir ücretsiz Windows programıdır.
 Size = 1,5 MiB
 
+[Section.0425]
+License = Vabavaraline
+Description = Tasuta Windows jälgija muusika produtseerimise jaoks NES ja Famicon süsteemidele.
+Size = 1,5 MiB
+
 [Section.0804]
 License = 免费软件
 Description = 一个免费的用来制作 NES 和 Famicom 系统音乐的 Windows 跟踪器。

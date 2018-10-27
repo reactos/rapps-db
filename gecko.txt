@@ -30,6 +30,10 @@ Size = 26,7 МиБ
 Description = Gecko Motoru düzgülü olarak birinci kurulum aşamasında yalnızca İnternet bağlantısı olduğunda kurulurdu. mshtml.dll'yi kullanan uygulamalar için gereklidir.
 Size = 26,7 MiB
 
+[Section.0425]
+Description = Gecko Engine on tavaliselt installitud esimeses paigalduse etapis, aga ainult kui interneti ühendus oli sel ajal olemas. Vaja rakendustel, mis toetuvad mshtml.dll peal.
+Size = 26,7 MiB
+
 [Section.0804]
 Description = Gecko Engine 通常在系统安装第一阶段安装，除非当时网络不可用。使用 mshtml.dll 的应用程序需要它。
 

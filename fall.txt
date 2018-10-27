@@ -30,6 +30,10 @@ Size = 370,9 Kio
 Description = Пингвины падают с айсберга, а вы должны их ловить батутом.
 Size = 370,9 КиБ
 
+[Section.0425]
+Description = Pingviinid kukkuvad jäemäelt ja Te peate nad põrkama sadamasse.
+Size = 370,9 KiB
+
 [Section.0804]
 Description = 企鹅从冰山落下，你必须把它们弹上码头。
 

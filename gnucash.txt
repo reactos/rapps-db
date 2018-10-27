@@ -30,6 +30,10 @@ Size = 114,0 МиБ
 Description = GNU GPL altında özgürce ruhsatlanmış, GNU/Linux, BSD, Solaris, Mac OS X ve Microsoft Windows için kullanılabilir, bir şahsî ve küçük iş mâlî muhâsebe yazılımı.
 Size = 114,0 MiB
 
+[Section.0425]
+Description = Finantsarvestus tarkvara eraisikutele ja väikeettevõtjatele, tasuta litsentseeritud GNU GPL all ja saadaval GNU/Linux, BSD, Solaris, Mac OS X ja Microsoft Windows platvormidel.
+Size = 114,0 MiB
+
 [Section.0a]
 Description = Un programa de contabilidad personal y de PYMEs liberado bajo los términos de la GNU GPL. Está disponible para GNU/Linux, BSD, Solaris, Mac OS X y Microsoft Windows.
 

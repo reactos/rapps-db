@@ -9,3 +9,7 @@ URLSite = http://pulkomandy.tk/projects/GrafX2
 URLDownload = http://pulkomandy.tk/projects/GrafX2/downloads/25
 SHA1 = http://pulkomandy.tk/projects/GrafX2/downloads/25
 CDPath = none
+
+[Section.0425]
+Description = Deluxe Paint 2 kloon
+Size = 2,0 MiB

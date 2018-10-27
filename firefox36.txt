@@ -114,6 +114,14 @@ URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/3.6.28/win
 SHA1 = 51fdd49bfc53bd06e239d11050a3daa86350811e
 SizeBytes = 8855856
 
+[Section.0425]
+Description = Populaarne veebibrauser. Tasuta ja avatud lähtekoodiga, loodud globaalse kogukonnaga.
+Size = 8,0 MiB
+URLSite = http://www.mozilla.org/et/
+URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/3.6.28/win32/et/Firefox%20Setup%203.6.28.exe
+SHA1 = 8fd58c6efb17b3bda6858f74b4e5b14974e60d81
+SizeBytes = 8459704
+
 [Section.0804]
 Description = 一个流行的网页浏览器。免费又开源，由一个全球社区制作。
 Size = 8.1 MiB

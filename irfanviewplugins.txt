@@ -57,6 +57,11 @@ Size = 15,8 MiB
 License = Freeware (для домашнього використання)
 Description = Додаткові плагіни для підтримки більшої кількості файлових типів.
 
+[Section.0425]
+License = Vabavaraline (isiklikuks kasutuseks)
+Description = Lisapluginaid rohkema faililaiendite toetamiseks.
+Size = 15,8 MiB
+
 [Section.0804]
 License = 免费软件（仅限个人用户）
 Description = 支持更多文件类型的额外的插件。

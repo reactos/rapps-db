@@ -34,6 +34,10 @@ Description = Un editor de gráficos vectoriales bajo la licencia GNU GPL.
 Description = GNU Genel Kamu Ruhsatı altında ruhsatlanmış bir vektör çizge düzenleyicisidir.
 Size = 63,6 MiB
 
+[Section.0425]
+Description = Vektorgraafika redigeerija litsentseeritud GNU General Public License all.
+Size = 63,6 MiB
+
 [Section.0804]
 Description = 以 GNU General Public 协议发行的矢量图编辑器。
 

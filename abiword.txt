@@ -46,6 +46,10 @@ Size = 9,4 MiB
 [Section.0422]
 Description = Текстовий процесор.
 
+[Section.0425]
+Description = Avatud lähtekoodiga tekstitöötluse programm.
+Size = 9,4 MiB
+
 [Section.0804]
 Description = 时髦开源的文字处理器。
 

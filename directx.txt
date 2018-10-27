@@ -15,3 +15,8 @@ SizeBytes = 100271992
 License = Nieznana
 Description = Zawiera biblioteki wymagane przez większość gier i aplikacji opartych na DirectX. Należy uruchomić instalator po wypakowaniu plików.
 Size = 95,6 MiB
+
+[Section.0425]
+License = Tundmatu
+Description = Annab enamus DirectX põhinevate rakenduste ja mängude jaoks sobivad runtimed. Peate installeri käivitama käsitisi pärast lahti pakkimist.
+Size = 95,6 MiB

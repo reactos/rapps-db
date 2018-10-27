@@ -33,6 +33,11 @@ License = Ücretsiz
 Description = Windows için bir onaltılık dosya düzenleyicisi.
 Size = 146,3 KiB
 
+[Section.0425]
+License = Vabavara
+Description = Kuueteistkümnendiksüsteemis failiredaktor Windowsile.
+Size = 146,3 KiB
+
 [Section.0804]
 License = 免费软件
 Description = 一个 Windows 用的十六进制文件编辑器。

@@ -43,6 +43,10 @@ Size = 10,7 MiB
 [Section.0422]
 Description = Відкритий компілятор BASIC. Синтаксис сумісний з QBASIC.
 
+[Section.0425]
+Description = Avatud lähtekoodiga BASIC kompileerija. BASIC süntaks on ühilduv QBASIC'u omaga..
+Size = 10,7 MiB
+
 [Section.0804]
 Description = 开放源码 BASIC 编译器。BASIC 语法与 QBASIC 兼容。
 

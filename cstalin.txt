@@ -33,6 +33,10 @@ Size = 261,0 МиБ
 Description = Boswars tabanlı bir "Sovyet" gerçek zamanlı izlem (RTS) oyunu. Bunu çıkartmak için 7-Zip gibi bir araca gereksinim duyacaksınız.
 Size = 261,0 MiB
 
+[Section.0425]
+Description = Nõukogude teemaline RTS mäng Boswars põhjal. Tööriista nagu 7-zip on vaja selle lahti pakkimiseks.
+Size = 261,0 MiB
+
 [Section.0804]
 Description = 一款基于 Boswars 的苏维埃主题的即时战略游戏。您需要类似 7-Zip 之类的工具来解压它。
 

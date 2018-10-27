@@ -32,6 +32,11 @@ License = Adobe Yazılım Ruhsatlama Anlaşması
 Description = Adobe AIR yürütücüsü geliştiricilere aynı kodu özgün uygulamalara ve oyunlara paketlemeye olanak sağlar.
 Size = 10,3 MiB
 
+[Section.0425]
+License = Adobe tarkvara litsentsi leping
+Description = Adobe AIR runtime lubab arendajatel pakkida sama koodi kohalikesse programmidesse ja mängudesse.
+Size = 10,3 MiB
+
 [Section.0804]
 Description = Adobe AIR 运行库允许开发者将同样的代码打包成原生应用及游戏。
 

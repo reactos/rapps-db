@@ -41,6 +41,11 @@ License = Ücretsiz
 Description = Alternatif PDF okuyucusu, işlevlilik yöntemi olarak Adobe Reader'le yarışıyor.
 Size = 78,0 MiB
 
+[Section.0425]
+License = Vabavaraline
+Description = Alternatiivne PDF luger, rivaalitseb Adobe Reader'it funktsionaalselt.
+Size = 78,0 MiB
+
 [Section.0804]
 Version = 9.1.0
 License = 免费软件

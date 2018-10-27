@@ -39,6 +39,10 @@ License = GPL sürüm 3
 Description = Güvenlik, başarım ve taşınabilirlik üzerine bir vurguyla, grafiksel bir ağ tarayıcısıdır. Dillo tabanlıdır ve Dillo-Win32 tasarısından çatallanmıştır.
 Size = 1,4 MiB
 
+[Section.0425]
+Description = Graafiline veebibrauser rõhuga turvalisusele ja kaasaskantavusele. Põhineb Dillo pealt ja on harustatud Dillo-Win32 projektist.
+Size = 1,4 MiB
+
 [Section.0804]
 Description = 注重安全、性能和可移植性的互联网浏览器。它基于 Dillo，它是 Dillo-Win32 方案的分支。
 

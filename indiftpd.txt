@@ -37,6 +37,11 @@ Version = 1.0.9 Beta
 Description = Bir tek çalıştırılabilir dosyadan oluşan tek başına bir FTP sunucusudur. Bir kullanıcının, çabucak, çalışan bir sunucuya sahip olmak istediği ve sisteminde bir sunucu kurmak/yapılandırmak istemediği (veyâ bunu yapmaya izni olmadığı) durumlar için tasarlanmıştır.
 Size = 556,0 KiB
 
+[Section.0425]
+Version = 1.0.9 Beeta
+Description = Iseseisev FTP server, mis funktsioneerib ühe ainsa rakendusena. See on disainitud olukordade jaoks, kus kasutaja ei soovi installida ega konfigureerida serverit süsteemil (või pole õiguseid selle jaoks) ja tahab kiirelt serveri tööle saada.
+Size = 556,0 KiB
+
 [Section.0804]
 Description = 单可执行文件的独立 FTP 服务器。它被设计成适用于用户不想在系统上安装或配置服务器（或者没有权限这么做）并且想马上运行一个服务器的情况。
 

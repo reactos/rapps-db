@@ -37,6 +37,11 @@ License = Ücretsiz
 Description = Geçici dosya temizleme ve genel bilgisayar yönetimi için çok iyi bir araç.
 Size = 15,1 MiB
 
+[Section.0425]
+License = Vabavaraline
+Description = Korralik tööriist ajutiste failide puhastamiseks ja üldise arvutihoolduse jaoks.
+Size = 15,1 MiB
+
 [Section.0804]
 License = 免费软件
 Description = 一个清理临时文件和日常维护计算机的好工具。

@@ -46,6 +46,10 @@ Size = 1,9 MiB
 [Section.0422]
 Description = Простий та маленький програвач аудіо файлів.
 
+[Section.0425]
+Description = Lihtne ja õhuke heliesitaja.
+Size = 1,9 MiB
+
 [Section.0804]
 Description = 简单、轻量级的音频播放器。
 
