@@ -1,35 +1,35 @@
 [Section]
 Name = PDFsam
-Version = 2.2.4
+Version = 3.3.5
 License = GPLv2
 Description = A free, open source, platform independent tool designed to perform split, merge and other manipulations on pdf document. Java Runtime needed!
-Size = 15.6 MiB
+Size = 14.7 MiB
 Category = 6
 URLSite = http://www.pdfsam.org/
-URLDownload = https://github.com/torakiki/pdfsam-v2/releases/download/v2.2.4/pdfsam-v2_2_4.msi
-SHA1 = e406c16e0816e5792bcca161ec9aaf1df3ecf910
+URLDownload = https://download.sourceforge.net/project/pdfsam/pdfsam/3.3.5/pdfsam-v3.3.5.msi
+SHA1 = 3baf154bf6ce75d62746d866fc5106c4c8300776
 CDPath = none
-SizeBytes = 16407552
+SizeBytes = 15396864
 
 [Section.0407]
 Description = Freies, quelloffenes, Plattformunabhängiges Werkzeug zum spiltten, zusammenfügen und anderer Manipulationen an PDF Dokumenten. Java Runtime benötigt!
-Size = 15,6 MiB
+Size = 14,7 MiB
 
 [Section.0415]
 Description = Darmowe, otwartoźródłowe wieloplatformowe narzędzie służące do dzielenia, scalania i innych operacji na dokumencie PDF. Wymagane jest środowisko uruchomieniowe Java!
 
 [Section.0418]
 Description = Instrument gratuit, cu surse deschise, multiplatformă, pentru împărțirea, unirea, și manipularea documentelor PDF. Este necesară Java Runtime!
-Size = 15,6 Mio
+Size = 14,7 Mio
 
 [Section.0419]
 Description = Инструмент, предназначенный для выполнения разделения, слияния и других операций с документами PDF.
-Size = 15,6 МиБ
+Size = 14,7 МиБ
 
 [Section.041f]
 License = GPL sürüm 2
 Description = PDF belgesi üzerinde bölme, birleştirme ve başka oynamalar yapmak için tasarlanmış, ücretsiz, açık kaynak, platform bağımsız bir araç. Java Yürütücüsü gereklidir!
-Size = 15,6 MiB
+Size = 14,7 MiB
 
 [Section.0804]
 Description = 一款免费、开源和平台独立的用于对 PDF 文档进行拆分、合并及其他操作的工具。需要 Java 运行库。
