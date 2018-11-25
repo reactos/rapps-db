@@ -56,6 +56,11 @@ Size = 2,4 MiB
 License = Freeware (для домашнього використання)
 Description = Переглядач для всіх видів графічних та аудіо/відео файлів.
 
+[Section.0425]
+License = Vabavaraline (isiklikuks kasutuseks)
+Description = Vaatur igasuguste graafika/heli/videofailidele.
+Size = 2,4 MiB
+
 [Section.0804]
 License = 免费软件（尽显个人用户）
 Description = 各种类型的图像音视频的查看器。

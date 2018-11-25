@@ -43,6 +43,10 @@ Size = 1,4 MiB
 [Section.0422]
 Description = DOSBox - емулятор DOSу.
 
+[Section.0425]
+Description = Avatud lähtekoodiga DOS emulaator.
+Size = 1,4 MiB
+
 [Section.0804]
 Description = 开源的 DOS 模拟器。
 

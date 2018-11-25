@@ -32,6 +32,10 @@ Size = 48,1 Mio
 Description = Свободная интегрированная среда разработки приложений для языков программирования C/C++. Содержит 64 битный TDM-GCC компилятор.
 Size = 48,1 МиБ
 
+[Section.0425]
+Description = Ülalpeetud versioon programmist Dev-C++. Sisaldab 64 bittist TDM-GCC kompileerijat.
+Size = 48,1 MiB
+
 [Section.041f]
 License = GPL sürüm 2
 Description = Dev-C++'nın sürdürülen bir sürümü. 64 bitlik TDM-GCC derleyicisi içerir.

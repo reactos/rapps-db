@@ -36,6 +36,10 @@ Size = 62,3 МиБ
 Description = Gelecekçi ve gerçek zamanlı bir izlem oyunu. Çalıştırmak için Microsoft Visual C++ 2008 Yürütücü gerekir.
 Size = 62,3 MiB
 
+[Section.0425]
+Description = Futuristlik reaalajas strateegiamäng. Vajab Microsoft Visual C++ 2008 runtime'i tööks.
+Size = 62,3 MiB
+
 [Section.0804]
 Description = 一个未来风的即时战略游戏。需要 Microsoft Visual C++ 2008 运行库才能运行。
 

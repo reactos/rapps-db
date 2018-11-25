@@ -30,6 +30,10 @@ License = GPL sürüm 2
 Description = Hızlı mühendislik, bilimlik ilk örnekleme ve veri işleme için özgür bir ortam.
 Size = 49,8 MiB
 
+[Section.0425]
+Description = Tasuta keskkond kiire inseneri- ja teaduslik prototüüpimise ja andmetöötluse jaoks.
+Size = 49,8 MiB
+
 [Section.0804]
 Description = 一个免费的快速工程、科学原型设计及数据处理的环境。
 

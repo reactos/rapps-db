@@ -75,6 +75,11 @@ Size = 913,7 KiB
 License = Невідома
 Description = Файл потрібен декотрим програмам. включає: comctl32.ocx, mscomctl.ocx, advpack.dll.
 
+[Section.0425]
+License = Tundmatu
+Description = Fail nõutud osade rakenduste poolt. Sisaldab: comctl32.ocx, mscomctl, advpack.dll.
+Size = 913,7 KiB
+
 [Section.0804]
 License = 未知
 Description = 一些应用程序需要这些文件。包含：comctl32.ocx、mscomctl.ocx、advpack.dll。

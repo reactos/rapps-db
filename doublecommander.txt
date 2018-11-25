@@ -42,6 +42,10 @@ Size = 6,3 MiB
 [Section.0422]
 Description = Double Commander - це відкритий двопанельний файловий менеджер. Вам потрібен 7-Zip або подібна утиліта щоб розпакувати його.
 
+[Section.0425]
+Description = Avatud lähtekoodiga failihaldur kahe kõrvuti oleva paneeliga. Tööriista nagu 7-zip on vaja selle lahti pakkimiseks.
+Size = 6,3 MiB
+
 [Section.0804]
 Description = 含有两个面板并排的开放源码文件管理器。您将需要一个像 7-ZIP 文件的解压工具来解压它。
 

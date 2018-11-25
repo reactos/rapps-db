@@ -37,6 +37,10 @@ License = LGPL sürüm 2
 Description = Çok taşınabilir, C++ ile yazılmış, en yaygın platformlarda çalışan, açık kaynak bir IA-32 (x86) PC öykünücüsüdür.
 Size = 5.1 MiB
 
+[Section.0425]
+Description = Kõrgelt kaasaskantav avatud lähtekoodiga C++ keeles kirjutatud IA-32 (x86) personaalarvuti emulaator, mis töötab kõige populaarsematel platvormidel.
+Size = 5,1 MiB
+
 [Section.0804]
 Description = 由 C++ 编写的高度可移植的开源 IA-32 (x86) PC 模拟器，它可在绝大多数主流平台上运行。
 

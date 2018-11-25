@@ -85,6 +85,11 @@ URLDownload = https://web.archive.org/web/20150402065601if_/http://download.micr
 SHA1 = 5c3227d253f9ff1eabd3a8f2d1408228c7e6f134
 SizeBytes = 53638640
 
+[Section.0425]
+License = Tundmatu
+Description = Vabavaraline tabelivaatur Office formaatidele (*.xls).
+Size = 74,1 MiB
+
 [Section.0804]
 License = 未知
 Description = 免费的 Office 电子表格格式 (*.xls) 查看器。

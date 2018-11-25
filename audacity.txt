@@ -33,6 +33,10 @@ Size = 19,3 МиБ
 Description = Sesleri kaydetme ve düzenleme için özgür, açık kaynak ve çapraz platform yazılımdır.
 Size = 19,3 MiB
 
+[Section.0425]
+Description = Tasuta, avatud lähtekoodiga ja mitmikplatvormil tarkvara helisalvestamiseks ja redigeerimiseks.
+Size = 19,3 MiB
+
 [Section.0804]
 Description = 免费开源跨平台的声音录制、编辑软件。
 

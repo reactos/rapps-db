@@ -15,3 +15,8 @@ SizeBytes = 20872192
 License = Darmowe
 Description = Wtyczka Flash Player do przeglądarek internetowych obsługujących NPAPI (np. Firefox, Opera 12).
 Size = 19,9 MiB
+
+[Section.0425]
+License = Vabavaraline
+Description = Flash Playeri plugin veebibrauseritele NPAPI toega (nt. Firefox, Opera 12).
+Size = 19,9 MiB

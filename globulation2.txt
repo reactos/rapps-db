@@ -36,6 +36,10 @@ Size = 13,4 МиБ
 Description = Gerçek zamanlı bir izlem oyunu. Bu oyun, birimlere kendiliğinden görevler atayarak oyun mikro yönetimini en aza indirir.
 Size = 13,4 MiB
 
+[Section.0425]
+Description = Reaalajas strateegia mäng. Mäng minimeerib mikromajandust automaatselt määrates käske üksustele.
+Size = 13,4 MiB
+
 [Section.0804]
 Description = 一个实时战略游戏。游戏通过自动给单位分配任务来简化游戏微操。
 

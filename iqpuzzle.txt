@@ -15,3 +15,6 @@ SizeBytes = 24003230
 Description = Ein kurzweiliges herausforderndes Pentomino-Puzzle
 Size = 22.8 MiB
 
+[Section.0425]
+Description = Suunav I.Q. pentomino mõistatus.
+Size = 22,8 MiB

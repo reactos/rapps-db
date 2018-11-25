@@ -33,6 +33,10 @@ Size = 24,7 МиБ
 Description = PostScript dili ve PDF için bir açık kaynak yorumlayıcı.
 Size = 24,7 MiB
 
+[Section.0425]
+Description = Avatud tõlikja PostScript keele ja PDF jaoks.
+Size = 24,7 MiB
+
 [Section.0804]
 Description = 一款 PostScript 和 PDF 的开放的解释器。
 

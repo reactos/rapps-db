@@ -42,6 +42,11 @@ License = Bilinmiyor
 Description = Bir yazı tipi paketi, Mono ve Sans yazı tiplerini kapsar. ReactOS'un dizinine çıkartınız.
 Size = 2,9 MiB
 
+[Section.0425]
+License = Tundmatu
+Description = Fondipakend, mis sisaldab Mono ja Sans fonte. Paki lahti ReactOS kausta.
+Size = 2,9 MiB
+
 [Section.0804]
 License = 未知
 Description = 包含 Mono 和 Sans 的字体包，请解压到 ReactOS 文件夹。

@@ -40,6 +40,11 @@ License = Ücretsiz
 Description = Frozen Fruits benzeri bir oyun.
 Size = 892,3 KiB
 
+[Section.0425]
+License = Vabavaraline
+Description = „Frozen Fruits”-iga sarnanev mäng.
+Size = 892,3 KiB
+
 [Section.0804]
 License = 免费软件
 Description = 一款类似 Frozen Fruits 的游戏。

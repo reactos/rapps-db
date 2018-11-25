@@ -15,3 +15,7 @@ SizeBytes = 146623848
 License = Бесплатно
 Description = Клиет для игровой платформы GOG Galaxy
 Size = 139 МиБ
+
+[Section.0425]
+License = Vabavara
+Description = Mänguri klient disainitud mugavaks mängude ostmiseks, mängimiseks ja uuendamiseks, lisaks mitmikmängimise võimalus erinevate platvormidega, GOG Galaxy on veel üles ehitatud valikulisust silmas pidades ja veendumisega, et Te peaksite omama mänge, mida ostate. DRM-vaba!

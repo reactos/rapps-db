@@ -41,6 +41,11 @@ License = GPL sürüm 3
 Description = Açık kaynak, çapraz platform, güçlü bir tümleşik geliştirme ortamı. Bir derleyici içermez.
 Size = 35,6 MiB
 
+[Section.0425]
+Name = Code::Blocks (kompileerijata)
+Description = Avatud lähtekoodiga, mitmikplatvormil, võimas IDE. Ei sisalda kompileerijat.
+Size = 35,6 MiB
+
 [Section.0804]
 Description = 开源、跨平台的强大的 IDE。不含编译器。
 
