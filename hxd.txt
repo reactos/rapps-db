@@ -1,15 +1,15 @@
 [Section]
 Name = HxD
-Version = 2.1.0.0
+Version = 2.2.0.0
 License = Freeware
 Description = A good hexadecimal editor.
 Size = 2.9 MiB
 Category = 7
 URLSite = http://mh-nexus.de/en/
 URLDownload = https://mh-nexus.de/downloads/HxDSetup.zip
-SHA1 = c72ba64ede219eb80bcf44040ef6514b79a19d81
+SHA1 = 7df6eeac31db0992bbbcda9e5a140861d971e82d
 CDPath = none
-SizeBytes = 3022723
+SizeBytes = 3088313
 
 [Section.0407]
 Description = Guter Hexadezimal Editor.
