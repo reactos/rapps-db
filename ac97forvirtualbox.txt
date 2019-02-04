@@ -77,9 +77,9 @@ Description = Audio driver for AC'97-compatible devices. Unzip in the ReactOS fo
 Size = 185,5 KiB
 
 [Section.0804]
-Name = VirtualBox 的 AC'97 驱动程序
+Name = 适用于 VirtualBox 的 AC'97 驱动程序
 License = 未知
-Description = AC'97 兼容设备的音频驱动程序。解压进 ReactOS 文件夹并重新启动两次。
+Description = AC'97 兼容设备的音频驱动程序。解压到 ReactOS 文件夹并重启两次后生效。
 
 [Section.0813]
 Name = AC97 Driver voor VirtualBox
