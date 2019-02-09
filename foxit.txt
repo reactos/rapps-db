@@ -51,4 +51,3 @@ Version = 9.1.0
 License = 免费软件
 Description = PDF 阅读器替代品，拥有媲美 Adobe Reader 的功能水平。
 
-
