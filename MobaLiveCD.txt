@@ -7,7 +7,7 @@ License = GPL
  
 Size = 1.52MB
  
-Category = 
+Category = 12
 URLSite = https://www.mobatek.net/labs_mobalivecd.html
 URLDownload = https://www.mobatek.net/exes/MobaLiveCD_v2.1.exe
 CDPath = none
