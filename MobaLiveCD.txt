@@ -1,0 +1,21 @@
+[Section]
+ Name = MobaLiveCD 
+Version = 2.1
+License = GPL
+
+ Description = MobaLiveCD is a freeware that will run your Linux LiveCD on Windows thanks to the excellent emulator called "Qemu".
+ 
+Size = 1.52MB
+ 
+Category = 
+URLSite = https://www.mobatek.net/labs_mobalivecd.html
+URLDownload = https://www.mobatek.net/exes/MobaLiveCD_v2.1.exe
+CDPath = none
+ 
+ 
+
+Size Bytes= 1.601.024 bytes
+[Section.0415]
+ Description = MobaLiveCD is a freeware that will run your Linux LiveCD on Windows thanks to the excellent emulator called "Qemu". MobaLiveCD allows you to test your LiveCD with a single click.
+[Section.040a]
+ Description = MobaLiveCD es un programa freeware que correrá tus LiveCD de Linux en Windows debido al excelente emulador llamado "QEMU". MobaLiveCD te permite  probar tus LiveCD con un simple click.
