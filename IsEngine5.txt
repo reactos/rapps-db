@@ -6,7 +6,7 @@ Description = InstallShield Launcher 5
 Size = 72KB
 Category = 14
 URLSite = http://toastytech.com/files/setup.html
-URLDownload Installer = http://toastytech.com/files/Is5Launcher.zip
+URLDownload = http://toastytech.com/files/Is5Launcher.zip
 CDPath = none
 SizeBytes: 73.728 bytes
 
