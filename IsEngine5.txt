@@ -1,7 +1,7 @@
 [Section]
 Name = IsEngine5
 Version = 5.52.164.0 (file properties)
-License = Unkown
+License = Unknown
 Description = InstallShield Launcher 5
 Size = 72KB
 Category = 14
