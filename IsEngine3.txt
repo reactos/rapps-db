@@ -1,6 +1,6 @@
 [Section]
 Name = IsEngine3 
-Version = 3.0.117.0 (file properties)
+Version = 3.0.117.0
 License = Unknown
 Description = InstallSheild Engine 3.0 
 Size = 662KB
