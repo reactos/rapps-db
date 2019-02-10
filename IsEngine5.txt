@@ -11,9 +11,7 @@ CDPath = none
 SizeBytes: 73.728 bytes
 
 [Section.040a]
-Description = InstallShield Launcher 5: Éste es un reemplazo de 32 bits para el Launcher de 16 bits. Reemplace su setup.exe de 16 bits con este archivo.
-Solo para uso con aplicaciones empaquetadas con InstallShield 5.
+Description = InstallShield Launcher 5: Éste es un reemplazo de 32 bits para el Launcher de 16 bits. Reemplace su setup.exe de 16 bits con este archivo. Solo para uso con aplicaciones empaquetadas con InstallShield 5.
 
 [Section.0415]
-Description = InstallShield Launcher 5 - This is a 32-bit replacement for the 16-bit Launcher. Replace your 16-bit setup.exe with this file. 
-Only for use with applications packaged with InstallShield 5.
+Description = InstallShield Launcher 5 - This is a 32-bit replacement for the 16-bit Launcher. Replace your 16-bit setup.exe with this file.  Only for use with applications packaged with InstallShield 5.
