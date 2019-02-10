@@ -1,0 +1,19 @@
+[Section]
+Name = IsEngine3 
+Version = 20180718
+License = Uknown
+Description = InstallSheild Engine 3.0
+Size = 662KB
+Category = 14
+URLSite = http://toastytech.com/files/setup.html
+URLDownload Installer = toastytech.com/files/Is3Engine.zip
+CDPath = none
+SizeBytes: 677.888 bytes
+
+[Section.040a]
+Description = InstallSheild Engine 3.0: Éste es el archivo que el iniciador de 16 bits extrae de _inst32i.ex_. Colóquelo en una carpeta ESCRIBIBLE con el resto de los archivos de instalación y ejecute esto en lugar de setup.exe.
+Solo para uso con aplicaciones empaquetadas con InstallShield 3
+
+[Section.0415]
+Description = InstallSheild Engine 3.0 - This is the file the 16-bit launcher extracts from _inst32i.ex_. Place it in a WRITABLE folder with the rest of the installation files, and run this instead of setup.exe. 
+Only for use with applications packaged with InstallShield 3.
