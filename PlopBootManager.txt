@@ -1,0 +1,20 @@
+[Section]
+Name = Plop Boot Manager
+Version = 5.0.15
+License = freeware
+Description = Plop Boot Manager is an independent bootloader to boot media like USB without BIOS support
+Size = 2.63MB
+Size Bytes= 2.767.349 bytes
+Category = 12
+URLSite =Bhttps://www.plop.at/en/bootmanagers.html
+URLDownload =Nhttps://download.plop.at/files/bootmngr/plpbt-5.0.15.zip
+URLDownload Patch required for ReactOS = https://download.plop.at/files/bootmngr/plpbt4win-freeldr-patch.zip
+Size = 2,44 KB 
+SizeBytes = 2.505 bytes
+CDPath = none
+
+[Section.0415]
+Description = The Plop Boot Manager is a small program to boot different operating systems without BIOS support.
+
+[Section.040a]
+Description = Plop Boot Manager en un programa para arrancar diferentes sistemas operativos sin el soporte de la BIOS.
