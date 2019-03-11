@@ -23,7 +23,7 @@ Description = Gestionar (cu surse deschise) de fișiere de tip consolă textual�
 Size = 10,2 Mio
 
 [Section.0419]
-Description = Двух панельный консольный менеджер файлов
+Description = Двухпанельный консольный менеджер файлов
 Size = 10,2 МиБ
 
 [Section.041f]
