@@ -1,15 +1,15 @@
-[Section]
+﻿[Section]
 Name = ZeroBrane Studio
-Version = 1.70
+Version = 1.80
 License = MIT
 Description = Zerobrane Studio is a lightweight open-source Lua IDE text editor with lots of features and functions implemented making it easy to write Lua code and scripts written in that language.
-Size = 6.19 MB
+Size = 6.39 MB
 Category = 7
 URLSite = https://studio.zerobrane.com
-URLDownload = https://download.zerobrane.com/ZeroBraneStudioEduPack-1.70-win32.exe
-SHA1 = c4858a520e4f8f0e980c9af0711d2bc5037b495d
+URLDownload = https://download.zerobrane.com/ZeroBraneStudioEduPack-1.80-win32.exe
+SHA1 = 35195342a6199437ae2e9d5040abb8b092b2c71a
 CDPath = none
-SizeBytes = 6602704
+SizeBytes = 6390000
 
 [Section.0415]
 Description = ZeroBrane Studio to lekki, otwartoźródłowy edytor tekstu IDE z wieloma funkcjami pozwalającymi na łatwe programowanie w Lua i tworzenie skryptów w tym języku.
