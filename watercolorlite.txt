@@ -1,0 +1,12 @@
+﻿[Section]
+Name = Watercolor Lite
+Version = 2.11
+License = Freeware
+Description = A Windows theme based on the look of Windows Codename Whistler. Slight variation over the Watercolor 4.3 theme.
+Size = 587 KiB
+Category = 15
+URLSite = https://uploads.s.zeid.me/Watercolor/README.html
+URLDownload = https://uploads.s.zeid.me/Watercolor/WatercolorLitev211.exe
+SHA1 = f8fa5c37077249724b7164a27efa47d526f7c2d5
+CDPath = none
+SizeBytes = 601627
