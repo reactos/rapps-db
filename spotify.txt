@@ -1,0 +1,13 @@
+﻿[Section]
+Name = Spotify
+Version = 1.0.29.92
+License = Freeware
+Description = Spotify is one of the most popular services for streaming music and includes both a free and paid plan. The Spotify client has dropped support for XP, but this archived version still supports it.
+Size = 47.7 MB MiB
+Category = 1
+URLSite = https://www.spotify.com/us/
+URLDownload = https://bennottelling.com/ros/apps/SpotifyFullSetup1.0.29.92.exe
+SHA1 = 09fe3cedaa08e2bab0ceee01ec9c48b1d9ee414f
+CDPath = none
+SizeBytes = 50109784
+
