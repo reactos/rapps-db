@@ -1,19 +1,20 @@
 [Section]
 Name = Steam
+Version = 4.83.53.91
 License = Freeware
 Description = Popular Internet game distribution platform and social network. Includes DRM.
-Size = 1.4 MiB
+Size = 471 MiB
 Category = 4
 URLSite = http://store.steampowered.com/
-URLDownload = http://media.steampowered.com/client/installer/SteamSetup.exe
-SHA1 = 4b1b85ec2499a4ce07c89609b256923a4fc479e5
+URLDownload = https://encodedpr.com/files/reactos/apps/steam.zip
+SHA1 = 5967d1b0e91b477659a808bc14844e9fdd1ed7af
 CDPath = none
-SizeBytes = 1573568
+SizeBytes = 494672502
 
 [Section.0407]
 Description = Beliebte Internet Spiel-Vertriebsplattform und soziales Netz. Enthält DRM.
 URLSite = http://store.steampowered.com/?l=german
-Size = 1,4 MiB
+Size = 471 MiB
 
 [Section.0a]
 Description = Plataforma de distribución de juegos por Internet y red social. Incluye DRM.
@@ -22,7 +23,7 @@ URLSite = http://store.steampowered.com/?l=spanish
 [Section.040c]
 Description = La plateforme de jeu Steam utilisée par beaucoup de jeux de nos jours.
 URLSite = http://store.steampowered.com/?l=french
-Size = 1,4 Mio
+Size = 471 Mio
 
 [Section.0410]
 Description = La piattaforma di gioco Steam usata da molti giochi in questi giorni.
@@ -40,19 +41,19 @@ URLSite = http://store.steampowered.com/?l=polish
 License = Gratuită
 Description = Platformă populară de distribuție a jocurilor și rețea de socializare. Include mecanisme de gestiune a drepturilor de autor (DRM).
 URLSite = http://store.steampowered.com/?l=romanian
-Size = 1,4 Mio
+Size = 471 Mio
 
 [Section.0419]
 License = Бесплатно
 Description = Сервис цифрового распространения компьютерных игр и программ.
 URLSite = http://store.steampowered.com/?l=russian
-Size = 1,4 МиБ
+Size = 471 МиБ
 
 [Section.041f]
 License = Ücretsiz
 Description = Tutulan internet oyun dağıtım platformu ve sosyal ağ. DRM içerir.
 URLSite = http://store.steampowered.com/?l=turkish
-Size = 1,4 MiB
+Size = 471 MiB
 
 [Section.0422]
 Description = Ігрова платформа, що використовується багатьма іграми.
