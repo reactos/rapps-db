@@ -1,0 +1,15 @@
+ [Section]
+ Name = BOINC
+ Version = 7.14.2
+ License = LGPL
+ Description = BOINC is an open-source software platform for computing using volunteered resources.
+ Size = 8.67 MB
+ Category = 11
+ URLSite = https://boinc.berkeley.edu/
+ URLDownload = https://boinc.berkeley.edu/dl/boinc_7.14.2_windows_intelx86.exe
+ SHA1 = 0d4b39def85afe620df3e8cb0b68a795c338a18d
+ CDPath = none
+ SizeBytes = 8673832
+
+ [Section.0415]
+ Description = BOINC to otwartoźródłowa platforma do obliczeń wykorzystująca zasoby dobrowolne.
