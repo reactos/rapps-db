@@ -1,15 +1,15 @@
 [Section]
 Name = RisohEditor
-Version = 5.1.7
+Version = 5.1.8
 License = GPLv3
 Description = RisohEditor is a free Win32 resource editor that can edit resource data in EXE, DLL and RC files.
-Size = 9.7 MiB
+Size = 9.2 MiB
 Category = 7
 URLSite = https://katahiromz.web.fc2.com/re/en
-URLDownload = https://github.com/katahiromz/downloads/raw/master/risoheditor-5.1.7-setup.exe
-SHA1 = 6e57c60ba85d2e329a7f0ccea3890ab81ba2e3fe
+URLDownload = https://github.com/katahiromz/downloads/raw/master/risoheditor-5.1.8-setup.exe
+SHA1 = 232d58b6c26665286cba0c2317a627f782bf37f1
 CDPath = none
-SizeBytes = 10135456
+SizeBytes = 9619375
 
 [Section.0411]
 Description = リソーエディタは、EXE、DLL、RCファイルの中のリソースデータを編集できるフリーのWin32のリソースエディタです。
