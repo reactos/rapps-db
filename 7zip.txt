@@ -11,6 +11,10 @@ SHA1 = 642c3612a76e06277231a8ac10551751cf815726
 CDPath = none
 SizeBytes = 1181017
 
+[Section.0401]
+Description = .برنامج لضغط وفك ضغط الملفات يدعم تنسيقات متعددة مثل زيب و 7زيب و رار و غيرها
+Size = 1,1 مب
+
 [Section.0407]
 Description = Dateiarchivierungswerkzeug zum Erstellen und Öffnen von 7zip, zip, tar, rar und vielen anderen Archivformaten.
 Size = 1,1 MiB
