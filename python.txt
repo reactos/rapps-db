@@ -1,5 +1,5 @@
 [Section]
-Name = Python 3
+Name = Python
 Version = 3.4.4
 License = GPL/LGPL
 Description = A remarkably powerful dynamic programming language.
