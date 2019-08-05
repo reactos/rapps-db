@@ -1,0 +1,16 @@
+[Section]
+Name = SNES9x
+Version = 1.6.0
+License = GPL
+Description = a portable, freeware Super Nintendo Entertainment System (SNES) emulator.
+Size = 2.61 MiB
+Category = 4
+URLSite = http://www.snes9x.com/
+URLDownload = https://sites.google.com/site/bearoso/snes9x/snes9x-1.60-win32.zip?attredirects=0&d=1
+SHA1 = a67156f159405c73be86df49818f9984dfee218d
+CDPath = none
+SizeBytes = 2619607
+[Section.040c]
+Description = Un émulateur portable et gratuit de Super Nintendo Entertainment System (SNES).
+[Section.0a]
+Description = Un emulador de Super Nintendo Entertainment System (SNES) portátil y gratuito
