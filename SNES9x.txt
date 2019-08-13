@@ -5,8 +5,8 @@ License = GPL
 Description = a portable, freeware Super Nintendo Entertainment System (SNES) emulator. You'll need to change the video renderer to OpenGL in the video settings or in the ini file.
 Size = 2.61 MiB
 Category = 4
-URLSite = http://www.snes9x.com/
-URLDownload = https://sites.google.com/site/bearoso/snes9x/snes9x-1.60-win32.zip?attredirects=0&d=1
+URLSite = https://github.com/snes9xgit/snes9x/
+URLDownload = https://github.com/snes9xgit/snes9x/releases/download/1.60/snes9x-1.60-win32.zip
 SHA1 = a67156f159405c73be86df49818f9984dfee218d
 CDPath = none
 SizeBytes = 2619607
