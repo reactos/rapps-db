@@ -9,4 +9,4 @@
  URLDownload = https://www.dropbox.com/s/ow467t0piyzfdgi/Mario%2064%20Backgrounds.zip?dl=1
  SHA1 = 13385B2AD4794855CCC4AED0189FE8E943BE23C8
  CDPath = none
- SizeBytes = 7725056
+ SizeBytes = 7721027
