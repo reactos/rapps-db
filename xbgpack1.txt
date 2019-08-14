@@ -6,7 +6,7 @@ Description = Super Mario 64 based backgrounds for ReactOS. 1024x1024 each.
 Size = 7.36 MB
 Category = 16
 URLSite = https://xcallono.cf
-URLDownload = https://uc84dbf217b4717882bbc63c4f34.dl.dropboxusercontent.com/cd/0/get/Aml804A6CBozsNvWDWCCHq84r_w3Ww9lbAaX4oUqKx9US6o0c7ReZgBASnUZhvMpF0EMfIZK7kQhkRYsglNzF8epq_EwJCdIcUvYvaqQS_To-Mv6bnTFUmslFODggzwjjB0/file?dl=1#
+URLDownload = https://codeload.github.com/shytzedaka/N64BACKGROUNDS/zip/master
 SHA1 = 13385B2AD4794855CCC4AED0189FE8E943BE23C8
 CDPath = none
 SizeBytes = 7721027
