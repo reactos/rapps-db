@@ -1,0 +1,12 @@
+[Section]
+Name = Super Mario 64 Backgrounds!
+Version = 1
+License = CC0
+Description = Super Mario 64 based backgrounds for ReactOS. 1024x1024 each.
+Size = 7.36 MB
+Category = 15
+URLSite = https://xcallono.cf
+URLDownload = https://www.dropbox.com/s/ow467t0piyzfdgi/Mario%2064%20Backgrounds.zip?dl=1
+SHA1 = 13385B2AD4794855CCC4AED0189FE8E943BE23C8
+CDPath = none
+SizeBytes = 7721027
