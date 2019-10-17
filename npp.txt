@@ -1,6 +1,6 @@
 [Section]
 Name = Notepad++
-Version = 6.9.2
+Version = 6.9
 License = GPL
 Description = A full featured, free text editor with many plug-ins.
 Size = 4.0 MiB
