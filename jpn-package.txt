@@ -1,0 +1,16 @@
+[Section]
+Name = ReactOS JPN Package
+Version = 0.5
+License = GPLv3
+Description = ReactOS JPN Package provides Japanese fonts and font substitute settings.
+Size = 4.8 MiB
+Category = 16
+URLSite = https://github.com/katahiromz/ReactOS-JPN-Package
+URLDownload = https://github.com/katahiromz/downloads/raw/master/RisohEditor-5.2.7.exe
+SHA1 = f5c066f6b2dec4689291b1f1442eb6b20a0e614b
+CDPath = none
+SizeBytes = 4992733
+
+[Section.0411]
+Name = ReactOS 日本語パッケージ
+Description = ReactOS 日本語パッケージは、日本語フォントとフォント代替設定を提供します。
