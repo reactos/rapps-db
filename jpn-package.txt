@@ -1,15 +1,15 @@
 [Section]
 Name = ReactOS JPN Package
-Version = 0.5
+Version = 0.6
 License = GPLv3
 Description = ReactOS JPN Package provides Japanese fonts and font substitute settings.
-Size = 4.8 MiB
+Size = 6.2 MiB
 Category = 16
 URLSite = https://github.com/katahiromz/ReactOS-JPN-Package
-URLDownload = https://github.com/katahiromz/ReactOS-JPN-Package/releases/download/0.5/reactos-jpn-setup-0.5.exe
-SHA1 = f5c066f6b2dec4689291b1f1442eb6b20a0e614b
+URLDownload = https://github.com/katahiromz/ReactOS-JPN-Package/releases/download/0.6/reactos-jpn-setup-0.6.exe
+SHA1 = 595ddd268f5282663e9edb575d87fc03b9d6fbb3
 CDPath = none
-SizeBytes = 4992733
+SizeBytes = 6530912
 
 [Section.0411]
 Name = ReactOS 日本語パッケージ
