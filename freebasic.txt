@@ -1,15 +1,15 @@
 [Section]
 Name = FreeBASIC
-Version = 1.06.0
+Version = 1.07.1
 License = GPL/LGPL
 Description = Open Source BASIC Compiler. The BASIC syntax is compatible with QBASIC.
 Size = 10.7 MiB
 Category = 7
 URLSite = http://www.freebasic.net/
-URLDownload = http://download.sourceforge.net/project/fbc/Binaries%20-%20Windows/FreeBASIC-1.06.0-win32.exe
-SHA1 = 193244c08e69b5ec5417e0ac4298e0de37826379
+URLDownload = http://download.sourceforge.net/project/fbc/Binaries%20-%20Windows/FreeBASIC-1.07.1-win32.exe
+SHA1 = 2d238faf6d7f5237b84b8587ae6a3fe3eb5e29c3
 CDPath = none
-SizeBytes = 11281373
+SizeBytes = 11289242
 
 [Section.0407]
 Description = Quelloffener BASIC Compiler. Die BASIC Syntax ist kompatibel zu QBASIC.
