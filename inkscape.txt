@@ -1,42 +1,42 @@
 [Section]
 Name = Inkscape
-Version = 0.92.4
+Version = 0.92.3
 License = GPL
 Description = A vector graphics editor licensed under the GNU General Public License.
-Size = 64 MiB
+Size = 63.6 MiB
 Category = 3
 URLSite = http://www.inkscape.org/
-URLDownload = https://inkscape.org/en/gallery/item/13319/inkscape-0.92.4-x86.exe
-SHA1 = fa5b269df9cf6a335acc15d9cee1ab443513a34e
+URLDownload = https://inkscape.org/en/gallery/item/12192/inkscape-0.92.3-x86.exe
+SHA1 = 3635871bcc0fe0db6d9ff680dac4ae16de9296e1
 CDPath = none
-SizeBytes = 66746760
+SizeBytes = 66746901
 
 [Section.0407]
 Description = Editor für Vektorgrafiken, lizensiert unter der GNU General Public License.
-Size = 64 MiB
+Size = 63,6 MiB
 
 [Section.0415]
 Description = Edytor grafiki wektorowej na licencji GNU General Public Licence.
-Size = 64 MiB
+Size = 63,6 MiB
 
 [Section.0418]
 Description = Editor de grafică vectorială oferit sub Licența Publică Generală GNU.
-Size = 64 Mio
+Size = 63,6 Mio
 
 [Section.0419]
 Description = Векторный графический редактор под лицензией GNU General Public License.
-Size = 64 МиБ
+Size = 63,6 МиБ
 
 [Section.0a]
 Description = Un editor de gráficos vectoriales bajo la licencia GNU GPL.
 
 [Section.041f]
 Description = GNU Genel Kamu Ruhsatı altında ruhsatlanmış bir vektör çizge düzenleyicisidir.
-Size = 64 MiB
+Size = 63,6 MiB
 
 [Section.0425]
 Description = Vektorgraafika redigeerija litsentseeritud GNU General Public License all.
-Size = 64 MiB
+Size = 63,6 MiB
 
 [Section.0804]
 Description = 以 GNU General Public 协议发行的矢量图编辑器。
