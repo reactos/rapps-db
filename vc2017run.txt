@@ -1,12 +1,12 @@
 [Section]
 Name = Microsoft Visual C++ 2017 Redistributable
-Version = 14.16.27027
+Version = 14.16.27033
 License = Unknown
 Description = Needed by applications compiled with Visual Studio 2015/2017. Contains: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
 Size = 13.9 MiB
 Category = 14
 URLDownload = https://aka.ms/vs/15/release/vc_redist.x86.exe
-SHA1 = 71370c923679ea07e38b4e7bacc52b23e5ef9652
+SHA1 = 3ee9622151e4b50837fcdfac1b085430f0181f4e
 CDPath = none
 SizeBytes = 14656504
 
