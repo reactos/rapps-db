@@ -1,12 +1,12 @@
 [Section]
 Name = ReactOS JPN Package
-Version = 0.7
+Version = 0.8
 License = GPLv3
 Description = This package makes your ReactOS Japanese.
 Size = 6.2 MiB
 Category = 16
 URLSite = https://github.com/katahiromz/ReactOS-JPN-Package
-URLDownload = https://github.com/katahiromz/ReactOS-JPN-Package/releases/download/0.7/reactos-jpn-setup-0.7.exe
-SHA1 = 2cd980a745b510523f5fbf5fddfe10af49a3828d
+URLDownload = https://github.com/katahiromz/ReactOS-JPN-Package/releases/download/0.8/reactos-jpn-setup-0.8.exe
+SHA1 = bd8cc9f1d5936e8bf5b2f81a2bb8fca37af69d16
 CDPath = none
-SizeBytes = 6537522
+SizeBytes = 6538290
