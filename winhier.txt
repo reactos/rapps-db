@@ -1,12 +1,12 @@
 [Section]
 Name = WinHier
-Version = 2.0
+Version = 2.1
 License = MIT
 Description = WinHier is Windows hierarchy, properties and message viewer.
-Size = 718.9 KiB
+Size = 718.7 KiB
 Category = 7
 URLSite = https://katahiromz.web.fc2.com/winhier/en
-URLDownload = https://github.com/katahiromz/downloads/raw/master/WinHier-2.0-setup.exe
-SHA1 = d310cbe098c523eae83cb22e2b79f446c1a8fc79
+URLDownload = https://github.com/katahiromz/WinHier/releases/download/2.1/WinHier-2.1-setup.exe
+SHA1 = 1349679cd6842f1e2336e1b4a9a7eb41a1af35e4
 CDPath = none
-SizeBytes = 736188
+SizeBytes = 735932
