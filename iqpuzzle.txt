@@ -1,20 +1,20 @@
 [Section]
 Name = iQPuzzle
-Version = 1.1.5
+Version = 1.2.0
 License = Open Source (GPLv3)
 Description = A diverting I.Q. challenging pentomino puzzle
-Size = 22.9 MiB
+Size = 23.0 MiB
 Category = 4
 URLSite = https://elth0r0.github.io/iqpuzzle/
-URLDownload = https://github.com/ElTh0r0/iqpuzzle/releases/download/v1.1.5/iQPuzzle-1.1.5-ReactOS_Installer.exe
-SHA1 = 535d01a22a4911a58bd5159b9f62bfa7208d2a7a
+URLDownload = https://github.com/ElTh0r0/iqpuzzle/releases/download/v1.2.0/iQPuzzle-1.2.0-ReactOS_Installer.exe
+SHA1 = 300dcdb2acb59175110f196c6f27b5441d54eb42
 CDPath = none
-SizeBytes = 9951469
+SizeBytes = 9998445
 
 [Section.0407]
 Description = Ein kurzweiliges herausforderndes Pentomino-Puzzle
-Size = 22.9 MiB
+Size = 23.0 MiB
 
 [Section.0425]
 Description = Suunav I.Q. pentomino mõistatus.
-Size = 22,9 MiB
+Size = 23,0 MiB
