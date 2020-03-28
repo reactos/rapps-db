@@ -1,0 +1,19 @@
+[Section]
+Name = Sylpheed
+Version = 3.7.0
+License = GPL
+Description = Lightweight and user-friendly e-mail client.
+Category = 5
+URLSite = https://sylpheed.sraoss.jp/en/
+URLDownload = https://sylpheed.sraoss.jp/sylpheed/win32/Sylpheed-3.7_setup.exe
+SHA1 = 0518235bbef0cda374e1c8002eb4f65f8f2f8e6c
+CDPath = none
+SizeBytes = 8233467
+
+[Section.0419]
+Description = Легковесный и дружелюбный к пользователю почтовый клиент.
+Size = 7,85 МиБ
+
+[Section.0422]
+Description = Легкий і дружній до користувача поштовий клієнт.
+Size = 7,85 МіБ
