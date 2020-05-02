@@ -15,7 +15,7 @@ SizeBytes = 171108104
 Description = Aktuelle Implementierung von TeX/LaTeX und zugehöriger Programme für Windows.
 Size = 163,2 MiB
 
-[Section.0a]
+[Section.0c0a]
 License = Gratuita
 Description = MikTEX es una implementación actualizada de TeX/LaTeX y otros programas.
 

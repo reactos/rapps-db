@@ -14,7 +14,7 @@ SizeBytes = 273683958
 Description = Ein "Soviet" Echzeitstrategiespiel basierend auf Boswars. (Archiv)
 Size = 261,0 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un juego de estrategia en tiempo real con tintes soviéticos. Necesitarás un programa como 7-zip para extraerlo.
 
 [Section.0415]

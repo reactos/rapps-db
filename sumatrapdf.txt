@@ -16,7 +16,7 @@ Description = Freies, schlankes, quelloffenes PDF-Anzeigeprogramm.
 URLSite = http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-de.html
 Size = 4,6 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un lector PDF ligero, libre y de código abierto que no necesita instalación.
 URLSite = http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-es.html
 

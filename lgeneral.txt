@@ -15,7 +15,7 @@ SizeBytes = 2016140
 Description = Panzer-General-Klon. Verwendet SDL Bibliotheken.
 Size = 1,9 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Clon de Panzer General usando las librerias SDL.
 
 [Section.040c]

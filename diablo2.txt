@@ -15,7 +15,7 @@ SizeBytes = 138309685
 Description = Zeckensacks Glide Wrapper wird zum Ausführen benötigt.
 Size = 131,9 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Versión de demostración. El adaptador de compatibilidad para Glide de Zeckensack es necesario para poder ejecutar el juego.
 
 [Section.040c]

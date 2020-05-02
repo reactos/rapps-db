@@ -27,7 +27,7 @@ URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/28.0/win32
 SHA1 = 98ee50985810c23361ae753f4fefc9abc967a54d
 SizeBytes = 25032080
 
-[Section.0a]
+[Section.0c0a]
 Description = Navegador web popular, libre y gratuito.
 Size = 23.8 MiB
 URLSite = http://www.mozilla.org/es-ES/

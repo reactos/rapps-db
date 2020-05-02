@@ -15,7 +15,7 @@ License = Unbekannt
 Description = Benötigt für Visual Studio 2015/2017 basierte Anwendungen. Beinhaltet: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
 Size = 13,9 MiB
 
-[Section.0a]
+[Section.0c0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 2015/2017. Incluye: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
 

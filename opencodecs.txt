@@ -15,7 +15,7 @@ SizeBytes = 2653944
 Description = DirectShow Filter für Ogg Vorbis, Speex, Theora, FLAC, und WebM Audio-/Videoformate.
 Size = 2,5 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Filtros DirectShow para los formatos de audio y vídeo Ogg Vorbis, Speex, Theora, FLAC y WebM.
 
 [Section.0410]

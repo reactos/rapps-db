@@ -16,7 +16,7 @@ Version = 9.1.0
 Description = Alternativer PDF Reader. Neben Adobe Reader der beste PDF Reader.
 Size = 78,0 MiB
 
-[Section.0a]
+[Section.0c0a]
 Version = 9.1.0
 License = Gratuito
 Description = Uno de los mejores lectores de PDF, parecido a Adobe Reader.

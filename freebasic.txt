@@ -15,7 +15,7 @@ SizeBytes = 11289242
 Description = Quelloffener BASIC Compiler. Die BASIC Syntax ist kompatibel zu QBASIC.
 Size = 10,7 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Compilador BASIC de código abierto. El lenguaje BASIC es compatible con QBASIC.
 
 [Section.040c]

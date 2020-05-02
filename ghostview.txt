@@ -15,7 +15,7 @@ SizeBytes = 2032640
 Description = Grafisches Interface für Ghostscript.
 Size = 1,9 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Una interfaz gráfica para Ghostscript.
 
 [Section.0415]

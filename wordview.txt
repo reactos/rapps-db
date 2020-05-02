@@ -19,7 +19,7 @@ URLDownload = https://web.archive.org/web/20170104154150if_/http://download.micr
 SHA1 = 679d2c80bb33ca262b9cf55626ce36e23fd67293
 SizeBytes = 25755856
 
-[Section.0a]
+[Section.0c0a]
 Name = Visor de Microsoft Word
 Description = Visor gratuito de documentos en formato Office (*.doc)
 License = Desconocida

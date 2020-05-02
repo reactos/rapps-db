@@ -34,7 +34,7 @@ Size = 114,0 MiB
 Description = Finantsarvestus tarkvara eraisikutele ja väikeettevõtjatele, tasuta litsentseeritud GNU GPL all ja saadaval GNU/Linux, BSD, Solaris, Mac OS X ja Microsoft Windows platvormidel.
 Size = 114,0 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un programa de contabilidad personal y de PYMEs liberado bajo los términos de la GNU GPL. Está disponible para GNU/Linux, BSD, Solaris, Mac OS X y Microsoft Windows.
 
 [Section.0804]

@@ -15,7 +15,7 @@ SizeBytes = 2152137
 Description = Shell Extension, die es ermöglicht jede DOS Anwendung via Rechtsklick in DOSBox zu öffnen. Diese Version beinhaltet DOSBox 0.70, kann aber sehr einfach aktualisiert werden, indem man ein neueres DOSBox in die DosBlaster Ordner installiert.
 Size = 2,1 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Una extensión del explorador de archivos que permite abrir cualquier ejecutable DOS en DOSBox haciendo clic derecho del ratón. Esta versión contiene DOSBox 0.70, pero se puede actualizar fácilmente instalando una nueva versión de DOSBox en la carpeta de DosBlaster.
 
 [Section.040c]

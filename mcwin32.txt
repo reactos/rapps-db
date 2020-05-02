@@ -19,7 +19,7 @@ Size = 3,3 MiB
 License = GPL versione 3
 Description = Un porting Windows 32bit di Midnight Commander.
 
-[Section.0a]
+[Section.0c0a]
 Description = Una versión para Windows 32-bits de Midnight Commander.
 
 [Section.0415]

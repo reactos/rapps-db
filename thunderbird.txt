@@ -19,7 +19,7 @@ URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/45.8.0
 SHA1 = 3fe6f201c047b48b6eca8fd56337bbe7666f44c9
 SizeBytes = 34928376
 
-[Section.0a]
+[Section.0c0a]
 Description = Cliente de correo electrónico popular y de código abierto.
 Size = 33.2 MiB
 URLSite = https://www.mozilla.org/es-ES/thunderbird/

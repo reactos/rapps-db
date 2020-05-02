@@ -16,7 +16,7 @@ License = Unbekannt
 Description = Font Pack, der Mono und Sans Schriften beinhaltet. Bitte in den "ReactOS" Ordner entpacken.
 Size = 2,9 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Paquete de fuentes de Mozilla Fira. Incluye las fuentes Mono y Sans. Debe descomprimirse en la carpeta ReactOS.
 
 [Section.0410]

@@ -16,7 +16,7 @@ Description = Beliebte Internet Spiel-Vertriebsplattform und soziales Netz. Enth
 URLSite = http://store.steampowered.com/?l=german
 Size = 471 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Plataforma de distribución de juegos por Internet y red social. Incluye DRM.
 URLSite = http://store.steampowered.com/?l=spanish
 

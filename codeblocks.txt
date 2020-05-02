@@ -15,7 +15,7 @@ SizeBytes = 37372176
 Description = Quelloffene, plattformübergreifende, mächtige IDE. Diese enthält keinen Compiler.
 Size = 35,6 MiB
 
-[Section.0a]
+[Section.0c0a]
 Name = Code::Blocks (sin compilador)
 Description = Un IDE potente, de código abierto y multiplataforma. No viene con compilador.
 

@@ -11,7 +11,7 @@ SHA1 = f008759a3ed0dd96ca51438b857b41c4bd6a4e11
 CDPath = none
 SizeBytes = 967106
 
-[Section.0a]
+[Section.0c0a]
 Description = Buscador de archivos compatible con ReactOS.
 
 [Section.0407]

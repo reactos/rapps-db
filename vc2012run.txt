@@ -16,7 +16,7 @@ License = Unbekannt
 Description = Benötigt für Visual Studio 2012 basierte Anwendungen. Beinhaltet: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 Size = 6,3 MiB
 
-[Section.0a]
+[Section.0c0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 2012. Incluye: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 

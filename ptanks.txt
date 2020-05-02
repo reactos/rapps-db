@@ -15,7 +15,7 @@ SizeBytes = 3003784
 Description = Das schnellste Artillerie-Spiel, das Sie jemals gespielt haben.
 Size = 2,9 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un divertido y rápido juego de artillería.
 
 [Section.0410]

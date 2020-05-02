@@ -15,7 +15,7 @@ SizeBytes = 5184839
 Description = Schnelle und effektive Suchanwendung.
 Size = 4,9 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Una aplicación de búsqueda rápida y completa.
 
 [Section.040c]

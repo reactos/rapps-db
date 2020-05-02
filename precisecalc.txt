@@ -26,7 +26,7 @@ Size = 181,7 Kio
 Description = Бесплатный научный калькулятор с исходным кодом для Windows. Вам потребуется программа распаковки zip для установки.
 Size = 181,7 КиБ
 
-[Section.0a]
+[Section.0c0a]
 Description = Una calculadora científica gratuita y de código abierto. Es necesario un descompresor de archivos zip para abrirlo.
 
 [Section.041f]

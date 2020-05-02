@@ -17,7 +17,7 @@ License = Unbekannt
 Description = MFC 4 wird von einigen Anwendungen benötigt. Beinhaltet: mfc40.dll, msvcrt40.dll.
 Size = 865,0 KiB
 
-[Section.0a]
+[Section.0c0a]
 Name = Visor OLE y Microsoft Foundation Classes Version 4
 License = Desconocida
 Description = MFC 4 es necesario para varias aplicaciones. Incluye: mfc40.dll, msvcrt40.dll.

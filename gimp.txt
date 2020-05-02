@@ -34,7 +34,7 @@ Size = 85,4 MiB
 Description = Lühend "GNU Image Manipulation Progamm" jaoks. Tasuta jagatud programm ülesannete jaoks nagu foto viimistlus, pildikompositsioonimine, pildi loomine.
 Size = 85,4 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Es un acrónimo en inglés de «Programa de Manipulación de Imágenes GNU». Se distribuye libremente y está pensado para el retoque fotográfico, composición de imágenes y dibujo.
 
 [Section.0804]

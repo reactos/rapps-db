@@ -16,7 +16,7 @@ License = Unbekannt
 Description = Wird von einigen MSI Installern benötigt. Beinhaltet: msxml3.dll, msxml3a.dll, msxml3r.dll.
 Size = 1,0 MiB
 
-[Section.0a]
+[Section.0c0a]
 License = Desconocida
 Description = Necesario para algunos instaladores MSI. Incluye: msxml3.dll, msxml3a.dll, msxml3r.dll.
 

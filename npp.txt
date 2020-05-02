@@ -15,7 +15,7 @@ SizeBytes = 4206592
 Description = Voll funktionsfähiger, kostenloser Texteditor mit vielen Plugins.
 Size = 4,0 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un editor de texto completo, libre y con gran cantidad de extensiones.
 
 [Section.040c]

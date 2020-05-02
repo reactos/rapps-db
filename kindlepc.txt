@@ -18,7 +18,7 @@ Description = Bezplatná aplikace, která umožňuje číst knihy Kindle.
 Description = Ein kostenloses Programm, mit dem Sie Kindle Bücher lesen können.
 Size = 62,2 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Una aplicación gratuita que te permite lee libros Kindle.
 
 [Section.040c]

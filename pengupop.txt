@@ -14,7 +14,7 @@ SizeBytes = 1780574
 Description = Das Ziel des Spiels ist es farbige Orbs ins Spielfeld zu feuern, so dass diese Gruppen von drei oder mehr bilden.
 Size = 1,7 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Dispara orbes de colores en el campo de juego formando grupos de más de tres.
 
 [Section.0410]

@@ -15,7 +15,7 @@ SizeBytes = 225308672
 Description = Vorher bekannt als OpenOffice. Quelloffene Office Suite.
 Size = 214,9 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = La suite de ofimática de código abierto. Descendiente de OpenOffice.
 
 [Section.040c]

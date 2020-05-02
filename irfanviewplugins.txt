@@ -16,7 +16,7 @@ License = Freeware für nichtkommerzielle Nutzung
 Description = Zusätzliche Plugins zur Unterstützung von weiteren Dateitypen.
 Size = 15,8 MiB
 
-[Section.0a]
+[Section.0c0a]
 License = Gratuito (para uso personal)
 Description = Complementos adicionales para visualizar más formatos.
 

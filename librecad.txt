@@ -27,7 +27,7 @@ Size = 26,5 Mio
 Description = Кроссплатформенная, открытая и свободная САПР для 2-мерного черчения и проектирования, создана на основе QCad
 Size = 26,5 МиБ
 
-[Section.0a]
+[Section.0c0a]
 Description = Un editor CAD (de diseño asistido) 2D para Windows, Linux y OS X.
 
 [Section.041f]

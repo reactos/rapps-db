@@ -15,7 +15,7 @@ SizeBytes = 7138401
 Description = Freier, plattformübergreifender, quelloffener Datei- und Archivmanager. Er unterstützt über 150 Archiv-Formate.
 Size = 6,8 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un administrador de archivos y compresor de código abierto y multiplataforma. Soporta más de 150 formatos de archivo.
 
 [Section.0410]

@@ -15,7 +15,7 @@ SizeBytes = 13331776
 Description = Alternativer Mediaplayer.
 Size = 12,7 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Reproductor multimedia alternativo.
 
 [Section.040c]

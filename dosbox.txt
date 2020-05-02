@@ -15,7 +15,7 @@ SizeBytes = 1453151
 Description = Quelloffener DOS-Emulator.
 Size = 1,4 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un emulador de DOS de código abierto.
 
 [Section.040c]

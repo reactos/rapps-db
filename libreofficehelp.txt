@@ -39,7 +39,7 @@ URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.
 SHA1 = 8aebe4dc2e265c2b5d24bd8e94ac44414f345ab4
 SizeBytes = 7639040
 
-[Section.0a]
+[Section.0c0a]
 Name = LibreOffice — Paquete de ayuda
 Description = Páginas de ayuda para LibreOffice.
 Size = 7.1 MiB

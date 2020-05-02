@@ -15,7 +15,7 @@ SizeBytes = 1453852
 Description = Atomix-Klon. Verwendet SDL Bibliotheken.
 Size = 1,4 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Clon de Atomix usando las librerias SDL.
 
 [Section.040c]

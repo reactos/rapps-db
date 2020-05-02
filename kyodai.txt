@@ -15,7 +15,7 @@ SizeBytes = 14520461
 Description = Eines der besten Mahjongg Solitaire Spiele im Netz.
 Size = 13,8 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Uno de los mejores solitarios Mahjongg en existencia.
 
 [Section.0410]

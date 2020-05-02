@@ -15,7 +15,7 @@ SizeBytes = 14079010
 Description = Echtzeitstrategiespiel. Das Spiel vereinfacht das Mikromanagement, indem es Einheiten automatisch mit Aufträgen versieht.
 Size = 13,4 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un juego de estrategia en tiempo real. El juego minimiza la supervisión excesiva asignando tareas a las unidades de forma automática.
 
 [Section.0410]

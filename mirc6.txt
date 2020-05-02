@@ -15,7 +15,7 @@ SizeBytes = 1751280
 Description = Der populärste Client für Internet Relay Chat (IRC).
 Size = 1,7 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = El cliente más popular para Internet Relay Chat (IRC).
 
 [Section.040c]

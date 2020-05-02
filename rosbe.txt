@@ -18,7 +18,7 @@ Description = Dovoluje zkompilovat zdrojový kód systému ReactOS. Pro další 
 Description = Erlaubt es Ihnen den ReactOS Source Code zu kompilieren. Im ReactOS-Wiki finden Sie dazu nähere Anweisungen.
 Size = 35,6 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Te permite compilar el código de ReactOS. Para más información consulta la Wiki de ReactOS.
 
 [Section.040c]

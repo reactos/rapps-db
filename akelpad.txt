@@ -11,7 +11,7 @@ SHA1 = a3d6f629942544c752e2894207d1f8b7883edd3f
 CDPath = none
 SizeBytes = 1205230
 
-[Section.0a]
+[Section.0c0a]
 Description = Un editor de texto plano de código abierto. Se diseñó para ser ligero y rápido.
 
 [Section.0407]

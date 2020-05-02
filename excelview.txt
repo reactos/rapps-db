@@ -19,7 +19,7 @@ URLDownload = https://web.archive.org/web/20170104231942if_/http://download.micr
 SHA1 = f386b822000c24cb46782b3f8dbc32e617bc09bd
 SizeBytes = 53634800
 
-[Section.0a]
+[Section.0c0a]
 Name = Visor de Microsoft Excel
 Description = Visor gratuito de hojas de cálculo en formato Office (*.xls).
 License = Desconocida

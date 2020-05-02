@@ -15,7 +15,7 @@ SizeBytes = 11985315
 Description = Quelloffene Implementierung von klassischen Abenteuervideospiel-Engines (wie Monkey Island, Sam and Max oder Day of the Tentacle), so dass sie auf ReactOS funktionieren.
 Size = 11,4 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Reimplementación de código abierto de motores de juegos de aventura clásicos (como «Monkey Island», «Sam and Max» o «Day of the Tentacle»), haciéndolos funcionar en ReactOS.
 
 [Section.040c]

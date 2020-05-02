@@ -15,7 +15,7 @@ SizeBytes = 2942464
 Description = Freier SSH-, Telnet-, rlogin- und TCP-Client.
 Size = 2,8 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un cliente SSH, Telnet, rlogin y TCP libre y gratuito.
 
 [Section.040c]

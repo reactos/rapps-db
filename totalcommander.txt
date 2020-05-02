@@ -16,7 +16,7 @@ Description = Dateimanager für Power User mit zwei nebeneinander liegenden Pane
 URLSite = http://www.ghisler.com/deutsch.htm
 Size = 4,2 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un navegador de archivos multipanel para usuarios avanzados.
 
 [Section.0410]

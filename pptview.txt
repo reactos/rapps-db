@@ -19,7 +19,7 @@ URLDownload = https://web.archive.org/web/20170105015503if_/http://download.micr
 SHA1 = 8fab720491697b378110212d3ec673c575dd302c
 SizeBytes = 63363736
 
-[Section.0a]
+[Section.0c0a]
 Name = Visor de Microsoft Powerpoint
 Description = Visor de presentaciones gratuito para formatos de Office (*.ppt).
 License = Desconocida

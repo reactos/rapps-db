@@ -14,7 +14,7 @@ SizeBytes = 17090992
 Description = Sie wollen Java Programme nutzen? Wenn ja, laden Sie die Java Runtime Environment herunter.
 Size = 16,2 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Plataforma y bibliotecas necesarias para la ejecución de aplicaciones programadas en Java.
 
 [Section.041f]

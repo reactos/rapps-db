@@ -16,7 +16,7 @@ License = Unbekannt
 Description = Benötigt für Visual Studio 6 basierte Anwendungen. Beinhaltet: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll, oleaut32.dll, olepro32.dll.
 Size = 1,8 MiB
 
-[Section.0a]
+[Section.0c0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 6. Incluye: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll, oleaut32.dll, olepro32.dll.
 

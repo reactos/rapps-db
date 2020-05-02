@@ -15,7 +15,7 @@ SizeBytes = 40693760
 Description = Voll funktionsfähiger FOSS Media-Player mit eingebauten Codecs.
 Size = 38,8 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Completo reproductor multimedia, de código abierto y con códecs propios.
 
 [Section.040c]

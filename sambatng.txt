@@ -15,7 +15,7 @@ SizeBytes = 2238545
 Description = Erlaubt den Zugriff auf Windows' gemeinsame Verzeichnisse und Drucker aus ReactOS heraus.
 Size = 2,1 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Permite acceder a carpetas e impresoras compartidas en Windows con ReactOS.
 
 [Section.040c]

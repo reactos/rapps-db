@@ -27,7 +27,7 @@ Size = 63,6 Mio
 Description = Векторный графический редактор под лицензией GNU General Public License.
 Size = 63,6 МиБ
 
-[Section.0a]
+[Section.0c0a]
 Description = Un editor de gráficos vectoriales bajo la licencia GNU GPL.
 
 [Section.041f]

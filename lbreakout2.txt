@@ -15,7 +15,7 @@ SizeBytes = 2895032
 Description = Breakout-Klon. Verwendet SDL Bibliothek.
 Size = 2,8 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Clon de Breakout usando las librerias SDL.
 
 [Section.040c]

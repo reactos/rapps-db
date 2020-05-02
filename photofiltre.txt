@@ -15,7 +15,7 @@ SizeBytes = 5239812
 Description = Komplettes Bildretuschier-Programm. Version mit Layers, aber eingeschänkter als die Studio-X Version.
 Size = 5,0 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un programa de retoque fotográfico. Esta versión viene con capas, pero es mucho más limitada que la versión Studio X.
 
 [Section.0415]

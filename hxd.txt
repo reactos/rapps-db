@@ -16,7 +16,7 @@ Description = Guter Hexadezimal Editor.
 Size = 3,0 MiB
 URLSite = http://mh-nexus.de/de/
 
-[Section.0a]
+[Section.0c0a]
 License = Gratuito
 Description = Un buen editor hexadecimal.
 

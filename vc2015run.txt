@@ -16,7 +16,7 @@ License = Unbekannt
 Description = Benötigt für Visual Studio 2015 basierte Anwendungen. Beinhaltet: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
 Size = 13,7 MiB
 
-[Section.0a]
+[Section.0c0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 2015. Incluye: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
 

@@ -15,7 +15,7 @@ SizeBytes = 2549896
 Description = Arcade-Style Spiel für UNIX, Mac OS X, Windows und DOS in der Tradition von: "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga / PC), "Sokoban" (PC). Sie benötigen ein ZIP-Programm, um es zu installieren.
 Size = 2,4 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Juego al estilo arcade para UNIX, Mac OS X, Windows y DOS siguiendo la tradición de: «Boulder Dash» (C64), «Emerald Mine» (Amiga), «Supaplex» (Amiga/PC), «Sokoban» (PC). Es necesario un programa de extracción de archivos zip para utilizarlo.
 
 [Section.0410]

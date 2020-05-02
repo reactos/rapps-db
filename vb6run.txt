@@ -16,7 +16,7 @@ License = Unbekannt
 Description = Benötigt für Visual Basic 6 basierte Anwendungen. Beinhaltet: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
 Size = 1,0 MiB
 
-[Section.0a]
+[Section.0c0a]
 License = Desconocida
 Description = Necesario para aplicaciones escritas en Visual Basic 6. Incluye: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
 

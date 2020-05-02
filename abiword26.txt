@@ -15,7 +15,7 @@ SizeBytes = 5912280
 Description = Quelloffene Textverarbeitung.
 Size = 5,6 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Procesador de textos rápido y de código abierto.
 
 [Section.040c]

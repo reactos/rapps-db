@@ -15,7 +15,7 @@ SizeBytes = 53705216
 Description = Freie Neu-Umsetzung des .NET Frameworks, welche von den Wine-Bibliotheken verwendet wird.
 Size = 51,2 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Reimplementación libre de .NET Framework utilizadas por las bibliotecas de Wine.
 
 [Section.040c]

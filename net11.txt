@@ -19,7 +19,7 @@ URLDownload = http://download.microsoft.com/download/4/f/3/4f3ac857-e063-45d0-98
 SHA1 = 4e5cd34df2b41bdcc0d813df259ea994d7cfc7fd
 SizeBytes = 24277024
 
-[Section.0a]
+[Section.0c0a]
 Description = Componentes necesarios para ejecutar programas escritos en lenguajes intermedios como C#.
 License = Desconocida
 Size = 23.2 MiB

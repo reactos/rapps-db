@@ -15,7 +15,7 @@ SizeBytes = 90337727
 Description = Quelloffene, plattformübergreifende, mächtige IDE. Diese enthält den TDM-GCC (version 5.1.0, 32 bit) Compiler.
 Size = 86,1 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un IDE potente, de código abierto y multiplataforma. Viene con el compilador TDM-GCC (version 5.1.0, 32 bit).
 
 [Section.0410]

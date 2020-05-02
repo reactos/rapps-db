@@ -16,7 +16,7 @@ Description = Grafische Oberfläche für MPlayer.
 URLSite = http://smplayer.sourceforge.net/de/
 Size = 39,0 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Interfaz gráfica para Mplayer, el reproductor multimedia.
 URLSite = http://smplayer.sourceforge.net/es/
 

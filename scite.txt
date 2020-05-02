@@ -15,7 +15,7 @@ SizeBytes = 3448832
 Description = SCIntilla basierter Text Editor. Ursprünglich wurde er erstellt, um Scintilla vorzuführen, wuchs aber zu einem nützlichen Editor mit der Fähigkeit Programme zu erstellen und auszuführen.
 Size = 3,3 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Editor de texto basado en SCIntilla. Originalmente creado para demostrar Scintilla, ha terminado siendo un gran editor con capacidad para crear y ejecutar programas.
 
 [Section.040c]

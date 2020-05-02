@@ -15,7 +15,7 @@ SizeBytes = 6566228
 Description = Quelloffener Dateimanager mit zwei nebeneinander liegenden Panels. Zum extrahieren wird 7-Zip oder ein ähnliches Tool benötigt.
 Size = 6,3 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un explorador de archivos multipanel de código abierto. Es necesario utilizar 7-Zip u otro programa alternativo para extraerlo.
 
 [Section.0410]

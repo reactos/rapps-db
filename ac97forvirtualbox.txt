@@ -21,7 +21,7 @@ License = Unbekannt
 Description = Sound Treiber für AC'97-kompatible Geräte. Entpacken in das "ReactOS"-Verzeichnis und ReactOS zweimal neustarten.
 Size = 185,5 KiB
 
-[Section.0a]
+[Section.0c0a]
 Name = Controlador AC'97 para VirtualBox
 License = Desconocida
 Description = Controlador de audio para dispositivos compatibles con AC'97. Se debe descomprimir en la carpeta «ReactOS» y reiniciar dos veces.

@@ -15,7 +15,7 @@ SizeBytes = 2508088
 Description = Ermöglicht es Webseiten auf Ihrem Computer zu hosten. Er unterstützt sichere SSL/TLS Verbindungen (HTTPS) sowie eine Vielfalt an Web Technologien. Er kann ebenfalls PHP, Perl, Python, ASP, ASP.NET, und Ruby on Rails Web Anwendungen ausführen, welche von Datenbanken, wie MySQL, SQLite, MS SQL Server, MS Access, oder Oracle unterstützt werden können.
 Size = 2,4 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Permite alojar sitios Web localmente en el equipo. Soporta conexiones seguras SSL / TLS (HTTPS) así como una gran cantidad de tecnologías web. También puede ejecutar aplicaciones web en PHP, Perl, Python, ASP, ASP.Net, Ruby y Ruby on Rails, que pueden ser asociadas con bases de datos tales como MySQL, SQLite, MS SQL Server, MS Access u Oracle.
 
 [Section.040c]

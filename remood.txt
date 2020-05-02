@@ -18,7 +18,7 @@ Size = 1,1 MiB
 [Section.0410]
 Description = ReMooD è un porting sorgente di Doom Legacy. Punta a provedere la classica esperienza ereditaria con nuove funzionalità e maggiore stabilità.
 
-[Section.0a]
+[Section.0c0a]
 Description = Una versión derivada de Doom Legacy. Su fin es revivir la experiencia clásica con nuevas características y mayor estabilidad.
 
 [Section.040c]

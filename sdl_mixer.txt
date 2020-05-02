@@ -18,7 +18,7 @@ Description = Nutný pro spuštění některých open source her. K rozbalení j
 Description = Erforderlich um einige quelloffene Spiele auszuführen. Sie brauchen 7-Zip oder einen ähnlichen Entpacker um es zu entpacken.
 Size = 548,0 KiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Necesario para ejecutar varios juegos de código abierto. Se necesita 7-Zip o una utilidad similar para extraerlo.
 
 [Section.040c]

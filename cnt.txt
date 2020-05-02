@@ -15,7 +15,7 @@ SizeBytes = 1368064
 Description = Kostenlose virtuelle Tastatur.
 Size = 1,3 MiB
 
-[Section.0a]
+[Section.0c0a]
 License = Gratuito
 Description = Aplicación gratuita de teclado virtual.
 

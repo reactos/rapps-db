@@ -15,7 +15,7 @@ SizeBytes = 2933617
 Description = Freeware-Tool zum Anzeigen, Ändern, Umbenennen, Hinzufügen, Löschen und Extrahieren von Ressourcen in 32-Bit & 64-Bit-Windows Anwendungen und Ressourcen-Dateien (*.res).
 Size = 2,8 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Una utilidad gratuita para ver, editar, renombrar, borrar y extraer recursos de ejecutables de Windows y archivos derivados (*.res).
 
 [Section.0410]

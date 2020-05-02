@@ -19,7 +19,7 @@ URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/3.1.20
 SHA1 = 60d0824eb22c843137801b8eea76bee4b810eeca
 SizeBytes = 9342360
 
-[Section.0a]
+[Section.0c0a]
 Description = Cliente de correo electrónico popular y de código abierto.
 Size = 8.9 MiB
 URLSite = https://www.mozilla.org/es-ES/thunderbird/

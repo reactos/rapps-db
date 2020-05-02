@@ -15,7 +15,7 @@ SizeBytes = 3995248
 Description = Lebendiges und buntes Brick-Breaking-Spiel.
 Size = 3,8 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un juego vibrante y colorido de romper bloques.
 
 [Section.0410]

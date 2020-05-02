@@ -15,7 +15,7 @@ SizeBytes = 133230592
 Description = Quelloffenes .NET Framework.
 Size = 127,1 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Versión de .NET Framework de código abierto.
 
 [Section.040c]

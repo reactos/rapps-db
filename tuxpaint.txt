@@ -18,7 +18,7 @@ Description = Open source bitmapový editor určený dětem.
 Description = Quelloffenes Bitmap Zeichenprogramm für kleine Kinder.
 Size = 13,5 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Editor gráfico de imágenes de código abierto, pensado para niños pequeños.
 
 [Section.040c]

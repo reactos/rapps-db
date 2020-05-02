@@ -15,7 +15,7 @@ SizeBytes = 16569464
 Description = Freies Lemmings-ähnliches Puzzle Spiel.
 Size = 15,8 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un juego de puzzles parecido a los Lemmings.
 
 [Section.0410]

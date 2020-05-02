@@ -15,7 +15,7 @@ SizeBytes = 21934236
 Description = Freies Arcade Action Puzzle Spiel, ein wenig wie Frozen Bubble.
 Size = 20,9 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Zaz es un juego de acción arcade parecido a Frozen Bubble.
 
 [Section.0410]

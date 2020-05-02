@@ -15,7 +15,7 @@ SizeBytes = 65299934
 Description = Futuristisches Echtzeitstrategiespiel. Benötigt die Microsoft Visual C++ 2008 Runtime.
 Size = 62,3 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un juego de estrategia futurista en tiempo real. Para ejecutar el juego es necesario instalar Microsoft Visual C++ 2008 runtime.
 
 [Section.0410]

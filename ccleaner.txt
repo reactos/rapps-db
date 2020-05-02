@@ -17,7 +17,7 @@ Description = Sehr gutes Bereinigungswerkzeug für den PC.
 Size = 24,2 MiB
 URLSite = https://www.ccleaner.com/de-de/ccleaner
 
-[Section.0a]
+[Section.0c0a]
 License = Gratuita
 Description = Una herramienta de limpieza y mantenimiento con la que borrar archivos temporales.
 URLSite = https://www.ccleaner.com/es-es/ccleaner

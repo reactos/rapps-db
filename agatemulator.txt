@@ -15,7 +15,7 @@ SizeBytes = 6346282
 Description = Apple ][ und Agat 7/9 Emulator für Win32.
 Size = 6,1 MiB
 
-[Section.0a]
+[Section.0c0a]
 Name = Emulador Agat
 Description = Emulador de Apple ][ y Agat 7/9 para Win32.
 

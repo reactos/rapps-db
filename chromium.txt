@@ -15,7 +15,7 @@ SizeBytes = 2284853
 Description = Arcade-Style, Top-Scrolling Space Shooter.
 Size = 2,2 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un juego vertical de disparos espacial al clásico estilo arcade.
 
 [Section.0410]

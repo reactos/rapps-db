@@ -16,7 +16,7 @@ Description = Spiel ähnlich zu Frozen Fruits.
 URLSite = http://www.blueskied.com/freeware-spiele/runterladen.htm
 Size = 764,5 KiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un juego parecido a Frozen Fruits.
 
 [Section.0410]

@@ -15,7 +15,7 @@ SizeBytes = 5110315
 Description = Freies Schreiblernprogramm.
 Size = 4,9 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Programa para aprender a escribir a máquina.
 
 [Section.0410]

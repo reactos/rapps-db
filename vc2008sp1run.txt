@@ -16,7 +16,7 @@ License = Unbekannt
 Description = Benötigt für Visual Studio 2008 basierte Anwendungen. Enthält: atl90.dll, mfc90.dll, mfc90u.dll, mfcm90.dll, mfcm90u.dll, msdia90.dll, msvcm90.dll, msvcp90.dll, msvcr90.dll, vcomp90.dll.
 Size = 4,3 MiB
 
-[Section.0a]
+[Section.0c0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 2008. Incluye: atl90.dll, mfc90.dll, mfc90u.dll, mfcm90.dll, mfcm90u.dll, msdia90.dll, msvcm90.dll, msvcp90.dll, msvcr90.dll, vcomp90.dll.
 

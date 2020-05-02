@@ -19,7 +19,7 @@ URLDownload = http://download.sourceforge.net/project/openofficeorg.mirror/4.1.5
 SHA1 = 6934e1b6b4e742a2bff89e0e83da6467aac7050b
 SizeBytes = 174734468
 
-[Section.0a]
+[Section.0c0a]
 Description = Suite de ofimática de código abierto.
 Size = 124.3 MiB
 URLSite = http://www.openoffice.org/es/

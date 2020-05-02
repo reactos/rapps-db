@@ -14,7 +14,7 @@ SizeBytes = 2045624
 Description = Spiel ähnlich zu Frozen Fruits.
 Size = 2,0 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un juego similar a Frozen Fruits.
 
 [Section.0410]

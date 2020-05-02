@@ -15,7 +15,7 @@ SizeBytes = 7455316
 Description = Quelloffener Klon der "Transport Tycoon Deluxe" Spiel-Engine. Sie benötigen eine Kopie von Transport Tycoon.
 Size = 7,1 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Clon del motor de juegos «Transport Tycoon Deluxe» de código abierto. Es necesaria una copia de Transport Tycoon.
 
 [Section.040c]

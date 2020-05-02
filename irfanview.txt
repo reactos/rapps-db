@@ -16,7 +16,7 @@ License = Freeware für nichtkommerzielle Nutzung
 Description = Anzeigeprogramm für alle Arten von Grafik-/Audio- oder Video-Dateien.
 Size = 2,4 MiB
 
-[Section.0a]
+[Section.0c0a]
 License = Gratuito (para uso personal)
 Description = Visor para toda clase de archivos de imagen, audio y video.
 

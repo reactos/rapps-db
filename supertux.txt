@@ -15,7 +15,7 @@ SizeBytes = 90194764
 Description = Zweidimensionales, freies, quelloffenes Plattformspiel.
 Size = 86,0 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Un juego 2D plataformero de código abierto.
 
 [Section.0410]

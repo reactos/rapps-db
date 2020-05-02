@@ -15,7 +15,7 @@ SizeBytes = 14754797
 Description = Audio-Player, der mit Hilfe der Qt Bibliothek geschrieben wurde. Die Benutzeroberfläche ist ähnlich zu WinAMP oder XMMS. Alternative Benutzeroberflächen sind ebenfalls verfügbar.
 Size = 14,0 MiB
 
-[Section.0a]
+[Section.0c0a]
 Name = Qmmp (Reproductor multimedia Qt)
 Description = Reproductor multimedia basado en las bibliotecas Qt, la interfaz es parecida a la de WinAMP o XMMS. Existen otras interfaces alternativas.
 

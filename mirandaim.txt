@@ -15,7 +15,7 @@ SizeBytes = 2951752
 Description = Quelloffene Multiprotokoll Instant Messaging Anwendung. Funktioniert möglicherweise nicht vollständig.
 Size = 2,8 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Aplicación de mensajería instantánea multiprotocolo de código abierto. Puede que no funcione del todo bien.
 
 [Section.040c]

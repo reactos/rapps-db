@@ -19,7 +19,7 @@ Size = 1,1 مب
 Description = Dateiarchivierungswerkzeug zum Erstellen und Öffnen von 7zip, zip, tar, rar und vielen anderen Archivformaten.
 Size = 1,1 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Utilidad para crear y abrir 7zip, zip, tar, rar y otros archivos comprimidos.
 
 [Section.040c]

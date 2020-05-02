@@ -15,7 +15,7 @@ SizeBytes = 20248056
 Description = Freie, quelloffene Cross-Plattform Software zur Aufnahme und Bearbeitung von Sounds.
 Size = 19,3 MiB
 
-[Section.0a]
+[Section.0c0a]
 Description = Programa libre, gratuito y multiplataforma para grabar y editar audio y música.
 
 [Section.0415]
