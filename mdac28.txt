@@ -1,0 +1,16 @@
+[Section]
+Name =  Microsoft Data Access Components (MDAC) 2.8 SP1
+Version = 1.0
+License = Unknown
+Description = MDAC 2.8 SP1 contains core Data Access components such as the Microsoft SQL Server™ OLE DB provider and ODBC driver.
+Size = 5.8 MiB
+Category = 14
+URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=5793
+URLDownload = https://download.microsoft.com/download/4/a/a/4aafff19-9d21-4d35-ae81-02c48dcbbbff/MDAC_TYP.EXE
+SHA1 = 4fbc272c79da59e38818924d8575accb0af776fb
+CDPath = none
+SizeBytes = 6100504
+
+[Section.0a]
+Description = MDAC 2.8 SP1 contiene el núcleo de componentes de Data Access como el Microsoft SQL Server™ OLE DB proveedor y driver ODBC.
+
