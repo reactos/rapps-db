@@ -3,12 +3,11 @@ Name = Zeth
 Version = 0.0.1
 License = Freeware
 Description = Zeth Visual Style for ReactOS
-Size = 116 KiB
 Category = 15
 URLDownload = https://github.com/Mas4hmad/ms-visual-styles/raw/master/ZETH.msstyles
-SHA1 = D06F5C1ADB15FB892F07583133D02E23AC3575C7
+SHA1 = F905698A0AA0CBC3F5AC1F3C1B9019444608DFB8
 CDPath = none
-SizeBytes = 119.658 bytes
+SizeBytes = 618496
 
 
 
