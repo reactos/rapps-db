@@ -26,3 +26,6 @@ URLSite = http://www.diskgenius.cn
 URLDownload = http://download.eassos.cn/DG510653_x86.zip
 SHA1 = ab08a7b36489c134135d656838f0b161760e8d4c
 SizeBytes = 3087364
+
+[Section.0a]
+Description = Una utilidad de disco china. Puede modificar las particiones y recuperar datos del disco.

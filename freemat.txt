@@ -37,3 +37,6 @@ Size = 49,8 MiB
 [Section.0804]
 Description = 一个免费的快速工程、科学原型设计及数据处理的环境。
 
+[Section.0a]
+Description = Un entorno gratuito y rápido de prototipado científico, de procesamiento de datos e ingenieril.
+

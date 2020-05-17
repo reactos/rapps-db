@@ -32,3 +32,5 @@ Size = 630,6 KiB
 [Section.0804]
 Description = 分析磁盘使用情况及清理磁盘的程序
 
+[Section.0a]
+Description = Programa que analiza el uso del diso y su limpieza.

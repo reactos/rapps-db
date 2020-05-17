@@ -36,3 +36,6 @@ Size = 438,9 KiB
 [Section.0804]
 Description = 一个 Gameboy 和 GameboyAdvance 系统的模拟器。你将需要一个 ZIP 解压缩程序来运行它。
 
+[Section.0a]
+Name = VisualBoyAdvance (versión SDL)
+Description = Un emulador para juegos de los sistemas GameBoy y GameBoy Advance. Necesitarás descomprimirlo una vez descargado.

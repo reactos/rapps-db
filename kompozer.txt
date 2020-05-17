@@ -11,6 +11,9 @@ SHA1 = cb0fbb2f9d4a547131176158e9e7185ee525a8a3
 CDPath = none
 SizeBytes = 7949158
 
+[Section.0a]
+Description = Un completo sistema de autoría web que combina la gestión de archivos web y una interfaz WYSIWYG fácil de usar en la edición web. Necesitarás descomprimirlo para usarlo.
+
 [Section.0407]
 Description = Ein vollständiges Web-Authoring-System, welches Web-Datei-Management und leicht zu bedienende WYSIWYG Web-Seite Bearbeitung verbindet. Ein Werkzeug wie 7-Zip ist zum extrahieren notwendig.
 Size = 7,6 MiB

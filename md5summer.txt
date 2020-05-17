@@ -11,6 +11,9 @@ SHA1 = 3d21df6f587bf187dad9a300b6ae3a2b479e8329
 CDPath = none
 SizeBytes = 463330
 
+[Section.0a]
+Description = Una aplicación que genera y comprueba las sumas de verificación md5.
+
 [Section.0407]
 Description = Anwendung, welche MD5 Checksummen generiert und verifiziert.
 Size = 452,5 KiB

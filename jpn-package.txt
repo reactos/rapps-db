@@ -10,3 +10,6 @@ URLDownload = https://github.com/katahiromz/ReactOS-JPN-Package/releases/downloa
 SHA1 = bd8cc9f1d5936e8bf5b2f81a2bb8fca37af69d16
 CDPath = none
 SizeBytes = 6538290
+
+[Section.0a]
+Description = Este paquete convierte el entorno de tu ReactOS al japonés.

@@ -11,6 +11,9 @@ CDPath = none
 SHA1 = 660043ce04ad04d65cfa98ad47e7177b34bd708f
 SizeBytes = 712140
 
+[Section.0a]
+Description = Programa para descargar podcasts.
+
 [Section.0407]
 Description = Anwendung zum Herunterladen von Podcasts.
 Size = 696 KiB

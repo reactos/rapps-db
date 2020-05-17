@@ -40,3 +40,6 @@ Size = 10,3 MiB
 [Section.0804]
 Description = Adobe AIR 运行库允许开发者将同样的代码打包成原生应用及游戏。
 
+[Section.0a]
+Description = El entorno de ejecución de Adobe AIR permite a los desarrolladores empaquetar el mismo código en aplicaciones nativas y juegos.
+

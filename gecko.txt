@@ -37,3 +37,7 @@ Size = 26,7 MiB
 [Section.0804]
 Description = Gecko Engine 通常在系统安装第一阶段安装，除非当时网络不可用。使用 mshtml.dll 的应用程序需要它。
 
+[Section.0a]
+Name = Motor de renderizado Wine Gecko
+Description = El motor de renderizado Gecko se instala normalmente en el primer paso de la instalación, pero solo si la conexión a internet está disponible en el proceso. Necesario para las aplicaciones que hacen uso del "mshtml.dll".
+

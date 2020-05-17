@@ -11,6 +11,9 @@ SHA1 = a722b8ff0da23ebe9aeca256b44e52705a3cf71c
 CDPath = none
 SizeBytes = 1473335
 
+[Section.0a]
+Description = Un servidor proxy HTTP y revertido, también como servidor proxy mail, escrito por Igor Sysoev.
+
 [Section.0407]
 Description = HTTP- und Reverse Proxy Server, sowie Mail Proxy Server, erstellt von Igor Sysoev.
 Size = 1,4 MiB

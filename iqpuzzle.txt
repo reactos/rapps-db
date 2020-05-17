@@ -11,6 +11,8 @@ SHA1 = 300dcdb2acb59175110f196c6f27b5441d54eb42
 CDPath = none
 SizeBytes = 9998445
 
+[Section.0a]
+Description = Un puzzle pentominó que te divertirá y retará intelectualmente.
 [Section.0407]
 Description = Ein kurzweiliges herausforderndes Pentomino-Puzzle
 Size = 23.0 MiB

@@ -14,3 +14,6 @@ SizeBytes = 16433152
 [Section.040c]
 Description = Interface graphique de shell pour Git, basée sur TortoiseSVN.
 Size = 15,6 Mio
+
+[Section.0a]
+Description = Una interfaz gráfica para Git, basada en TortoiseSVN, para la actualización/sincronización de código.

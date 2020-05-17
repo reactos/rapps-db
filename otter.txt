@@ -11,6 +11,10 @@ SHA1 = 33333aa188bbdd430e7ca62e9fbb5a464c0bd087
 CDPath = none
 SizeBytes = 70390771
 
+[Section.0a]
+Name = Navegador Otter
+Description = El navegador Otter tiene el objetivo de recrear el buen aspecto del Opera clásico (12.x) usando Qt5.
+
 [Section.0407]
 Description = Otter Browser ist ein Web-Browser, der das klassische Opera (12.x) UI mittels Qt5 wiederbelebt.
 

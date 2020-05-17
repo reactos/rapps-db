@@ -11,6 +11,9 @@ SHA1 = 6ada69afdeb3f75ceda0c19c67d562a5052a9949
 CDPath = none
 SizeBytes = 3560500
 
+[Section.0a]
+Description = Un webserver de licencia abierta centrado en la seguridad.
+
 [Section.0407]
 Description = Quelloffener Webserver mit einem Augenmerk auf Sicherheit.
 Size = 3,4 MiB

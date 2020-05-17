@@ -11,6 +11,9 @@ SHA1 = dab30bbdad17d2bd4b645172fc07f718f4f39cb8
 CDPath = none
 SizeBytes = 19206936
 
+[Section.0a]
+Description = Un buen cliente para el Internet Relay Chat (IRC) escrito usando la interfaz GUI Qt Toolkit.
+
 [Section.040c]
 Description = Un bon client pour l'Internet Relay Chat (IRC) écrit avec le GUI Toolkit Qt.
 Size = 18,3 Mio

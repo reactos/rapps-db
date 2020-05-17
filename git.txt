@@ -20,3 +20,7 @@ Size = 31,4 МиБ
 Name = Git Windowsile
 Description = Git on kiire, skaleeritav, jaotatud muudatuste kontrollsüsteem ebatavaliselt rikka käsustikuga, mis annab nii kõrge tasemelisi operatsiooni kui ka täieliku ligipääsu siseosadesse.
 Size = 31,4 MiB
+
+[Section.0a]
+Name = Git para Windows
+Description = Git es un sistema de control y revision de sistemas rápido, escalable y distribucional con una variedad rica de comandos que proveen operaciones a alto nivel y un control total de los elementos.

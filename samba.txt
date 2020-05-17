@@ -34,3 +34,6 @@ Size = 10,8 MiB
 [Section.0804]
 Description = 为需要 secur32.dll (如 NTLM)运行的程序提供鉴权提供者
 
+[Section.0a]
+Description = Proporciona proveedores de autentificación para secur32.dll (p.e. NTLM) necesario para cargar algunas aplicaciones.
+

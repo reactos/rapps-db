@@ -11,3 +11,5 @@ SHA1 = 09fe3cedaa08e2bab0ceee01ec9c48b1d9ee414f
 CDPath = none
 SizeBytes = 50109784
 
+[Section.0a]
+Description = Spotify es uno de los servicios más populares de streaming de música, incluye planes gratuitos y de pago. El cliente de Spotify ha cesado del soporte para Windows XP, pero está archivada una versión que todavía lo soporta.

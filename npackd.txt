@@ -11,6 +11,9 @@ SHA1 = 88f9ae14f1ded509989c49b510603b7e52bfffe4
 CDPath = none
 SizeBytes = 8490496
 
+[Section.0a]
+Description = Npackd es un gestor de paquetes, tienda de aplicaciones, instalador para Windows, licenciado con la GPLv3.
+
 [Section.0407]
 Description = Leistungsstarke Paketverwaltung, bietet die Installation von Software in verschiedenen Versionen an.
 Size = 8,1 MiB

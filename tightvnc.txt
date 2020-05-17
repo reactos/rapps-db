@@ -34,3 +34,5 @@ Size = 2,0 МиБ
 [Section.0804]
 Description = 一套免费的远程控制软件。
 
+[Section.0a]
+Description = Paquete de software que sirve para el control remoto del equipo vía VNC.

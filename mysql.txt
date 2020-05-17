@@ -11,6 +11,9 @@ SHA1 = d23aad8c75ed3b0b0dd2131c9b679542d3890004
 CDPath = none
 SizeBytes = 37466112
 
+[Section.0a]
+Description = El gestor de bases de datos de código abierto más popular del mundo.
+
 [Section.0415]
 Description = Najpopularniejsza otwartoźródłowa baza danych.
 

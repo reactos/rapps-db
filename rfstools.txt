@@ -33,3 +33,6 @@ Size = 53,4 КиБ
 [Section.0804]
 Description = 允许您从 Windows 系统访问 ReiserFS 分区。
 
+[Section.0a]
+Description = Te permite acceder a particiones ReiserFS desde un sistema Windows.
+

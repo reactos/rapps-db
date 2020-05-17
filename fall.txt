@@ -2,7 +2,7 @@
 Name = Fall
 Version = 0.1.3
 License = GPL
-Description = Penguins are falling from and iceberg and you have to bounce them into the docks.
+Description = Penguins are falling from an iceberg and you have to bounce them into the docks.
 Size = 370.9 KiB
 Category = 4
 URLSite = http://insomnia.sourceforge.net/fall/fall.html
@@ -36,4 +36,7 @@ Size = 370,9 KiB
 
 [Section.0804]
 Description = 企鹅从冰山落下，你必须把它们弹上码头。
+
+[Section.0a]
+Description = Los pingüinos están cayendo desde un iceberg y tienes que introducirlo en la barca.
 

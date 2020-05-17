@@ -15,3 +15,6 @@ Description = Легковесный и дружелюбный к пользов
 
 [Section.0422]
 Description = Легкий і дружний до користувача поштовий клієнт.
+
+[Section.0a]
+Description = Un cliente de correo ligero y amigable para el usuario.

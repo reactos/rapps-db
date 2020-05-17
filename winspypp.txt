@@ -37,3 +37,6 @@ Size = 58,3 KiB
 License = 免费软件
 Description = 一款能够用来选择和查看系统中任意窗口属性的面向高级程序员的实用工具。需要类似 7-Zip 的工具来解压它。
 
+[Section.0a]
+Description = Una herramienta práctica para programadores que puede ser usada para seleccionar y ver las propiedades de cualquier ventana del sistema. Necesita ser descomprimido una vez descargado.
+

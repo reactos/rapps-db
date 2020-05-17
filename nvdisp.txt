@@ -11,6 +11,10 @@ SHA1 = 1efee6ebcf98ea4f00783e00921fc2116be78dcf
 CDPath = none
 SizeBytes = 19433601
 
+[Section.0a]
+Name = Controladores de pantalla de NVidia
+Description = Controlador de pantalla para RIVA TNT2, tarjetas GeForce/Quadro 1/2/3/4 de NVidia.
+
 [Section.0407]
 Name = NVidia Display Treiber
 License = Unbekannt

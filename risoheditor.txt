@@ -13,3 +13,6 @@ SizeBytes = 3638991
 
 [Section.0411]
 Description = リソーエディタは、EXE、DLL、RCファイルの中のリソースデータを編集できるフリーのWin32のリソースエディタです。
+
+[Section.0a]
+Description = RisohEditor es un editor de recursos Win32 gratuito  que puede editar datos en archivos EXE, DLL y RC.
