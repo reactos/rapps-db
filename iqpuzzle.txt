@@ -13,6 +13,7 @@ SizeBytes = 9998445
 
 [Section.0a]
 Description = Un puzzle pentominó que te divertirá y retará intelectualmente.
+
 [Section.0407]
 Description = Ein kurzweiliges herausforderndes Pentomino-Puzzle
 Size = 23.0 MiB
