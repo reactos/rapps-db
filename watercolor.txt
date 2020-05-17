@@ -39,6 +39,3 @@ Description = 基于 Windows 代号 Whistler 外观的 Windows 主题。
 
 [Section.0a]
 Description = Un tema de Windows basado en el look del Windows Codename Whistler.
-
-
-
