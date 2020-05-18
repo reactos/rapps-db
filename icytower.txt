@@ -1,0 +1,11 @@
+[Section]
+Name = Icy Tower
+Version = 1.5.1
+Licence = Freeware
+Description = Icy Tower is a fun and short, yet addictive game where your only goal is to gain as much score as possible.
+SizeBytes = 4363571
+Category = 4
+URLSite = https://archive.org/post/1100239/icy-tower-is-not-the-latest-version
+URLDownload = https://web.archive.org/web/20161108225602if_/http://icytower.muskedunderinter.netdna-cdn.com/icytower_install.exe
+SHA1 = 8486c4f9e4bcd1adc4e5bcb6cd58ba4a917de359
+CDPath = none
