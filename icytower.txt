@@ -1,7 +1,7 @@
 [Section]
 Name = Icy Tower
 Version = 1.5.1
-Licence = Freeware
+License = Freeware
 Description = Icy Tower is a fun and short, yet addictive game where your only goal is to gain as much score as possible.
 SizeBytes = 4363571
 Category = 4
