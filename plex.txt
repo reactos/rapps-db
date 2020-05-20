@@ -2,7 +2,6 @@
 Name = Plex
 License = EULA
 Description = Plex theme from Windows Codename Longhorn.
-Size = 560 KiB
 Category = 15
 URLDownload = https://www.dropbox.com/s/4lprz81xrozwylp/Plex%20Theme.exe
 SHA1 = ece40fcc15ec800aa90517d0b198cdd5eab94979
