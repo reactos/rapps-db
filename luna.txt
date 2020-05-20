@@ -1,0 +1,11 @@
+[Section]
+Name = Luna
+Version = 
+License = EULA
+Description = Luna theme from Windows XP.
+Size = 1.13 Mb
+Category = 15
+URLDownload = https://www.dropbox.com/s/5p87b1w28d4z0r1/Luna%20Theme.exe
+SHA1 = 584cb4bc31f6c1a252a13f925fac6e1ade049bd5
+CDPath = none
+SizeBytes = 1184890.88

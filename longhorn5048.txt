@@ -1,0 +1,11 @@
+[Section]
+Name = Longhorn 5048 Aero Theme
+Version = 
+License = EULA
+Description = A Windows theme from Longhorn 5048.
+Size = 455 KiB
+Category = 15
+URLDownload = https://www.dropbox.com/s/dy7uf5n08wblbah/Longhorn%205048%20Aero%20Theme.exe
+SHA1 = 069be12175d80a0f3c76daa5b90eeca8f547dd28
+CDPath = none
+SizeBytes = 465920

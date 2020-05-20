@@ -1,0 +1,11 @@
+[Section]
+Name = Luna Beta
+Version = 
+License = EULA
+Description = Luna theme from Windows Codename Whistler.
+Size = 356 KiB
+Category = 15
+URLDownload = https://www.dropbox.com/s/4c89tq1s6ac6awv/Luna%20Beta%20Theme.exe
+SHA1 = abeef21ededa6fc178aef54256768b64cb26f5f5
+CDPath = none
+SizeBytes = 364544

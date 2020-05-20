@@ -1,0 +1,11 @@
+[Section]
+Name = Windows NT 3
+Version =
+License = Freeware
+Description = A Windows theme based on the look of Windows NT 3.
+Size = 166 KiB
+Category = 15
+URLDownload = https://www.dropbox.com/s/6ind9b6deli700k/Windows%20NT%203%20Theme.exe
+SHA1 = c24a23d4b39566a9e1e1738ae29b29db5f33c418
+CDPath = none
+SizeBytes = 169984
