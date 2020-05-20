@@ -1,11 +1,9 @@
 [Section]
 Name = Slate
-Version =
 License = EULA
 Description = Slate theme from Windows Codename Longhorn.
-Size = 389 KiB
 Category = 15
 URLDownload = https://www.dropbox.com/s/m2d8t6yfmf46zhj/Slate%20Theme.exe
 SHA1 = 7c8eb5f5f5ece60f3e44668d1a2858717dbba983
 CDPath = none
-SizeBytes = 398336
+SizeBytes = 399290
