@@ -1,6 +1,5 @@
 [Section]
 Name = Luna Beta
-Version = 
 License = EULA
 Description = Luna theme from Windows Codename Whistler.
 Category = 15
