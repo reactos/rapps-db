@@ -1,0 +1,9 @@
+[Section]
+Name = Luna Beta
+License = EULA
+Description = Luna theme from Windows Codename Whistler.
+Category = 15
+URLDownload = https://github.com/petr-akhlamov/ros-repo/raw/master/lunabeta.exe
+SHA1 = abeef21ededa6fc178aef54256768b64cb26f5f5
+CDPath = none
+SizeBytes = 364810
