@@ -37,3 +37,6 @@ Size = 65,8 KiB
 License = 免费软件
 Description = Windows 上的单人卡牌游戏。它基于一款叫做 "Shit-head" 的流行的学生卡牌游戏。
 
+[Section.0a]
+Description = Un juego de cartas de un jugador hecho para Windows. Está basado en el popular juego de estudiantes "Shit-head".
+

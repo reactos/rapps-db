@@ -11,6 +11,9 @@ SHA1 = 3baf154bf6ce75d62746d866fc5106c4c8300776
 CDPath = none
 SizeBytes = 15396864
 
+[Section.0a]
+Description = Una herramienta de código abierto independiente, que divide, combina y edita otras funciones en un documento PDF. Necesita tener instalado Java runtime.
+
 [Section.0407]
 Description = Freies, quelloffenes, Plattformunabhängiges Werkzeug zum spiltten, zusammenfügen und anderer Manipulationen an PDF Dokumenten. Java Runtime benötigt!
 Size = 14,7 MiB

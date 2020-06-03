@@ -42,3 +42,6 @@ Size = 1,4 MiB
 License = 免费软件
 Description = 即刻通过名字找到文件和文件夹。
 
+[Section.0a]
+Description = Localiza archivos y carpetas por el nombre al instante.
+

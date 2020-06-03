@@ -20,3 +20,6 @@ Size = 19,9 MiB
 License = Vabavaraline
 Description = Flash Playeri plugin veebibrauseritele PPAPI toega (nt. Chrome, Vivaldi).
 Size = 19,9 MiB
+
+[Section.0a]
+Description = Plugin de Flash Player para los navegadores web con soporte PPAPI (p.e. Chrome, Vivaldi).

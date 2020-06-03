@@ -44,3 +44,6 @@ Size = 1,5 MiB
 License = 免费软件
 Description = 一款灵活的电子停表软件。
 
+[Section.0a]
+Description = Una aplicación de cronómetro digital muy flexible.
+

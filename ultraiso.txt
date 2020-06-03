@@ -34,3 +34,6 @@ Size = 4,3 MiB
 License = 试用版本
 Description = 一款针对 ISO CD/DVD 镜像文件创建、编辑及转换的工具，它也可以用来制作可引导 CD/DVD。它可以直接编辑编辑 CD/DVD 的镜像文件并从中释放文件或目录，也可以直接从您的 CD/DVD-ROM 或硬盘中创建 ISO 文件。
 
+[Section.0a]
+Description = Una herramienta para crear, convertir y editar imágenes ISO, y un creador de CD/DVD, que puede editar directamente las imágenes de CD/DVD para extraer archivos o carpetas. Crea imágenes de disco duro y CD/DVD.
+

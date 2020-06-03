@@ -33,3 +33,5 @@ Size = 14,9 MiB
 [Section.0804]
 Description = 用来做代码同步及更新的图形化 SVN 客户端。
 
+[Section.0a]
+Description = Cliente gráfico SVN para la sincronización y actualización de código.

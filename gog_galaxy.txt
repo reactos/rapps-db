@@ -11,6 +11,9 @@ SHA1 = 93198e62d8e34034f8668479c92b106faacc850a
 CDPath = none
 SizeBytes = 146623848
 
+[Section.0a]
+Description = El cliente gaming diseñado para una conveniente venta, juego y actualización de juegos, así como para el juego online entre plataformas gamers, GOG Galaxy está construida con la opcionalidad en mente, y creyendo que deberías ser propietario de los juegos que compras. ¡Sin DRM!
+
 [Section.0419]
 License = Бесплатно
 Description = Клиет для игровой платформы GOG Galaxy

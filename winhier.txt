@@ -10,3 +10,6 @@ URLDownload = https://github.com/katahiromz/WinHier/releases/download/2.1/WinHie
 SHA1 = 1349679cd6842f1e2336e1b4a9a7eb41a1af35e4
 CDPath = none
 SizeBytes = 735932
+
+[Section.0a]
+Description = WinHier es un visor de las propiedades, jerarquía y mensajes de Windows.

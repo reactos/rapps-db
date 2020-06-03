@@ -42,3 +42,6 @@ Size = 1,5 MiB
 License = 免费软件
 Description = 一个免费的用来制作 NES 和 Famicom 系统音乐的 Windows 跟踪器。
 
+[Section.0a]
+Description = Un tracker gratuito para crear música para los sistemas NES y Famicon en Windows.
+

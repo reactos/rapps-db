@@ -11,6 +11,9 @@ SHA1 = 49efdc29f65fc8263c196338552c7009fc96c5de
 CDPath = none
 SizeBytes = 7054336
 
+[Section.0a]
+Description = La framework redistribuible XNA te proporciona los componentes runtime para ejecutar un juego en Windows que haya sido desarrollado usando el Microsoft XNA Game Studio 4.0.
+
 [Section.0415]
 License = Nieznana
 Description = Pakiet redystrybucyjny XNA zawiera niezbędne biblioteki do uruchomienia gier w systemie Windows, które zostały opracowane przy użyciu oprogramowania Microsoft XNA Game Studio 4.0.

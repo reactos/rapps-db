@@ -20,3 +20,6 @@ Size = 95,6 MiB
 License = Tundmatu
 Description = Annab enamus DirectX põhinevate rakenduste ja mängude jaoks sobivad runtimed. Peate installeri käivitama käsitisi pärast lahti pakkimist.
 Size = 95,6 MiB
+
+[Section.0a]
+Description = Proporciona el entorno de ejecución requerido por la mayoría de las aplicaciones y juegos basados en DirectX. Necesitarás iniciar manualmente el instalador tras descomprimirlo.

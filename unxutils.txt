@@ -11,6 +11,10 @@ SHA1 = f6a83c372110276f535a1963fa9701a547ef5342
 CDPath = none
 SizeBytes = 3365638
 
+[Section.0a]
+Name = Utilidades GNU para Win32
+Description = Algunos ports de las utilidades GNU para Win32 nativo.
+
 [Section.0407]
 Description = Einige Portierungen der bekannten GNU Utilities auf natives Win32.
 Size = 3,2 MiB

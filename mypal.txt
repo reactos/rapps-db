@@ -11,5 +11,8 @@ SHA1 = 185ad6bd279d532789a8e890773bc95239273ec4
 CDPath = none
 SizeBytes = 31540445
 
+[Section.0a]
+Description = Mypal es un navegador web mantenido y actual para Windows XP, basado en PaleMoon y Firefox.
+
 [Section.0407]
 Description = Mypal ist ein freier, moderner und quelloffener Webbrowser, der Kompatibilität zu Windows XP bewahrt.

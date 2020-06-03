@@ -11,6 +11,10 @@ SHA1 = 455b076bc8c805225f65c8935378d2c3906c4ec2
 CDPath = none
 SizeBytes = 38808920
 
+[Section.0a]
+Name = Paquete de compatibilidad de Microsoft Office de Word, Excel y Powerpoint
+Description =  Paquete necesario para poder abrir los *.docx, *.xlsx, etc en el visor de Word y Excel y en Office 2003/XP.
+
 [Section.0407]
 License = Unbekannt
 Description = Wird zum Öffnen von *.docx, *.xlsx, etc unter Word/Excel Viewer und Office 2003 benötigt.

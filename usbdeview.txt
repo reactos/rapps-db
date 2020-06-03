@@ -22,3 +22,6 @@ Size = 92.4 KиБ
 License = 免费软件
 Description = 列举当前连接到您的电脑及曾经使用过的所有 USB 设备的小工具。
 
+[Section.0a]
+Description = Una pequeña utilidad que muestra todos los dispositivos USB que estén conectados en tu ordenador, así como todos los que hayas usado previamente.
+

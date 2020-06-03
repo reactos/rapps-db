@@ -11,6 +11,9 @@ SHA1 = 8f625ccc568750e8d097b19b9429333ff46a90ff
 CDPath = none
 SizeBytes = 8807144
 
+[Section.0a]
+Description = Un programa de mensajería instantanea que te permite iniciar sesión en múltiples redes de chat simultaneamente.
+
 [Section.0407]
 Description = Ein instant messaging-Programm, welches läßt Sie zu Konten auf mehreren Chat-Netzwerken gleichzeitig anmelden.
 Size = 8,4 MiB

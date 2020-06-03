@@ -11,6 +11,9 @@ SHA1 = a46ead69a6d18609b1f2e8ae60a3a5883e2e061e
 CDPath = none
 SizeBytes = 26570888
 
+[Section.0a]
+Description = Un navegador web ligero, rápido y personalizable basado en el entorno Gecko.
+
 [Section.0407]
 Description = Extrem schneller, erweiterbarer und dennoch kleiner Web Browser basierend auf der Gecko Layout Engine.
 Size = 25,3 MiB
