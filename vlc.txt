@@ -1,26 +1,23 @@
 [Section]
 Name = VLC media player
-Version = 3.0.7.1
+Version = 3.0.10
 License = GPL
 Description = A fully featured FOSS media player with built-in codecs.
-Size = 38.8 MiB
 Category = 2
 URLSite = http://www.videolan.org/vlc/
-URLDownload = https://ftp.icm.edu.pl/pub/video/vlc/vlc/3.0.7.1/win32/vlc-3.0.7.1-win32.exe
-SHA1 = 23ed9eaf6e82596964f2a2c0eda141b5dcb4d14c
+URLDownload = https://ftp.icm.edu.pl/pub/video/vlc/vlc/3.0.10/win32/vlc-3.0.10-win32.exe
+SHA1 = 7b36da6307481baf90b664e44ba79747ef12fa90
 CDPath = none
-SizeBytes = 40693760
+SizeBytes = 41210600
 
 [Section.0407]
 Description = Voll funktionsfähiger FOSS Media-Player mit eingebauten Codecs.
-Size = 38,8 MiB
 
 [Section.0a]
 Description = Completo reproductor multimedia, de código abierto y con códecs propios.
 
 [Section.040c]
 Description = Un lecteur media.
-Size = 38,8 Mio
 
 [Section.0410]
 Description = Lettore multimediale.
@@ -33,11 +30,9 @@ Description = W pełni funkcjonalny, otwartoźródłowy odtwarzacz multimediów 
 
 [Section.0418]
 Description = Lector multimedia complet, gratuit cu surse deschise și codecuri încorporate.
-Size = 38,8 Mio
 
 [Section.0419]
 Description = Мультимедийный проигрыватель.
-Size = 38,8 МиБ
 
 [Section.041b]
 Description = Multimediálny prehrávač.
@@ -45,7 +40,6 @@ Description = Multimediálny prehrávač.
 [Section.041f]
 Name = VLC Ortam Oynatıcısı
 Description = İçindeki kodeklerle tam özellikli bir FOSS ortam oynatıcısı.
-Size = 38,8 MiB
 
 [Section.0422]
 Description = Мультимедійний програвач.
