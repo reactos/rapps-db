@@ -3,13 +3,13 @@ Name = Notepad++
 Version = 6.9
 License = GPL
 Description = A full featured, free text editor with many plug-ins.
-Size = 4.0 MiB
+Size = 3684 B
 Category = 6
 URLSite = http://notepad-plus-plus.org/
 URLDownload = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.7/npp.7.8.7.Installer.exe
 SHA1 = 9BDD1D7C3C26063B30A9C3719BFA54B8BB7CD628
 CDPath = none
-SizeBytes = 4206592
+SizeBytes = 3684
 
 [Section.0407]
 Description = Voll funktionsfähiger, kostenloser Texteditor mit vielen Plugins.
