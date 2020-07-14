@@ -8,7 +8,7 @@ URLSite = http://notepad-plus-plus.org/
 URLDownload = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.7/npp.7.8.7.Installer.exe
 SHA1 = 9BDD1D7C3C26063B30A9C3719BFA54B8BB7CD628
 CDPath = none
-SizeBytes = 3684
+SizeBytes = 3772184
 
 [Section.0407]
 Description = Voll funktionsfähiger, kostenloser Texteditor mit vielen Plugins.
@@ -54,4 +54,3 @@ Description = 一种全功能，带有很多插件的免费文本编辑器。
 
 [Section.0813]
 Description = Een teksteditor.
-
