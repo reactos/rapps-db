@@ -6,7 +6,7 @@ Description = A full featured, free text editor with many plug-ins.
 Category = 6
 URLSite = http://notepad-plus-plus.org/
 URLDownload = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.8.7/npp.7.8.7.Installer.exe
-SHA1 = 9BDD1D7C3C26063B30A9C3719BFA54B8BB7CD628
+SHA1 = 9bdd1d7c3c26063b30a9c3719bfa54b8bb7cd628
 CDPath = none
 SizeBytes = 3772184
 
