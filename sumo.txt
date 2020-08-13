@@ -1,0 +1,11 @@
+[Section]
+Name = SUMo
+Version = 5.11.2
+License = Freeware / Shareware
+Description = Software Update Monitor
+Size = 3.5 MiB
+Category = 12
+URLSite = https://www.kcsoftwares.com/?sumo
+URLDownload = https://www.kcsoftwares.com/files/sumo
+CDPath = none
+
