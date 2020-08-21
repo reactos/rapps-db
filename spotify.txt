@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Spotify
 Version = 1.0.29.92
 License = Freeware
