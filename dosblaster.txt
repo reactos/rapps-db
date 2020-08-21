@@ -41,7 +41,7 @@ Size = 2,1 МиБ
 
 [Section.0425]
 Description = Kestalaiendus, mis lubab avada igat DOS rakendust DOSBoxis parema klõpsuga. See versioon sisaldab DOSBox 0.70-i, aga saab kergelt uuendada installeerides uuema DOSBoxi DosBlaster kaustadesse.
-Sie = 2,1 MiB
+Size = 2,1 MiB
 
 [Section.041f]
 Description = Bir DOS uygulamasını DOSBox'ta sağ tıklamayla açtırılabilmesini olanaklı duruma getiren bir kabuk uzantısıdır. Bu sürüm DOSBox 0.70 içerir ancak daha yeni bir DOSBox'u DosBlaster dizinlerinin içine kurarak kolayca günceleştirilebilir.
