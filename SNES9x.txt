@@ -2,7 +2,7 @@
 Name = SNES9x
 Version = 1.60
 License = GPL
-Description = a portable, freeware Super Nintendo Entertainment System (SNES) emulator. You'll need to change the video renderer to OpenGL in the video settings or in the ini file.
+Description = A portable, freeware Super Nintendo Entertainment System (SNES) emulator. You'll need to change the video renderer to OpenGL in the video settings or in the ini file.
 Size = 2.61 MiB
 Category = 4
 URLSite = https://github.com/snes9xgit/snes9x/
