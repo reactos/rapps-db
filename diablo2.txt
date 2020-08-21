@@ -51,7 +51,7 @@ Size = 131,9 MiB
 Description = Для запуску потрібен Zeckensack's Glide wrapper.
 
 [Section.0425]
-Nimi = Diablo II (Jaosvara)
+Name = Diablo II (Jaosvara)
 License = Jaosvara
 Description = Prooviversioon mängust. Zeckensacki Glide pakendit on vaja selle rakendamiseks.
 Size = 131,9 MiB
