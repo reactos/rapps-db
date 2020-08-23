@@ -48,8 +48,9 @@ File format overview:
       Category = 5
       URLSite = https://example.org/
       URLDownload = https://ftp.example.org/pub/installer.exe
-      CDPath = ; Path in the local filesystem
-    
+      Screenshot1 = Screenshot URL
+      Icon = Icon filename in icons folder (with .ico extension)
+      
       [Section.0419] ; 0419 - for Russian language
       Description = Description in Russian language
 
