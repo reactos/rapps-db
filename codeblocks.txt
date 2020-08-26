@@ -8,8 +8,9 @@ Category = 7
 URLSite = http://www.codeblocks.org/
 URLDownload = https://download.sourceforge.net/project/codeblocks/Binaries/17.12/Windows/codeblocks-17.12-setup.exe
 SHA1 = 05ad095b5e04de243df736c060aea25a554dad94
-CDPath = none
 SizeBytes = 37372176
+Icon=codeblocks.ico
+Screenshot1=https://i.imgur.com/FykFrzz.png
 
 [Section.0407]
 Description = Quelloffene, plattformübergreifende, mächtige IDE. Diese enthält keinen Compiler.
