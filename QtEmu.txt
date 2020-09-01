@@ -3,7 +3,6 @@
  Version = 1.0.5
  Licence = GPLv2
  Description = QtEmu is a graphical user interface for QEMU written in Qt4.
- Size = 5,3MB
  Category = 15
  URLSite = https://qtemu.org/
  URLDownload = https://downloads.sourceforge.net/project/qtemu/qtemu/1.0.5/qtemu-1.0.5.exe
