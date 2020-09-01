@@ -7,5 +7,9 @@
  Category = 15
  URLSite = https://qtemu.org/
  URLDownload = https://downloads.sourceforge.net/project/qtemu/qtemu/1.0.5/qtemu-1.0.5.exe
- CDPath = none
+ SHA1 = 064318f1c199340fd08c5e314347f5a93460dc83
+ SizeBytes = 5336074
+ 
+ [Section.0415]
+ Description = QtEmu to graficzny interfejs użytkownika dla QEMU napisany w Qt4.
  
