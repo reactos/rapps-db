@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Watercolor Lite
 Version = 2.11
 License = Freeware

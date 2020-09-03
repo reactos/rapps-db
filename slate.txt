@@ -1,0 +1,9 @@
+[Section]
+Name = Slate
+License = EULA
+Description = Slate theme from Windows Codename Longhorn.
+Category = 15
+URLDownload = https://github.com/petr-akhlamov/ros-repo/raw/master/slate.exe
+SHA1 = 4c8b77c79d14bfb378427775c40ca8e298bc092d
+CDPath = none
+SizeBytes = 1712682
