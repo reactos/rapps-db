@@ -1,9 +1,0 @@
-[Section]
-Name = Longhorn 5048 Aero Theme
-License = EULA
-Description = A Windows theme from Longhorn 5048.
-Category = 15
-URLDownload = https://github.com/petr-akhlamov/ros-repo/raw/master/longhorn5048.exe
-SHA1 = c2807e55fb7787bf224c815149b2598bc1a0c457
-CDPath = none
-SizeBytes = 581302
