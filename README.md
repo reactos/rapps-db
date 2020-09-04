@@ -33,51 +33,28 @@ RAPPS also accepts neutral language codes, meaning that you can do things like t
 You can also define an entry without English fallback to make it visible to certain users only.
 For instance; software from 1C, which is mostly for Russian speakers and unusable for anyone else.
 
-File format overview:
-
-      ; This is a INI-style comment, useful for adding additional information.
-      ; Lines starting with a ; character are skipped by the parser.
-    
-      [Section]
-      Name = My fun stuff-o-matic
-      RegName = Name in Registry
-      Version = 1.1.1
-      License = GPL
-      Description = Shortish description giving some additional background information about what it does.
-      Size = 10 MB
-      Category = 5
-      URLSite = https://example.org/
-      URLDownload = https://ftp.example.org/pub/installer.exe
-      Screenshot1 = Screenshot URL
-      Icon = Icon filename in icons folder (with .ico extension)
-      
-      [Section.0419] ; 0419 - for Russian language
-      Description = Description in Russian language
-
-
-
+For a complete file format overview see the [File Schema on the ReactOS wiki](https://reactos.org/wiki/RAPPS#File_Schema)
 
 The mandatory fields are: *Name*, *Category* and *URLDownload*
 All other fields are completely optional and can be skipped.
 
 List of valid categories:
 
- 1. Audio 
- 2. Video 
- 3. Graphics 
- 4. Games 
+ 1. Audio
+ 2. Video
+ 3. Graphics
+ 4. Games
  5. Internet
- 6. Office 
- 7. Development 
+ 6. Office
+ 7. Development
  8. Edutainment
  9. Engineering
  10. Finance
- 11. Science 
- 12. Tools 
- 13. Drivers 
- 14. Libraries 
- 15. Themes 
+ 11. Science
+ 12. Tools
+ 13. Drivers
+ 14. Libraries
+ 15. Themes
  16. Other
 
-The official list of downloadable programs is kept on a public ReactOS server
-and synced every time RAPPS is launched for the first time.
+The official list of downloadable programs is kept on a public ReactOS server and synced every time RAPPS is launched for the first time.
