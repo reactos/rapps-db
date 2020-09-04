@@ -22,7 +22,9 @@ ALL_KEYS = [
     b'SizeBytes',
     b'SizeInBytes',
     b'Icon',
-    b'Screenshot1'
+    b'Screenshot1',
+    b'LicenseInfo',
+    b'Languages',
 ]
 
 
