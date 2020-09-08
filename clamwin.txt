@@ -1,0 +1,16 @@
+[Section]
+Name = ClamWin Free Antivirus
+Version = 0.99.4
+License = GPL
+LicenseInfo = 1
+Description =  ClamWin is a Free Antivirus program for Microsoft Windows 10/8/7/Vista/XP/Me/2000/98 and Windows Server 2012, 2008 and 2003.
+Category = 12
+URLSite = http://www.clamwin.com/
+URLDownload = https://sourceforge.net/projects/clamwin/files/clamwin/0.99.4/clamwin-0.99.4-setup.exe
+SHA1 = c9e89a9ec6351545b6dfb3f0c9a0ff41660ce09c
+SizeBytes = 172661090
+Languages=0409|040A
+
+[Section.040a]
+Name = ClamWin Antivirus Gratuito
+Description = ClamWin es un antivirus libre para Microsoft Windows 10/8/7/Vista/XP/Me/2000/98 y para Windows Server 2012, 2008 y 2003.
