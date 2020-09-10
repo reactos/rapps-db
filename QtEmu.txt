@@ -1,7 +1,7 @@
  [Section]
  Name = QtEmu
  Version = 1.0.5
- Licence = GPLv2
+ License = GPLv2
  Description = QtEmu is a graphical user interface for QEMU written in Qt4.
  Category = 15
  URLSite = https://qtemu.org/
