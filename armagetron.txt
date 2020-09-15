@@ -1,0 +1,14 @@
+[Section]
+Name = Armagetron Advanced
+Version = 0.2.9.0.1
+License = GPL
+LicenseInfo = 1
+Description =  A Tron clone in 3D. Full screen is laggy 640x480 works well.
+Category = 4
+URLSite = http://www.armagetronad.org/downloads.php
+URLDownload = https://sourceforge.net/projects/armagetronad/files/stable/0.2.9.0.1/armagetronad-0.2.9.0.1.gcc.win32.exe
+SHA1 = 10c2cbff497041f7beead86cec3a3af293c324fb
+SizeBytes = 2791515
+Languages=0409
+
+
