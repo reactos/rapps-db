@@ -1,7 +1,7 @@
 [Section]
 Name = Dave Gnukem
 Version = 1.01
-License = MIT
+License = MIT GPL CC
 LicenseInfo = 1
 Description =  Dave Gnukem is a retro-style 2D scrolling platform shooter. It is inspired by and similar to Duke Nukem 1.
 Category = 4
