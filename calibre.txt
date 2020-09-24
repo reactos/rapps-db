@@ -1,0 +1,13 @@
+[Section]
+Name = Calibre
+Version = 2.0.0
+License = GLPv3
+Description = Calibre is a cross-platform open-source suite of e-book software. Edit virtual libraries, display, create and convert e-books and sync them with your favourite device.
+Category = 6
+URLSite = https://calibre-ebook.com/
+URLDownload = https://download.calibre-ebook.com/2.0.0/calibre-2.0.0.msi
+SHA1 = ce79fced7be52013e60d1913ea7ae6959d6b9581
+SizeBytes = 61825024
+
+[Section.0a]
+Description = Calibre es un software de licencia abierta para la gestión de libros digitales. Edita librerías virtuales, lee libros, crea y convierte ebooks y sincronízalos con tu dispositivo favorito.
