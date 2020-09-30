@@ -9,6 +9,7 @@ URLDownload = https://ayera.dl.sourceforge.net/project/acts/jre-6u45-windows-i58
 SHA1 = 5100b8eafaa7ed73ed6dab5469ba3faff38a9ae9
 CDPath = none
 SizeBytes = 17090992
+Icon = jdk8.ico
 
 [Section.0407]
 Description = Sie wollen Java Programme nutzen? Wenn ja, laden Sie die Java Runtime Environment herunter.
