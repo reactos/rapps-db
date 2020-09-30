@@ -9,6 +9,7 @@ URLDownload = https://netix.dl.sourceforge.net/project/javaclientmsiinstallers/v
 SHA1 = 5d59f9e360c83e61e365c75d6602f5cd0ba033b5
 CDPath = none
 SizeBytes = 31150504
+Icon = jdk8.ico
 
 [Section.0407]
 Description = Sie wollen Java Programme nutzen? Wenn ja, laden Sie die Java Runtime Environment herunter.
