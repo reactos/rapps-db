@@ -1,0 +1,15 @@
+[Section]
+Name = EverEdit
+Version = 4.3.1.4480
+License = Trial
+Description = The modern, most powerful, value priced text editor.
+Size = 4.2 MiB
+Category = 7
+URLSite = http://www.everedit.net/
+URLDownload = http://download.everedit.cn/everedit_win32_4480_setup.exe
+SHA1 = 74ef1e92d2337a8beabdd8ac1d387c7674009009
+CDPath = none
+SizeBytes = 4380855
+
+[Section.0804]
+Description = 身躯小巧，性能卓越，自定义功能完善，丰富的主题和脚本，完美的编码、大字符集字符显示，无论您是哪个级别的码农，EverEdit都会给您带来不一样的体验！
