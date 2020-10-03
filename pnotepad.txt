@@ -3,7 +3,6 @@ Name = Programmer's Notepad
 Version = 2.4.2
 License = Free Software
 Description = Programmer's Notepad is a text editor for Windows.
-Size = 2.4 MiB
 Category = 7
 URLSite = https://www.pnotepad.org/
 URLDownload = https://github.com/simonsteele/pn/releases/download/v2.4.2/pn2421440_multilang.exe
