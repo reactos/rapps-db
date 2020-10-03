@@ -3,7 +3,6 @@ Name = Notepad2e
 Version = 4.2.25
 License = 3-clause BSD
 Description = Notepad 2e is a fork of Notepad2 with word highlighting, simultaneous editing, math evaluation, un/grep, UAC elevation, complete regexps (PCRE), Lua lexers, DPI awareness and more 
-Size = 980 KiB
 Category = 7
 URLSite = https://github.com/ProgerXP/Notepad2e
 URLDownload = https://github.com/ProgerXP/Notepad2e/releases/download/R134/Notepad2e-R134-ac4b27c-x86.zip
