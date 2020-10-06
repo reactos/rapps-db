@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = WinFile
 Version = 10.14.4.0
 License = MIT
