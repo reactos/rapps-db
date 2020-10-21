@@ -7,7 +7,8 @@ Size = 28.3 MiB
 Category = 2
 URLSite = https://potplayer.daum.net/?lang=en
 URLDownload = https://daumpotplayer.com/wp-content/uploads/2020/09/PotPlayerSetup.exe
-Icon=https://potplayer.daum.net/favicon.ico
+Icon=potplayer.ico
+Screenshot1=https://upload.wikimedia.org/wikipedia/commons/e/e3/Pot_player_1.7.18346.jpg
 SHA1 = 8030f43c2f580e6b8897ca08a239390d58f6a2cb
 CDPath = none
 SizeBytes = 29764464
