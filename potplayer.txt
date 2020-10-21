@@ -1,0 +1,38 @@
+[Section]
+Name = PotPlayer
+Version = 1.7.21295
+License = Freeware
+Description = PotPlayer is a multimedia software player.
+Size = 28.3 MiB
+Category = 2
+URLSite = https://potplayer.daum.net/?lang=en
+URLDownload = https://daumpotplayer.com/wp-content/uploads/2020/09/PotPlayerSetup.exe
+Icon=https://potplayer.daum.net/favicon.ico
+SHA1 = 8030f43c2f580e6b8897ca08a239390d58f6a2cb
+CDPath = none
+SizeBytes = 29764464
+
+[Section.0412]
+Description = PotPlayer는 멀티미디어 소프트웨어 플레이어입니다.
+URLSite = https://potplayer.daum.net/?lang=ko
+
+[Section.0804]
+Description = PotPlayer是一个多媒体软件播放器。
+URLSite = https://potplayer.daum.net/?lang=zh_CN
+
+[Section.0404]
+Description = PotPlayer是一個多媒體軟件播放器。
+URLSite = https://potplayer.daum.net/?lang=zh_TW
+
+[Section.0422]
+Description = PotPlayer - програвач мультимедійних програм.
+URLSite = https://potplayer.daum.net/?lang=uk
+
+[Section.0419]
+Description = PotPlayer - это мультимедийный программный проигрыватель.
+URLSite = https://potplayer.daum.net/?lang=ru
+Size = 28,3 МиБ
+
+[Section.0415]
+Description = PotPlayer to multimedialny odtwarzacz oprogramowania.
+URLSite = https://potplayer.daum.net/?lang=pl
