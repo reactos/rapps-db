@@ -1,0 +1,14 @@
+[Section]
+Name = Internet Download Manager (IDM)
+Version = 6.38.7
+License = Trial
+Description = Internet Download Manager (IDM) is a tool to increase download speeds by up to 5 times, resume and schedule downloads.
+Size = 9.88 MiB
+Category = 5
+URLSite = https://www.internetdownloadmanager.com/
+URLDownload = https://www.internetdownloadmanager.com/idman638build7.exe
+Icon=idm.ico
+Screenshot1 = https://i.imgur.com/ZgyZ62m.png
+SHA1 = 23ffbc2a7af171e7b4ac5f102da02c3f8fb15ac5
+CDPath = none
+SizeBytes = 10370792
