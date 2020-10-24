@@ -22,8 +22,8 @@ Description = Versión de demostración. El adaptador de compatibilidad para Gli
 Description = Zeckensack's Glide wrapper est requis pour le faire tourner.
 Size = 131,9 Mio
 
-[Section.0410]
-Description = Zeckensack's Glide wrappe è richiesto per avviarlo.
+[Section.10]
+Description = Versione demo del gioco. Il wrapper Glide di Zeckensack è necessario per eseguirlo.
 
 [Section.0413]
 Description = Maakt gebruik van Zeckensack's Glide wrapper.

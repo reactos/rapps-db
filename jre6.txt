@@ -45,3 +45,6 @@ Size = 16,2 MiB
 [Section.0804]
 License = Oracle 二进制代码许可
 Description = 运行基于 Java 的程序所需的平台和运行库。
+
+[Section.10]
+Description = Piattaforma e librerie necessarie per eseguire programmi basati su Java.

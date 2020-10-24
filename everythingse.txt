@@ -45,3 +45,5 @@ Description = 即刻通过名字找到文件和文件夹。
 [Section.0a]
 Description = Localiza archivos y carpetas por el nombre al instante.
 
+[Section.10]
+Description = Individua istantaneamente file e cartelle per nome.

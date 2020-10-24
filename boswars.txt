@@ -18,7 +18,7 @@ Size = 62,3 MiB
 [Section.0a]
 Description = Un juego de estrategia futurista en tiempo real. Para ejecutar el juego es necesario instalar Microsoft Visual C++ 2008 runtime.
 
-[Section.0410]
+[Section.10]
 Description = Bos Wars è un gioco futuristico di strategia in tempo reale. Per iniziare il gioco, installare Microsoft Visual C + + 2008 runtime.
 
 [Section.0415]

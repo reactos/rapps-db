@@ -41,3 +41,5 @@ Description = Gecko Engine 通常在系统安装第一阶段安装，除非当�
 Name = Motor de renderizado Wine Gecko
 Description = El motor de renderizado Gecko se instala normalmente en el primer paso de la instalación, pero solo si la conexión a internet está disponible en el proceso. Necesario para las aplicaciones que hacen uso del "mshtml.dll".
 
+[Section.10]
+Description = Gecko Engine normalmente installato nella configurazione del primo stadio, ma solo se la connessione Internet era disponibile in quel momento. Necessario per le applicazioni che utilizzano mshtml.dll.

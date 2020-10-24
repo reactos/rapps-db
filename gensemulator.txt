@@ -41,3 +41,5 @@ Description = Win32 用的 Sega Genesis / Sega CD / Sega 32X 模拟器。
 [Section.0a]
 Description = Un emulador Win32 de Sega Genesis, Sega CD y Sega 32X.
 
+[Section.10]
+Description = Un emulatore Win32 per Sega Genesis / Sega CD / Sega 32X.

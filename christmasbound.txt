@@ -19,7 +19,7 @@ Size = 892,3 KiB
 License = Gratuito
 Description = Un juego similar a Frozen Fruits.
 
-[Section.0410]
+[Section.10]
 Description = Un gioco simile a Frozen Fruits.
 
 [Section.0415]

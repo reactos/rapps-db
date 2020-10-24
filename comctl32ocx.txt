@@ -38,7 +38,7 @@ URLDownload = http://download.microsoft.com/download/4/0/f/40f775ea-b257-410c-8f
 SHA1 = 4033affcf60f8de394070a9c146c63a4e25f3fac
 SizeBytes = 933096
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
 Description = File necessari per alcune applicazioni. Contiene: Comctl32.ocx, mscomctl.ocx, advpack.dll.
 Size = 909.7 KiB

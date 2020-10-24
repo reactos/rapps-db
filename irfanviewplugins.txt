@@ -25,9 +25,9 @@ License = Gratuit (pour un usage personnel)
 Description = Modules additionnels pour supporter plus de types de fichiers.
 Size = 15,8 Mio
 
-[Section.0410]
+[Section.10]
 License = Gratuita (per uso personale)
-Description = Plugins addizionale per il supporto di molti tipi di file.
+Description = Plugin aggiuntivi per supportare più tipi di file.
 
 [Section.0413]
 License = Freeware (voor persoonlijk gebruik)

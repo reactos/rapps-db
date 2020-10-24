@@ -15,3 +15,5 @@ Name = Jet 4.0 Service Pack 8 (SP8) (KB829558) para 9x/NT
 License = Desconocida
 Description = Esta instalación incluye productos de Microsoft que incorporan funciones de Microsoft Jet database engine versión 4.0. 
 
+[Section.10]
+Description = Questa installazione include prodotti Microsoft che incorporano la versione 4.0 del motore di database Microsoft Jet.

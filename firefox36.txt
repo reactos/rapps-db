@@ -43,8 +43,8 @@ URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/3.6.28/win
 SHA1 = 2621a0556e1f6a0dd3961f36dac5ba1a446ced45
 SizeBytes = 8685856
 
-[Section.0410]
-Description = Il più popolare e uno dei migliori web browser gratuiti.
+[Section.10]
+Description = Un popolare browser Web. Gratuito e open source, realizzato da una comunità globale.
 Size = 8.1 MiB
 URLSite = http://www.mozilla.org/it/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/3.6.28/win32/it/Firefox%20Setup%203.6.28.exe

@@ -40,3 +40,5 @@ Description = 企鹅从冰山落下，你必须把它们弹上码头。
 [Section.0a]
 Description = Los pingüinos están cayendo desde un iceberg y tienes que introducirlo en la barca.
 
+[Section.10]
+Description = I pinguini stanno cadendo da un iceberg e devi farli rimbalzare sul molo.

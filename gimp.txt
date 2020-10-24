@@ -40,3 +40,5 @@ Description = Es un acrónimo en inglés de «Programa de Manipulación de Imág
 [Section.0804]
 Description = “GNU 图片编辑程序”的首字母缩写。它是一个用于譬如照片修描、图像构图和设计的自由软件。
 
+[Section.10]
+Description = Acronimo di GNU Image Manipulation Program. È un programma distribuito gratuitamente per attività come ritocco fotografico, composizione di immagini e creazione di immagini.

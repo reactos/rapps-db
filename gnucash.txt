@@ -40,3 +40,5 @@ Description = Un programa de contabilidad personal y de PYMEs liberado bajo los 
 [Section.0804]
 Description = 个人和小企业财务管理软件，以 GNU GPL 许可免费发行，可供 GNU/Linux、BSD、Solaris、Mac OS X 和 Microsoft Windows 使用。
 
+[Section.10]
+Description = Un software di contabilità finanziaria personale e per piccole imprese, concesso in licenza gratuita con licenza GNU GPL e disponibile per GNU/Linux, BSD, Solaris, Mac OS X e Microsoft Windows.

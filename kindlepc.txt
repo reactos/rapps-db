@@ -25,7 +25,7 @@ Description = Una aplicación gratuita que te permite lee libros Kindle.
 Description = Une application gratuite qui vous permet de lire des livres Kindle.
 Size = 62,2 Mio
 
-[Section.0410]
+[Section.10]
 Description = Un'applicazione gratuita che consente di leggere libri per Kindle.
 
 [Section.0413]

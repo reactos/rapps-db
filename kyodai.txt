@@ -18,8 +18,8 @@ Size = 13,8 MiB
 [Section.0a]
 Description = Uno de los mejores solitarios Mahjongg en existencia.
 
-[Section.0410]
-Description = Uno dei migliori giochi di Mahjongg Solitaire.
+[Section.10]
+Description = Uno dei migliori giochi di solitario Mahjongg in circolazione.
 
 [Section.0415]
 Description = Jedna z najlepszych gier Mahjongg Solitaire.

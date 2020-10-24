@@ -43,3 +43,5 @@ Description = Adobe AIR 运行库允许开发者将同样的代码打包成原�
 [Section.0a]
 Description = El entorno de ejecución de Adobe AIR permite a los desarrolladores empaquetar el mismo código en aplicaciones nativas y juegos.
 
+[Section.10]
+Description = Il runtime Adobe AIR consente agli sviluppatori di impacchettare lo stesso codice in applicazioni e giochi nativi.

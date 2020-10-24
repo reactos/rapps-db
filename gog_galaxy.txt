@@ -22,3 +22,6 @@ Size = 139 МиБ
 [Section.0425]
 License = Vabavara
 Description = Mänguri klient disainitud mugavaks mängude ostmiseks, mängimiseks ja uuendamiseks, lisaks mitmikmängimise võimalus erinevate platvormidega, GOG Galaxy on veel üles ehitatud valikulisust silmas pidades ja veendumisega, et Te peaksite omama mänge, mida ostate. DRM-vaba!
+
+[Section.10]
+Description = GOG Galaxy, il client di gioco progettato per acquistare, giocare e aggiornare i giochi in modo conveniente, nonché per giocare online tra piattaforme di gioco, GOG Galaxy è anche costruito pensando all'opzionalità e alla convinzione che dovresti possedere i giochi che acquisti. Senza DRM!

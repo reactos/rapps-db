@@ -41,3 +41,6 @@ Description = 一款开源的拥有两个并排面板的基于控制台的文件
 
 [Section.0a]
 Description = Un gestor de archivos open source basado en consola con dos paneles a cada lado.
+
+[Section.10]
+Description = Un file manager open source basato su console con due pannelli affiancati.

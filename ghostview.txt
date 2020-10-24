@@ -43,3 +43,5 @@ Size = 1,9 MiB
 [Section.0804]
 Description = 一个 Ghostscript 的图形界面。
 
+[Section.10]
+Description = Un'interfaccia grafica per Ghostscript.

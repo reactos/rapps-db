@@ -40,3 +40,5 @@ Size = 24,7 MiB
 [Section.0804]
 Description = 一款 PostScript 和 PDF 的开放的解释器。
 
+[Section.10]
+Description = Un interprete aperto per il linguaggio PostScript e per PDF.

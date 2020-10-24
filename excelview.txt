@@ -35,7 +35,7 @@ URLDownload = https://web.archive.org/web/20170501235031if_/http://download.micr
 SHA1 = 4a90df602abb28ed9229722695ea2aea14f3d049
 SizeBytes = 53610536
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
 Size = 51.1 MiB
 URLDownload = https://web.archive.org/web/20160206022610if_/http://download.microsoft.com/download/0/C/2/0C2ED9D9-6961-47F3-91E0-916E19F330E2/ExcelViewer.exe

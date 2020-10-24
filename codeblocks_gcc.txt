@@ -18,7 +18,7 @@ Size = 86,1 MiB
 [Section.0a]
 Description = Un IDE potente, de código abierto y multiplataforma. Viene con el compilador TDM-GCC (version 5.1.0, 32 bit).
 
-[Section.0410]
+[Section.10]
 Description = Un IDE potente, open source, multipiattaforma. Contiene il compilatore TDM-GCC (versione 5.1.0, 32 bit).
 
 [Section.0415]

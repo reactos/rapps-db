@@ -43,8 +43,8 @@ URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/fr/Firef
 SHA1 = 5ab2a014fa098ed2f6aec0c589326c5d86de3560
 SizeBytes = 45348408
 
-[Section.0410]
-Description = Il più popolare e uno dei migliori web browser gratuiti.
+[Section.10]
+Description = Un popolare browser Web. Gratuito e open source, realizzato da una comunità globale.
 Size = 45.1 MiB
 URLSite = https://www.mozilla.org/it/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/it/Firefox%20Setup%2048.0.2.exe

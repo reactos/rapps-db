@@ -11,4 +11,5 @@ SHA1 = 10c2cbff497041f7beead86cec3a3af293c324fb
 SizeBytes = 2791515
 Languages=0409
 
-
+[Section.10]
+Description = Un clone di Tron in 3D. Lo schermo intero è lento 640x480 funziona bene.

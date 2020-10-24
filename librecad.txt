@@ -38,3 +38,5 @@ Size = 26,5 MiB
 [Section.0804]
 Description = Windows、 Linux 和 OS X 使用的免费开源的二维 CAD 应用程序。
 
+[Section.10]
+Description = Un'applicazione CAD 2D gratuita e open source per Windows, Linux e OS X.

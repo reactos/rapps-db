@@ -8,7 +8,6 @@ Category = 12
 URLSite = https://www.ccleaner.com/ccleaner
 URLDownload = https://download.ccleaner.com/ccsetup562.exe
 SHA1 = e5c348ec9ff7905cb7f09a61a8686cb1e32154de
-
 CDPath = none
 SizeBytes = 25441808
 
@@ -50,3 +49,5 @@ Size = 24,2 MiB
 License = 免费软件
 Description = 一个清理临时文件和日常维护计算机的好工具。
 
+[Section.10]
+Description = Uno strumento decente per la pulizia dei file temporanei e la manutenzione generale del computer.

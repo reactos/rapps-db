@@ -7,3 +7,6 @@ URLDownload = https://github.com/petr-akhlamov/ros-repo/raw/master/longhorn5048.
 SHA1 = c2807e55fb7787bf224c815149b2598bc1a0c457
 CDPath = none
 SizeBytes = 581302
+
+[Section.10]
+Description = Un tema di Windows da Longhorn 5048.

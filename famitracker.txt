@@ -45,3 +45,5 @@ Description = 一个免费的用来制作 NES 和 Famicom 系统音乐的 Window
 [Section.0a]
 Description = Un tracker gratuito para crear música para los sistemas NES y Famicon en Windows.
 
+[Section.10]
+Description = Un tracker Windows gratuito per la produzione di musica per i sistemi NES e Famicom.

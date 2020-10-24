@@ -22,8 +22,8 @@ Description = Procesador de textos rápido y de código abierto.
 Description = Éditeur de texte.
 Size = 5,6 Mio
 
-[Section.0410]
-Description = Editor di testo.
+[Section.10]
+Description = Elaboratore di testi veloce e open source.
 
 [Section.0413]
 Description = Tekstverwerker.

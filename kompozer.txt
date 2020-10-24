@@ -37,3 +37,5 @@ Size = 7,6 MiB
 [Section.0804]
 Description = 一套完整的结合网络文件管理和简单易用的所见即所得网页编辑的网络创作系统。您将需要一个 ZIP 解压缩程序来运行它。
 
+[Section.10]
+Description = Un sistema completo di web authoring che combina la gestione dei file web e l'editing di pagine web WYSIWYG di facile utilizzo. Avrai bisogno di un programma di decompressione ZIP per eseguirlo.

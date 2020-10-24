@@ -21,3 +21,6 @@ Size = 18,3 Mio
 [Section.0415]
 Description = Dobry klient IRC (Internet Relay Chat) napisany przy użyciu Qt GUI.
 Size = 18,3 MiB
+
+[Section.10]
+Description = Un buon client per Internet Relay Chat (IRC) scritto utilizzando Qt GUI Toolkit.

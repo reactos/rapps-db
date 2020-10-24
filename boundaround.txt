@@ -17,7 +17,7 @@ Size = 2,0 MiB
 [Section.0a]
 Description = Un juego similar a Frozen Fruits.
 
-[Section.0410]
+[Section.10]
 Name = Bound Around (Versione di prova)
 Description = Un gioco simile a Frozen Fruits.
 

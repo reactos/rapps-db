@@ -18,8 +18,8 @@ Size = 6,3 MiB
 [Section.0a]
 Description = Un explorador de archivos multipanel de código abierto. Es necesario utilizar 7-Zip u otro programa alternativo para extraerlo.
 
-[Section.0410]
-Description = Double Commander è un open-source file-manager con due pannelli laterali affiancati. Utilizzare 7-Zip o un' utility simile per estrarlo.
+[Section.10]
+Description = Double Commander è un open-source file-manager con due pannelli laterali affiancati. Utilizzare 7-Zip o un'utility simile per estrarlo.
 
 [Section.0413]
 Description = Double Commander is een open-bron file-manager met twee panelen zij-aan-zij. Gebruik 7-Zip of een gelijkaardige applicatie om het uit te pakken.

@@ -13,3 +13,6 @@ SizeBytes = 2598120
 
 [Section.0a]
 Description = Mensajería Instantánea AOL. Cambie el DNS host a iwarg.ddns.net en el puerto 519' para restaurar su funcionalidad. Requiere AIM Phoenix.
+
+[Section.10]
+Description = Messaggistica istantanea AOL. Modificare il DNS dell'host in iwarg.ddns.net sulla porta 5190 per ripristinare il funzionamento. Richiede un account AIM Phoenix.

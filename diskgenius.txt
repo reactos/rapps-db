@@ -29,3 +29,6 @@ SizeBytes = 3087364
 
 [Section.0a]
 Description = Una utilidad de disco china. Puede modificar las particiones y recuperar datos del disco.
+
+[Section.10]
+Description = Un'utilità del disco in Cina. Può modificare le partizioni del disco e recuperare i dati.

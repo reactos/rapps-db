@@ -24,3 +24,7 @@ Size = 31,4 MiB
 [Section.0a]
 Name = Git para Windows
 Description = Git es un sistema de control y revision de sistemas rápido, escalable y distribucional con una variedad rica de comandos que proveen operaciones a alto nivel y un control total de los elementos.
+
+[Section.10]
+Name = Git per Windows
+Description = Git è un sistema di controllo di revisione veloce, scalabile e distribuito con un set di comandi insolitamente ricco che fornisce sia operazioni di alto livello che accesso completo agli internals.

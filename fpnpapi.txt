@@ -23,3 +23,6 @@ Size = 19,9 MiB
 
 [Section.0a]
 Description = Plugin de Flash Player para los navegadores web con soporte NPAPI (p.e. Firefox, Opera 12).
+
+[Section.10]
+Description = Plugin Flash Player per browser web con supporto NPAPI (es. Firefox, Opera 12).

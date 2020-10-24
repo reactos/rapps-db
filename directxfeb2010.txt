@@ -33,3 +33,6 @@ Size = 104 MiB
 
 [Section.0a]
 Description = Proporciona el entorno de ejecución requerido por la mayoría de las aplicaciones y juegos basados en DirectX. Necesitarás iniciar manualmente el instalador tras descomprimirlo.
+
+[Section.10]
+Description = Fornisce i runtime richiesti dalla maggior parte delle applicazioni e dei giochi basati su DirectX. È necessario eseguire manualmente il programma di installazione dopo averlo decompresso.

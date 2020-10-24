@@ -20,8 +20,8 @@ Description = Un IDE multiplataforma para la creación de programas en Object Pa
 [Section.0415]
 Description = Wielopratformowe zintegrowane środowisko programistyczne (IDE) które pozwala na tworzenie graficznych (GUI) i niegraficznych (działających w konsoli) programów obiektowych w języku Pascal. Program używa darmowego kompilatora Free Pascal.
 
-[Section.0410]
-Description = Un ambiente di sviluppo integrato (IDE) cross-platform che consente di creare interfacce grafiche (GUI) e programmi non visivi Object Pascal, e utilizza il compilatore Free Pascal per generare l'eseguibile.
+[Section.10]
+Description = Un IDE multipiattaforma che consente di creare programmi Object Pascal. Usa il compilatore Free Pascal per costruire i tuoi progetti.
 
 [Section.0418]
 License = GPL, LGPL modificată

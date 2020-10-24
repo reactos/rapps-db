@@ -40,3 +40,5 @@ Description = 一个免费的快速工程、科学原型设计及数据处理的
 [Section.0a]
 Description = Un entorno gratuito y rápido de prototipado científico, de procesamiento de datos e ingenieril.
 
+[Section.10]
+Description = Un ambiente gratuito per l'ingegneria rapida, la prototipazione scientifica e l'elaborazione dei dati.

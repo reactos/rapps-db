@@ -19,7 +19,7 @@ Size = 2,9 MiB
 [Section.0a]
 Description = Paquete de fuentes de Mozilla Fira. Incluye las fuentes Mono y Sans. Debe descomprimirse en la carpeta ReactOS.
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
 Description = Fira Font Pack di Mozilla, Include i font Mono e Sans. Estrare nella cartella "ReactOS".
 

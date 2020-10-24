@@ -47,3 +47,5 @@ Description = 一款灵活的电子停表软件。
 [Section.0a]
 Description = Una aplicación de cronómetro digital muy flexible.
 
+[Section.10]
+Description = Un software cronometro digitale flessibile.

@@ -22,8 +22,8 @@ Description = La suite de ofimática de código abierto. Descendiente de OpenOff
 Description = Précédemment appelé OpenOffice. Suite bureautique open source.
 Size = 214,9 Mio
 
-[Section.0410]
-Description = Precedentemente chiamato OpenOffice. Open Source Office Suite.
+[Section.10]
+Description = Una suite per ufficio potente e open source. È stato basato da OpenOffice.
 
 [Section.0413]
 Description = Voorheen OpenOffice. Open-bron Office pakket.

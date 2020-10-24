@@ -40,3 +40,5 @@ Size = 261,0 MiB
 [Section.0804]
 Description = 一款基于 Boswars 的苏维埃主题的即时战略游戏。您需要类似 7-Zip 之类的工具来解压它。
 
+[Section.10]
+Description = Un gioco di strategia in tempo reale (RTS) a tema sovietico basato su Boswars. Avrai bisogno di uno strumento come 7-Zip per estrarlo.

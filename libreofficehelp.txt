@@ -64,3 +64,10 @@ URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.
 SHA1 = ee59f3e5e06167b840bbd250a087d56e56887d3b
 SizeBytes = 10067968
 
+[Section.10]
+Name = LibreOffice - Pacchetto d'Aiuto
+Description = Aiuto per l'utilizzo di LibreOffice Offline
+Size = 7.1 MiB
+URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_it.msi
+SHA1 = 533be8a7b9bee9d95fede7265adc9eafdde86ba4
+SizeBytes = 7434240

@@ -20,7 +20,7 @@ Size = 35,6 MiB
 Name = Code::Blocks (sin compilador)
 Description = Un IDE potente, de código abierto y multiplataforma. No viene con compilador.
 
-[Section.0410]
+[Section.10]
 Description = Un IDE potente, open source, multipiattaforma. Non contiene un compilatore.
 
 [Section.0415]

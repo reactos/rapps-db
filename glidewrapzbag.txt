@@ -24,8 +24,8 @@ Description = Reimplementación de Glide a OpenGL (para tarjetas gráficas 3dfx)
 Description = glidewrapper est nécessaire pour faire tourner Diablo 2 dans ReactOS.
 Size = 249,0 Kio
 
-[Section.0410]
-Description = glidewrapper è necessario per eseguire Diablo 2 in ReactOS.
+[Section.10]
+Description = Un wrapper dell'API Glide (che emula le schede 3dfx con OpenGL) necessario per eseguire Diablo II su ReactOS.
 
 [Section.0413]
 Description = glidewrapper is nodig om Diablo2 te gebruiken op ReactOS.

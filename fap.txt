@@ -22,7 +22,7 @@ Description = Reproductor de audio simple y ligero.
 Description = Lecteur audio simple et léger.
 Size = 1,9 Mio
 
-[Section.0410]
+[Section.10]
 Description = Un semplice e leggero lettore audio.
 
 [Section.0413]

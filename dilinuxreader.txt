@@ -45,3 +45,5 @@ Description = 一种能够简单使 Windows/ReactOS 与 Ext2/Ext3/Ext4、HFS 和
 [Section.0a]
 Description = Una manera sencilla de conectar entre Windows/ReactOS y los sistemas de archivos Ext2/Ext3/Ext4, HFS y ReiserFS.
 
+[Section.10]
+Description = Un modo semplice per collegare i file system Windows/ReactOS ed Ext2/Ext3/Ext4, HFS e ReiserFS.

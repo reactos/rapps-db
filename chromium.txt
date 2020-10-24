@@ -18,8 +18,8 @@ Size = 2,2 MiB
 [Section.0a]
 Description = Un juego vertical de disparos espacial al clásico estilo arcade.
 
-[Section.0410]
-Description = Cromo B.S.U. è sparatutto spaziale.
+[Section.10]
+Description = Uno sparatutto spaziale in stile arcade a scorrimento dall'alto.
 
 [Section.0415]
 Description = Chromium B.S.U to gra w stylu Arcade, z widokiem z góry.

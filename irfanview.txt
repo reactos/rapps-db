@@ -25,9 +25,9 @@ License = Gratuit (pour un usage personnel)
 Description = Visionneur pour tous les types de fichiers graphiques/audio/vidéo.
 Size = 2,4 Mio
 
-[Section.0410]
+[Section.10]
 License = Gratuita (per uso personale)
-Description = Viewer per tutti i tipi di grafici / file audio / file video.
+Description = Visualizzatore per tutti i tipi di file grafici/audio/video.
 
 [Section.0413]
 License = Freeware (voor persoonlijk gebruik)

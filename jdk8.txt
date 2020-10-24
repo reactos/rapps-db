@@ -15,4 +15,5 @@ Languages=0409|040A
 Name = Java SE 8. Compilador y entorno de ejecución.
 Description = Un compilador Java de código abierto y un entorno de ejecución creado por Zulu basado en OpenJDK.
 
-
+[Section.10]
+Description = Un compilatore Java open source e un ambiente di runtime creato da Zulu basato su OpenJDK.

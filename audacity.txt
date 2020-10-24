@@ -40,3 +40,5 @@ Size = 19,3 MiB
 [Section.0804]
 Description = 免费开源跨平台的声音录制、编辑软件。
 
+[Section.10]
+Description = Software gratuito, open source e multipiattaforma per la registrazione e la modifica dei suoni.

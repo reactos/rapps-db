@@ -42,3 +42,5 @@ Size = 3,4 MiB
 [Section.0804]
 Description = 一款专注于安全的开源网络服务器。
 
+[Section.10]
+Description = Un server web open source con un focus sulla sicurezza.

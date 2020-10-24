@@ -19,7 +19,7 @@ Size = 1,3 MiB
 License = Gratuito
 Description = Un programa gratuito de grabación de CD/DVD. Una vez instalado, es posible utilizar CD/DVDs regrabables como memorias flash o discos duros extraíbles. Aparte, también permite escribir CD/DVDs regrabables que utilicen el sistema de archivos UDF. Además permite leer discos creados con otros programas(DVD−ROMs de Microsoft, discos regrabables hechos con Ahead InCD). Para instalarlo es necesario utilizar un extractor ZIP.
 
-[Section.0410]
+[Section.10]
 Description = Un software di masterizzazione CD/DVD diretto e gratuito. Una volta installato, è possibile utilizzare il CD/DVD RW da flash USB o dischi rigidi rimovibili. Insieme a questo è possibile scrivere CD/DVD RW registrati con filesystem UDF. È anche possibile leggere i dischi UDF creati con altri software. (Microsoft DVD-ROM, dischi RW registrati con InCD Ahead). Il programma ha bisogno di un programma di decompressione ZIP per installarlo.
 
 [Section.0415]

@@ -23,8 +23,8 @@ Description = Un buen editor hexadecimal.
 [Section.0415]
 Description = Dobry edytor Hex.
 
-[Section.0410]
-Description = Un buon editor hexadecimale.
+[Section.10]
+Description = Un buon editor esadecimale.
 
 [Section.0418]
 License = Gratuită
