@@ -22,7 +22,7 @@ Description = Cliente/servidor VNC de código abierto.
 Description = Client/serveur VNC open source.
 Size = 2,8 Mio
 
-[Section.0410]
+[Section.10]
 Description = Client/server VNC open source.
 
 [Section.0413]

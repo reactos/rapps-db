@@ -19,8 +19,8 @@ Size = 4,2 MiB
 [Section.0a]
 Description = Un navegador de archivos multipanel para usuarios avanzados.
 
-[Section.0410]
-Description = Total Commander è un file manager con due pannelli affiancati.
+[Section.10]
+Description = Un file manager per utenti esperti con due pannelli affiancati.
 
 [Section.0413]
 Description = Total Commander is een bestandsbeheerder met twee panelen zij aan zij.

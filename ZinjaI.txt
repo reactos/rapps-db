@@ -13,4 +13,7 @@ CDPath = none
 Description = ZinjaI es un entorno de desarrollo IDE para programar en C y C++.
 
 [Section.0416]
-Description= ZinjaI é um ambiente de desenvolvimento IDE para programar em C e C++.
+Description = ZinjaI é um ambiente de desenvolvimento IDE para programar em C e C++.
+
+[Section.10]
+Description = ZinjaI è un IDE per la programmazione in C e C++.

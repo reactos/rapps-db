@@ -24,8 +24,9 @@ Description = Convierte y emite audio y vídeo en los formatos de Windows Media.
 License = Inconnue
 Size = 9,5 Mio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
+Description = Converti e trasmetti audio e video nei formati Windows Media.
 
 [Section.0413]
 License = Ongekend

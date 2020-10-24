@@ -37,3 +37,5 @@ Description = 一款可视化文件及目录差异显示及合并的工具。
 [Section.0a]
 Description = Una herramienta para la comparación, combinación de archivos y versionado, para tanto archivos como directorios.
 
+[Section.10]
+Description = Uno strumento per la visualizzazione e l'unione delle differenze visive, sia per i file che per le directory.

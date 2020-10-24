@@ -10,3 +10,6 @@ URLDownload = http://xcallono.cf/games/cc/extras/bg/Mario%2064%20Backgrounds.zip
 SHA1 = 13385B2AD4794855CCC4AED0189FE8E943BE23C8
 CDPath = none
 SizeBytes = 7721027
+
+[Section.10]
+Description = Sfondi basati su Super Mario 64 per ReactOS. 1024x1024 ciascuno.

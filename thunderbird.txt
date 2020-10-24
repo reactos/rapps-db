@@ -35,8 +35,8 @@ URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/45.8.0
 SHA1 = 120ead17daa05b58494e757113980a51771e3599
 SizeBytes = 35252184
 
-[Section.0410]
-Description = Il più popolare e il migliore Client mail gratuito.
+[Section.10]
+Description = Client di posta elettronica popolare e open source.
 Size = 33.2 MiB
 URLSite = https://www.mozilla.org/it/thunderbird/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/45.8.0/win32/it/Thunderbird%20Setup%2045.8.0.exe

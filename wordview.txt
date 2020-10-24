@@ -35,8 +35,9 @@ URLDownload = https://web.archive.org/web/20170510171508if_/http://download.micr
 SHA1 = dce603d9bed87170c86f51f6e0f4935ccedd92e6
 SizeBytes = 25746416
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
+Description = Applicazione di visualizzazione di documenti freeware per i formati Office (*.doc)
 Size = 24.5 MiB
 URLDownload = https://web.archive.org/web/20160702070725if_/http://download.microsoft.com/download/f/8/e/f8e9dadd-70bd-4317-a7fe-25d7bfb54b71/wordview_it-it.exe
 SHA1 = bee3dd1c27291a3a1233ac092911685ee95bcc13

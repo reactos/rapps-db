@@ -25,9 +25,9 @@ License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2013. Contient: atl120.dll, mfc120.dll, mfc120u.dll, mfcm120.dll, mfcm120u.dll, msdia120.dll, msvcm120.dll, msvcp120.dll, msvcr120.dll, vcomp120.dll.
 Size = 6,2 Mio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
-Description = Libreria Microsoft Visual Studio 2013. Include: atl120.dll, mfc120.dll, mfc120u.dll, mfcm120.dll, mfcm120u.dll, msdia120.dll, msvcm120.dll, msvcp120.dll, msvcr120.dll, vcomp120.dll.
+Description = Necessario per le applicazioni compilate con Visual Studio 2013. Contiene: atl120.dll, mfc120.dll, mfc120u.dll, mfcm120.dll, mfcm120u.dll, msdia120.dll, msvcm120.dll, msvcp120.dll, msvcr120.dll, vcomp120.dll.
 
 [Section.0413]
 License = Ongekend

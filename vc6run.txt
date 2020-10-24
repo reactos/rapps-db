@@ -25,9 +25,9 @@ License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 6. Contient: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll, oleaut32.dll, olepro32.dll.
 Size = 1,8 Mio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
-Description = Microsoft Visual Studio 6 Runtime. Contiene: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll, oleaut32.dll, olepro32.dll.
+Description = Necessario per applicazioni compilate con Visual Studio 6. Contiene: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll , oleaut32.dll, olepro32.dll.
 
 [Section.0413]
 License = Ongekend

@@ -22,8 +22,8 @@ Description = Reimplementación libre de .NET Framework utilizadas por las bibli
 Description = Wine Mono .NET Framework
 Size = 51,2 Mio
 
-[Section.0410]
-Description = Wine Mono .NET Framework
+[Section.10]
+Description = Reimplementazione gratuita di .NET Framework utilizzato dalle librerie Wine.
 
 [Section.0415]
 Description = Otwarta implementacja .NET Framework używana przez Wine.

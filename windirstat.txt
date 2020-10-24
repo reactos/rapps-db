@@ -34,3 +34,6 @@ Description = 分析磁盘使用情况及清理磁盘的程序
 
 [Section.0a]
 Description = Programa que analiza el uso del diso y su limpieza.
+
+[Section.10]
+Description = Programma per analizzare l'utilizzo del disco e la sua pulizia.

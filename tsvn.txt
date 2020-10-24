@@ -35,3 +35,6 @@ Description = 用来做代码同步及更新的图形化 SVN 客户端。
 
 [Section.0a]
 Description = Cliente gráfico SVN para la sincronización y actualización de código.
+
+[Section.10]
+Description = Client SVN grafico per sincronizzazione / aggiornamento del codice.

@@ -19,3 +19,6 @@ Size = 26,3 МиБ
 [Section.0a]
 Name = Sintetizador TiMidity++ para Windows
 Description = TWSYNTH es una versión extendida del software de síntesis TiMidity++ con driver de salida MIDI.
+
+[Section.10]
+Description = TWSYNTH è una versione estesa del sintetizzatore software TiMidity++ con driver di uscita MIDI.

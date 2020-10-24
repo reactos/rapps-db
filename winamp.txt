@@ -41,3 +41,5 @@ Description = 一个支持插件、皮肤、音乐可视化功能、播放列表
 [Section.0a]
 Description = Un reproductor de media que soporta una gran cantidad de plugins, skins y presenta visualización musical, listas, librería media, con soporte de una gran comunidad online.
 
+[Section.10]
+Description = Un lettore multimediale che supporta l'estensibilità con plug-in e skin e offre visualizzazione di musica, playlist e una libreria multimediale, supportata da una vasta comunità online.

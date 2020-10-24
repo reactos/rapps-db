@@ -37,3 +37,5 @@ Description = 一款针对 ISO CD/DVD 镜像文件创建、编辑及转换的工
 [Section.0a]
 Description = Una herramienta para crear, convertir y editar imágenes ISO, y un creador de CD/DVD, que puede editar directamente las imágenes de CD/DVD para extraer archivos o carpetas. Crea imágenes de disco duro y CD/DVD.
 
+[Section.10]
+Description = Uno strumento di creazione/modifica/conversione di file immagine ISO CD/DVD e un creatore di CD/DVD avviabile, può modificare direttamente il file immagine CD/DVD ed estrarre file e cartelle da esso, nonché creare direttamente file ISO dal CD/DVD-ROM o disco rigido.

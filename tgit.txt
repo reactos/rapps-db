@@ -17,3 +17,6 @@ Size = 15,6 Mio
 
 [Section.0a]
 Description = Una interfaz gráfica para Git, basada en TortoiseSVN, para la actualización/sincronización de código.
+
+[Section.10]
+Description = Interfaccia grafica della shell per Git, basata su TortoiseSVN, per la sincronizzazione/aggiornamento del codice.

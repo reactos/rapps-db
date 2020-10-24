@@ -41,3 +41,5 @@ Size = 3,2 MiB
 [Section.0804]
 Description = 一些常用 GNU 实用工具的原生 Win32 移植。
 
+[Section.10]
+Description = Alcuni port di utilità GNU comuni su Win32 nativo.

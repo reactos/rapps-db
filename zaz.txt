@@ -18,8 +18,8 @@ Size = 20,9 MiB
 [Section.0a]
 Description = Zaz es un juego de acción arcade parecido a Frozen Bubble.
 
-[Section.0410]
-Description = Zaz è un gioco arcade puzzle gratuito per computer, in parte simile a Frozen Bubble.
+[Section.10]
+Description = Un gioco per computer arcade action puzzle gratuito, un po 'come Frozen Bubble.
 
 [Section.0415]
 Description = Zaz to darmowa gra logiczno-zręcznościowa, trochę podobna do gry Frozen Bubble

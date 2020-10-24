@@ -24,9 +24,9 @@ License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2015/2017. Contient: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
 Size = 13,9 Mio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
-Description = Libreria Microsoft Visual Studio 2015/2017. Include: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+Description = Necessario per le applicazioni compilate con Visual Studio 2015/2017. Contiene: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
 
 [Section.0413]
 License = Ongekend

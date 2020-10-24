@@ -25,3 +25,5 @@ Description = 列举当前连接到您的电脑及曾经使用过的所有 USB �
 [Section.0a]
 Description = Una pequeña utilidad que muestra todos los dispositivos USB que estén conectados en tu ordenador, así como todos los que hayas usado previamente.
 
+[Section.10]
+Description = Piccola utility che elenca tutti i dispositivi USB attualmente collegati al tuo computer, nonché tutti i dispositivi USB che hai utilizzato in precedenza.

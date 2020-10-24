@@ -39,3 +39,6 @@ Description = 一个 Gameboy 和 GameboyAdvance 系统的模拟器。你将需�
 [Section.0a]
 Name = VisualBoyAdvance (versión SDL)
 Description = Un emulador para juegos de los sistemas GameBoy y GameBoy Advance. Necesitarás descomprimirlo una vez descargado.
+
+[Section.10]
+Description = Un emulatore per i sistemi Gameboy e GameboyAdvance. Avrai bisogno di un programma di decompressione ZIP per eseguirlo.

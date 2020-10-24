@@ -37,3 +37,6 @@ Description = 小而精的 C 语言编译器。
 [Section.0a]
 Name = Compilador Tiny C
 Description = Un pequeño pero muy rápido compilador de lenguaje C.
+
+[Section.10]
+Description = Un compilatore C piccolo ma iperveloce.

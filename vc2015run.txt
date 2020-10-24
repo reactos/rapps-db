@@ -25,9 +25,9 @@ License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2015. Contient: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
 Size = 13,7 Mio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
-Description = Libreria Microsoft Visual Studio 2015. Include: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
+Description = Necessario per le applicazioni compilate con Visual Studio 2015. Contiene: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll
 
 [Section.0413]
 License = Ongekend

@@ -25,9 +25,9 @@ License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2008 SP1. Contient: atl90.dll, mfc90.dll, mfc90u.dll, mfcm90.dll, mfcm90u.dll, msdia90.dll, msvcm90.dll, msvcp90.dll, msvcr90.dll, vcomp90.dll.
 Size = 4,3 Mio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
-Description = Microsoft Visual Studio 2008 Runtime SP1. Contiene: atl90.dll, mfc90.dll, mfc90u.dll, mfcm90.dll, mfcm90u.dll, msdia90.dll, msvcm90.dll, msvcp90.dll, msvcr90.dll, vcomp90.dll.
+Description = Necessario per le applicazioni compilate con Visual Studio 2008. Contiene: atl90.dll, mfc90.dll, mfc90u.dll, mfcm90.dll, mfcm90u.dll, msdia90.dll, msvcm90.dll, msvcp90.dll, msvcr90.dll, vcomp90.dll.
 
 [Section.0413]
 License = Ongekend

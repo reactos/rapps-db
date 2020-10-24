@@ -19,8 +19,8 @@ Description = Completo reproductor multimedia, de código abierto y con códecs 
 [Section.040c]
 Description = Un lecteur media.
 
-[Section.0410]
-Description = Lettore multimediale.
+[Section.10]
+Description = Un lettore multimediale FOSS completo con codec incorporati.
 
 [Section.0413]
 Description = Een mediaspeler.

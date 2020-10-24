@@ -25,9 +25,9 @@ License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2012 Update 4. Contient: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 Size = 6,3 Mio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
-Description = Libreria Microsoft Visual Studio 2012 Update 4. Include: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
+Description = Necessario per le applicazioni compilate con Visual Studio 2012. Contiene: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll
 
 [Section.0413]
 License = Ongekend

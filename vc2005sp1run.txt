@@ -25,9 +25,9 @@ License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2005 SP1. Contient: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
 Size = 2,6 Mio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
-Description = Microsoft Visual Studio 2005 Runtime SP1. Contiene: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
+Description = Necessario per le applicazioni compilate con Visual Studio 2005. Contiene: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
 
 [Section.0413]
 License = Ongekend

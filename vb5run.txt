@@ -25,9 +25,9 @@ License = Inconnue
 Description = Bibliothèque Microsoft Visual Basic 5. Contient: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
 Size = 969,6 Kio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
-Description = Libreria Microsoft Visual Basic 5. Contiene: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
+Description = Necessario per le applicazioni scritte in Visual Basic 5. Contiene: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
 
 [Section.0413]
 License = Ongekend

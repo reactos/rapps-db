@@ -40,3 +40,5 @@ Description = 一款能够用来选择和查看系统中任意窗口属性的面
 [Section.0a]
 Description = Una herramienta práctica para programadores que puede ser usada para seleccionar y ver las propiedades de cualquier ventana del sistema. Necesita ser descomprimido una vez descargado.
 
+[Section.10]
+Description = Una pratica utility per programmatore che può essere utilizzata per selezionare e visualizzare le proprietà di qualsiasi finestra del sistema. Per estrarlo è necessario uno strumento come 7-Zip.
