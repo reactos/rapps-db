@@ -22,7 +22,7 @@ Description = Un lenguaje de programación dinámico sumamente potente.
 Description = Un langage de programmation dynamique remarquablement puissant.
 Size = 23,7 Mio
 
-[Section.0410]
+[Section.10]
 Description = Un Linguaggio di programmazione dinamico e potente.
 
 [Section.0413]

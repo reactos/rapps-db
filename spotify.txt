@@ -13,3 +13,6 @@ SizeBytes = 50109784
 
 [Section.0a]
 Description = Spotify es uno de los servicios más populares de streaming de música, incluye planes gratuitos y de pago. El cliente de Spotify ha cesado del soporte para Windows XP, pero está archivada una versión que todavía lo soporta.
+
+[Section.10]
+Description = Spotify è uno dei servizi più popolari per lo streaming di musica e include sia un piano gratuito che a pagamento. Il client Spotify ha abbandonato il supporto per XP, ma questa versione archiviata lo supporta ancora.

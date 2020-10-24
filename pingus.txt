@@ -18,7 +18,7 @@ Size = 15,8 MiB
 [Section.0a]
 Description = Un juego de puzzles parecido a los Lemmings.
 
-[Section.0410]
+[Section.10]
 Description = Pingus è un gioco gratuito simile a Lemmings.
 
 [Section.0415]

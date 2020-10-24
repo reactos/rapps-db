@@ -16,3 +16,6 @@ Description = Mypal es un navegador web mantenido y actual para Windows XP, basa
 
 [Section.0407]
 Description = Mypal ist ein freier, moderner und quelloffener Webbrowser, der Kompatibilität zu Windows XP bewahrt.
+
+[Section.10]
+Description = Mypal è un browser Web Windows XP aggiornato e mantenuto.

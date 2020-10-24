@@ -25,8 +25,8 @@ Description = Microsoft .NET Framework version 2.0 Service Pack 2.
 URLSite = http://www.microsoft.com/fr-FR/download/details.aspx?id=1639
 Size = 23,8 Mio
 
-[Section.0410]
-Description = Microsoft .NET Framework Version 2.0 - Redistributable Package.
+[Section.10]
+Description = Componenti necessari per eseguire applicazioni Windows managed compilate in un linguaggio intermedio come C#.
 URLSite = http://www.microsoft.com/it-IT/download/details.aspx?id=1639
 
 [Section.0415]

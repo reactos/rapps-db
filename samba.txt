@@ -37,3 +37,5 @@ Description = 为需要 secur32.dll (如 NTLM)运行的程序提供鉴权提供�
 [Section.0a]
 Description = Proporciona proveedores de autentificación para secur32.dll (p.e. NTLM) necesario para cargar algunas aplicaciones.
 
+[Section.10]
+Description = Fornisce provider di autenticazione per secur32.dll (ad esempio NTLM ...) necessari per l'esecuzione delle applicazioni.

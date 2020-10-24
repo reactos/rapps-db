@@ -22,8 +22,8 @@ Description = Un cliente SSH, Telnet, rlogin y TCP libre y gratuito.
 Description = Un client SSH, Telnet, rlogin et raw TCP gratuit.
 Size = 2,8 Mio
 
-[Section.0410]
-Description = Un client SSH, Telnet, rlogin, and raw TCP gratuito.
+[Section.10]
+Description = Un client SSH gratuito, Telnet, rlogin e raw TCP.
 
 [Section.0413]
 Description = Een gratis SSH, Telnet, rlogin en pure TCP afnemer.

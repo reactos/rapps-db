@@ -25,8 +25,8 @@ Description = Un programa de código abierto que brinda diseño de página profe
 Description = Un programme open source qui apporte la mise en page professionnelle de ReactOS.
 Size = 80,4 Mio
 
-[Section.0410]
-Description = Un programma open-source che porta l'impaginazione professionale di ReactOS.
+[Section.10]
+Description = Un programma open source che porta un layout di pagina professionale a ReactOS.
 
 [Section.0413]
 Description = Een open-source programma dat professionele pagina-indeling aan ReactOS brengt.

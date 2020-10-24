@@ -37,3 +37,5 @@ Size = 1,4 MiB
 [Section.0804]
 Description = HTTP 和反向代理服务器，以及一个邮件代理服务器，由 Igor Sysoev 编写。
 
+[Section.10]
+Description = Un server HTTP e proxy inverso, nonché un server proxy di posta, scritto da Igor Sysoev.

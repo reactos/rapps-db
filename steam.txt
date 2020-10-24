@@ -25,8 +25,8 @@ Description = La plateforme de jeu Steam utilisée par beaucoup de jeux de nos j
 URLSite = http://store.steampowered.com/?l=french
 Size = 471 Mio
 
-[Section.0410]
-Description = La piattaforma di gioco Steam usata da molti giochi in questi giorni.
+[Section.10]
+Description = Popolare piattaforma di distribuzione di giochi su Internet e social network. Include DRM.
 URLSite = http://store.steampowered.com/?l=italian
 
 [Section.0413]

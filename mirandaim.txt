@@ -22,8 +22,8 @@ Description = Aplicación de mensajería instantánea multiprotocolo de código 
 Description = Application de messagerie instantannée multi-protocoles open source - pourrait ne pas fonctionner complètement.
 Size = 2,8 Mio
 
-[Section.0410]
-Description = Multi-protocollo open source per applicazioni di messaggistica istantanea - potrebbe non funzionare del tutto.
+[Section.10]
+Description = Applicazione di messaggistica istantanea multiprotocollo open source. Potrebbe non funzionare completamente.
 
 [Section.0413]
 Description = Open-bron multi-protocol instant message toepassing - werkt mogelijk niet volledig.

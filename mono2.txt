@@ -22,7 +22,7 @@ Description = Versión de .NET Framework de código abierto.
 Description = Framework .NET open source.
 Size = 127,1 Mio
 
-[Section.0410]
+[Section.10]
 Description = Versione Open-source di .NET Framework.
 
 [Section.0415]

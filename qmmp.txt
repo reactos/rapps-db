@@ -19,8 +19,8 @@ Size = 14,0 MiB
 Name = Qmmp (Reproductor multimedia Qt)
 Description = Reproductor multimedia basado en las bibliotecas Qt, la interfaz es parecida a la de WinAMP o XMMS. Existen otras interfaces alternativas.
 
-[Section.0410]
-Description = Qmmp è un lettore multimediale, scritto con l'aiuto della libreria Qt. L'interfaccia grafica è simile a WinAMP o XMMS. Interfaccie utenti alternative sono disponibili.
+[Section.10]
+Description = Un lettore audio basato sulle librerie Qt. L'interfaccia utente è simile a WinAMP o XMMS. Sono disponibili anche interfacce utente alternative.
 
 [Section.0415]
 Description = Gmmp to odtwarzacz audio, napisany z pomocą biblioteki Qt. Interfejs podobny jest do Winampa lub XMMS. Dostępnme są także dodatkowe skórki.

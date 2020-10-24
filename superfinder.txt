@@ -22,7 +22,7 @@ Description = Una aplicación de búsqueda rápida y completa.
 Description = Une application de recherche rapide et riche en fonctionnalités.
 Size = 4,9 Mio
 
-[Section.0410]
+[Section.10]
 Description = Un applicazione veloce e ricca di funzionalità di ricerca.
 
 [Section.0413]

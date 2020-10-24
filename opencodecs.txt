@@ -18,8 +18,8 @@ Size = 2,5 MiB
 [Section.0a]
 Description = Filtros DirectShow para los formatos de audio y vídeo Ogg Vorbis, Speex, Theora, FLAC y WebM.
 
-[Section.0410]
-Description = I filtri DirectShow per la Ogg Vorbis, Speex, Theora, FLAC e formati di file WebM.
+[Section.10]
+Description = Filtri DirectShow per i formati di file audio/video Ogg Vorbis, Speex, Theora, FLAC e WebM.
 
 [Section.0415]
 Description = Filtry DirectShow dla Ogg Vorbis, Speex, Theora, FLAC, i plików w formacie WebM.

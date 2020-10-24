@@ -43,3 +43,5 @@ Size = 5,7 MiB
 Name = Mesa3D 图形库
 Description = 这个 Mesa3D 图形库由 Mesa, Gallium 和 llvmpipe 组成。它为不带有 OpenGL 硬件加速的系统提供重要的性能提升。它可以替代您的系统中的 OGL 驱动 —— 这个可以在安装过程中或通过控制面板的 OpenGL 配置程序中设置。
 
+[Section.10]
+Description = Questa build della libreria grafica Mesa3D è composta da Mesa, Gallium e llvmpipe. Fornisce un significativo aumento delle prestazioni per i sistemi senza accelerazione hardware OpenGL. Può sostituire il driver OGL sul tuo sistema - questo può essere impostato durante l'installazione o tramite l'applet del pannello di controllo Configurazione OpenGL.

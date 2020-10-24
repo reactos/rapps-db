@@ -25,7 +25,7 @@ License = Inconnue
 Description = MSXML4 est nécessaire pour certains installateurs MSI. Contient: msxml4.dll, msxml4r.dll.
 Size = 2,32 Mio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuto
 Description = MSXML4 è necessario per alcuni installatori MSI. Contiene: msxml4.dll, msxml4r.dll.
 

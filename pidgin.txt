@@ -36,3 +36,5 @@ Size = 8,4 MiB
 [Section.0804]
 Description = 允许您同时登录多个聊天网络账号的即时通讯程序。
 
+[Section.10]
+Description = Un programma di messaggistica istantanea che ti consente di accedere agli account su più reti di chat contemporaneamente.

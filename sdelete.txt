@@ -17,3 +17,6 @@ Description = SDelete is a free command line tool that you can use to delete fil
 ; Turkish
 [Section.041f]
 Description = SDelete dosyalarınızı bir daha geri getirilemez biçimde güvenli olarak silmek için kullanabileceğiniz ücretsiz bir komut satırı aracıdır. Kurmak için bir ZIP çıkartma uygulaması gerekir.
+
+[Section.10]
+Description = SDelete è uno strumento a riga di comando gratuito che puoi utilizzare per eliminare i file in modo sicuro in modo che non possano più essere recuperati. Avrai bisogno di un programma di decompressione ZIP per installarlo.

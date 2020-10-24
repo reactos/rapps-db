@@ -25,8 +25,8 @@ Description = Necesario para ejecutar varios juegos de código abierto. Se neces
 Description = Nécessaire pour faire tourner certains jeux open source. Vous aurez besoin de 7-Zip ou d'un outil similaire pour l'extraire.
 Size = 548,0 Kio
 
-[Section.0410]
-Description = Necessario per il corretto funzionamento di alcuni giochi OpenSource. Necessita di 7-zip o utility simili per essere estratto.
+[Section.10]
+Description = Necessario per l'esecuzione di alcuni giochi open source. Avrai bisogno di uno strumento come 7-Zip per estrarlo.
 
 [Section.0413]
 Description = Gebruikt door veel open-bron-spelletjes. Gebruik 7-zip om het uit te pakken.

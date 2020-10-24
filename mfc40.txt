@@ -28,7 +28,7 @@ License = Inconnue
 Description = MFC 4 est nécessaire pour certaines applications. Contient: mfc40.dll, msvcrt40.dll.
 Size = 865,0 Kio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
 Description = MFC 4 è necessario per alcune applicazioni. Contiene: mfc40.dll, msvcrt40.dll.
 

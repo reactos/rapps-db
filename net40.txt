@@ -25,8 +25,8 @@ Description = Microsoft .NET Framework version 4.0
 URLSite = http://www.microsoft.com/fr-FR/download/details.aspx?id=17718
 Size = 48,1 Mio
 
-[Section.0410]
-Description = Microsoft .NET Framework Version 4.0
+[Section.10]
+Description = Componenti necessari per eseguire applicazioni Windows managed compilate in un linguaggio intermedio come C#.
 URLSite = http://www.microsoft.com/it-IT/download/details.aspx?id=17718
 
 [Section.0415]

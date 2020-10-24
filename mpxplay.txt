@@ -18,7 +18,7 @@ Size = 525,3 KiB
 [Section.0a]
 Description = Un reproductor de audio en consola de 32-bit. Se descomprime con 7-Zip u otra utilidad similar.
 
-[Section.0410]
+[Section.10]
 Description = Mpxplay è una console audio 32-bit per Windows. Necessita 7-Zip o un programma simile per essere estratto.
 
 [Section.0415]

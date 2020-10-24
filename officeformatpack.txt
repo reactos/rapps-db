@@ -61,3 +61,5 @@ URLDownload = https://web.archive.org/web/20131228135748if_/http://download.micr
 SHA1 = 4e66e305aac7e9b9b4e72612f24d8b02c176ea90
 SizeBytes = 39011832
 
+[Section.10]
+Description = Necessario per aprire *.docx, *.xlsx, ecc. Su Word/Excel Viewer e Office 2003.

@@ -36,8 +36,8 @@ URLDownload = http://download.microsoft.com/download/e/d/a/eda9d4ea-8ec9-4431-8e
 SHA1 = 75906ffcb14029a83cc19a7ae037873c7c1d2260
 SizeBytes = 24278048
 
-[Section.0410]
-Description = Redistributable Package.
+[Section.10]
+Description = Componenti necessari per eseguire applicazioni Windows managed compilate in un linguaggio intermedio come C#.
 Size = 23.2 MiB
 URLSite = http://www.microsoft.com/it-IT/download/details.aspx?id=26
 URLDownload = http://download.microsoft.com/download/1/f/a/1fa816d7-a8d6-4f15-b682-b96239e68ab7/dotnetfx.exe

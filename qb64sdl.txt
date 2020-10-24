@@ -18,8 +18,8 @@ Size = 98,0 MiB
 [Section.0a]
 Description = Es un compilador auto-compilable de BASIC para Windows, Linux y Mac OS X, diseñado para ser compatible con Microsoft QuickBasic. Es necesario utilizar algo como 7-Zip para descomprimirlo.
 
-[Section.0410]
-Description = QB64 è un compilatore auto ospitante di BASIC per Microsoft Windows, Linux e Mac OS X, progettato per essere compatibile con Microsoft QuickBasic. Necessita di 7-Zip o uno strumento simile per essere estratto.
+[Section.10]
+Description = Un compilatore BASIC self-hosting per Microsoft Windows, Linux e Mac OS X, progettato per essere compatibile con Microsoft QBasic e Microsoft QuickBASIC. Avrai bisogno di uno strumento come 7-Zip per estrarlo.
 
 [Section.0415]
 Description = QB64 to kompilator BASIC zdolny do kompilacji własnego kodu źródłowego. Działa w systemach Windows, Linux i Mac OS X. Jest kompatybilny z Microsoft QBasic i QuickBASIC. Wymaga programu archiwizującego do wypakowania.

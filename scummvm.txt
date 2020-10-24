@@ -22,8 +22,8 @@ Description = Reimplementación de código abierto de motores de juegos de avent
 Description = Sam and Max, Day of the Tentacle, etc sur ReactOS.
 Size = 11,4 Mio
 
-[Section.0410]
-Description = Software che riproduce il funzionamento di motori grafici per videogiochi (Sam and Max, Day of the Tentacle, etc) su ReactOS.
+[Section.10]
+Description = Reimplementazione open source dei classici motori di videogiochi d'avventura (come Monkey Island, Sam e Max o Day of the Tentacle), facendoli funzionare su ReactOS.
 
 [Section.0413]
 Description = Sam and Max, Day of the Tentacle, enz. op ReactOS.

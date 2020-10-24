@@ -23,8 +23,8 @@ Description = Un éditeur de texte.
 URLSite = http://notepad-plus-plus.org/fr/
 Size = 4,0 Mio
 
-[Section.0410]
-Description = Un editor di testo.
+[Section.10]
+Description = Un editor di testo completo e gratuito con molti plug-in.
 
 [Section.0413]
 Description = Een teksteditor.

@@ -18,8 +18,8 @@ Size = 6,8 MiB
 [Section.0a]
 Description = Un administrador de archivos y compresor de código abierto y multiplataforma. Soporta más de 150 formatos de archivo.
 
-[Section.0410]
-Description = PeaZip è un manager di file e archivi gratis, multipiattaforma e open source. Supporta oltre 150 formati d'archivio.
+[Section.10]
+Description = Un gestore di archivi e file gratuito, multipiattaforma e open source. Supporta oltre 150 formati di archivio.
 
 [Section.0415]
 Description = PeaZip to darmowy, wieloplatformowy menedżer plików i archiwów, o otwartym źródle. Obsługuje ponad 150 formatów archiwów.

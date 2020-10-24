@@ -17,3 +17,6 @@ Size = 1,7 MiB
 
 [Section.0a]
 Description = SwiftShader es un emulador de dispositivos de Direct3D 9 de alto rendimiento, puede ser práctico para cargar algunas aplicaciones o juegos basados en Direct3D 9 cuando el renderizado 3D por hardware no está disponible.
+
+[Section.10]
+Description = SwiftShader è un emulatore di dispositivo Direct3D 9 ad alte prestazioni, potrebbe essere utile per eseguire alcune applicazioni o giochi basati su Direct3D 9 quando non è disponibile un renderer grafico hardware 3D.

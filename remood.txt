@@ -15,8 +15,8 @@ SizeBytes = 1205484
 Description = Port des Doom Legacy Sources. Es versucht das klassische Legacy Erfahrung zusammen mit neuen Features und mehr Stabilität zu bieten.
 Size = 1,1 MiB
 
-[Section.0410]
-Description = ReMooD è un porting sorgente di Doom Legacy. Punta a provedere la classica esperienza ereditaria con nuove funzionalità e maggiore stabilità.
+[Section.10]
+Description = Un port del sorgente di Doom Legacy. Mira a fornire la classica esperienza legacy con nuove funzionalità e maggiore stabilità.
 
 [Section.0a]
 Description = Una versión derivada de Doom Legacy. Su fin es revivir la experiencia clásica con nuevas características y mayor estabilidad.

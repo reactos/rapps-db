@@ -18,7 +18,7 @@ Size = 86,0 MiB
 [Section.0a]
 Description = Un juego 2D plataformero de código abierto.
 
-[Section.0410]
+[Section.10]
 Description = SuperTux è un gioco open-source gratuito in 2D.
 
 [Section.0415]

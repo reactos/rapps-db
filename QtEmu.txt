@@ -12,3 +12,5 @@
  [Section.0415]
  Description = QtEmu to graficzny interfejs użytkownika dla QEMU napisany w Qt4.
  
+ [Section.10]
+ Description = QtEmu è un'interfaccia utente grafica per QEMU scritta in Qt4.

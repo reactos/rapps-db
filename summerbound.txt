@@ -19,7 +19,7 @@ Size = 764,5 KiB
 [Section.0a]
 Description = Un juego parecido a Frozen Fruits.
 
-[Section.0410]
+[Section.10]
 Description = Un gioco simile a Frozen Fruits.
 
 [Section.0415]

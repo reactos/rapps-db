@@ -22,8 +22,8 @@ Description = Reproductor multimedia alternativo.
 Description = Un lecteur media.
 Size = 12,7 Mio
 
-[Section.0410]
-Description = Lettore multimediale.
+[Section.10]
+Description = Un lettore multimediale alternativo.
 
 [Section.0413]
 Description = Mediaspeler.

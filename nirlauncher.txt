@@ -45,3 +45,5 @@ Size = 23,6 MiB
 License = 免费软件
 Description = 一款 Windows 用的超过 180 个工具的合集。
 
+[Section.10]
+Description = Un pacchetto di oltre 180 utilità per Windows.

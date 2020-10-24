@@ -15,3 +15,6 @@ Description = リソーエディタは、EXE/DLL/RC/RESファイルの中のリ�
 
 [Section.0a]
 Description = RisohEditor es un editor de recursos Win32 gratuito que puede editar datos en archivos EXE/DLL/RC/RES.
+
+[Section.10]
+Description = RisohEditor è un editor di risorse Win32 gratuito che può modificare i dati delle risorse nei file EXE/DLL/RC/RES.

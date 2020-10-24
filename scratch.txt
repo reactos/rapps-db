@@ -34,3 +34,6 @@ Description = 面向儿童的可视化面向对象编程环境。
 
 [Section.0a]
 Description = Un entorno de programación orientada a objetos, muy visual para niños. 
+
+[Section.10]
+Description = Ambiente di programmazione visuale orientato agli oggetti per bambini.

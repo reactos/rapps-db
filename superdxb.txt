@@ -18,7 +18,7 @@ Size = 3,8 MiB
 [Section.0a]
 Description = Un juego vibrante y colorido de romper bloques.
 
-[Section.0410]
+[Section.10]
 Description = Super DX-Ball è un gioco spacca blocchi vibrante e colorato.
 
 [Section.0415]

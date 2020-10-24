@@ -36,3 +36,5 @@ Description = 允许您从 Windows 系统访问 ReiserFS 分区。
 [Section.0a]
 Description = Te permite acceder a particiones ReiserFS desde un sistema Windows.
 
+[Section.10]
+Description = Ti permette di accedere alle partizioni ReiserFS da un sistema Windows.

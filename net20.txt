@@ -23,8 +23,8 @@ License = Desconocida
 Description = Paquet redistribuable.
 Size = 22,4 Mio
 
-[Section.0410]
-Description = Redistributable Package.
+[Section.10]
+Description = Componenti necessari per eseguire applicazioni Windows managed compilate in un linguaggio intermedio come C#.
 
 [Section.0415]
 Description = Pakiet Dystrybucyjny.

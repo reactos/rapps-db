@@ -25,8 +25,8 @@ Description = Un éditeur de texte.
 URLSite = http://www.pspad.com/fr/
 Size = 6,3 Mio
 
-[Section.0410]
-Description = Un editor di testo.
+[Section.10]
+Description = Un editor di testo leggero.
 URLSite = http://www.pspad.com/it/
 
 [Section.0413]

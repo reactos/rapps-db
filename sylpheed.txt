@@ -18,3 +18,6 @@ Description = Легкий і дружний до користувача пош�
 
 [Section.0a]
 Description = Un cliente de correo ligero y amigable para el usuario.
+
+[Section.10]
+Description = Client di posta elettronica leggero e facile da usare.

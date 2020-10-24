@@ -1,5 +1,5 @@
 [Section]
-Name = PDFsam
+Name = PDFsam Basic
 Version = 3.3.5
 License = GPLv2
 Description = A free, open source, platform independent tool designed to perform split, merge and other manipulations on pdf document. Java Runtime needed!
@@ -37,3 +37,5 @@ Size = 14,7 MiB
 [Section.0804]
 Description = 一款免费、开源和平台独立的用于对 PDF 文档进行拆分、合并及其他操作的工具。需要 Java 运行库。
 
+[Section.10]
+Description = Uno strumento gratuito, open source e indipendente dalla piattaforma progettato per eseguire la divisione, l'unione e altre manipolazioni su documenti PDF. Java Runtime necessario!

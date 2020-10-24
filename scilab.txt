@@ -23,8 +23,8 @@ Description = Un logiciel de calcul numérique dans l'ingénierie et les applica
 URLSite = http://www.scilab.org/fr
 Size = 128,4 Mio
 
-[Section.0410]
-Description = Un software per il calcolo numerico in applicazioni tecniche e scientifiche.
+[Section.10]
+Description = Un software per il calcolo numerico in applicazioni ingegneristiche e scientifiche.
 
 [Section.0413]
 Description = Een software voor numerieke berekeningen in engineering en wetenschappelijke toepassingen.

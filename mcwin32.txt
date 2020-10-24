@@ -15,7 +15,7 @@ SizeBytes = 3461847
 Description = 32-bit Windows port des GNU Midnight Commander.
 Size = 3,3 MiB
 
-[Section.0410]
+[Section.10]
 License = GPL versione 3
 Description = Un porting Windows 32bit di Midnight Commander.
 

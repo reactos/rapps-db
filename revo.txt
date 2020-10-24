@@ -39,3 +39,6 @@ Size = 2,5 МиБ
 [Section.0804]
 License = 免费软件
 Description = 帮助用户简便地卸载软件并移除不想要的程序的工具。
+
+[Section.10]
+Description = Aiuta a disinstallare il software e rimuovere facilmente i programmi indesiderati installati.

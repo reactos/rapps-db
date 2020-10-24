@@ -40,3 +40,5 @@ Description = Windows 上的单人卡牌游戏。它基于一款叫做 "Shit-hea
 [Section.0a]
 Description = Un juego de cartas de un jugador hecho para Windows. Está basado en el popular juego de estudiantes "Shit-head".
 
+[Section.10]
+Description = Un gioco di carte singolo giocatore per Windows. È basato sul popolare gioco di carte studentesco di "Shit-head".

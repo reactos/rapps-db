@@ -18,8 +18,8 @@ Size = 2,8 MiB
 [Section.0a]
 Description = Una utilidad gratuita para ver, editar, renombrar, borrar y extraer recursos de ejecutables de Windows y archivos derivados (*.res).
 
-[Section.0410]
-Description = Resource Hacker, è uno strumento freewere per vedere, modificare, rinominare, aggiungere, rimuovere e estrarre risorse in eseguibili Windows 32 e 64 bit e file di risorse (*.res).
+[Section.10]
+Description = Un'utilità freeware per visualizzare, modificare, rinominare, aggiungere, eliminare ed estrarre risorse in eseguibili Windows a 32 e 64 bit e file di risorse (*.res).
 
 [Section.0415]
 Description = Resource Hacker to darmowe narzędzie do podglądu, modyfikacji, zmiany nazw, dodawania, kasowania i wypakowywania zasobów w plikach wykonywalnych 32bit i 64bit, oraz w plikach zasobów (*.res).

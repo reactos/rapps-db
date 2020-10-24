@@ -24,7 +24,8 @@ URLSite = http://smplayer.sourceforge.net/es/
 URLSite = http://smplayer.sourceforge.net/fr/
 Size = 39,0 Mio
 
-[Section.0410]
+[Section.10]
+Description = Frontend grafico per MPlayer.
 URLSite = http://smplayer.sourceforge.net/it/
 
 [Section.0413]

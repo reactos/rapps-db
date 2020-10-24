@@ -22,7 +22,7 @@ Description = Permite acceder a carpetas e impresoras compartidas en Windows con
 Description = Cet outil vous permet d'accéder à vos répertoire/imprimantes partagés Windows avec ReactOS.
 Size = 2,1 Mio
 
-[Section.0410]
+[Section.10]
 Description = Questo strumento consente di accedere alle cartelle/stampanti condivise di Windows con ReactOS.
 
 [Section.0413]

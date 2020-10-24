@@ -41,3 +41,5 @@ Size = 452,5 KiB
 License = 免费软件
 Description = 生成并验证 md5 校验码的应用程序。
 
+[Section.10]
+Description = Un'applicazione che genera e verifica i checksum md5.

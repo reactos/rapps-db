@@ -35,8 +35,9 @@ URLDownload = https://web.archive.org/web/20170510170718if_/http://download.micr
 SHA1 = 95fc62ed4695a04c05dcca9534923499a5e7091c
 SizeBytes = 63347104
 
-[Section.0410]
+[Section.10]
 License = Sconosciuta
+Description = Visualizzatore di presentazioni gratuito per i formati Office (*.ppt).
 Size = 60.4 MiB
 URLDownload = https://web.archive.org/web/20160206022206if_/http://download.microsoft.com/download/3/F/A/3FA9171A-B310-4F0D-A33A-B16827536FAE/PowerPointViewer.exe
 SHA1 = b58a9e8990d8131658a621d70cbf182f43ad31df

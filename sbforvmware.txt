@@ -32,10 +32,10 @@ License = Inconnue
 Description = Dézippez dans le répertoire "ReactOS" puis redémarrez deux fois.
 Size = 2,2 Mio
 
-[Section.0410]
+[Section.10]
 Name = Driver SoundBlaster per VMWare
 License = Sconosciuta
-Description = Estrarre nella cartella "ReactOS" e riavviare ReactOS due volte.
+Description = Driver audio per dispositivi compatibili con SoundBlaster. Decomprimere nella cartella ReactOS e riavviare due volte.
 
 [Section.0413]
 Name = SoundBlaster Driver voor VMWare

@@ -25,7 +25,7 @@ License = Inconnue
 Description = MSXML3 est nécessaire pour certains installateurs MSI. Contient: msxml3.dll, msxml3a.dll, msxml3r.dll.
 Size = 1,0 Mio
 
-[Section.0410]
+[Section.10]
 License = Sconosciuto
 Description = MSXML3 è necessario per alcuni installatori MSI. Contiene: msxml3.dll, msxml3a.dll, msxml3r.dll.
 

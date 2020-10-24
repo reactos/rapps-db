@@ -20,3 +20,6 @@ Description = 一款开源、快速的模拟器/虚拟机。它可以模拟基�
 
 [Section.0a]
 Description = Un emulador o virtualizador de máquinas muy ligero y de código abierto. Puede emular procesadores basados en muchas arquitecturas (p.e. x86, ARM, MIPS, PowerPC). Utilizar con la línea "-display sdl" para evitar los gliches en pantalla. 
+
+[Section.10]
+Description = Un emulatore/virtualizzatore di macchina open source e molto veloce. Può emulare processori basati su molte architetture diverse (es. X86, ARM, MIPS, PowerPC). Esegui con il flag "-display sdl" per evitare problemi di visualizzazione.
