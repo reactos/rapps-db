@@ -15,8 +15,8 @@ SizeBytes = 3349460
 Description = Sehr guter CD-Ripper/Audio-Datei-Konverter.
 Size = 3,2 MiB
 
-[Section.0410]
-Description = Un buon CD Ripper/Convertitore di file Audio.
+[Section.10]
+Description = Un ottimo CD Ripper/Convertitore di file Audio.
 
 [Section.0a]
 Description = Un buen extractor de pistas de CDs de música y conversor de archivos de audio.
@@ -59,6 +59,3 @@ Description = 一个非常好用的 CD 分割和音频文件转换工具。
 
 [Section.0813]
 Description = Een goede CD Ripper/Audio-bestandsomzetter.
-
-[Section.10]
-Description = Un ottimo CD Ripper / Convertitore di file audio.
