@@ -12,3 +12,4 @@ CDPath = none
 
 [Section.10]
 Description = Icy Tower è un gioco divertente, breve e avvincente, in cui il tuo unico obiettivo è quello di ottenere più punti possibile.
+

@@ -19,3 +19,4 @@ Description = Un emulador de Super Nintendo Entertainment System (SNES) portáti
 
 [Section.10]
 Description = Un emulatore di Super Nintendo Entertainment System (SNES) portatile e gratuito. Dovrai cambiare il renderer video in OpenGL nelle impostazioni video o nel file ini.
+

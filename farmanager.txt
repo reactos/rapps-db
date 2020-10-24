@@ -44,3 +44,4 @@ Description = Un gestor de archivos open source basado en consola con dos panele
 
 [Section.10]
 Description = Un file manager open source basato su console con due pannelli affiancati.
+

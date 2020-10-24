@@ -42,3 +42,4 @@ Description = 一款基于 Boswars 的苏维埃主题的即时战略游戏。您
 
 [Section.10]
 Description = Un gioco di strategia in tempo reale (RTS) a tema sovietico basato su Boswars. Avrai bisogno di uno strumento come 7-Zip per estrarlo.
+

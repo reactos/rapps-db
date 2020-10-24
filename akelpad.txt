@@ -42,3 +42,4 @@ Description = 小而快的开源纯文本编辑器。
 
 [Section.10]
 Description = Un editor di testo semplice open source progettato per essere piccolo e veloce.
+

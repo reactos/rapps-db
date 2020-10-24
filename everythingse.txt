@@ -47,3 +47,4 @@ Description = Localiza archivos y carpetas por el nombre al instante.
 
 [Section.10]
 Description = Individua istantaneamente file e cartelle per nome.
+

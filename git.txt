@@ -28,3 +28,4 @@ Description = Git es un sistema de control y revision de sistemas rápido, escal
 [Section.10]
 Name = Git per Windows
 Description = Git è un sistema di controllo di revisione veloce, scalabile e distribuito con un set di comandi insolitamente ricco che fornisce sia operazioni di alto livello che accesso completo agli internals.
+

@@ -26,3 +26,4 @@ Description = Plugin de Flash Player para los navegadores web con soporte PPAPI 
 
 [Section.10]
 Description = Plugin Flash Player per browser web con supporto PPAPI (es. Chrome, Vivaldi).
+

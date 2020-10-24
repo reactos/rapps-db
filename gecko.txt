@@ -43,3 +43,4 @@ Description = El motor de renderizado Gecko se instala normalmente en el primer 
 
 [Section.10]
 Description = Gecko Engine normalmente installato nella configurazione del primo stadio, ma solo se la connessione Internet era disponibile in quel momento. Necessario per le applicazioni che utilizzano mshtml.dll.
+

@@ -36,3 +36,4 @@ Description = Proporciona el entorno de ejecución requerido por la mayoría de 
 
 [Section.10]
 Description = Fornisce i runtime richiesti dalla maggior parte delle applicazioni e dei giochi basati su DirectX. È necessario eseguire manualmente il programma di installazione dopo averlo decompresso.
+

@@ -17,3 +17,4 @@ Description = ZinjaI é um ambiente de desenvolvimento IDE para programar em C e
 
 [Section.10]
 Description = ZinjaI è un IDE per la programmazione in C e C++.
+

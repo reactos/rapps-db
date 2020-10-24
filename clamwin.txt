@@ -17,3 +17,4 @@ Description = ClamWin es un antivirus libre para Microsoft Windows 10/8/7/Vista/
 
 [Section.10]
 Description = ClamWin è un programma antivirus gratuito per Microsoft Windows 10/8/7/Vista/XP/Me/2000/98 e Windows Server 2012, 2008 e 2003.
+
