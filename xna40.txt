@@ -21,3 +21,4 @@ Size = 6,7 MiB
 
 [Section.10]
 Description = XNA Framework Redistributable fornisce i componenti di runtime necessari per eseguire un gioco su Windows sviluppato utilizzando Microsoft XNA Game Studio 4.0.
+

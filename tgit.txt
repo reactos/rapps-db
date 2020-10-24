@@ -20,3 +20,4 @@ Description = Una interfaz gráfica para Git, basada en TortoiseSVN, para la act
 
 [Section.10]
 Description = Interfaccia grafica della shell per Git, basata su TortoiseSVN, per la sincronizzazione/aggiornamento del codice.
+

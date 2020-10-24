@@ -13,3 +13,4 @@ SizeBytes = 7721027
 
 [Section.10]
 Description = Sfondi basati su Super Mario 64 per ReactOS. 1024x1024 ciascuno.
+

@@ -42,3 +42,4 @@ Description = Una herramienta práctica para programadores que puede ser usada p
 
 [Section.10]
 Description = Una pratica utility per programmatore che può essere utilizzata per selezionare e visualizzare le proprietà di qualsiasi finestra del sistema. Per estrarlo è necessario uno strumento come 7-Zip.
+

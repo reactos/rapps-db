@@ -62,3 +62,4 @@ Description = 用 Visual Studio 2015/2017 编译的应用程序需要它。包�
 [Section.0813]
 License = Ongekend
 Description = Microsoft Visual Studio 2015/2017 Runtime. Bevat: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+

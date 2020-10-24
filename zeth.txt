@@ -11,3 +11,4 @@ SizeBytes = 259681
 
 [Section.10]
 Description = Stile visivo Zeth per ReactOS. Questi sono i file eseguibili, quindi puoi estrarli in C:\ReactOS\Resources\Themes\Zeth esecutivamente.
+

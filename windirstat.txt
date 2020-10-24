@@ -37,3 +37,4 @@ Description = Programa que analiza el uso del diso y su limpieza.
 
 [Section.10]
 Description = Programma per analizzare l'utilizzo del disco e la sua pulizia.
+

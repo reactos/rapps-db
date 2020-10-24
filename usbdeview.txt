@@ -27,3 +27,4 @@ Description = Una pequeña utilidad que muestra todos los dispositivos USB que e
 
 [Section.10]
 Description = Piccola utility che elenca tutti i dispositivi USB attualmente collegati al tuo computer, nonché tutti i dispositivi USB che hai utilizzato in precedenza.
+

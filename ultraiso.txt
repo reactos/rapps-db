@@ -39,3 +39,4 @@ Description = Una herramienta para crear, convertir y editar imágenes ISO, y un
 
 [Section.10]
 Description = Uno strumento di creazione/modifica/conversione di file immagine ISO CD/DVD e un creatore di CD/DVD avviabile, può modificare direttamente il file immagine CD/DVD ed estrarre file e cartelle da esso, nonché creare direttamente file ISO dal CD/DVD-ROM o disco rigido.
+

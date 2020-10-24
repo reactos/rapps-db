@@ -39,3 +39,4 @@ Description = Una herramienta para la comparación, combinación de archivos y v
 
 [Section.10]
 Description = Uno strumento per la visualizzazione e l'unione delle differenze visive, sia per i file che per le directory.
+
