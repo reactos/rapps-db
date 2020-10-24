@@ -19,3 +19,4 @@ Description = BOINC es una plataforma de software libre destinado a la computaci
 
 [Section.10]
 Description = BOINC è una piattaforma software open source per l'elaborazione che utilizza risorse volontarie.
+
