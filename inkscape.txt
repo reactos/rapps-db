@@ -43,3 +43,4 @@ Description = 以 GNU General Public 协议发行的矢量图编辑器。
 
 [Section.10]
 Description = Un editor di grafica vettoriale concesso in licenza con GNU General Public License.
+
