@@ -20,3 +20,4 @@ Description = Otter Browser ist ein Web-Browser, der das klassische Opera (12.x)
 
 [Section.10]
 Description = Otter Browser mira a ricreare gli aspetti migliori della classica interfaccia utente di Opera (12.x) utilizzando Qt5.
+

@@ -18,3 +18,4 @@ Description = RisohEditor es un editor de recursos Win32 gratuito que puede edit
 
 [Section.10]
 Description = RisohEditor è un editor di risorse Win32 gratuito che può modificare i dati delle risorse nei file EXE/DLL/RC/RES.
+

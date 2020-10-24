@@ -38,3 +38,4 @@ Description = 基于 GPL idTech3 技术的由社区制作的死亡竞赛 FPS 游
 
 [Section.10]
 Description = Un gioco FPS deathmatch prodotto dalla comunità basato sulla tecnologia GPL idTech3. Avrai bisogno di un programma di decompressione ZIP per eseguirlo.
+

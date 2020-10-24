@@ -26,3 +26,4 @@ Description = 免费开源的图片处理软件。
 
 [Section.10]
 Description = Processore fotografico gratuito e open source.
+

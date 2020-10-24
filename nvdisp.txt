@@ -51,3 +51,4 @@ Description = NVidia 生产的 RIVA TNT2, GeForce/Quadro 1/2/3/4 所用的显示
 
 [Section.10]
 Description = Driver video per schede RIVA TNT2, GeForce/Quadro 1/2/3/4 di NVidia.
+
