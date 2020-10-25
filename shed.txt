@@ -42,3 +42,4 @@ Description = Un juego de cartas de un jugador hecho para Windows. Está basado 
 
 [Section.10]
 Description = Un gioco di carte singolo giocatore per Windows. È basato sul popolare gioco di carte studentesco di "Shit-head".
+

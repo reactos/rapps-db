@@ -15,3 +15,4 @@ Description = PCSX es un emulador de la consola PlayStation 1.
 
 [Section.10]
 Description = PCSX è un emulatore per console Playstation.
+

@@ -39,3 +39,4 @@ Description = 基于 Gecko 布局引擎，速度极快、可定制却仍旧轻�
 
 [Section.10]
 Description = Un browser web estremamente veloce, personalizzabile e comunque leggero basato sul motore di layout Gecko.
+

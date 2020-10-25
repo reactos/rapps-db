@@ -15,3 +15,4 @@ Description = MDAC 2.8 SP1 contiene el núcleo de componentes de Data Access com
 
 [Section.10]
 Description = MDAC 2.8 SP1 contiene i componenti principali di accesso ai dati come il provider OLE DB di Microsoft SQL Server ™ e il driver ODBC.
+

@@ -22,3 +22,4 @@ Description = TWSYNTH es una versión extendida del software de síntesis TiMidi
 
 [Section.10]
 Description = TWSYNTH è una versione estesa del sintetizzatore software TiMidity++ con driver di uscita MIDI.
+

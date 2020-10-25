@@ -43,3 +43,4 @@ Description = Win32 的 Apple ][ 和 Agat 7/9 的软件模拟程序。
 
 [Section.10]
 Description = Programma di emulazione software Apple ][ e Agat 7/9 per Win32.
+

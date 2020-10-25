@@ -14,3 +14,4 @@
  
  [Section.10]
  Description = QtEmu è un'interfaccia utente grafica per QEMU scritta in Qt4.
+

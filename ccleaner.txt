@@ -51,3 +51,4 @@ Description = 一个清理临时文件和日常维护计算机的好工具。
 
 [Section.10]
 Description = Uno strumento decente per la pulizia dei file temporanei e la manutenzione generale del computer.
+

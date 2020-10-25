@@ -39,3 +39,4 @@ Description = Npackd (读作 "unpacked") 是一款 Windows 平台的 GPLv3 许�
 
 [Section.10]
 Description = Npackd (pronunciato "unpacked") è un programma di installazione/store di applicazioni/gestore di pacchetti/marketplace con licenza GPLv3 per applicazioni Windows.
+

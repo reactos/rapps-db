@@ -16,3 +16,4 @@ Description = Spotify es uno de los servicios más populares de streaming de mú
 
 [Section.10]
 Description = Spotify è uno dei servizi più popolari per lo streaming di musica e include sia un piano gratuito che a pagamento. Il client Spotify ha abbandonato il supporto per XP, ma questa versione archiviata lo supporta ancora.
+

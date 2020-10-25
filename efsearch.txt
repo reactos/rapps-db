@@ -47,3 +47,4 @@ Description = 与 ReactOS 兼容的文件搜索实用程序。
 
 [Section.10]
 Description = Utilità di ricerca file compatibile con ReactOS.
+

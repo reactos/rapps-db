@@ -47,3 +47,4 @@ Description = 一个 Windows 用的十六进制文件编辑器。
 
 [Section.10]
 Description = Un editor di file esadecimale per Windows.
+

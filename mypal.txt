@@ -19,3 +19,4 @@ Description = Mypal ist ein freier, moderner und quelloffener Webbrowser, der Ko
 
 [Section.10]
 Description = Mypal è un browser Web Windows XP aggiornato e mantenuto.
+

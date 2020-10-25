@@ -16,3 +16,4 @@ Description = WinHier es un visor de las propiedades, jerarquía y mensajes de W
 
 [Section.10]
 Description = WinHier è la gerarchia, le proprietà e il visualizzatore di messaggi di Windows.
+

@@ -39,3 +39,4 @@ Description = Proporciona proveedores de autentificación para secur32.dll (p.e.
 
 [Section.10]
 Description = Fornisce provider di autenticazione per secur32.dll (ad esempio NTLM ...) necessari per l'esecuzione delle applicazioni.
+

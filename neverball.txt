@@ -40,3 +40,4 @@ Description = 倾斜地板来使小球在规定时间内绕过障碍物。Neverb
 
 [Section.10]
 Description = Inclina il pavimento per far rotolare una palla attraverso un percorso ad ostacoli prima che scada il tempo. Neverball è in parte un gioco di puzzle, in parte un gioco d'azione e interamente una prova di abilità. Uno strumento come 7-Zip è necessario per estrarre il gioco.
+

@@ -43,3 +43,4 @@ Description = Un reproductor de media que soporta una gran cantidad de plugins, 
 
 [Section.10]
 Description = Un lettore multimediale che supporta l'estensibilità con plug-in e skin e offre visualizzazione di musica, playlist e una libreria multimediale, supportata da una vasta comunità online.
+

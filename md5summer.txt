@@ -43,3 +43,4 @@ Description = 生成并验证 md5 校验码的应用程序。
 
 [Section.10]
 Description = Un'applicazione che genera e verifica i checksum md5.
+

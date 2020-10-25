@@ -40,3 +40,4 @@ Description = 一个 Windows 上的免费开源科学计算器。你将需要一
 
 [Section.10]
 Description = Una calcolatrice scientifica gratuita e open source per Windows. Avrai bisogno di un programma di decompressione ZIP per installarlo.
+

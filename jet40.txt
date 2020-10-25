@@ -17,3 +17,4 @@ Description = Esta instalación incluye productos de Microsoft que incorporan fu
 
 [Section.10]
 Description = Questa installazione include prodotti Microsoft che incorporano la versione 4.0 del motore di database Microsoft Jet.
+

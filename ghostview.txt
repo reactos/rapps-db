@@ -45,3 +45,4 @@ Description = 一个 Ghostscript 的图形界面。
 
 [Section.10]
 Description = Un'interfaccia grafica per Ghostscript.
+

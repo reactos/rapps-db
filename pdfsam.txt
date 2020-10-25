@@ -39,3 +39,4 @@ Description = 一款免费、开源和平台独立的用于对 PDF 文档进行�
 
 [Section.10]
 Description = Uno strumento gratuito, open source e indipendente dalla piattaforma progettato per eseguire la divisione, l'unione e altre manipolazioni su documenti PDF. Java Runtime necessario!
+

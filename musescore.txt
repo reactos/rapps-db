@@ -26,3 +26,4 @@ Description = 专业的开源乐谱软件。
 
 [Section.10]
 Description = Software di notazione musicale open source professionale.
+

@@ -45,3 +45,4 @@ Description = 这个 Mesa3D 图形库由 Mesa, Gallium 和 llvmpipe 组成。它
 
 [Section.10]
 Description = Questa build della libreria grafica Mesa3D è composta da Mesa, Gallium e llvmpipe. Fornisce un significativo aumento delle prestazioni per i sistemi senza accelerazione hardware OpenGL. Può sostituire il driver OGL sul tuo sistema - questo può essere impostato durante l'installazione o tramite l'applet del pannello di controllo Configurazione OpenGL.
+
