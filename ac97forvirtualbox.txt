@@ -29,7 +29,7 @@ Description = Controlador de audio para dispositivos compatibles con AC'97. Se d
 [Section.10]
 Name = Driver AC97 per VirtualBox
 License = Sconosciuta
-Description = Driver audio per dispositivi compatibili con AC'97. Decomprimere nella cartella ReactOS e riavviare due volte.
+Description = Driver audio per dispositivi compatibili con AC'97. Decomprimere nella cartella "ReactOS" e riavviare due volte.
 
 [Section.040c]
 Name = Pilote AC97 pour VirtualBox
