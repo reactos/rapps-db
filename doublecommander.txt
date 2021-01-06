@@ -2,7 +2,7 @@
 Name = Double Commander
 Version = 0.8.2 beta
 License = GPL
-Description = An open source file manager with two panels side by side. You will need a tool like 7-Zip to extract it.
+Description = An open source file manager with two panels side by side.
 Size = 6.3 MiB
 Category = 12
 URLSite = http://doublecmd.sourceforge.net/
@@ -12,43 +12,43 @@ CDPath = none
 SizeBytes = 6566228
 
 [Section.0407]
-Description = Quelloffener Dateimanager mit zwei nebeneinander liegenden Panels. Zum extrahieren wird 7-Zip oder ein ähnliches Tool benötigt.
+Description = Quelloffener Dateimanager mit zwei nebeneinander liegenden Panels.
 Size = 6,3 MiB
 
 [Section.0a]
-Description = Un explorador de archivos multipanel de código abierto. Es necesario utilizar 7-Zip u otro programa alternativo para extraerlo.
+Description = Un explorador de archivos multipanel de código abierto.
 
 [Section.0410]
-Description = Double Commander è un open-source file-manager con due pannelli laterali affiancati. Utilizzare 7-Zip o un' utility simile per estrarlo.
+Description = Double Commander è un open-source file-manager con due pannelli laterali affiancati.
 
 [Section.0413]
-Description = Double Commander is een open-bron file-manager met twee panelen zij-aan-zij. Gebruik 7-Zip of een gelijkaardige applicatie om het uit te pakken.
+Description = Double Commander is een open-bron file-manager met twee panelen zij-aan-zij.
 
 [Section.0415]
-Description = Double Commander to menedżer plików, o otwartym źródle, z klasycznym układem dwóch paneli obok siebie. Do rozpakowania archiwum potrzebny jest 7-zip lub podobny program.
+Description = Double Commander to menedżer plików, o otwartym źródle, z klasycznym układem dwóch paneli obok siebie.
 
 [Section.0418]
-Description = Gestionar (cu surse deschise) de fișiere după modelul paneluri-alăturate. Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.
+Description = Gestionar (cu surse deschise) de fișiere după modelul paneluri-alăturate.
 Size = 6,3 Mio
 
 [Section.0419]
-Description = Double Commander - это открытый двухпанельный файловый менеджер. Вам нужен 7-Zip или подобная утилита для его распаковки.
+Description = Double Commander - это открытый двухпанельный файловый менеджер.
 Size = 6,3 МиБ
 
 [Section.041f]
-Description = Yan yana iki bölmeli bir açık kaynak dosya yöneticisidir. Çıkartmak için 7-Zip gibi bir araca gereksinim duyacaksınız.
+Description = Yan yana iki bölmeli bir açık kaynak dosya yöneticisidir.
 Size = 6,3 MiB
 
 [Section.0422]
-Description = Double Commander - це відкритий двопанельний файловий менеджер. Вам потрібен 7-Zip або подібна утиліта щоб розпакувати його.
+Description = Double Commander - це відкритий двопанельний файловий менеджер.
 
 [Section.0425]
-Description = Avatud lähtekoodiga failihaldur kahe kõrvuti oleva paneeliga. Tööriista nagu 7-zip on vaja selle lahti pakkimiseks.
+Description = Avatud lähtekoodiga failihaldur kahe kõrvuti oleva paneeliga.
 Size = 6,3 MiB
 
 [Section.0804]
-Description = 含有两个面板并排的开放源码文件管理器。您将需要一个像 7-ZIP 文件的解压工具来解压它。
+Description = 含有两个面板并排的开放源码文件管理器。
 
 [Section.0813]
-Description = Double Commander is een open-bron file-manager met twee panelen zij-aan-zij. Gebruik 7-Zip of een gelijkaardige applicatie om het uit te pakken.
+Description = Double Commander is een open-bron file-manager met twee panelen zij-aan-zij.
 

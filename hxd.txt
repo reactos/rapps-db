@@ -42,5 +42,5 @@ Description = Hea kuueteistkümnendiksüsteemis redaktor
 
 [Section.0804]
 License = 免费软件
-Description = 一个好用的十六进制编辑器。您将需要一个像 7-Zip 的工具来解压它。
+Description = 一个好用的十六进制编辑器。
 

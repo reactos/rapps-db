@@ -2,7 +2,7 @@
 Name = Simple Direct Media Layer (SDL) Runtime
 Version = 1.2.15
 License = LGPL
-Description = Needed for many open source games to run. You will need a tool like 7-Zip to extract it.
+Description = Needed for many open source games to run.
 Size = 136.7 KiB
 Category = 14
 URLSite = http://www.libsdl.org/
@@ -12,50 +12,50 @@ CDPath = none
 SizeBytes = 139948
 
 [Section.0405]
-Description = Nutný pro spuštění některých open source her. K rozbalení je nutný 7-zip nebo podobný nástroj.
+Description = Nutný pro spuštění některých open source her.
 
 [Section.0407]
-Description = Erforderlich um einige quelloffene Spiele auszuführen. Sie brauchen 7-Zip oder einen ähnlichen Entpacker um es zu entpacken.
+Description = Erforderlich um einige quelloffene Spiele auszuführen.
 Size = 136,7 KiB
 
 [Section.0a]
-Description = Necesario para ejecutar muchos juegos de código abierto. Se necesita 7-Zip o una utilidad similar para extraerlo.
+Description = Necesario para ejecutar muchos juegos de código abierto.
 
 [Section.040c]
 Name = Bibliothèque Simple Direct Media Layer (SDL)
-Description = Nécessaire pour faire tourner certains jeux open source. Vous aurez besoin de 7-Zip ou d'un outil similaire pour l'extraire.
+Description = Nécessaire pour faire tourner certains jeux open source.
 Size = 136,7 Kio
 
 [Section.0410]
-Description = Necessario per il corretto funzionamento di alcuni giochi OpenSource. Necessita di 7-zip o utility simili per essere estratto.
+Description = Necessario per il corretto funzionamento di alcuni giochi OpenSource.
 
 [Section.0413]
-Description = Gebruikt door veel open-bron-spelletjes. Gebruik 7-zip om het uit te pakken.
+Description = Gebruikt door veel open-bron-spelletjes.
 
 [Section.0415]
 Name = Biblioteka uruchomieniowa Simple Direct Media Layer (SDL)
-Description = Wymagana przez wiele gier (głównie o otwartym źródle). Do jej rozpakowania potrzebny jest program 7-Zip lub podobny.
+Description = Wymagana przez wiele gier (głównie o otwartym źródle).
 
 [Section.0418]
-Description = Necesar pentru execuția multor jocuri (cu surse deschise). Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.
+Description = Necesar pentru execuția multor jocuri (cu surse deschise).
 Size = 136,7 Kio
 
 [Section.0419]
-Description = Нужен для запуска многих игр с открытым исходным кодом. Вам понадобится такой инструмент, как 7-zip, чтобы распаковать его.
+Description = Нужен для запуска многих игр с открытым исходным кодом.
 Size = 136,7 КиБ
 
 [Section.041f]
 Name = Simple Direct Media Layer (SDL) Yürütücü
-Description = Birçok açık kaynak oyunu çalıştırmak için gereklidir. Çıkartmak için Zip gibi bir araca gereksinim duyacaksınız.
+Description = Birçok açık kaynak oyunu çalıştırmak için gereklidir.
 Size = 136,7 KiB
 
 [Section.0422]
 Name = Бібліотека Simple Direct Media Layer (SDL)
-Description = Необхідна для роботи багатьох відкритих ігор. Вам потрібен 7-Zip або подібна утиліта щоб розпакувати її.
+Description = Необхідна для роботи багатьох відкритих ігор.
 
 [Section.0804]
-Description = 很多的开源游戏需要它才能够运行。您将需要一个像 7-Zip 的工具来解压它。
+Description = 很多的开源游戏需要它才能够运行。
 
 [Section.0813]
-Description = Gebruikt door veel open-bron-spelletjes. Gebruik 7-zip om het uit te pakken.
+Description = Gebruikt door veel open-bron-spelletjes.
 

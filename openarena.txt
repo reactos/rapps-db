@@ -2,7 +2,7 @@
 Name = OpenArena
 Version = 0.8.8
 License = GPL
-Description = A community-produced deathmatch FPS game based on GPL idTech3 technology. You will need a ZIP decompression program to run it.
+Description = A community-produced deathmatch FPS game based on GPL idTech3 technology.
 Size = 405.5 MiB
 Category = 4
 URLSite = http://www.openarena.ws/
@@ -12,27 +12,27 @@ CDPath = none
 SizeBytes = 425189255
 
 [Section.0a]
-Description = Un juego FPS creado por la comunidad basado en la tecnología GPL idTech3. Necesitarás descomprimirlo para hacerlo funcionar.
+Description = Un juego FPS creado por la comunidad basado en la tecnología GPL idTech3.
 
 [Section.0407]
-Description = Ein Community-produziertes Deathmatch-FPS-Spiel basierend auf GPL idTech3 Technologie. Ein Werkzeug wie 7-Zip ist zum extrahieren notwendig.
+Description = Ein Community-produziertes Deathmatch-FPS-Spiel basierend auf GPL idTech3 Technologie.
 Size = 405,5 MiB
 
 [Section.0415]
-Description = Gra FPS deathmatch tworzona przez jej społeczność, bazujaca na otwartym silniku idTech3. Do uruchomienia potrzebny jest program dekompresyjny ZIP.
+Description = Gra FPS deathmatch tworzona przez jej społeczność, bazujaca na otwartym silniku idTech3.
 
 [Section.0418]
-Description = Joc FPS de tip duel în grup, produs de comunitate, bazat pe tehnologia GPL idTech3. Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.
+Description = Joc FPS de tip duel în grup, produs de comunitate, bazat pe tehnologia GPL idTech3.
 Size = 405,5 Mio
 
 [Section.0419]
-Description = Свободный трёхмерный шутер от первого лица, созданный на базе движка Quake III Arena. Вам потребуется программа распаковки zip, чтобы запустить его.
+Description = Свободный трёхмерный шутер от первого лица, созданный на базе движка Quake III Arena.
 Size = 405,5 МиБ
 
 [Section.041f]
-Description = GPL idTech3 teknolojisi tabanlı, topluluk üretimi, ölüm karşılaşmalı bir FPS oyunudur. Çalıştırmak için bir ZIP çıkartma programı gerekir.
+Description = GPL idTech3 teknolojisi tabanlı, topluluk üretimi, ölüm karşılaşmalı bir FPS oyunudur.
 Size = 405,5 MiB
 
 [Section.0804]
-Description = 基于 GPL idTech3 技术的由社区制作的死亡竞赛 FPS 游戏。您将需要一个 ZIP 解压缩程序来运行它。
+Description = 基于 GPL idTech3 技术的由社区制作的死亡竞赛 FPS 游戏。
 

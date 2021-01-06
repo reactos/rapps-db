@@ -2,7 +2,7 @@
 Name = Neverball
 Version = 1.6.0
 License = GPLv2
-Description = Tilt the floor to roll a ball through an obstacle course before time runs out. Neverball is part puzzle game, part action game, and entirely a test of skill. A tool like 7-Zip is needed for extracting the game.
+Description = Tilt the floor to roll a ball through an obstacle course before time runs out. Neverball is part puzzle game, part action game, and entirely a test of skill.
 Size = 72.3 MiB
 Category = 4
 URLSite = http://neverball.org/
@@ -12,15 +12,15 @@ CDPath = none
 SizeBytes = 75802818
 
 [Section.0407]
-Description = Neigen Sie den Boden, um einen Ball durch einen Hindernisparcours zu rollen, bevor die Zeit abläuft. Neverball ist teils ein Puzzle-Spiel, teils ein Action-Spiel und ganz ein Test der Geschicklichkeit. Zum extrahieren wird 7-Zip oder ähnlich benötigt.
+Description = Neigen Sie den Boden, um einen Ball durch einen Hindernisparcours zu rollen, bevor die Zeit abläuft. Neverball ist teils ein Puzzle-Spiel, teils ein Action-Spiel und ganz ein Test der Geschicklichkeit.
 Size = 72,3 MiB
 
 [Section.0415]
-Description = Przechyl podłogę, aby przetoczyć piłkę przez tor przeszkód, zanim skończy się czas. Neverball to gra akcji z elementami logicznymi, która sprawdzi twoje umiejętności. Do wypakowania gry potrzebne jest narzędzie typu 7-Zip.
+Description = Przechyl podłogę, aby przetoczyć piłkę przez tor przeszkód, zanim skończy się czas. Neverball to gra akcji z elementami logicznymi, która sprawdzi twoje umiejętności.
 Size = 72,3 MiB
 
 [Section.0418]
-Description = Joc în parte de tip enigmă, în parte de tip acțiune, și un test de aptitudine per total. Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.
+Description = Joc în parte de tip enigmă, în parte de tip acțiune, și un test de aptitudine per total.
 Size = 72,3 Mio
 
 [Section.0419]
@@ -28,13 +28,13 @@ Description = Компьютерная игра-платформер, в кот�
 Size = 72,3 МиБ
 
 [Section.0a]
-Description = Gira el suelo para mover una bola a través de una pista de obstáculos a contra reloj. Neverball es mitad puzle, mitad juego de acción y toda una prueba de habilidad. Se necesita una herramienta como 7-Zip para extraer el juego.
+Description = Gira el suelo para mover una bola a través de una pista de obstáculos a contra reloj. Neverball es mitad puzle, mitad juego de acción y toda una prueba de habilidad.
 
 [Section.041f]
 License = GPL sürüm 2
-Description = Süre bitmeden önce bir engel gidişi boyunca bir topu yuvarlamak için odayı eğiniz. Neverball, tikelik bulmaca oyunu, tikelik devingen oyun ve büsbütün bir ustalık sınamasıdır. Oyunu çıkartmak için 7-Zip benzeri bir araç gereklidir.
+Description = Süre bitmeden önce bir engel gidişi boyunca bir topu yuvarlamak için odayı eğiniz. Neverball, tikelik bulmaca oyunu, tikelik devingen oyun ve büsbütün bir ustalık sınamasıdır.
 Size = 72,3 MiB
 
 [Section.0804]
-Description = 倾斜地板来使小球在规定时间内绕过障碍物。Neverball 一款是半解密半动作游戏，也是一种对技巧的考验。您将需要一个类似 7-Zip 的工具来提取游戏。
+Description = 倾斜地板来使小球在规定时间内绕过障碍物。Neverball 一款是半解密半动作游戏，也是一种对技巧的考验。
 

@@ -2,7 +2,7 @@
 Name = Commander Stalin
 Version = 0.9.5
 License = GPL
-Description = A Soviet-themed real time strategy (RTS) game based on Boswars. You will need a tool like 7-Zip to extract it.
+Description = A Soviet-themed real time strategy (RTS) game based on Boswars.
 Size = 261.0 MiB
 Category = 4
 URLSite = http://commanderstalin.sourceforge.net/
@@ -11,32 +11,32 @@ SHA1 = 736b89d96c025bdf0b17116b4b8f26424e219669
 SizeBytes = 273683958
 
 [Section.0407]
-Description = Ein "Soviet" Echzeitstrategiespiel basierend auf Boswars. (Archiv)
+Description = Ein "Soviet" Echzeitstrategiespiel basierend auf Boswars.
 Size = 261,0 MiB
 
 [Section.0a]
-Description = Un juego de estrategia en tiempo real con tintes soviéticos. Necesitarás un programa como 7-zip para extraerlo.
+Description = Un juego de estrategia en tiempo real con tintes soviéticos.
 
 [Section.0415]
-Description = "Sowiecka" gra strategiczna czasu rzeczywistego (RTS) oparta na Boswars. Wymagany jest archiwizator plików do wypakowania gry.
+Description = "Sowiecka" gra strategiczna czasu rzeczywistego (RTS) oparta na Boswars.
 
 [Section.0418]
-Description = Joc de strategie în timp real, cu tematică sovietică bazată pe Boswars. Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.
+Description = Joc de strategie în timp real, cu tematică sovietică bazată pe Boswars.
 Size = 261,0 Mio
 
 [Section.0419]
-Description = "Советская" стратегия реального времени основанная на Boswars. Вам понадобится архиватор, чтобы распаковать игру.
+Description = "Советская" стратегия реального времени основанная на Boswars.
 URLSite = http://commanderstalin.sourceforge.net/cstalin_rus_index.html
 Size = 261,0 МиБ
 
 [Section.041f]
-Description = Boswars tabanlı bir "Sovyet" gerçek zamanlı izlem (RTS) oyunu. Bunu çıkartmak için 7-Zip gibi bir araca gereksinim duyacaksınız.
+Description = Boswars tabanlı bir "Sovyet" gerçek zamanlı izlem (RTS) oyunu.
 Size = 261,0 MiB
 
 [Section.0425]
-Description = Nõukogude teemaline RTS mäng Boswars põhjal. Tööriista nagu 7-zip on vaja selle lahti pakkimiseks.
+Description = Nõukogude teemaline RTS mäng Boswars põhjal.
 Size = 261,0 MiB
 
 [Section.0804]
-Description = 一款基于 Boswars 的苏维埃主题的即时战略游戏。您需要类似 7-Zip 之类的工具来解压它。
+Description = 一款基于 Boswars 的苏维埃主题的即时战略游戏。
 

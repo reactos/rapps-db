@@ -2,7 +2,7 @@
 Name = QB64 (SDL version)
 Version = 1.2
 License = Freeware
-Description = A self-hosting BASIC compiler for Microsoft Windows, Linux and Mac OS X, designed to be compatible with Microsoft QBasic and Microsoft QuickBASIC. You will need a tool like 7-Zip to extract it.
+Description = A self-hosting BASIC compiler for Microsoft Windows, Linux and Mac OS X, designed to be compatible with Microsoft QBasic and Microsoft QuickBASIC.
 Size = 98.0 MiB
 Category = 7
 URLSite = http://www.qb64.net/
@@ -12,36 +12,36 @@ CDPath = none
 SizeBytes = 102775452
 
 [Section.0407]
-Description = Self-Hosting BASIC-Compiler für Microsoft Windows, Linux und Mac OS X, entwickelt, um mit Microsoft QBasic und Microsoft QuickBASIC kompatibel zu sein. Sie müssen 7-Zip oder ein ähnliches Dienstprogramm installiert haben, um es zu extrahieren.
+Description = Self-Hosting BASIC-Compiler für Microsoft Windows, Linux und Mac OS X, entwickelt, um mit Microsoft QBasic und Microsoft QuickBASIC kompatibel zu sein.
 Size = 98,0 MiB
 
 [Section.0a]
-Description = Es un compilador auto-compilable de BASIC para Windows, Linux y Mac OS X, diseñado para ser compatible con Microsoft QuickBasic. Es necesario utilizar algo como 7-Zip para descomprimirlo.
+Description = Es un compilador auto-compilable de BASIC para Windows, Linux y Mac OS X, diseñado para ser compatible con Microsoft QuickBasic.
 
 [Section.0410]
-Description = QB64 è un compilatore auto ospitante di BASIC per Microsoft Windows, Linux e Mac OS X, progettato per essere compatibile con Microsoft QuickBasic. Necessita di 7-Zip o uno strumento simile per essere estratto.
+Description = QB64 è un compilatore auto ospitante di BASIC per Microsoft Windows, Linux e Mac OS X, progettato per essere compatibile con Microsoft QuickBasic.
 
 [Section.0415]
-Description = QB64 to kompilator BASIC zdolny do kompilacji własnego kodu źródłowego. Działa w systemach Windows, Linux i Mac OS X. Jest kompatybilny z Microsoft QBasic i QuickBASIC. Wymaga programu archiwizującego do wypakowania.
+Description = QB64 to kompilator BASIC zdolny do kompilacji własnego kodu źródłowego. Działa w systemach Windows, Linux i Mac OS X. Jest kompatybilny z Microsoft QBasic i QuickBASIC.
 
 [Section.0418]
 License = Gratuită
-Description = Compilator BASIC auto-compilabil pentru Windows, Linux și Mac OS X, conceput pentru a fi compatibil cu Microsoft QBasic și Microsoft QuickBASIC. Este necesar un utilitar de derarhivare de tip ZIP.
+Description = Compilator BASIC auto-compilabil pentru Windows, Linux și Mac OS X, conceput pentru a fi compatibil cu Microsoft QBasic și Microsoft QuickBASIC.
 Size = 98,0 Mio
 
 [Section.0419]
 Name = QB64 (SDL версия)
 License = Бесплатно
-Description = Компилятор языка BASIC для Microsoft Windows, Linux и Mac OS X. Совместим с Microsoft QBasic и Microsoft QuickBASIC. Вам понадобится такой инструмент, как 7-zip, чтобы распаковать его.
+Description = Компилятор языка BASIC для Microsoft Windows, Linux и Mac OS X. Совместим с Microsoft QBasic и Microsoft QuickBASIC.
 Size = 98,0 МиБ
 
 [Section.041f]
 Name = QB64 (SDL sürümü)
 License = Ücretsiz
-Description = Microsoft Windows, Linux ve Mac OS X için, Microsoft QBasic ve Microsoft QuickBASIC ile uyumlu olacak biçimde tasarlanmış, kendi kendini derleyen bir BASIC derleyicisidir. Çıkartmak için 7-Zip benzeri bir araca gereksinim duyacaksınız.
+Description = Microsoft Windows, Linux ve Mac OS X için, Microsoft QBasic ve Microsoft QuickBASIC ile uyumlu olacak biçimde tasarlanmış, kendi kendini derleyen bir BASIC derleyicisidir.
 Size = 98,0 MiB
 
 [Section.0804]
 License = 免费软件
-Description = Microsoft Windows, Linux 及 Mac OS X 平台上的自托管 BASIC 编译器，设计上兼容 Microsoft QBasic 和 Microsoft QuickBASIC。您将需要一个像 7-Zip 的工具来解压它。
+Description = Microsoft Windows, Linux 及 Mac OS X 平台上的自托管 BASIC 编译器，设计上兼容 Microsoft QBasic 和 Microsoft QuickBASIC。
 

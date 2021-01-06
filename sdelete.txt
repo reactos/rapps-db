@@ -2,7 +2,7 @@
 Name = SDelete
 Version = 2.04
 License = Sysinternals Software License Terms
-Description = SDelete is a free command line tool that you can use to delete files securely so that they cannot be recovered anymore. You will need a ZIP decompression program to install it.
+Description = SDelete is a free command line tool that you can use to delete files securely so that they cannot be recovered anymore.
 Category = 12
 URLSite = https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete
 URLDownload = https://download.sysinternals.com/files/SDelete.zip
@@ -10,10 +10,6 @@ SHA1 = e08182dcce77c122f7bc18c01e380ecf066aad2e
 CDPath = none
 SizeInBytes = 531364
 
-; English
-[Section.0407]
-Description = SDelete is a free command line tool that you can use to delete files securely so that they cannot be recovered anymore. To extract, 7-Zip or a similar tool is required.
-
 ; Turkish
 [Section.041f]
-Description = SDelete dosyalarınızı bir daha geri getirilemez biçimde güvenli olarak silmek için kullanabileceğiniz ücretsiz bir komut satırı aracıdır. Kurmak için bir ZIP çıkartma uygulaması gerekir.
+Description = SDelete dosyalarınızı bir daha geri getirilemez biçimde güvenli olarak silmek için kullanabileceğiniz ücretsiz bir komut satırı aracıdır.

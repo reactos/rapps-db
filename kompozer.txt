@@ -2,7 +2,7 @@
 Name = KompoZer
 Version = 0.7.10
 License = MPL
-Description = A complete web authoring system that combines web file management and easy-to-use WYSIWYG web page editing. You will need a ZIP decompression program to run it.
+Description = A complete web authoring system that combines web file management and easy-to-use WYSIWYG web page editing.
 Size = 7.6 MiB
 Category = 5
 URLSite = http://www.kompozer.net/
@@ -12,28 +12,28 @@ CDPath = none
 SizeBytes = 7949158
 
 [Section.0a]
-Description = Un completo sistema de autoría web que combina la gestión de archivos web y una interfaz WYSIWYG fácil de usar en la edición web. Necesitarás descomprimirlo para usarlo.
+Description = Un completo sistema de autoría web que combina la gestión de archivos web y una interfaz WYSIWYG fácil de usar en la edición web.
 
 [Section.0407]
-Description = Ein vollständiges Web-Authoring-System, welches Web-Datei-Management und leicht zu bedienende WYSIWYG Web-Seite Bearbeitung verbindet. Ein Werkzeug wie 7-Zip ist zum extrahieren notwendig.
+Description = Ein vollständiges Web-Authoring-System, welches Web-Datei-Management und leicht zu bedienende WYSIWYG Web-Seite Bearbeitung verbindet.
 Size = 7,6 MiB
 
 [Section.0415]
-Description = Oprogramowanie do tworzenia stron internetowych, które łączy zarządzanie plikami stron internetowych i łatwą edycję stron za pomocą WYSIWYG. Do jego uruchomienia potrzebny jest program dekompresyjny ZIP.
+Description = Oprogramowanie do tworzenia stron internetowych, które łączy zarządzanie plikami stron internetowych i łatwą edycję stron za pomocą WYSIWYG.
 Size = 7,6 MiB
 
 [Section.0418]
-Description = Sistem complet de autorizare web care combină gestiunea fișierelor web și modul de editare directă a paginilor. Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.
+Description = Sistem complet de autorizare web care combină gestiunea fișierelor web și modul de editare directă a paginilor.
 Size = 7,6 Mio
 
 [Section.0419]
-Description = Визуальный HTML-редактор, основанный на Nvu. Одна из лучших бесплатных альтернатив Adobe CS3. Вам потребуется программа распаковки ZIP, чтобы запустить его.
+Description = Визуальный HTML-редактор, основанный на Nvu. Одна из лучших бесплатных альтернатив Adobe CS3.
 Size = 7,6 МиБ
 
 [Section.041f]
-Description = Ağ kütük yönetimiyle kullanımı kolay WYSIWYG ağ sayfası düzenlemesini birleştiren eksiksiz bir ağ yazarlık dizgesidir. Çalıştırmak için bir ZIP çıkartma programı gerekir.
+Description = Ağ kütük yönetimiyle kullanımı kolay WYSIWYG ağ sayfası düzenlemesini birleştiren eksiksiz bir ağ yazarlık dizgesidir.
 Size = 7,6 MiB
 
 [Section.0804]
-Description = 一套完整的结合网络文件管理和简单易用的所见即所得网页编辑的网络创作系统。您将需要一个 ZIP 解压缩程序来运行它。
+Description = 一套完整的结合网络文件管理和简单易用的所见即所得网页编辑的网络创作系统。
 

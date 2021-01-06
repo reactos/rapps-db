@@ -2,7 +2,7 @@
 Name = VisualBoyAdvance (SDL version)
 Version = 1.7.2
 License = GPL
-Description = An emulator for Gameboy and GameboyAdvance systems. You will need a ZIP decompression program to run it.
+Description = An emulator for Gameboy and GameboyAdvance systems.
 Size = 438.9 KiB
 Category = 4
 URLSite = http://sourceforge.net/projects/vba/
@@ -12,30 +12,30 @@ CDPath = none
 SizeBytes = 449393
 
 [Section.0407]
-Description = Ein Gameboy und Gameboy Advance System Emulator. Ein Werkzeug wie 7-Zip ist zum extrahieren notwendig.
+Description = Ein Gameboy und Gameboy Advance System Emulator.
 Size = 438,9 KiB
 
 [Section.0415]
-Description = Emulator systemów Game Boy i Game Boy Advance. Do jego uruchomienia potrzebny jest program dekompresyjny ZIP.
+Description = Emulator systemów Game Boy i Game Boy Advance.
 
 [Section.0418]
 Name = VisualBoyAdvance (versiune SDL)
-Description = Un emulator pentru sistemele Gameboy și GameboyAdvance. Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.
+Description = Un emulator pentru sistemele Gameboy și GameboyAdvance.
 Size = 438,9 Kio
 
 [Section.0419]
 Name = VisualBoyAdvance (SDL версия)
-Description = Эмулятор Gameboy и систем GameboyAdvance. Вам потребуется программа распаковки zip, чтобы запустить его.
+Description = Эмулятор Gameboy и систем GameboyAdvance.
 Size = 438,9 КиБ
 
 [Section.041f]
 Name = VisualBoyAdvance (SDL sürümü)
-Description = Gameboy ve GameboyAdvance sistemleri için bir öykünücü. Çalıştırmak için bir ZIP çıkartma programı gerekir.
+Description = Gameboy ve GameboyAdvance sistemleri için bir öykünücü.
 Size = 438,9 KiB
 
 [Section.0804]
-Description = 一个 Gameboy 和 GameboyAdvance 系统的模拟器。你将需要一个 ZIP 解压缩程序来运行它。
+Description = 一个 Gameboy 和 GameboyAdvance 系统的模拟器。
 
 [Section.0a]
 Name = VisualBoyAdvance (versión SDL)
-Description = Un emulador para juegos de los sistemas GameBoy y GameBoy Advance. Necesitarás descomprimirlo una vez descargado.
+Description = Un emulador para juegos de los sistemas GameBoy y GameBoy Advance.

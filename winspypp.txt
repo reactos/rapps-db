@@ -2,7 +2,7 @@
 Name = Winspy++
 Version = 1.7
 License = Freeware
-Description = A handy programmer's utility which can be used to select and view the properties of any window in the system. A tool like 7-Zip is needed to extract it.
+Description = A handy programmer's utility which can be used to select and view the properties of any window in the system.
 Size = 57.9 KiB
 Category = 7
 URLSite = http://www.catch22.net/software/winspy
@@ -12,31 +12,31 @@ CDPath = none
 SizeBytes = 59355
 
 [Section.0407]
-Description = Ein nützliches Werkzeug für Programmierer, das verwendet werden kann, um die Eigenschaften jedes Fensters im System sehen zu können. Ein Werkzeug wie 7-Zip ist zum extrahieren notwendig.
+Description = Ein nützliches Werkzeug für Programmierer, das verwendet werden kann, um die Eigenschaften jedes Fensters im System sehen zu können.
 Size = 58,3 KiB
 
 [Section.0415]
-Description = Poręczne narzędzie programisty, które może być używane do przeglądania właściwości dowolnego okna w systemie. Wymagany jest archiwizator plików do wypakowania programu.
+Description = Poręczne narzędzie programisty, które może być używane do przeglądania właściwości dowolnego okna w systemie.
 
 [Section.0418]
 License = Gratuită
-Description = Un utilitar pentru programatori care poate fi utilizat pentru a selecta și a inspecta proprietățile unei ferestre din sistem. Este necesar un utilitar ca 7-Zip pentru a-l putea extrage.
+Description = Un utilitar pentru programatori care poate fi utilizat pentru a selecta și a inspecta proprietățile unei ferestre din sistem.
 Size = 58,3 Kio
 
 [Section.0419]
 License = Бесплатно
-Description = Утилита для просмотра свойств любого окна в системе. Для распаковки нужен 7-zip.
+Description = Утилита для просмотра свойств любого окна в системе.
 Size = 58,3 КиБ
 
 [Section.041f]
 License = Ücretsiz
-Description = Sistemdeki bir pencerenin özelliklerini görüntülemek ve seçmek için kullanılabilecek bir usta programının aracı. Onu çıkartmak için 7-Zip gibi bir araç gereklidir.
+Description = Sistemdeki bir pencerenin özelliklerini görüntülemek ve seçmek için kullanılabilecek bir usta programının aracı.
 Size = 58,3 KiB
 
 [Section.0804]
 License = 免费软件
-Description = 一款能够用来选择和查看系统中任意窗口属性的面向高级程序员的实用工具。需要类似 7-Zip 的工具来解压它。
+Description = 一款能够用来选择和查看系统中任意窗口属性的面向高级程序员的实用工具。
 
 [Section.0a]
-Description = Una herramienta práctica para programadores que puede ser usada para seleccionar y ver las propiedades de cualquier ventana del sistema. Necesita ser descomprimido una vez descargado.
+Description = Una herramienta práctica para programadores que puede ser usada para seleccionar y ver las propiedades de cualquier ventana del sistema.
 
