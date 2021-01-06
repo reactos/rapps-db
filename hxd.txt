@@ -1,6 +1,6 @@
 [Section]
 Name = HxD
-Version = 2.3.0.0
+Version = 2.4.0.0
 License = Freeware
 Description = A good hexadecimal editor.
 Category = 7
