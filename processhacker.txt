@@ -1,0 +1,11 @@
+[Section]
+Name = Process Hacker
+Version = 2.38
+License = GPLv3
+Description =  Process Hacker is a free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+Category = 12
+URLSite = https://processhacker.sourceforge.io/
+URLDownload = https://github.com/processhacker/processhacker/releases/download/v2.38/processhacker-2.38-setup.exe
+SHA1 = 8953D402F80D18423E8744EDB05EB6582ED11019
+CDPath = none
+SizeBytes = 2261896
