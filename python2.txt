@@ -29,7 +29,7 @@ Description = Un Linguaggio di programmazione dinamico e potente.
 Description = Een opmerkelijk krachtige dynamische programmeertaal.
 
 [Section.0415]
-Description = Potęży i dynamiczny język programowania.
+Description = Niezwykle potężny dynamiczny język programowania.
 
 [Section.0418]
 Description = Limbaj de programare dinamic și puternic.
