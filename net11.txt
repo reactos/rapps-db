@@ -6,7 +6,7 @@ Description = Components needed to run managed Windows applications compiled in 
 Size = 23.1 MiB
 Category = 14
 URLSite = http://www.microsoft.com/en-US/download/details.aspx?id=26
-URLDownload = http://download.microsoft.com/download/a/a/c/aac39226-8825-44ce-90e3-bf8203e74006/dotnetfx.exe
+URLDownload = https://web.archive.org/web/20210505032023if_/http://download.microsoft.com/download/a/a/c/aac39226-8825-44ce-90e3-bf8203e74006/dotnetfx.exe
 SHA1 = 16a354a2207c4c8846b617cbc78f7b7c1856340e
 CDPath = none
 SizeBytes = 24265736

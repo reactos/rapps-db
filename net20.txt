@@ -6,7 +6,7 @@ Description = Components needed to run managed Windows applications compiled in 
 Size = 22.4 MiB
 Category = 14
 URLSite = http://www.microsoft.com/downloads/details.aspx?FamilyID=0856eacb-4362-4b0d-8edd-aab15c5e04f5
-URLDownload = http://download.microsoft.com/download/5/6/7/567758a3-759e-473e-bf8f-52154438565a/dotnetfx.exe
+URLDownload = https://web.archive.org/web/20210505034809if_/http://download.microsoft.com/download/5/6/7/567758a3-759e-473e-bf8f-52154438565a/dotnetfx.exe
 SHA1 = a3625c59d7a2995fb60877b5f5324892a1693b2a
 CDPath = none
 SizeBytes = 23510720
@@ -47,4 +47,3 @@ Size = 22,4 MiB
 [Section.0804]
 License = 未知
 Description = 运行由 C# 之类所编译成中间语言所组成的托管 Windows 应用程序所需的组件。
-
