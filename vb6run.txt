@@ -3,10 +3,9 @@ Name = Microsoft Visual Basic 6 Runtime
 Version = 6.0
 License = Unknown
 Description = Needed by applications written in Visual Basic 6. Contains: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
-Size = 1.0 MiB
 Category = 14
 URLSite = http://support.microsoft.com/kb/192461/
-URLDownload = http://download.microsoft.com/download/5/a/d/5ad868a0-8ecd-4bb0-a882-fe53eb7ef348/VB6.0-KB290887-X86.exe
+URLDownload = https://web.archive.org/web/20210125001711if_/http://download.microsoft.com/download/5/a/d/5ad868a0-8ecd-4bb0-a882-fe53eb7ef348/VB6.0-KB290887-X86.exe
 SHA1 = 73ef177008005675134d2f02c6f580515ab0d842
 CDPath = none
 SizeBytes = 1064736
@@ -14,7 +13,6 @@ SizeBytes = 1064736
 [Section.0407]
 License = Unbekannt
 Description = Benötigt für Visual Basic 6 basierte Anwendungen. Beinhaltet: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
-Size = 1,0 MiB
 
 [Section.0a]
 License = Desconocida
@@ -23,7 +21,6 @@ Description = Necesario para aplicaciones escritas en Visual Basic 6. Incluye: a
 [Section.040c]
 License = Inconnue
 Description = Bibliothèque Microsoft Visual Basic 6. Contient: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
-Size = 1,0 Mio
 
 [Section.0410]
 License = Sconosciuta
@@ -40,17 +37,14 @@ Description = Biblioteki uruchomieniowe Microsoft Visual Basic 6. Zawiera: advpa
 [Section.0418]
 License = Nespecificată
 Description = Pachet necesar pentru aplicațiile compilate cu Visual Basic 6. Conține: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
-Size = 1,0 Mio
 
 [Section.0419]
 License = Неизвестно
 Description = Необходим для приложений, написанных в Visual Basic 6. Содержит: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
-Size = 1,0 МиБ
 
 [Section.041f]
 License = Bilinmiyor
 Description = Visual Basic 6'da yazılmış uygulamalar tarafından gereklidir. Şunları içerir: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
-Size = 1,0 MiB
 
 [Section.0422]
 License = Невідома
