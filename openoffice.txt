@@ -11,7 +11,7 @@ SHA1 = 68d73772b0f9559a08d65ca556230fe32530af41
 CDPath = none
 SizeBytes = 142587736
 Icon = openoffice.ico
-Screenshot1 = https://home.apache.org/~mseidel/AOO-ReactOS.png
+Screenshot1 = https://imgur.com/a/yPI7VWG
 
 [Section.0407]
 Description = Quelloffene Office-Suite.
