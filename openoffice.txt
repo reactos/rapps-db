@@ -1,6 +1,5 @@
 [Section]
 Name = Apache OpenOffice
-RegName = OpenOffice 4.1.10
 Version = 4.1.10
 License = AL v2.0
 LicenseInfo = 1
