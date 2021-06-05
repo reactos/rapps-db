@@ -11,6 +11,11 @@ SHA1 = 2f23a6389470db5d0dd2095d64939657d8d3ea9d
 CDPath = none
 SizeBytes = 1185968
 
+[Section.amd64]
+URLDownload = http://svn.reactos.org/packages/7z1900-x64.exe
+SHA1 = 0138746b529d4d3a81302c2bc355a0b855a86d38
+SizeBytes = 1594881
+
 [Section.0001]
 Description = .برنامج لضغط وفك ضغط الملفات يدعم تنسيقات متعددة مثل زيب و 7زيب و رار و غيرها
 Size = 1,1 مب
