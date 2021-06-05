@@ -1,0 +1,12 @@
+[Section]
+Name = Dave Gnukem
+Version = 1.01
+License = MIT GPL CC
+LicenseInfo = 1
+Description =  Dave Gnukem is a retro-style 2D scrolling platform shooter. It is inspired by and similar to Duke Nukem 1.
+Category = 4
+URLSite = https://github.com/davidjoffe/dave_gnukem
+URLDownload = https://sourceforge.net/projects/gnukem/files/gnukem/Dave_Gnukem_Setup_1.0.1.exe
+SHA1 = 1f0ebdeadb9aca427ad2ab14617103793506676f
+SizeBytes = 21524896
+Languages=0409
