@@ -7,7 +7,7 @@ Size = 1.4 KiB
 Category = 14
 URLSite = https://jira.reactos.org/browse/CORE-13069
 URLDownload = https://svn.reactos.org/packages/vc6vb6hack.bat
-SHA1 = 7bfdb6610a403730a11cb88a9e43c49705aca25d
+SHA1 = ff20c1fd0258900a7e078db67de75478cf36647f
 CDPath = none
 SizeBytes = 1464
 
