@@ -1,12 +1,12 @@
 [Section]
-Name = DirectX End-User Runtimes (Feb 2010) 
+Name = DirectX End-User Runtimes (Feb 2010)
 Version = 9.28
 License = Unknown
 Description = Provides the runtimes required by most DirectX based applications and games. You have to manually run the installer after unpacking.
 Size = 104 MiB
 Category = 14
 URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=9033
-URLDownload = https://download.microsoft.com/download/E/E/1/EE17FF74-6C45-4575-9CF4-7FC2597ACD18/directx_feb2010_redist.exe
+URLDownload = https://web.archive.org/web/20191108074337/https://download.microsoft.com/download/E/E/1/EE17FF74-6C45-4575-9CF4-7FC2597ACD18/directx_feb2010_redist.exe
 SHA1 = a97c820915dc20929e84b49646ec275760012a42
 CDPath = none
 SizeBytes = 109072752
