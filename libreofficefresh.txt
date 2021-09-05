@@ -2,10 +2,10 @@
 Name = LibreOffice Fresh
 Version = 5.4.7.2
 License = LGPL
-Description = A powerful and open source office suite. It has been forked from OpenOffice.
+Description = LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice).
 Size = 214.9 MiB
 Category = 6
-URLSite = http://www.documentfoundation.org/
+URLSite = https://www.libreoffice.org/
 URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86.msi
 SHA1 = be0769418eed84391f9cbcb3702b5e7d344cdfa0
 CDPath = none
