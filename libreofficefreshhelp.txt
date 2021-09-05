@@ -1,5 +1,5 @@
 [Section]
-Name = LibreOffice Help Pack
+Name = LibreOffice Fresh Help Pack
 Version = 5.4.7.2
 License = GPLv3
 Description = Offline help content of LibreOffice.

@@ -1,5 +1,5 @@
 [Section]
-Name = LibreOffice
+Name = LibreOffice Fresh
 Version = 5.4.7.2
 License = LGPL
 Description = A powerful and open source office suite. It has been forked from OpenOffice.
