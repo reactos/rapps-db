@@ -1,26 +1,23 @@
 [Section]
 Name = FreeBASIC
-Version = 1.07.1
+Version = 1.08.1
 License = GPL/LGPL
 Description = Open Source BASIC Compiler. The BASIC syntax is compatible with QBASIC.
-Size = 10.7 MiB
 Category = 7
-URLSite = http://www.freebasic.net/
-URLDownload = http://download.sourceforge.net/project/fbc/Binaries%20-%20Windows/FreeBASIC-1.07.1-win32.exe
-SHA1 = 2d238faf6d7f5237b84b8587ae6a3fe3eb5e29c3
+URLSite = https://www.freebasic.net/
+URLDownload = https://sourceforge.net/projects/fbc/files/FreeBASIC-1.08.1/Binaries-Windows/FreeBASIC-1.08.1-win32.exe
+SHA1 = 29977d1d2aaa6c322e155f3a2db9e3b7481d80a1
 CDPath = none
-SizeBytes = 11289242
+SizeBytes = 19823315
 
 [Section.0407]
 Description = Quelloffener BASIC Compiler. Die BASIC Syntax ist kompatibel zu QBASIC.
-Size = 10,7 MiB
 
 [Section.0a]
 Description = Compilador BASIC de código abierto. El lenguaje BASIC es compatible con QBASIC.
 
 [Section.040c]
 Description = Compilateur BASIC open source. La syntaxe du BASIC est compatible avec le QBASIC.
-Size = 10,7 Mio
 
 [Section.0410]
 Description = Compilatore BASIC open source. La sintassi del BASIC è compatibile con il QBASIC.
@@ -30,22 +27,18 @@ Description = Otwarty kompilator BASIC, ze składnią kompatybilną z QBASIC.
 
 [Section.0418]
 Description = Compilator (cu surse deschise) BASIC. Sintaxa BASIC este compatibilă cu QBASIC.
-Size = 10,7 Mio
 
 [Section.0419]
 Description = Компилятор языка BASIC. Синтаксис BASIC совместим с QBASIC.
-Size = 10,7 МиБ
 
 [Section.041f]
 Description = Açık kaynak BASIC derleyicisi. Bu BASIC söz dizimi, QBASIC ile uyumludur.
-Size = 10,7 MiB
 
 [Section.0422]
 Description = Відкритий компілятор BASIC. Синтаксис сумісний з QBASIC.
 
 [Section.0425]
 Description = Avatud lähtekoodiga BASIC kompileerija. BASIC süntaks on ühilduv QBASIC'u omaga..
-Size = 10,7 MiB
 
 [Section.0804]
 Description = 开放源码 BASIC 编译器。BASIC 语法与 QBASIC 兼容。
