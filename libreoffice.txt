@@ -1,15 +1,15 @@
 [Section]
-Name = LibreOffice Still
-Version = 5.3.7.2
+Name = LibreOffice
+Version = 5.4.7.2
 License = LGPL
 Description = LibreOffice is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice).
-Size = 210 MiB
+Size = 214.9 MiB
 Category = 6
 URLSite = https://www.libreoffice.org/
-URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.3.7.2/win/x86/LibreOffice_5.3.7.2_Win_x86.msi
-SHA1 = AA52EAC6BBD0CF6206E91CD4DC1C44A7F7C41F79
+URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86.msi
+SHA1 = be0769418eed84391f9cbcb3702b5e7d344cdfa0
 CDPath = none
-SizeBytes = 221110272
+SizeBytes = 225308672
 
 [Section.0407]
 Description = Vorher bekannt als OpenOffice. Quelloffene Office Suite.
