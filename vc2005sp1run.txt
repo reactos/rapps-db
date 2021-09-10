@@ -3,10 +3,9 @@ Name = Microsoft Visual C++ 2005 SP1 Redistributable
 Version = 8.0
 License = Unknown
 Description = Needed by applications compiled with Visual Studio 2005. Contains: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
-Size = 2.6 MiB
 Category = 14
 URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=26347
-URLDownload = http://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.EXE
+URLDownload = http://web.archive.org/web/20201112025512/http://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.EXE
 SHA1 = b8fab0bb7f62a24ddfe77b19cd9a1451abd7b847
 CDPath = none
 SizeBytes = 2707352
@@ -14,7 +13,6 @@ SizeBytes = 2707352
 [Section.0407]
 License = Unbekannt
 Description = Benötigt für Visual Studio 2005 basierte Anwendungen. Beinhaltet: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
-Size = 2,6 MiB
 
 [Section.0a]
 License = Desconocida
@@ -23,7 +21,6 @@ Description = Necesario para aplicaciones compiladas con Studio 2005. Incluye: a
 [Section.040c]
 License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2005 SP1. Contient: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
-Size = 2,6 Mio
 
 [Section.0410]
 License = Sconosciuta
@@ -40,17 +37,14 @@ Description = Biblioteki uruchomieniowe Microsoft Visual Studio 2005 SP1. Zawier
 [Section.0418]
 License = Nespecificată
 Description = Pachet necesar pentru aplicațiile compilate cu Visual Studio 2005. Conține: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
-Size = 2,6 Mio
 
 [Section.0419]
 License = Неизвестно
 Description = Необходим для приложений, написанных в Visual Studio 2005. Содержит: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
-Size = 2,6 МиБ
 
 [Section.041f]
 License = Bilinmiyor
 Description = Visual Studio 2005 ile derlenmiş uygulamalar tarafından gereklidir. Şunları içerir: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
-Size = 2,6 MiB
 
 [Section.0422]
 License = Невідома
