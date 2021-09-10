@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = GIMP
 Version = 2.6.12
 License = GPL
