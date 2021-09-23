@@ -2,11 +2,11 @@
 Name = Mypal
 Version = 27.9.4
 License = MPL/GPL/LGPL
-Description = Mypal is a current and maintained Windows XP web browser.
+Description = Mypal is a current but abandoned Windows XP web browser.
 Size = 30.0 MiB
 Category = 5
 URLSite = https://github.com/Feodor2/Mypal
-URLDownload = https://github.com/Feodor2/Mypal27old/releases/download/27.9.4/mypal-27.9.4.win32.installer.exe
+URLDownload = http://web.archive.org/web/20201027061539if_/https://github-production-release-asset-2e65be.s3.amazonaws.com/101912531/abd99812-8ba5-11e8-8e47-ed6300a4147e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20201027%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201027T061539Z&X-Amz-Expires=300&X-Amz-Signature=c58b3c5a71c8ce6ead5a639a881a4d2b7628cbceb60f9af2e98af4aa4da9915b&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=101912531&response-content-disposition=attachment%3B%20filename%3Dmypal-27.9.4.win32.installer.exe&response-content-type=application%2Foctet-stream
 SHA1 = 185ad6bd279d532789a8e890773bc95239273ec4
 CDPath = none
 SizeBytes = 31540445
