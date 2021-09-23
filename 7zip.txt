@@ -6,10 +6,11 @@ Description = A file archiving utility with support for 7zip, zip, tar, rar and 
 Size = 1.1 MiB
 Category = 12
 URLSite = https://www.7-zip.org/
-URLDownload = https://raw.githubusercontent.com/ip7z/a/main/7z1900.exe
+URLDownload = https://www.7-zip.org/a/7z1900.exe
 SHA1 = 2f23a6389470db5d0dd2095d64939657d8d3ea9d
 CDPath = none
 SizeBytes = 1185968
+Icon = 7zip.ico
 
 [Section.amd64]
 URLDownload = http://svn.reactos.org/packages/7z1900-x64.exe
