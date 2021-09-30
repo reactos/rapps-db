@@ -35,7 +35,7 @@ For instance; software from 1C, which is mostly for Russian speakers and unusabl
 
 For a complete file format overview see the [File Schema on the ReactOS wiki](https://reactos.org/wiki/RAPPS#File_Schema)
 
-The mandatory fields are: *Name*, *Category* and *URLDownload*
+The mandatory fields are: *Name*, *Category*, *URLDownload* and *SizeBytes*.
 All other fields are completely optional and can be skipped.
 
 List of valid categories:
