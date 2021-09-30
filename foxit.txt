@@ -3,7 +3,6 @@ Name = Foxit Reader
 Version = 9.1.0
 License = Freeware
 Description = Alternative PDF reader, rivaling Adobe Reader functionality-wise.
-Size = 78.0 MiB
 Category = 6
 URLSite = http://www.foxitsoftware.com/Secure_PDF_Reader/
 URLDownload = https://cdn09.foxitsoftware.com/product/reader/desktop/win/9.1/FoxitReader91_L10N_Setup_Prom.exe
@@ -13,7 +12,6 @@ SizeBytes = 81823328
 [Section.0407]
 Version = 9.1.0
 Description = Alternativer PDF Reader. Neben Adobe Reader der beste PDF Reader.
-Size = 78,0 MiB
 
 [Section.0a]
 Version = 9.1.0
@@ -26,24 +24,20 @@ Description = Alternatywny czytnik PDF, konkurujący funkcjonalnością z Adobe 
 [Section.0418]
 License = Gratuită
 Description = Lector PDF, rivalizând în funcționalitate cu Adobe Reader.
-Size = 78,0 Mio
 
 [Section.0419]
 Version = 9.1.0
 License = Бесплатно
 Description = Бесплатное приложение для просмотра электронных документов в формате PDF.
-Size = 78,0 МиБ
 
 [Section.041f]
 Version = 9.1.0
 License = Ücretsiz
 Description = Alternatif PDF okuyucusu, işlevlilik yöntemi olarak Adobe Reader'le yarışıyor.
-Size = 78,0 MiB
 
 [Section.0425]
 License = Vabavaraline
 Description = Alternatiivne PDF luger, rivaalitseb Adobe Reader'it funktsionaalselt.
-Size = 78,0 MiB
 
 [Section.0804]
 Version = 9.1.0

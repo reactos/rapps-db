@@ -3,7 +3,6 @@ Name = Commander Stalin
 Version = 0.9.5
 License = GPL
 Description = A Soviet-themed real time strategy (RTS) game based on Boswars.
-Size = 261.0 MiB
 Category = 4
 URLSite = http://commanderstalin.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/commanderstalin/commander%20stalin%20version%203/version3/cstalin-0.9.5-win.zip
@@ -12,7 +11,6 @@ SizeBytes = 273683958
 
 [Section.0407]
 Description = Ein "Soviet" Echzeitstrategiespiel basierend auf Boswars.
-Size = 261,0 MiB
 
 [Section.0a]
 Description = Un juego de estrategia en tiempo real con tintes soviéticos.
@@ -22,20 +20,16 @@ Description = "Sowiecka" gra strategiczna czasu rzeczywistego (RTS) oparta na Bo
 
 [Section.0418]
 Description = Joc de strategie în timp real, cu tematică sovietică bazată pe Boswars.
-Size = 261,0 Mio
 
 [Section.0419]
 Description = "Советская" стратегия реального времени основанная на Boswars.
 URLSite = http://commanderstalin.sourceforge.net/cstalin_rus_index.html
-Size = 261,0 МиБ
 
 [Section.041f]
 Description = Boswars tabanlı bir "Sovyet" gerçek zamanlı izlem (RTS) oyunu.
-Size = 261,0 MiB
 
 [Section.0425]
 Description = Nõukogude teemaline RTS mäng Boswars põhjal.
-Size = 261,0 MiB
 
 [Section.0804]
 Description = 一款基于 Boswars 的苏维埃主题的即时战略游戏。

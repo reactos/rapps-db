@@ -3,7 +3,6 @@ Name = Java SE Runtime Environment 7
 Version = 7u80
 License = Oracle Binary Code License
 Description = Platform and libraries needed for running Java-based programs.
-Size = 28.1 MiB
 Category = 14
 URLSite = http://www.oracle.com/technetwork/java/javase/downloads/jre7-downloads-1880261.html
 URLDownload = http://svn.reactos.org/packages/jre-7u80-windows-i586.exe
@@ -13,7 +12,6 @@ Icon = jdk8.ico
 
 [Section.0407]
 Description = Sie wollen Java Programme nutzen? Wenn ja, laden Sie die Java Runtime Environment herunter.
-Size = 28,1 MiB
 
 [Section.0a]
 Description = Plataforma y bibliotecas necesarias para la ejecución de aplicaciones programadas en Java.
@@ -22,25 +20,20 @@ Description = Plataforma y bibliotecas necesarias para la ejecución de aplicaci
 Name = Java SE Runtime Environment 7
 License = Oracle İkili Kod Ruhsatı
 Description = Java programlarını çalıştırmak ister misiniz? Öyleyse Java Runtime Environment'ı indiriniz.
-Size = 28,1 MiB
 
 [Section.0415]
 Description = Platforma i biblioteki potrzebne do uruchamiania programów Java.
-Size = 28,1 MiB
 
 [Section.0418]
 License = Licență Oracle pentru cod binar
 Description = Platformă necesară pentru aplicațiile Java.
-Size = 28,1 Mio
 
 [Section.0419]
 Description = Платформа и библиотеки для запуска java-программ.
-Size = 28,1 МиБ
 
 [Section.0425]
 License = Oracle binaarkoodi litsents
 Description = Vajalikud teegid ja platvorm Java-põhiste programmide rakendamiseks.
-Size = 28,1 MiB
 
 [Section.0804]
 License = Oracle 二进制代码许可

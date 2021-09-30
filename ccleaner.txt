@@ -3,7 +3,6 @@ Name = CCleaner
 Version = 5.62
 License = Freeware
 Description = A decent tool for cleaning temporary files and general computer maintenance.
-Size = 24.2 MiB
 Category = 12
 URLSite = https://www.ccleaner.com/ccleaner
 URLDownload = https://download.ccleaner.com/ccsetup562.exe
@@ -12,7 +11,6 @@ SizeBytes = 25441808
 
 [Section.0407]
 Description = Sehr gutes Bereinigungswerkzeug für den PC.
-Size = 24,2 MiB
 URLSite = https://www.ccleaner.com/de-de/ccleaner
 
 [Section.0a]
@@ -26,23 +24,19 @@ Description = Przyzwoite narzędzie do czyszczenia tymczasowych plików i ogóln
 [Section.0418]
 License = Gratuită
 Description = Utilitar pentru mentenanța ordinii în configurația sistemului.
-Size = 24,2 Mio
 
 [Section.0419]
 License = Бесплатно
 Description = Мощный и простой в использовании инструмент для очистки и оптимизации системы.
-Size = 24,2 МиБ
 URLSite = https://www.ccleaner.com/ru-ru/ccleaner
 
 [Section.041f]
 License = Ücretsiz
 Description = Geçici dosya temizleme ve genel bilgisayar yönetimi için çok iyi bir araç.
-Size = 24,2 MiB
 
 [Section.0425]
 License = Vabavaraline
 Description = Korralik tööriist ajutiste failide puhastamiseks ja üldise arvutihoolduse jaoks.
-Size = 24,2 MiB
 
 [Section.0804]
 License = 免费软件

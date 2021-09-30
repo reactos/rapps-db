@@ -3,7 +3,6 @@ Name = Adobe AIR
 Version = 29.0
 License = Adobe Software Licensing Agreement
 Description = The Adobe AIR runtime enables developers to package the same code into native applications and games.
-Size = 10.3 MiB
 Category = 14
 URLSite = https://get.adobe.com/air/
 URLDownload = https://web.archive.org/web/20180317021711if_/https://airdownload.adobe.com/air/win/download/29.0/AdobeAIRInstaller.exe
@@ -12,7 +11,6 @@ SizeBytes = 10857648
 
 [Section.0407]
 Description = Mithilfe der Adobe AIR-Laufzeit können Entwickler den gleichen Code in native Anwendungen und Spiele einbinden.
-Size = 10,3 MiB
 
 [Section.0415]
 Description = Środowisko wykonawcze Adobe AIR umożliwia programistom integrację tego samego kodu w natywnych aplikacjach i grach.
@@ -20,21 +18,17 @@ Description = Środowisko wykonawcze Adobe AIR umożliwia programistom integracj
 [Section.0418]
 License = Acord de licențiere Adobe Software
 Description = Adobe AIR oferă programatorilor posibilitatea de a încorpora în același pachet aplicații native și jocuri.
-Size = 10,3 Mio
 
 [Section.0419]
 Description = Кроссплатформенная среда от компании Adobe для запуска приложений, позволяющая использовать HTML/CSS, AJAX, Adobe Flash и Apache Flex для переноса веб-приложений (в том числе Rich Internet Application) на ПК и мобильные устройства.
-Size = 10,3 МиБ
 
 [Section.041f]
 License = Adobe Yazılım Ruhsatlama Anlaşması
 Description = Adobe AIR yürütücüsü geliştiricilere aynı kodu özgün uygulamalara ve oyunlara paketlemeye olanak sağlar.
-Size = 10,3 MiB
 
 [Section.0425]
 License = Adobe tarkvara litsentsi leping
 Description = Adobe AIR runtime lubab arendajatel pakkida sama koodi kohalikesse programmidesse ja mängudesse.
-Size = 10,3 MiB
 
 [Section.0804]
 Description = Adobe AIR 运行库允许开发者将同样的代码打包成原生应用及游戏。

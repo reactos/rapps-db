@@ -3,7 +3,6 @@ Name = Mypal
 Version = 27.9.4
 License = MPL/GPL/LGPL
 Description = Mypal is a current but abandoned Windows XP web browser.
-Size = 30.0 MiB
 Category = 5
 URLSite = https://www.mypal-browser.org/
 URLDownload = https://archive.org/download/mypal-27.9.4.win32.installer/mypal-27.9.4.win32.installer.exe

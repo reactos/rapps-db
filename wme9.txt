@@ -3,7 +3,6 @@ Name = Windows Media Encoder 9
 Version = 9.0
 License = Unknown
 Description = Convert and broadcast audio and video in Windows Media formats.
-Size = 9.5 MiB
 Category = 14
 URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=17792
 URLDownload = https://people.ok.ubc.ca/mberger/MiscSW/WMEncoder.exe
@@ -13,7 +12,6 @@ SizeBytes = 9918872
 [Section.0407]
 License = Unbekannt
 Description = Konvertieren und Broadcast von Audio und Video im Windows Media Format.
-Size = 9,5 MiB
 
 [Section.0a]
 License = Desconocida
@@ -21,7 +19,6 @@ Description = Convierte y emite audio y vídeo en los formatos de Windows Media.
 
 [Section.040c]
 License = Inconnue
-Size = 9,5 Mio
 
 [Section.0410]
 License = Sconosciuta
@@ -36,12 +33,10 @@ Description = Konwertuj i transmituj audio i wideo w formatach Windows Media.
 [Section.0418]
 License = Nespecificată
 Description = Program de conversie și difuziune de conținut audio și video în formaturi Windows Media.
-Size = 9,5 Mio
 
 [Section.0419]
 License = Неизвестно
 Description = Утилита для захвата видео с помощью соответствующего устройства и преобразования его в другие форматы.
-Size = 9,5 МиБ
 
 [Section.041b]
 Description = Neznáma
@@ -49,7 +44,6 @@ Description = Neznáma
 [Section.041f]
 License = Bilinmiyor
 Description = Windows Media biçimlerinde ses ve video dönüştürür ve yayımlar.
-Size = 9,5 MiB
 
 [Section.0422]
 License = Невідома

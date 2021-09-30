@@ -3,7 +3,6 @@ Name = TortoiseGit
 Version = 1.8.16.0
 License = GPL
 Description = Graphical shell interface to Git, based on TortoiseSVN, for code synchronization/updating.
-Size = 15.6 MiB
 Category = 7
 URLSite = https://tortoisegit.org/
 URLDownload = https://download.tortoisegit.org/tgit/1.8.16.0/TortoiseGit-1.8.16.0-32bit.msi
@@ -12,7 +11,6 @@ SizeBytes = 16433152
 
 [Section.040c]
 Description = Interface graphique de shell pour Git, basée sur TortoiseSVN.
-Size = 15,6 Mio
 
 [Section.0a]
 Description = Una interfaz gráfica para Git, basada en TortoiseSVN, para la actualización/sincronización de código.

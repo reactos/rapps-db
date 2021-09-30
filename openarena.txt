@@ -3,7 +3,6 @@ Name = OpenArena
 Version = 0.8.8
 License = GPL
 Description = A community-produced deathmatch FPS game based on GPL idTech3 technology.
-Size = 405.5 MiB
 Category = 4
 URLSite = http://www.openarena.ws/
 URLDownload = http://download.tuxfamily.org/openarena/rel/088/openarena-0.8.8.zip
@@ -15,22 +14,18 @@ Description = Un juego FPS creado por la comunidad basado en la tecnología GPL 
 
 [Section.0407]
 Description = Ein Community-produziertes Deathmatch-FPS-Spiel basierend auf GPL idTech3 Technologie.
-Size = 405,5 MiB
 
 [Section.0415]
 Description = Gra FPS deathmatch tworzona przez jej społeczność, bazujaca na otwartym silniku idTech3.
 
 [Section.0418]
 Description = Joc FPS de tip duel în grup, produs de comunitate, bazat pe tehnologia GPL idTech3.
-Size = 405,5 Mio
 
 [Section.0419]
 Description = Свободный трёхмерный шутер от первого лица, созданный на базе движка Quake III Arena.
-Size = 405,5 МиБ
 
 [Section.041f]
 Description = GPL idTech3 teknolojisi tabanlı, topluluk üretimi, ölüm karşılaşmalı bir FPS oyunudur.
-Size = 405,5 MiB
 
 [Section.0804]
 Description = 基于 GPL idTech3 技术的由社区制作的死亡竞赛 FPS 游戏。

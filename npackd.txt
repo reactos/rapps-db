@@ -3,7 +3,6 @@ Name = Npackd
 Version = 1.23.2
 License = GPLv3
 Description = Npackd (pronounced "unpacked") is a GPLv3 licensed installer/application store/package manager/marketplace for applications for Windows.
-Size = 8.1 MiB
 Category = 5
 URLSite = http://npackd.appspot.com
 URLDownload = https://github.com/tim-lebedkov/npackd-cpp/releases/download/version_1.23.2/Npackd32-1.23.2.msi
@@ -15,22 +14,17 @@ Description = Npackd es un gestor de paquetes, tienda de aplicaciones, instalado
 
 [Section.0407]
 Description = Leistungsstarke Paketverwaltung, bietet die Installation von Software in verschiedenen Versionen an.
-Size = 8,1 MiB
 
 [Section.040c]
-Size = 8,1 Mio
 
 [Section.0415]
 Description = Menedżer pakietów i instalator aplikacji dla systemów Windows.
 
 [Section.0418]
-Size = 8,1 Mio
 
 [Section.0419]
-Size = 8,1 МиБ
 
 [Section.041f]
-Size = 8,1 MiB
 Description = Npackd (önceki adı "unpacked") Windows uygulamaları için bir GPL sürüm 3 lisanslı yükleyici, uygulama mağazası, paket yöneticisidir, ve pazar yeridir.
 
 [Section.0804]

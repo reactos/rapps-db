@@ -3,7 +3,6 @@ Name = Python 3
 Version = 3.4.4
 License = GPL/LGPL
 Description = A remarkably powerful dynamic programming language.
-Size = 23.7 MiB
 Category = 7
 URLSite = http://www.python.org/
 URLDownload = https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi
@@ -12,14 +11,12 @@ SizeBytes = 24932352
 
 [Section.0407]
 Description = Sehr mächtige, dynamische Programmiersprache.
-Size = 23,7 MiB
 
 [Section.0a]
 Description = Un lenguaje de programación dinámico sumamente potente.
 
 [Section.040c]
 Description = Un langage de programmation dynamique remarquablement puissant.
-Size = 23,7 Mio
 
 [Section.0410]
 Description = Un Linguaggio di programmazione dinamico e potente.
@@ -32,15 +29,12 @@ Description = Niezwykle potężny dynamiczny język programowania.
 
 [Section.0418]
 Description = Limbaj de programare dinamic și puternic.
-Size = 23,7 Mio
 
 [Section.0419]
 Description = Удивительно мощный динамический язык программирования.
-Size = 23,7 МиБ
 
 [Section.041f]
 Description = Dikkat çekici, güçlü ve dinamik bir programlama dili.
-Size = 23,7 MiB
 
 [Section.0422]
 Description = Дуже потужна динамічна мова програмування.

@@ -3,7 +3,6 @@ Name = Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint File 
 Version = 4
 License = Unknown
 Description = Needed to open *.docx, *.xlsx, etc on Word/Excel Viewer and Office 2003.
-Size = 37.0 MiB
 Category = 6
 URLSite = https://web.archive.org/web/20161014203343if_/http://www.microsoft.com/en-us/download/details.aspx?id=3
 URLDownload = https://web.archive.org/web/20180403110858if_/http://download.microsoft.com/download/9/2/2/9222D67F-7630-4F49-BD26-476B51517FC1/FileFormatConverters.exe
@@ -17,13 +16,11 @@ Description =  Paquete necesario para poder abrir los *.docx, *.xlsx, etc en el 
 [Section.0407]
 License = Unbekannt
 Description = Wird zum Öffnen von *.docx, *.xlsx, etc unter Word/Excel Viewer und Office 2003 benötigt.
-Size = 37,0 MiB
 
 [Section.0415]
 Name = Pakiet kompatybilności Microsoft Office dla formatów plików Word, Excel i PowerPoint.
 License = Nieznana
 Description = Potrzebne do otwarcia plików *.docx, *.xlsx, itp. w programach Word/Excel Viewer i Office 2003.
-Size = 37,2 MiB
 URLDownload = https://web.archive.org/web/20180219221248if_/http://download.microsoft.com/download/7/8/f/78f25e6d-7ac3-4003-88c3-e7db2837caef/FileFormatConverters.exe
 SHA1 = e8462e2b4fc49a8b86b4a0f93fec3a36b2cbfe2e
 SizeBytes = 39057384
@@ -32,13 +29,11 @@ SizeBytes = 39057384
 Name = Pachet de compatibilitate pentru Microsoft Office
 License = Nespecificată
 Description = Pachet pentru suita de aplicații Microsoft Office 2003, necesar pentru a deschide formaturile de fișiere *.docx, *.xlsx, etc.
-Size = 37,0 Mio
 
 [Section.0419]
 Name = Пакет обеспечения совместимости Microsoft Office для форматов файлов Word, Excel и PowerPoint
 License = Неизвестно
 Description = Нужен, для открытия файлов *.docx, *.xlsx, и т.д. в Word/Excel Viewer и Office 2003.
-Size = 37,2 МиБ
 URLSite = https://web.archive.org/web/20180413033831if_/http://www.microsoft.com/ru-RU/download/details.aspx?id=3
 URLDownload = https://web.archive.org/web/20170227131908if_/http://download.microsoft.com/download/b/c/4/bc41c3a1-c243-4440-a771-8260515e4cc7/FileFormatConverters.exe
 SHA1 = 03908a853cbdb39a026fa99687c6e243d1888b1f
@@ -48,13 +43,11 @@ SizeBytes = 38986320
 Name = Word, Excel ve PowerPoint Dosya Biçimleri İçin Microsoft Office Uyumluluk Paketi
 License = Bilinmiyor
 Description = Word ve Excel Viewer'lar ve Office 2003 üzerinde *.docx, *.xlsx ve benzerlerini açmak için gerekli.
-Size = 37,0 MiB
 
 [Section.0804]
 Name = Word、Excel 和 PowerPoint 文件格式适用的 Microsoft Office 兼容包
 License = 未知
 Description = 在 Word/Excel Viewer 和 Office 2003 上打开 *.docx、*.xlsx 等格式时需要它。
-Size = 37.2 MiB
 URLSite = https://web.archive.org/web/20171019174544if_/http://www.microsoft.com:80/zh-cn/download/details.aspx?id=3
 URLDownload = https://web.archive.org/web/20131228135748if_/http://download.microsoft.com/download/6/5/6/6568c67b-822d-4c51-bf3f-c6cabb99ec02/FileFormatConverters.exe
 SHA1 = 4e66e305aac7e9b9b4e72612f24d8b02c176ea90

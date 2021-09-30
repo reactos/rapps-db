@@ -3,7 +3,6 @@ Name = Neverball
 Version = 1.6.0
 License = GPLv2
 Description = Tilt the floor to roll a ball through an obstacle course before time runs out. Neverball is part puzzle game, part action game, and entirely a test of skill.
-Size = 72.3 MiB
 Category = 4
 URLSite = http://neverball.org/
 URLDownload = http://neverball.org/neverball-1.6.0.zip
@@ -12,19 +11,15 @@ SizeBytes = 75802818
 
 [Section.0407]
 Description = Neigen Sie den Boden, um einen Ball durch einen Hindernisparcours zu rollen, bevor die Zeit abläuft. Neverball ist teils ein Puzzle-Spiel, teils ein Action-Spiel und ganz ein Test der Geschicklichkeit.
-Size = 72,3 MiB
 
 [Section.0415]
 Description = Przechyl podłogę, aby przetoczyć piłkę przez tor przeszkód, zanim skończy się czas. Neverball to gra akcji z elementami logicznymi, która sprawdzi twoje umiejętności.
-Size = 72,3 MiB
 
 [Section.0418]
 Description = Joc în parte de tip enigmă, în parte de tip acțiune, și un test de aptitudine per total.
-Size = 72,3 Mio
 
 [Section.0419]
 Description = Компьютерная игра-платформер, в которой игрок управляет мячом путём наклона опорной конструкции в трёхмерном пространстве. Для перехода на следующий уровень нужно открыть цель, собрав для этого определённое количество монет (очков), и попасть в неё мячом.
-Size = 72,3 МиБ
 
 [Section.0a]
 Description = Gira el suelo para mover una bola a través de una pista de obstáculos a contra reloj. Neverball es mitad puzle, mitad juego de acción y toda una prueba de habilidad.
@@ -32,7 +27,6 @@ Description = Gira el suelo para mover una bola a través de una pista de obstá
 [Section.041f]
 License = GPL sürüm 2
 Description = Süre bitmeden önce bir engel gidişi boyunca bir topu yuvarlamak için odayı eğiniz. Neverball, tikelik bulmaca oyunu, tikelik devingen oyun ve büsbütün bir ustalık sınamasıdır.
-Size = 72,3 MiB
 
 [Section.0804]
 Description = 倾斜地板来使小球在规定时间内绕过障碍物。Neverball 一款是半解密半动作游戏，也是一种对技巧的考验。

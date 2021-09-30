@@ -3,7 +3,6 @@ Name = FreeMat
 Version = 4.2
 License = GPLv2
 Description = A free environment for rapid engineering and scientific prototyping and data processing.
-Size = 49.8 MiB
 Category = 11
 URLSite = http://freemat.sf.net
 URLDownload = http://download.sourceforge.net/project/freemat/FreeMat4/FreeMat-4.2-setup-32bit-xpcompat.exe
@@ -12,27 +11,22 @@ SizeBytes = 52264419
 
 [Section.0407]
 Description = Eine freie Umgebung für schnelle technische und wissenschaftliche Prototyping und Datenverarbeitung.
-Size = 49,8 MiB
 
 [Section.0415]
 Description = Wolne środowisko dla szybkiego, technicznego i naukowego prototypowania i przetwarzania danych.
 
 [Section.0418]
 Description = Mediu gratuit pentru facilizarea prototipizării și prelucrării de date în inginerie și știință.
-Size = 49,8 Mio
 
 [Section.0419]
 Description = Бесплатная среда для быстрой инженерной и научной обработки данных.
-Size = 49,8 МиБ
 
 [Section.041f]
 License = GPL sürüm 2
 Description = Hızlı mühendislik, bilimlik ilk örnekleme ve veri işleme için özgür bir ortam.
-Size = 49,8 MiB
 
 [Section.0425]
 Description = Tasuta keskkond kiire inseneri- ja teaduslik prototüüpimise ja andmetöötluse jaoks.
-Size = 49,8 MiB
 
 [Section.0804]
 Description = 一个免费的快速工程、科学原型设计及数据处理的环境。

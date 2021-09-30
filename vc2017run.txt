@@ -3,7 +3,6 @@ Name = Microsoft Visual C++ 2017 Redistributable
 Version = 14.16.27033
 License = Unknown
 Description = Needed by applications compiled with Visual Studio 2015/2017. Contains: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
-Size = 13.9 MiB
 Category = 14
 URLDownload = https://aka.ms/vs/15/release/vc_redist.x86.exe
 SHA1 = 3ee9622151e4b50837fcdfac1b085430f0181f4e
@@ -12,7 +11,6 @@ SizeBytes = 14656504
 [Section.0407]
 License = Unbekannt
 Description = Benötigt für Visual Studio 2015/2017 basierte Anwendungen. Beinhaltet: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
-Size = 13,9 MiB
 
 [Section.0a]
 License = Desconocida
@@ -21,7 +19,6 @@ Description = Necesario para aplicaciones compiladas con Visual Studio 2015/2017
 [Section.040c]
 License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2015/2017. Contient: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
-Size = 13,9 Mio
 
 [Section.0410]
 License = Sconosciuta
@@ -38,17 +35,14 @@ Description = Biblioteki uruchomieniowe Microsoft Visual Studio 2015/2017. Zawie
 [Section.0418]
 License = Nespecificată
 Description = Pachet necesar pentru aplicațiile compilate cu Visual Studio 2015/2017. Conține: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
-Size = 13,9 Mio
 
 [Section.0419]
 License = Неизвестно
 Description = Необходим для приложений, написанных в Visual Studio 2015/2017. Содержит: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
-Size = 13,9 МиБ
 
 [Section.041f]
 License = Bilinmiyor
 Description = Visual Studio 2015/2017 ile derlenmiş uygulamalar tarafından gereklidir. Şunları içerir: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
-Size = 13,9 MiB
 
 [Section.0422]
 License = Невідома

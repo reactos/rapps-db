@@ -3,7 +3,6 @@ Name = VisualBoyAdvance (SDL version)
 Version = 1.7.2
 License = GPL
 Description = An emulator for Gameboy and GameboyAdvance systems.
-Size = 438.9 KiB
 Category = 4
 URLSite = http://sourceforge.net/projects/vba/
 URLDownload = http://download.sourceforge.net/project/vba/VisualBoyAdvance/1.7.2/VisualBoyAdvance-1.7.2-SDL-Win32.zip
@@ -12,7 +11,6 @@ SizeBytes = 449393
 
 [Section.0407]
 Description = Ein Gameboy und Gameboy Advance System Emulator.
-Size = 438,9 KiB
 
 [Section.0415]
 Description = Emulator systemów Game Boy i Game Boy Advance.
@@ -20,17 +18,14 @@ Description = Emulator systemów Game Boy i Game Boy Advance.
 [Section.0418]
 Name = VisualBoyAdvance (versiune SDL)
 Description = Un emulator pentru sistemele Gameboy și GameboyAdvance.
-Size = 438,9 Kio
 
 [Section.0419]
 Name = VisualBoyAdvance (SDL версия)
 Description = Эмулятор Gameboy и систем GameboyAdvance.
-Size = 438,9 КиБ
 
 [Section.041f]
 Name = VisualBoyAdvance (SDL sürümü)
 Description = Gameboy ve GameboyAdvance sistemleri için bir öykünücü.
-Size = 438,9 KiB
 
 [Section.0804]
 Description = 一个 Gameboy 和 GameboyAdvance 系统的模拟器。

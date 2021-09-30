@@ -3,7 +3,6 @@ Name = Audio Grabber
 Version = 1.83 SE
 License = Freeware
 Description = A very good CD Ripper/Audio File Converter.
-Size = 3.2 MiB
 Category = 1
 URLSite = http://www.audiograbber.de/
 URLDownload = http://rsteinbu.myonlineportal.org/downloads/freeware/Multimedia/Audiograbber%201.8x/agsetup183se.exe
@@ -12,7 +11,6 @@ SizeBytes = 3349460
 
 [Section.0407]
 Description = Sehr guter CD-Ripper/Audio-Datei-Konverter.
-Size = 3,2 MiB
 
 [Section.0410]
 Description = Un buon CD Ripper/Convertitore di file Audio.
@@ -22,7 +20,6 @@ Description = Un buen extractor de pistas de CDs de música y conversor de archi
 
 [Section.040c]
 Description = Un très bon extracteur de CD/convertisseur de fichier audio.
-Size = 3,2 Mio
 
 [Section.0413]
 Description = Een goede CD Ripper/Audio-bestandsomzetter.
@@ -33,16 +30,13 @@ Description = Bardzo dobry CD Ripper/konwerter plików audio.
 [Section.0418]
 License = Gratuită
 Description = Program de extragere conținuturi CD audio și de conversie a fișierelor de sunet.
-Size = 3,2 Mio
 
 [Section.0419]
 Description = Программа, предназначенная для копирования аудиотреков в цифровой формат.
-Size = 3,2 МиБ
 
 [Section.041f]
 License = Ücretsiz
 Description = Çok iyi bir CD kaydedicisi ve ses dosyası dönüştürücüsü.
-Size = 3,2 MiB
 
 [Section.0422]
 Description = Чудовий CD Ріппер/Конвертер аудіо файлів.
@@ -50,7 +44,6 @@ Description = Чудовий CD Ріппер/Конвертер аудіо фа�
 [Section.0425]
 Description = Väga hea CD rippija/helifaili muundur.
 License = Vabavara
-Size = 3,2 MiB
 
 [Section.0804]
 License = 免费软件

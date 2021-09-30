@@ -3,7 +3,6 @@ Name = Pingus
 Version = 0.7.6
 License = GPL
 Description = A free Lemmings-like puzzle game.
-Size = 15.8 MiB
 Category = 4
 URLSite = http://pingus.seul.org
 URLDownload = https://github.com/Pingus/downloads/raw/master/Pingus-0.7.6.exe
@@ -12,7 +11,6 @@ SizeBytes = 16569464
 
 [Section.0407]
 Description = Freies Lemmings-ähnliches Puzzle Spiel.
-Size = 15,8 MiB
 
 [Section.0a]
 Description = Un juego de puzzles parecido a los Lemmings.
@@ -25,15 +23,12 @@ Description = Pingus to darmowa gra logiczna podobna do gry Lemmings
 
 [Section.0418]
 Description = Joc-enigmă asemănător cu „Lemmings”.
-Size = 15,8 Mio
 
 [Section.0419]
 Description = Бесплатная игра-головоломка.
-Size = 15,8 МиБ
 
 [Section.041f]
 Description = Ücretsiz, Lemmings gibi bir bulmaca oyunudur.
-Size = 15,8 MiB
 
 [Section.0804]
 Description = 一个免费的类似 Lemmings 解谜游戏。

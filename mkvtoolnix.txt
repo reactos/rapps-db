@@ -3,7 +3,6 @@ Name = MkvToolnix
 Version = 10.0.0
 License = GPL
 Description = Set of tools for working with MKV format files.
-Size = 14.7 MiB
 Category = 2
 URLSite = https://www.bunkus.org/
 URLDownload = https://mkvtoolnix.download/windows/releases/10.0.0/mkvtoolnix-32bit-10.0.0-setup.exe
@@ -15,23 +14,18 @@ Description = Set de herramientas para trabajar los archivos con formato MKV.
 
 [Section.0407]
 Description = Sammlung von Werkzeugen zum Bearbeiten von MKV Dateien.
-Size = 14,7 MiB
 
 [Section.0415]
 Description = Narzędzia do pracy z plikami w formacie MKV.
-Size = 14,7 MiB
 
 [Section.0418]
 Description = Grup de instrumente pentru formatul de fișiere MKV.
-Size = 14,7 Mio
 
 [Section.0419]
 Description = Набор инструментов для работы с файлами формата mkv.
-Size = 14,7 МиБ
 
 [Section.041f]
 Description = MKV biçiminde dosyalarla çalışma için araç takımı.
-Size = 14,7 MiB
 
 [Section.0804]
 Description = 处理 MKV 格式文件的套件。

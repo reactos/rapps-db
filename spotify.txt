@@ -3,7 +3,6 @@ Name = Spotify
 Version = 1.0.29.92
 License = Freeware
 Description = Spotify is one of the most popular services for streaming music and includes both a free and paid plan. The Spotify client has dropped support for XP, but this archived version still supports it.
-Size = 47.7 MB MiB
 Category = 1
 URLSite = https://www.spotify.com/us/
 URLDownload = https://archive.org/download/SpotifyFullSetup1.0.29.92/SpotifyFullSetup1.0.29.92.exe

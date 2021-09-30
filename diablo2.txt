@@ -3,7 +3,6 @@ Name = Diablo II (Shareware)
 Version = 1.4
 License = Shareware
 Description = Demo version of the game. Zeckensack's Glide wrapper is required to run it.
-Size = 131.9 MiB
 Category = 4
 URLSite = http://www.blizzard.com/diablo2/
 URLDownload = https://bitbucket.org/Swyter/tld-downloads/downloads/diabloiidemo.exe
@@ -12,14 +11,12 @@ SizeBytes = 138309685
 
 [Section.0407]
 Description = Zeckensacks Glide Wrapper wird zum Ausführen benötigt.
-Size = 131,9 MiB
 
 [Section.0a]
 Description = Versión de demostración. El adaptador de compatibilidad para Glide de Zeckensack es necesario para poder ejecutar el juego.
 
 [Section.040c]
 Description = Zeckensack's Glide wrapper est requis pour le faire tourner.
-Size = 131,9 Mio
 
 [Section.0410]
 Description = Zeckensack's Glide wrappe è richiesto per avviarlo.
@@ -33,18 +30,15 @@ Description = Do poprawnego działania wymagany jest zainstalowany Zeckensacks G
 [Section.0418]
 License = Versiune de evaluare
 Description = Pentru execuție este necesar (pachetul) Zeckensack's Glide wrapper.
-Size = 131,9 Mio
 
 [Section.0419]
 License = Условно-бесплатно
 Description = Демо-версия игры. Для запуска необходимо наличие Zeckensacks Glide Wrapper.
-Size = 131,9 МиБ
 
 [Section.041f]
 Name = Diablo II (Paylaşımlı)
 License = Paylaşımlı
 Description = Oyunun tanıtım sürümü. Çalıştırmak için Zeckensack'ın Glide wrapper'ı gereklidir.
-Size = 131,9 MiB
 
 [Section.0422]
 Description = Для запуску потрібен Zeckensack's Glide wrapper.
@@ -53,7 +47,6 @@ Description = Для запуску потрібен Zeckensack's Glide wrapper.
 Name = Diablo II (Jaosvara)
 License = Jaosvara
 Description = Prooviversioon mängust. Zeckensacki Glide pakendit on vaja selle rakendamiseks.
-Size = 131,9 MiB
 
 [Section.0804]
 License = 共享软件

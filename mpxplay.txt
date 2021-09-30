@@ -3,7 +3,6 @@ Name = Mpxplay
 Version = 1.60b
 License = GPL
 Description = A 32-bit console audio player for Windows.
-Size = 525.3 KiB
 Category = 1
 URLSite = http://mpxplay.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/mpxplay/Mpxplay/Mpxplay%20v1.60%20final/mpxp160w.zip
@@ -12,7 +11,6 @@ SizeBytes = 537943
 
 [Section.0407]
 Description = Konsolenbasierter 32-bit Audio Player für Windows.
-Size = 525,3 KiB
 
 [Section.0a]
 Description = Un reproductor de audio en consola de 32-bit.
@@ -25,15 +23,12 @@ Description = Mpxplay to 32 bitowy odtwarzacz audio (działający w konsoli) dla
 
 [Section.0418]
 Description = Lector audio de tip consolă, pe 32-biți pentru Windows.
-Size = 525,3 Kio
 
 [Section.0419]
 Description = Mpxplay - 32-разрядный консольный аудиоплеер для Windows.
-Size = 525,3 КиБ
 
 [Section.041f]
 Description = Windows için, 32 bitlik, konsolluk bir ses oynatıcısıdır.
-Size = 525,3 KiB
 
 [Section.0804]
 Description = Windows 32 位控制台音频播放器。

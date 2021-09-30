@@ -3,7 +3,6 @@ Name = WinBoard
 Version = 4.8.0
 License = GPLv3
 Description = A graphical chessboard for the Windows/ReactOS that can serve as a user interface for GNU Chess, Crafty, and other chess engines, for the Internet chess servers, and for electronic mail correspondence chess.
-Size = 2.4 MiB
 Category = 4
 URLSite = http://hgm.nubati.net
 URLDownload = http://hgm.nubati.net/WinBoard-4.8.0.exe
@@ -12,14 +11,12 @@ SizeBytes = 2551668
 
 [Section.0407]
 Description = Grafisches Schachbrett für Windows/ReactOS welches als Nutzerinterface für GNU Chess, Crafty oder andere Schachprogramme, für Internet Schachserver und für Briefschach dient.
-Size = 2,4 MiB
 
 [Section.0a]
 Description = Tablero de ajedrez para Windows/ReactOS que puede ser utilizado como interfaz para GNU Chess, Crafty, y otros motores de ajedrez, para servidores de ajedrez en internet, así como para partidas por correo electrónico.
 
 [Section.040c]
 Description = WinBoard est un jeu d'échec graphique pour Windows/ReactOS qui peut servir d'interface utilisateur pour GNU Chess, Crafty et d'autres moteurs d'échecs, pour les serveurs d'échec internet et pour le jeu d'échec par courriel.
-Size = 2,4 Mio
 
 [Section.0410]
 Description = WinBoard è una interfaccia grafica per motori scacchistici per Windows/ReactOS  può servire come interfaccia utente per GNU Chess, Crafty, e altri motori di scacchi, scacchi per i server di Internet, e per gli scacchi di posta elettronica.
@@ -32,16 +29,13 @@ Description = Graficzna szachownica dla systemu Windows/ReactOS, która może s�
 
 [Section.0418]
 Description = WinBoard este o tablă de șah grafică pentru Windows/ReactOS ce poate servi ca interfață pentru GNU Chess, Crafty, sau alte motoare de șah, pentru servere de șah din Internet, sau pentru corespondență poștală de șah.
-Size = 2,4 Mio
 
 [Section.0419]
 Description = Графическая шахматная доска для Windows/ReactOS, которая может служить интерфейсом пользователя для GNU Chess, Crafty и других шахматных движков, игровых интернет серверов, электронной почты, переписке в шахматы.
-Size = 2,4 МиБ
 
 [Section.041f]
 License = GPL sürüm 3
 Description = İnternet satranç sunucularına ve postayla yazışmalı satranca GNU Chess, Crafty ve başka satranç motorlarını bir kullanıcı arayüzü olarak sunabilen, Windows/ReactOS için bir çizgelik satranç tahtasıdır.
-Size = 2,4 MiB
 
 [Section.0422]
 Description = Графічна шахматна дошка для Windows/ReactOS, що може слугувати графічним інтерфейсом для GNU Chess, Crafty, та інших шахматних двигунів, для серверів інтернет-шахмат та для шахматної переписки по е-мейл.

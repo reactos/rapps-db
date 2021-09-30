@@ -3,7 +3,6 @@ Name = Far Manager
 Version = 3.0 build 5200
 License = rBSD
 Description = An open source, console based file manager with two panels side by side.
-Size = 10.2 MiB
 Category = 12
 URLSite = https://www.farmanager.com/
 URLDownload = https://www.farmanager.com/files/Far30b5200.x86.20180502.msi
@@ -12,28 +11,23 @@ SizeBytes = 10739712
 
 [Section.0407]
 Description = Quelloffener, konsolenbasierter Dateimanager mit zwei nebeneinander liegenden Panels.
-Size = 10,2 MiB
 
 [Section.0415]
 Description = Otwartoźródłowy, tekstowy menedżer plików z dwoma panelami obok siebie.
 
 [Section.0418]
 Description = Gestionar (cu surse deschise) de fișiere de tip consolă textuală, după modelul paneluri-alăturate.
-Size = 10,2 Mio
 
 [Section.0419]
 Description = Двухпанельный консольный менеджер файлов
-Size = 10,2 МиБ
 
 [Section.041f]
 Version = 3.0 yapı 4700
 Description = Yan yana iki bölmeli, açık kaynak konsol tabanlı bir dosya yöneticisi.
-Size = 10,2 MiB
 
 [Section.0425]
 Version = 3.0 ehitis 5200
 Description = Avatud lähtekoodiga konsoolipõhine failihaldur kahe kõrvuti paneeliga.
-Size = 10,2 MiB
 
 [Section.0804]
 Description = 一款开源的拥有两个并排面板的基于控制台的文件管理器。

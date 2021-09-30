@@ -3,7 +3,6 @@ Name = QEMU
 Version = 1.5.50
 License = GPL v2
 Description = An open source and very fast machine emulator/virtualizer. It can emulate processors based on many various architectures (eg. x86, ARM, MIPS, PowerPC). Run with "-display sdl" flag to avoid the display glitches.
-Size = 13.2 MiB
 Category = 16
 URLSite = https://www.qemu.org/
 URLDownload = https://qemu.weilnetz.de/w32/2013/qemu-w32-setup-20130627.exe
@@ -12,7 +11,6 @@ SizeBytes = 13938504
 
 [Section.0415]
 Description = Otwartoźródłowy i bardzo szybki emulator/virtualizer maszyny. Potrafi emulować procesory bazujące na wielu różnych architekturach (np. x86, ARM, MIPS, PowerPC). Uruchom z opcją "-display sdl", aby zapobiec błędom w wyświetlaniu.
-Size = 13,2 MiB
 
 [Section.0804]
 Description = 一款开源、快速的模拟器/虚拟机。它可以模拟基于多种架构的处理器（比如 x86、ARM、MIPS、PowerPC）。运行程序时加上 “-display sdl” 参数可避免显示错误。

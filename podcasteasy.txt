@@ -3,7 +3,6 @@ Name = Podcast Easy
 Version = 0.9.1
 License = Public domain
 Description = Application for downloading podcasts.
-Size = 696 KiB
 Category = 5
 URLSite = http://r57zone.github.io
 URLDownload = https://github.com/r57zone/Podcast-Easy-for-Windows/releases/download/0.9/Podcast.Easy.0.9.1.setup.exe
@@ -15,22 +14,18 @@ Description = Programa para descargar podcasts.
 
 [Section.0407]
 Description = Anwendung zum Herunterladen von Podcasts.
-Size = 696 KiB
 
 [Section.0415]
 Description = Aplikacja do pobierania podcastów.
 
 [Section.0418]
 Description = Aplicație pentru descărcarea de fișiere audio.
-Size = 696 Kio
 
 [Section.0419]
 Description = Приложение для загрузки подкастов.
-Size = 696 КиБ
 
 [Section.041f]
 Description = Ortam akışlarını indirmek için uygulama.
-Size = 696 KiB
 
 [Section.0804]
 License = 公有软件

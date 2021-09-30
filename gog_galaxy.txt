@@ -3,7 +3,6 @@ Name = GOG Galaxy
 Version = 1.1.15.13
 License = Freeware
 Description =  The gaming Client designed for a convenient purchasing, playing and updating games, as well as an online play between gaming platforms, GOG Galaxy is also built with optionality in mind, and a belief that you should own the games you buy. DRM-free!
-Size = 139 MiB
 Category =  4
 URLSite = https://www.gog.com/galaxy
 URLDownload = https://svn.reactos.org/packages/setup_galaxy_1.1.15.13.exe
@@ -16,7 +15,6 @@ Description = El cliente gaming diseñado para una conveniente venta, juego y ac
 [Section.0419]
 License = Бесплатно
 Description = Клиет для игровой платформы GOG Galaxy
-Size = 139 МиБ
 
 [Section.0425]
 License = Vabavara

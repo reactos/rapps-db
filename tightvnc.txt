@@ -3,7 +3,6 @@ Name = TightVNC
 Version = 2.8.11
 License = GPLv2
 Description = A free remote control software package.
-Size = 2.0 MiB
 Category = 5
 URLSite = http://www.tightvnc.com/
 URLDownload = https://www.tightvnc.com/download/2.8.11/tightvnc-2.8.11-gpl-setup-32bit.msi
@@ -12,23 +11,19 @@ SizeBytes = 2080768
 
 [Section.0407]
 Description = Freies Fernbedienungsoftwarepaket.
-Size = 2,0 MiB
 
 [Section.041f]
 License = GPL sürüm 2
 Description = Ücretsiz bir uzaktan denetim yazılımı paketi.
-Size = 2,0 MiB
 
 [Section.0415]
 Description = Darmowe oprogramowanie do zdalnej kontroli.
 
 [Section.0418]
 Description = Program gratuit de control la distanță.
-Size = 2,0 Mio
 
 [Section.0419]
 Description = Бесплатный пакет программного обеспечения для удаленного управления.
-Size = 2,0 МиБ
 
 [Section.0804]
 Description = 一套免费的远程控制软件。
