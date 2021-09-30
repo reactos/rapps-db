@@ -6,6 +6,7 @@ COPYRIGHT:   Copyright 2020,2021 Mark Jansen <mark.jansen@reactos.org>
 '''
 import os
 import sys
+from enum import Enum, unique
 
 # TODO: make this even nicer by using https://github.com/pytorch/add-annotations-github-action
 
@@ -16,13 +17,11 @@ ALL_KEYS = [
     b'Version',
     b'License',
     b'Description',
-    b'Size',
     b'Category',
     b'URLSite',
     b'URLDownload',
     b'SHA1',
     b'SizeBytes',
-    b'SizeInBytes',
     b'Icon',
     b'Screenshot1',
     b'LicenseInfo',
@@ -41,6 +40,13 @@ ALL_ARCH = [
 
 
 HEXDIGITS = b'0123456789abcdef'
+
+
+@unique
+class LineType(Enum):
+    Section = 1
+    KeyValue = 2
+    Comment = 3
 
 
 class Reporter:
@@ -64,6 +70,19 @@ class RappsLine:
         self._lineno = lineno
         self._text = text
         self._last_col = len(self._text.rstrip())
+        self.key = None
+        self._entries = []
+
+    def add(self, line):
+        # Cannot add keyvalues if this is a keyvalue!
+        assert not self.key
+        self._entries.append(line)
+
+    def __getitem__(self, key):
+        for entry in self._entries:
+            if entry.key == key:
+                return entry
+        return None
 
     def parse(self, reporter):
         if not self._text.endswith(b'\r\n'):
@@ -72,11 +91,13 @@ class RappsLine:
         first = parts[0]
         if first.startswith(b';') or (len(parts) == 1 and len(first) == 0):
             # comment or empty line, no further processing required!
-            pass
+            return LineType.Comment
         elif len(parts) == 1:
             self._parse_section(reporter, first)
+            return LineType.Section
         else:
             self._parse_key_value(reporter, parts)
+            return LineType.KeyValue
 
     def _parse_section(self, reporter, stripped):
         # [Header]
@@ -128,10 +149,10 @@ class RappsLine:
     def _parse_key_value(self, reporter, parts):
         # key = value
         assert len(parts) == 2, self
-        key = parts[0]
+        self.key = parts[0]
 
-        if key not in ALL_KEYS:
-            reporter.add(self, 0, f'Unknown key: "{key}"')
+        if self.key not in ALL_KEYS:
+            reporter.add(self, 0, f'Unknown key: "{self.key}"')
 
     def location(self, column):
         return f'{self._file.filename}({self._lineno}:{column})'
@@ -144,15 +165,28 @@ class RappsFile:
     def __init__(self, fullname):
         self.path = fullname
         self.filename = os.path.basename(fullname)
-        self._lines = None
+        self._sections = []
 
     def parse(self, reporter):
-        if not self._lines:
-            with open(self.path, 'rb') as f:
-                self._lines = [RappsLine(self, idx + 1, line) for idx, line in enumerate(f.readlines())]
+        with open(self.path, 'rb') as f:
+            lines = [RappsLine(self, idx + 1, line) for idx, line in enumerate(f.readlines())]
 
-        for line in self._lines:
-            line.parse(reporter)
+        # Create sections from all lines, and add keyvalue entries in their own section
+        section = None
+        for line in lines:
+            linetype = line.parse(reporter)
+            if linetype == LineType.Comment:
+                continue
+            if linetype == LineType.Section:
+                section = line
+                self._sections.append(section)
+            elif linetype == LineType.KeyValue:
+                assert section, "Got no section yet?"
+                section.add(line)
+
+        for section in self._sections:
+            if section[b'URLDownload'] and not section[b'SizeBytes']:
+                reporter.add(section, 0, 'Section has URLDownload but no SizeBytes!')
 
 
 def validate_repo(dirname):
