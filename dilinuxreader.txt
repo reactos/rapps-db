@@ -33,7 +33,7 @@ License = Ücretsiz
 Description = Windows ya da ReactOS ile Ext2, Ext3, Ext4, HFS ve ReiserFS dosya sistemleri arasında köprü kurmak için kolay bir yol.
 Size = 21,3 MiB
 
-[Seciton.0425]
+[Section.0425]
 License = Vabavaraline
 Description = Kerge viis sillastada Windows/Reactos ja Ext2/Ext3/Ext4, HFS ja ReiserFS failisüsteemi vahel.
 Size = 21,3 MiB
