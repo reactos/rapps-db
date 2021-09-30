@@ -3,7 +3,6 @@ Name = Agat Emulator
 Version = 1.29.1
 License = GPL
 Description = Apple ][ and Agat 7/9 software simulation program for Win32.
-Size = 6.1 MiB
 Category = 16
 URLSite = http://agatemulator.sourceforge.net/
 URLDownload = https://sourceforge.net/projects/agatemulator/files/agatemulator/1.29.1/agatemulator-1.29.1.exe
@@ -12,7 +11,6 @@ SizeBytes = 6346282
 
 [Section.0407]
 Description = Apple ][ und Agat 7/9 Emulator für Win32.
-Size = 6,1 MiB
 
 [Section.0a]
 Name = Emulador Agat
@@ -23,19 +21,15 @@ Description = Emulator Apple ][ i Agat 7/9 dla Win32.
 
 [Section.0418]
 Description = Eimulator de Apple ][ și Agat 7/9 pentru Win32.
-Size = 6,1 Mio
 
 [Section.0419]
 Description = Эмулятор ПЭВМ АГАТ для Win32
-Size = 6,1 МиБ
 
 [Section.0425]
 Description = Apple ][ ja Agat 7/9 tarkvara simulatsiooni programm Win32-le.
-Size = 6,1 MiB
 
 [Section.041f]
 Description = Win32 için Apple ][ ve Agat 7/9 yazılım benzetim programı.
-Size = 6,1 MiB
 
 [Section.0804]
 Description = Win32 的 Apple ][ 和 Agat 7/9 的软件模拟程序。

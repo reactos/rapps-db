@@ -3,7 +3,6 @@ Name = PSPad
 Version = 5.0.0
 License = Freeware
 Description = A lightweight text editor.
-Size = 6.3 MiB
 Category = 6
 URLSite = http://www.pspad.com
 URLDownload = https://www.pspad.com/files/pspad/pspad500_setup.exe
@@ -13,7 +12,6 @@ SizeBytes = 6582336
 [Section.0407]
 Description = Leichtgewichtiger Texteditor.
 URLSite = http://www.pspad.com/de/
-Size = 6,3 MiB
 
 [Section.0a]
 Description = Un pequeño editor de texto.
@@ -22,7 +20,6 @@ URLSite = http://www.pspad.com/es/
 [Section.040c]
 Description = Un éditeur de texte.
 URLSite = http://www.pspad.com/fr/
-Size = 6,3 Mio
 
 [Section.0410]
 Description = Un editor di testo.
@@ -37,13 +34,11 @@ Description = Lekki edytor tekstu.
 [Section.0418]
 License = Gratuită
 Description = Editor ușor de text.
-Size = 6,3 Mio
 
 [Section.0419]
 License = Бесплатно
 Description = Текстовый редактор.
 URLSite = http://www.pspad.com/ru/
-Size = 6,3 МиБ
 
 [Section.041b]
 Description = Textový editor.
@@ -52,7 +47,6 @@ URLSite = http://www.pspad.com/sk/
 [Section.041f]
 License = Ücretsiz
 Description = Hafif bir metin düzenleyicisi.
-Size = 6,3 MiB
 
 [Section.0422]
 Description = Текстовый редактор.

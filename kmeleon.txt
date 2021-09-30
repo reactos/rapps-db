@@ -3,7 +3,6 @@ Name = K-Meleon
 Version = 75.1
 License = GPL
 Description = An extremely fast, customizable and still lightweight web browser based on the Gecko layout engine.
-Size = 25.3 MiB
 Category = 5
 URLSite = http://kmeleon.sourceforge.net
 URLDownload = http://download.sourceforge.net/project/kmeleon/k-meleon/75.1/K-Meleon75.1.exe
@@ -15,23 +14,18 @@ Description = Un navegador web ligero, rápido y personalizable basado en el ent
 
 [Section.0407]
 Description = Extrem schneller, erweiterbarer und dennoch kleiner Web Browser basierend auf der Gecko Layout Engine.
-Size = 25,3 MiB
 
 [Section.041f]
 Description = Gecko düzen motoru tabanlı, aşırı hızlı, özelleştirilebilir ve şimdi bile hafif bir ağ tarayıcısı.
-Size = 25,3 MiB
 
 [Section.0415]
 Description = Bardzo szybka, konfigurowalna i lekka przeglądarka internetowa oparta na silniku Gecko.
-Size = 25,3 MiB
 
 [Section.0418]
 Description = Navigator web extrem de rapid, particularizabil, și totuși ușor, bazat pe motorul de afișare Gecko.
-Size = 25,3 Mio
 
 [Section.0419]
 Description = Быстрый, настраиваемый, легкий веб-браузер, основанный на движке Gecko.
-Size = 25,3 МиБ
 
 [Section.0804]
 Description = 基于 Gecko 布局引擎，速度极快、可定制却仍旧轻量的网络浏览器。

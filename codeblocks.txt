@@ -3,7 +3,6 @@ Name = Code::Blocks (without compiler)
 Version = 17.12
 License = GPLv3
 Description = An open source, cross-platform, powerful IDE. It does not contain a compiler.
-Size = 35.6 MiB
 Category = 7
 URLSite = http://www.codeblocks.org/
 URLDownload = https://download.sourceforge.net/project/codeblocks/Binaries/17.12/Windows/codeblocks-17.12-setup.exe
@@ -14,7 +13,6 @@ Screenshot1=https://i.imgur.com/FykFrzz.png
 
 [Section.0407]
 Description = Quelloffene, plattformübergreifende, mächtige IDE. Diese enthält keinen Compiler.
-Size = 35,6 MiB
 
 [Section.0a]
 Name = Code::Blocks (sin compilador)
@@ -29,23 +27,19 @@ Description = Otwartoźródłowe, wieloplatformowe, potężne środowisko progra
 [Section.0418]
 Name = Code::Blocks (fără compilator)
 Description = Mediu de dezvoltare integrat (IDE) puternic, multiplatformă, cu surse deschise. Nu conține nici un compilator.
-Size = 35,6 Mio
 
 [Section.0419]
 Name = Code::Blocks (без компилятора)
 Description = Свободная кроссплатформенная среда разработки.
-Size = 35,6 МиБ
 
 [Section.041f]
 Name = Code::Blocks (derleyicisiz)
 License = GPL sürüm 3
 Description = Açık kaynak, çapraz platform, güçlü bir tümleşik geliştirme ortamı. Bir derleyici içermez.
-Size = 35,6 MiB
 
 [Section.0425]
 Name = Code::Blocks (kompileerijata)
 Description = Avatud lähtekoodiga, mitmikplatvormil, võimas IDE. Ei sisalda kompileerijat.
-Size = 35,6 MiB
 
 [Section.0804]
 Description = 开源、跨平台的强大的 IDE。不含编译器。

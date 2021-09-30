@@ -3,7 +3,6 @@ Name = Pengupop
 Version = 2.2.3
 License = GPL
 Description = The purpose of this game is to shoot colored orbs into your playfield, so they form groups of three or more.
-Size = 1.7 MiB
 Category = 4
 URLDownload = http://svn.reactos.org/packages/Pengupop.exe
 SHA1 = 59b87b20244cf13136f59c31b962a0521486a359
@@ -11,7 +10,6 @@ SizeBytes = 1780574
 
 [Section.0407]
 Description = Das Ziel des Spiels ist es farbige Orbs ins Spielfeld zu feuern, so dass diese Gruppen von drei oder mehr bilden.
-Size = 1,7 MiB
 
 [Section.0a]
 Description = Dispara orbes de colores en el campo de juego formando grupos de más de tres.
@@ -24,15 +22,12 @@ Description = Celem tej gry jest strzelanie kolorowymi kulkami tak, aby utworzy�
 
 [Section.0418]
 Description = Scopul acestui joc este de a arunca globuri colorate în propriul teren pentru a forma grupuri de câte trei sau mai multe.
-Size = 1,7 Mio
 
 [Section.0419]
 Description = Цель данной игры - стрелять цветными шариками в игровое поле, чтобы они образовывали группы из трех или более шариков.
-Size = 1,7 МиБ
 
 [Section.041f]
 Description = Bu oyunun amacı, oyun alanınızda üç ya da daha çok takımdan oluşan renkli küreleri vurmaktır.
-Size = 1,7 MiB
 
 [Section.0804]
 Description = 游戏的目的是将彩色弹珠发射到游戏台上，它们可以以三个或更多组成组。

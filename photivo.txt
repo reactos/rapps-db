@@ -3,7 +3,6 @@ Name = Photivo
 Version = 2014-05-25
 License = GNU GPLv3
 Description = Free and open source photo processor.
-Size = 11.8 MiB
 Category = 3
 URLSite = http://photivo.org
 URLDownload = https://bitbucket.org/Photivo/photivo/downloads/photivo-setup-2014-05-25-win32.exe
@@ -18,7 +17,6 @@ Description = Darmowy i otwartoźródłowy program do obróbki zdjęć.
 
 [Section.0419]
 Description = Свободный и open source фоторедактор.
-Size = 11.8 МиБ
 
 [Section.0804]
 Description = 免费开源的图片处理软件。

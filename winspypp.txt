@@ -3,7 +3,6 @@ Name = Winspy++
 Version = 1.7
 License = Freeware
 Description = A handy programmer's utility which can be used to select and view the properties of any window in the system.
-Size = 57.9 KiB
 Category = 7
 URLSite = http://www.catch22.net/software/winspy
 URLDownload = http://www.catch22.net/assets/files/software/WinSpy17.zip
@@ -12,7 +11,6 @@ SizeBytes = 59355
 
 [Section.0407]
 Description = Ein nützliches Werkzeug für Programmierer, das verwendet werden kann, um die Eigenschaften jedes Fensters im System sehen zu können.
-Size = 58,3 KiB
 
 [Section.0415]
 Description = Poręczne narzędzie programisty, które może być używane do przeglądania właściwości dowolnego okna w systemie.
@@ -20,17 +18,14 @@ Description = Poręczne narzędzie programisty, które może być używane do pr
 [Section.0418]
 License = Gratuită
 Description = Un utilitar pentru programatori care poate fi utilizat pentru a selecta și a inspecta proprietățile unei ferestre din sistem.
-Size = 58,3 Kio
 
 [Section.0419]
 License = Бесплатно
 Description = Утилита для просмотра свойств любого окна в системе.
-Size = 58,3 КиБ
 
 [Section.041f]
 License = Ücretsiz
 Description = Sistemdeki bir pencerenin özelliklerini görüntülemek ve seçmek için kullanılabilecek bir usta programının aracı.
-Size = 58,3 KiB
 
 [Section.0804]
 License = 免费软件

@@ -4,7 +4,6 @@ Version = 2.5
 License = Freeware
 Description = Free typing tutor.
 URLSite = http://stamina.ru
-Size = 4.9 MiB
 Category = 8
 URLDownload = http://stamina.ru/files/StaminaSetup.exe
 SHA1 = 93664a5828e24a1081fe600d6e471bc45b1d9714
@@ -12,7 +11,6 @@ SizeBytes = 5110315
 
 [Section.0407]
 Description = Freies Schreiblernprogramm.
-Size = 4,9 MiB
 
 [Section.0a]
 Description = Programa para aprender a escribir a máquina.
@@ -25,17 +23,14 @@ Description = Darmowy program do nauki pisania na klawiaturze.
 
 [Section.0418]
 Description = Tutor gratuit pentru dactilografiere.
-Size = 4,9 Mio
 
 [Section.0419]
 License = Бесплатно
 Description = Бесплатный клавиатурный тренажер.
-Size = 4,9 МиБ
 
 [Section.041f]
 License = Ücretsiz
 Description = Ücretsiz düğme takımında yazma öğreticisi.
-Size = 4,9 MiB
 
 [Section.0804]
 License = 免费软件

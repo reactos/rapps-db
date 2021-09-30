@@ -3,7 +3,6 @@ Name = Shed
 Version = 1.0
 License = Freeware
 Description = A single player card game for Windows. It is based on the popular student card-game of "Shit-head".
-Size = 65.8 KiB
 Category = 4
 URLSite = https://www.catch22.net/software/shed
 URLDownload = https://www.catch22.net/assets/files/software/shedsetup1.exe
@@ -12,7 +11,6 @@ SizeBytes = 67371
 
 [Section.0407]
 Description = Ein Single-Player-Kartenspiel für Windows. Es basiert auf dem beliebten Kartenpiel "Arschloch".
-Size = 65,8 KiB
 
 [Section.0415]
 Description = Jednoosobowa gra w karty dla systemów Windows. Opiera się na popularnej grze studenckiej "Shit-head".
@@ -20,17 +18,14 @@ Description = Jednoosobowa gra w karty dla systemów Windows. Opiera się na pop
 [Section.0418]
 License = Gratuită
 Description = Joc de cărți pentru Windows. Este bazat pe popularul joc de cărți studențesc „Shit-head”.
-Size = 65,8 Kio
 
 [Section.0419]
 License = Бесплатно
 Description = Карточная игра для одного игрока.
-Size = 65,8 КиБ
 
 [Section.041f]
 License = Ücretsiz
 Description = Windows için bir tekli oyunculu kart oyunu. "Shit-head" tutulan öğrenci kart oyunu tabanlıdır.
-Size = 65,8 KiB
 
 [Section.0804]
 License = 免费软件

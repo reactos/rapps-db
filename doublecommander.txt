@@ -3,7 +3,6 @@ Name = Double Commander
 Version = 0.8.2 beta
 License = GPL
 Description = An open source file manager with two panels side by side.
-Size = 6.3 MiB
 Category = 12
 URLSite = http://doublecmd.sourceforge.net/
 URLDownload = https://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2032%20bit/Double%20Commander%200.8.2%20beta/doublecmd-0.8.2.i386-win32.exe
@@ -12,7 +11,6 @@ SizeBytes = 6566228
 
 [Section.0407]
 Description = Quelloffener Dateimanager mit zwei nebeneinander liegenden Panels.
-Size = 6,3 MiB
 
 [Section.0a]
 Description = Un explorador de archivos multipanel de código abierto.
@@ -28,22 +26,18 @@ Description = Double Commander to menedżer plików, o otwartym źródle, z klas
 
 [Section.0418]
 Description = Gestionar (cu surse deschise) de fișiere după modelul paneluri-alăturate.
-Size = 6,3 Mio
 
 [Section.0419]
 Description = Double Commander - это открытый двухпанельный файловый менеджер.
-Size = 6,3 МиБ
 
 [Section.041f]
 Description = Yan yana iki bölmeli bir açık kaynak dosya yöneticisidir.
-Size = 6,3 MiB
 
 [Section.0422]
 Description = Double Commander - це відкритий двопанельний файловий менеджер.
 
 [Section.0425]
 Description = Avatud lähtekoodiga failihaldur kahe kõrvuti oleva paneeliga.
-Size = 6,3 MiB
 
 [Section.0804]
 Description = 含有两个面板并排的开放源码文件管理器。

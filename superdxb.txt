@@ -3,7 +3,6 @@ Name = Super DX-Ball
 Version = 1.1
 License = Shareware
 Description = A vibrant and colorful brick-breaking game.
-Size = 3.8 MiB
 Category = 4
 URLSite = http://www.classic.blitwise.com/superdxb.html
 URLDownload = http://www.classic.blitwise.com/superdxb.exe
@@ -12,7 +11,6 @@ SizeBytes = 3995248
 
 [Section.0407]
 Description = Lebendiges und buntes Brick-Breaking-Spiel.
-Size = 3,8 MiB
 
 [Section.0a]
 Description = Un juego vibrante y colorido de romper bloques.
@@ -26,17 +24,14 @@ Description = Super DX-Ball - pełna koloru i animacji gra polegająca na zbijan
 [Section.0418]
 License = Versiune de evaluare
 Description = Joc vibrant și colorat ce implică spargerea de cărămizi.
-Size = 3,8 Mio
 
 [Section.0419]
 License = Условно бесплатно
 Description = Классический арканоид.
-Size = 3,8 МиБ
 
 [Section.041f]
 License = Paylaşımlı
 Description = Canlı ve renkli bir tuğla kırma oyunu.
-Size = 3,8 MiB
 
 [Section.0804]
 License = 共享软件

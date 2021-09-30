@@ -3,7 +3,6 @@ Name = Code::Blocks TDM-GCC (version 5.1.0, 32 bit)
 Version = 17.12
 License = GPLv3
 Description = An open source, cross-platform, powerful IDE. It contains TDM-GCC (version 5.1.0, 32 bit) compiler.
-Size = 86.1 MiB
 Category = 7
 URLSite = http://www.codeblocks.org/
 URLDownload = https://download.sourceforge.net/project/codeblocks/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe
@@ -12,7 +11,6 @@ SizeBytes = 90337727
 
 [Section.0407]
 Description = Quelloffene, plattformübergreifende, mächtige IDE. Diese enthält den TDM-GCC (version 5.1.0, 32 bit) Compiler.
-Size = 86,1 MiB
 
 [Section.0a]
 Description = Un IDE potente, de código abierto y multiplataforma. Viene con el compilador TDM-GCC (version 5.1.0, 32 bit).
@@ -26,23 +24,19 @@ Description = Otwartoźródłowe, wieloplatformowe, potężne środowisko progra
 [Section.0418]
 Name = Code::Blocks TDM-GCC (versiunea 5.1.0 pe 32 biți)
 Description = Mediu de dezvoltare integrat (IDE) puternic, multiplatformă, cu surse deschise. Conține compilatorul TDM-GCC (versiunea 5.1.0 pe 32 biți).
-Size = 86,1 Mio
 
 [Section.0419]
 Name = Code::Blocks TDM-GCC (версия 5.1.0, 32 бит)
 Description = Свободная кроссплатформенная среда разработки. Содержит TDM-GCC компилятор версии 5.1.0, 32 бит.
-Size = 86,1 МиБ
 
 [Section.041f]
 Name = Code::Blocks TDM-GCC (sürüm 5.1.0, 32 bitlik)
 License = GPL sürüm 3
 Description = Açık kaynak, çapraz platform, güçlü bir tümleşik geliştirme ortamı. TDM-GCC (sürüm 5.1.0, 32 bitlik) derleyicisini içerir.
-Size = 86,1 MiB
 
 [Section.0425]
 Name = Code::Blocks TDM-GCC (versioon 5.1.0, 32 bitti)
 Description = Avatud lähtekoodiga, mitmikplatvormil, võimas IDE. Sisaldab TDM-GCC (versioon 5.1.0, 32 bitti) kompileerijat.
-Size = 86,1 MiB
 
 [Section.0804]
 Description = 开源、跨平台的强大的 IDE。它包含 TDM-GCC (版本 5.1.0, 32 位) 编译器。

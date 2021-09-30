@@ -3,7 +3,6 @@ Name = MySQL Community Server
 Version = 5.5.60
 License = GPL
 Description = The world's most popular open source database.
-Size = 35.7 MiB
 Category = 16
 URLSite = https://dev.mysql.com/
 URLDownload = https://dev.mysql.com/get/Downloads/MySQL-5.5/mysql-5.5.60-win32.msi
@@ -18,7 +17,6 @@ Description = Najpopularniejsza otwartoźródłowa baza danych.
 
 [Section.0419]
 Description = Самая популярная open source база данных в мире.
-Size = 35.7 МиБ
 
 [Section.0804]
 Description = 世界上最流行的开源数据库。

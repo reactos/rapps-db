@@ -3,7 +3,6 @@ Name = SMPlayer
 Version = 18.5.0
 License = GPL
 Description = Graphical Frontend for MPlayer.
-Size = 39.0 MiB
 Category = 2
 URLSite = http://smplayer.sourceforge.net/en/
 URLDownload = https://download.sourceforge.net/project/smplayer/SMPlayer/18.5.0/smplayer-18.5.0-win32.exe
@@ -13,7 +12,6 @@ SizeBytes = 40892832
 [Section.0407]
 Description = Grafische Oberfläche für MPlayer.
 URLSite = http://smplayer.sourceforge.net/de/
-Size = 39,0 MiB
 
 [Section.0a]
 Description = Interfaz gráfica para Mplayer, el reproductor multimedia.
@@ -21,7 +19,6 @@ URLSite = http://smplayer.sourceforge.net/es/
 
 [Section.040c]
 URLSite = http://smplayer.sourceforge.net/fr/
-Size = 39,0 Mio
 
 [Section.0410]
 URLSite = http://smplayer.sourceforge.net/it/
@@ -35,17 +32,14 @@ URLSite = http://smplayer.sourceforge.net/pl/
 
 [Section.0418]
 Description = Lector multimedia (interfață pentru MPlayer).
-Size = 39,0 Mio
 
 [Section.0419]
 URLSite = http://smplayer.sourceforge.net/ru/
 Description = Графический интерфейс для MPlayer.
-Size = 39,0 МиБ
 
 [Section.041f]
 Description = MPlayer için grafik arayüz.
 URLSite = http://smplayer.sourceforge.net/tr/
-Size = 39,0 MiB
 
 [Section.0422]
 Description = Графічний інтерфейс для MPlayer (мультимедійний плеєр).

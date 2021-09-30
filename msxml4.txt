@@ -3,7 +3,6 @@ Name = Microsoft XML 4
 Version = 4.0
 License = Unknown
 Description = Needed for some Microsoft Installers. Contains: msxml4.dll, msxml4r.dll.
-Size = 2.32 MiB
 Category = 14
 URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=15697
 URLDownload = https://download.microsoft.com/download/A/2/D/A2D8587D-0027-4217-9DAD-38AFDB0A177E/msxml.msi
@@ -13,7 +12,6 @@ SizeBytes = 2434048
 [Section.0407]
 License = Unbekannt
 Description = Wird von einigen MSI Installern benötigt. Beinhaltet: msxml4.dll, msxml4r.dll.
-Size = 2,32 MiB
 
 [Section.0a]
 License = Desconocida
@@ -22,7 +20,6 @@ Description = Necesario para algunos instaladores MSI. Incluye: msxml4.dll, msxm
 [Section.040c]
 License = Inconnue
 Description = MSXML4 est nécessaire pour certains installateurs MSI. Contient: msxml4.dll, msxml4r.dll.
-Size = 2,32 Mio
 
 [Section.0410]
 License = Sconosciuto
@@ -39,17 +36,14 @@ Description = Niektóre spośród plików instalacyjnych MSI potrzebują parsera
 [Section.0418]
 License = Nespecificată
 Description = Modúl necesar unor programe de instalare MSI. Conține: msxml4.dll, msxml4r.dll.
-Size = 2,32 Mio
 
 [Section.0419]
 License = Неизвестно
 Description = Нужен для некоторых MSI установщиков. Содержит: msxml4.dll, msxml4r.dll.
-Size = 2,32 МиБ
 
 [Section.041f]
 License = Bilinmiyor
 Description = Birtakım Microsoft Installers için gereklidir. Şunları içerir: msxml4.dll, msxml4r.dll.
-Size = 2,32 MiB
 
 [Section.0422]
 License = Невідома

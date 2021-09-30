@@ -3,7 +3,6 @@ Name = AIM
 Version = 5.1
 License = Abandonware
 Description = AOL Instant Messenger. Change host DNS to iwarg.ddns.net at port 5190 to restore functionality. Requires an AIM Phoenix account.
-Size = 2.47 MB
 Category = 16
 URLSite = http://iwarg.ddns.net/
 URLDownload = https://web.archive.org/web/20200329204214/http://iwarg.ddns.net/aim/files/aim513036.exe

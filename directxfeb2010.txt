@@ -3,7 +3,6 @@ Name = DirectX End-User Runtimes (Feb 2010)
 Version = 9.28
 License = Unknown
 Description = Provides the runtimes required by most DirectX based applications and games. You have to manually run the installer after unpacking.
-Size = 104 MiB
 Category = 14
 URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=9033
 URLDownload = https://web.archive.org/web/20191108074337/https://download.microsoft.com/download/E/E/1/EE17FF74-6C45-4575-9CF4-7FC2597ACD18/directx_feb2010_redist.exe
@@ -13,22 +12,18 @@ SizeBytes = 109072752
 [Section.0415]
 License = Nieznana
 Description = Zawiera biblioteki wymagane przez większość gier i aplikacji opartych na DirectX. Należy uruchomić instalator po wypakowaniu plików.
-Size = 104 MiB
 
 [Section.0419]
 License = Неизвестно
 Description = Предоставляет библиотеки, необходимые для большинства приложений и игр, основаных на DirectX. Вам нужно запустить установщик вручную после распаковки.
-Size = 104 МиБ
 
 [Section.0422]
 License = Невідома
 Description = Надає бібліотеки, необхідні для більшості програм та ігор, заснованих на DirectX. Вам потрібно власноруч запустити інсталятор після розпакування.
-Size = 104 Міб
 
 [Section.0425]
 License = Tundmatu
 Description = Annab enamus DirectX põhinevate rakenduste ja mängude jaoks sobivad runtimed. Peate installeri käivitama käsitisi pärast lahti pakkimist.
-Size = 104 MiB
 
 [Section.0a]
 Description = Proporciona el entorno de ejecución requerido por la mayoría de las aplicaciones y juegos basados en DirectX. Necesitarás iniciar manualmente el instalador tras descomprimirlo.

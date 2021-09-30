@@ -3,7 +3,6 @@ Name = Wine Mono .NET Framework
 Version = 4.5.6
 License = GPLv2, LGPLv2, MIT, BSD, MS-PL, MPLv1.1
 Description = Free reimplementation of .NET Framework used by the Wine libraries.
-Size = 51.2 MiB
 Category = 14
 URLSite = http://sourceforge.net/projects/wine/files/Wine Mono
 URLDownload = http://download.sourceforge.net/wine/Wine%20Mono/4.5.6/wine-mono-4.5.6.msi
@@ -12,14 +11,12 @@ SizeBytes = 53705216
 
 [Section.0407]
 Description = Freie Neu-Umsetzung des .NET Frameworks, welche von den Wine-Bibliotheken verwendet wird.
-Size = 51,2 MiB
 
 [Section.0a]
 Description = Reimplementación libre de .NET Framework utilizadas por las bibliotecas de Wine.
 
 [Section.040c]
 Description = Wine Mono .NET Framework
-Size = 51,2 Mio
 
 [Section.0410]
 Description = Wine Mono .NET Framework
@@ -29,16 +26,13 @@ Description = Otwarta implementacja .NET Framework używana przez Wine.
 
 [Section.0418]
 Description = Reimplementara gratuită a platformei .NET utilizată de bibliotecile Wine.
-Size = 51,2 Mio
 
 [Section.0419]
 Description = Свободная реализация .NET Framework, используемая в библиотеках Wine.
-Size = 51,2 МиБ
 
 [Section.041f]
 License = GPL sürüm 2, LGPL sürüm 2, MIT, BSD, MS-PL, MPL sürüm 1.1
 Description = Wine kitaplıkları tarafından kullanılan .NET Framework'ün özgür uyarlaması.
-Size = 51,2 MiB
 
 [Section.0804]
 Description = 由 Wine 库重新实现的自由的 .NET 框架。

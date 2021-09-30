@@ -3,7 +3,6 @@ Name = Microsoft Visual C++ 2010 SP1 Redistributable
 Version = 10.0
 License = Unknown
 Description = Needed by applications compiled with Visual Studio 2010. Contains: atl100.dll, mfc100.dll, mfc100u.dll, mfcm100.dll, mfcm100u.dll, msdia100.dll, msvcm100.dll, msvcp100.dll, msvcr100.dll, vcomp100.dll.
-Size = 8.6 MiB
 Category = 14
 URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=26999
 URLDownload = http://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe
@@ -13,7 +12,6 @@ SizeBytes = 8990552
 [Section.0407]
 License = Unbekannt
 Description = Benötigt für Visual Studio 2010 basierte Anwendungen. Beinhaltet: atl100.dll, mfc100.dll, mfc100u.dll, mfcm100.dll, mfcm100u.dll, msdia100.dll, msvcm100.dll, msvcp100.dll, msvcr100.dll, vcomp100.dll.
-Size = 8,6 MiB
 
 [Section.0a]
 License = Desconocida
@@ -22,7 +20,6 @@ Description = Necesario para aplicaciones compiladas con Visual Studio 2010. Inc
 [Section.040c]
 License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2010 SP1. Contient: atl100.dll, mfc100.dll, mfc100u.dll, mfcm100.dll, mfcm100u.dll, msdia100.dll, msvcm100.dll, msvcp100.dll, msvcr100.dll, vcomp100.dll.
-Size = 8,6 Mio
 
 [Section.0410]
 License = Sconosciuta
@@ -39,17 +36,14 @@ Description = Biblioteki uruchomieniowe Microsoft Visual Studio 2010 SP1. Zawier
 [Section.0418]
 License = Nespecificată
 Description = Pachet necesar pentru aplicațiile compilate cu Visual Studio 2010. Conține: atl100.dll, mfc100.dll, mfc100u.dll, mfcm100.dll, mfcm100u.dll, msdia100.dll, msvcm100.dll, msvcp100.dll, msvcr100.dll, vcomp100.dll.
-Size = 8,6 Mio
 
 [Section.0419]
 License = Неизвестно
 Description = Необходим для приложений, написанных в Visual Studio 2010. Содержит: atl100.dll, mfc100.dll, mfc100u.dll, mfcm100.dll, mfcm100u.dll, msdia100.dll, msvcm100.dll, msvcp100.dll, msvcr100.dll, vcomp100.dll.
-Size = 8,6 МиБ
 
 [Section.041f]
 License = Bilinmiyor
 Description = Visual Studio 2010 ile derlenmiş uygulamalar tarafından gereklidir. Şunları içerir: atl100.dll, mfc100.dll, mfc100u.dll, mfcm100.dll, mfcm100u.dll, msdia100.dll, msvcm100.dll, msvcp100.dll, msvcr100.dll, vcomp100.dll.
-Size = 8,6 MiB
 
 [Section.0422]
 License = Невідома

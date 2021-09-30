@@ -3,7 +3,6 @@ Name = PCSX
 Version = 1.5
 License = Freeware
 Description = PCSX is a Playstation 1 emulator. 
-Size = 2.1 MiB
 Category = 4
 URLDownload = https://github.com/shytzedaka/PCSXFORROS/archive/PCSX.zip
 SHA1 = C57088DB595BB95B0273C0B83F65F2CE6A00DDAB

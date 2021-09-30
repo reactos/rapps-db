@@ -3,7 +3,6 @@ Name = Zaz
 Version = 1.0.0
 License = GPL
 Description = A free arcade action puzzle computer game, a little bit like Frozen Bubble.
-Size = 20.9 MiB
 Category = 4
 URLSite = http://zaz.sourceforge.net
 URLDownload = http://download.sourceforge.net/project/zaz/Zaz-1.0.0-Setup.exe
@@ -12,7 +11,6 @@ SizeBytes = 21934236
 
 [Section.0407]
 Description = Freies Arcade Action Puzzle Spiel, ein wenig wie Frozen Bubble.
-Size = 20,9 MiB
 
 [Section.0a]
 Description = Zaz es un juego de acción arcade parecido a Frozen Bubble.
@@ -25,15 +23,12 @@ Description = Zaz to darmowa gra logiczno-zręcznościowa, trochę podobna do gr
 
 [Section.0418]
 Description = Joc de acțiune de tip enigmă/arcadă, asemănător cu „Frozen Bubble”.
-Size = 20,9 Mio
 
 [Section.0419]
 Description = Бесплатная аркадная компьютерная игра-головоломка. Наподобие Frozen Bubble.
-Size = 20,9 МиБ
 
 [Section.041f]
 Description = Ücretsiz, atari salonu oyunu türünde, dinamik bir bulmaca oyunudur, birazcık Frozen Bubble'a benzer.
-Size = 20,9 MiB
 
 [Section.0804]
 Description = 一个免费街机动作益智电脑游戏，有点像 Frozen Bubble。

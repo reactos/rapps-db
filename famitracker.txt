@@ -3,7 +3,6 @@ Name = FamiTracker
 Version = 0.4.6
 License = Freeware
 Description = A free Windows tracker for producing music for the NES and Famicom systems.
-Size = 1.5 MiB
 Category = 1
 URLSite = http://famitracker.com/index.php
 URLDownload = http://famitracker.com/files/FamiTracker-v0.4.6.zip
@@ -12,7 +11,6 @@ SizeBytes = 1604814
 
 [Section.0407]
 Description = Kostenloser Windows Tracker zur Erstellung von Musik für NES und Famicom Systeme.
-Size = 1,5 MiB
 
 [Section.0415]
 Description = Darmowy program do tworzenia muzyki dla systemów NES i Famicom.
@@ -20,22 +18,18 @@ Description = Darmowy program do tworzenia muzyki dla systemów NES i Famicom.
 [Section.0418]
 License = Gratuită
 Description = Program de producție de muzică pentru sisteme NES și Famicom.
-Size = 1,5 Mio
 
 [Section.0419]
 License = Бесплатно
 Description = Эмулятор звукового чипа NES и Famicom.
-Size = 1,5 МиБ
 
 [Section.041f]
 License = Ücretsiz
 Description = FamiTracker, NES ve Famicom dizgeleri için mûsikî üretmeye bir ücretsiz Windows programıdır.
-Size = 1,5 MiB
 
 [Section.0425]
 License = Vabavaraline
 Description = Tasuta Windows jälgija muusika produtseerimise jaoks NES ja Famicon süsteemidele.
-Size = 1,5 MiB
 
 [Section.0804]
 License = 免费软件

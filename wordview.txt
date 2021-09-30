@@ -3,7 +3,6 @@ Name = Microsoft Word Viewer
 Version = 2003
 License = Unknown
 Description = Freeware document viewing application for Office formats (*.doc)
-Size = 24.5 MiB
 Category = 6
 URLSite = http://support.microsoft.com/kb/180071/
 URLDownload = https://web.archive.org/web/20171123104006if_/http://download.microsoft.com/download/6/a/6/6a689355-b155-4fa7-ad8a-dfe150fe7ac6/wordview_en-us.exe
@@ -13,7 +12,6 @@ SizeBytes = 25685128
 [Section.0407]
 License = Unbekannt
 Description = Freeware Dokumentbetrachter für Office-Formate (*.doc).
-Size = 24,6 MiB
 URLDownload = https://web.archive.org/web/20170104154150if_/http://download.microsoft.com/download/d/4/b/d4b23f0e-c8b6-4383-878d-1a8184b7db56/wordview_de-de.exe
 SHA1 = 679d2c80bb33ca262b9cf55626ce36e23fd67293
 SizeBytes = 25755856
@@ -22,28 +20,24 @@ SizeBytes = 25755856
 Name = Visor de Microsoft Word
 Description = Visor gratuito de documentos en formato Office (*.doc)
 License = Desconocida
-Size = 24.5 MiB
 URLDownload = https://web.archive.org/web/20170426125808if_/http://download.microsoft.com/download/4/4/c/44c2d552-8b40-464f-8470-b4976d7ba60b/wordview_es-es.exe
 SHA1 = 6c83c4418f384ea9a0ddb81c8c5bcdb183dba3d8
 SizeBytes = 25725600
 
 [Section.040c]
 License = Inconnue
-Size = 24,6 Mio
 URLDownload = https://web.archive.org/web/20170510171508if_/http://download.microsoft.com/download/b/f/3/bf36c75d-2e93-4db1-ace2-1425e5219260/wordview_fr-fr.exe
 SHA1 = dce603d9bed87170c86f51f6e0f4935ccedd92e6
 SizeBytes = 25746416
 
 [Section.0410]
 License = Sconosciuta
-Size = 24.5 MiB
 URLDownload = https://web.archive.org/web/20160702070725if_/http://download.microsoft.com/download/f/8/e/f8e9dadd-70bd-4317-a7fe-25d7bfb54b71/wordview_it-it.exe
 SHA1 = bee3dd1c27291a3a1233ac092911685ee95bcc13
 SizeBytes = 25710872
 
 [Section.0413]
 License = Ongekend
-Size = 24.5 MiB
 URLDownload = https://web.archive.org/web/20171202120536if_/http://download.microsoft.com/download/c/1/0/c10e009e-61e2-4b54-8d21-aff378679527/wordview_nl-nl.exe
 SHA1 = ff39a41cdaf2be65408d10a4a1da01ab9469906c
 SizeBytes = 25730832
@@ -51,7 +45,6 @@ SizeBytes = 25730832
 [Section.0415]
 License = Nieznana
 Description = Bezpłatny program służący do przeglądania dokumentów tekstowych w formacie Office (*.doc).
-Size = 24.6 MiB
 URLDownload = https://web.archive.org/web/20170514205418if_/http://download.microsoft.com/download/c/e/1/ce1e1286-67a2-4069-a8c4-b3552f18dfa8/wordview_pl-pl.exe
 SHA1 = 02a6c2be40f0163bcb89953c1da6bda47b2ea8db
 SizeBytes = 25772520
@@ -59,7 +52,6 @@ SizeBytes = 25772520
 [Section.0418]
 License = Nespecificată
 Description = Aplicație de lectură a documentelor de tip Microsoft Office Word (*.doc)
-Size = 24,6 Mio
 URLDownload = https://web.archive.org/web/20170118034022if_/http://download.microsoft.com/download/1/2/3/123d3dc8-6f3f-473f-ac1d-3e38969605e8/wordview_ro-ro.exe
 SHA1 = 22728a9442043478065c5e4b923a0eb53fdc6bae
 SizeBytes = 25758208
@@ -67,7 +59,6 @@ SizeBytes = 25758208
 [Section.0419]
 License = Неизвестно
 Description = Средство просмотра документов Word (*.doc).
-Size = 24,6 МиБ
 URLDownload = https://web.archive.org/web/20140716105143if_/http://download.microsoft.com/download/f/e/a/feaea1a7-1e23-47d5-912e-5518f5d0ca1e/wordview_ru-ru.exe
 SHA1 = 99770ed8483ff38e884edac521fbdce1cf27d4f2
 SizeBytes = 25762384
@@ -76,14 +67,12 @@ SizeBytes = 25762384
 Name = Microsoft Word Görüntüleyici
 License = Bilinmiyor
 Description = Office biçimleri (*.doc) için ücretsiz belge görüntüleme uygulaması.
-Size = 24,5 MiB
 URLDownload = https://web.archive.org/web/20161231181555if_/http://download.microsoft.com/download/7/6/e/76efefb4-9575-4903-ac2a-180c280ab6c7/wordview_tr-tr.exe
 SHA1 = ce83185c354fd8bd1288dc1541aebbe7eaf3b9e5
 SizeBytes = 25738008
 
 [Section.0422]
 License = Невідома
-Size = 24.6 MiB
 URLDownload = https://web.archive.org/web/20140716114121if_/http://download.microsoft.com/download/2/b/d/2bd08f27-822b-4c20-936a-0f1d91cb9e69/wordview_uk-ua.exe
 SHA1 = b3615522dfc69496aca84a1f5b5ac44f4134955b
 SizeBytes = 25755048
@@ -91,14 +80,12 @@ SizeBytes = 25755048
 [Section.0804]
 License = 未知
 Description = 免费的 Office 格式（*.doc）的文档阅读器
-Size = 24.4 MiB
 URLDownload = https://web.archive.org/web/20130403002713if_/http://download.microsoft.com/download/3/a/c/3ac87e64-8099-46d6-8e04-363d2da30f5a/wordview_zh-cn.exe
 SHA1 = b0f98fef2b5c1e12c0850c4a9188f9ec3c52e1b4
 SizeBytes = 25628720
 
 [Section.0813]
 License = Ongekend
-Size = 24.5 MiB
 URLDownload = https://web.archive.org/web/20171202120536if_/http://download.microsoft.com/download/c/1/0/c10e009e-61e2-4b54-8d21-aff378679527/wordview_nl-nl.exe
 SHA1 = ff39a41cdaf2be65408d10a4a1da01ab9469906c
 SizeBytes = 25730832

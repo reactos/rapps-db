@@ -3,7 +3,6 @@ Name = Free Stopwatch
 Version = 4.0
 License = Freeware
 Description = A flexible digital stopwatch software.
-Size = 1.5 MiB
 Category = 12
 URLSite = http://free-stopwatch.com/
 URLDownload = http://web.archive.org/web/20161018075018/http://free-stopwatch.com/FreeStopwatchSetup.exe
@@ -12,7 +11,6 @@ SizeBytes = 1527424
 
 [Section.0407]
 Description = Eine flexible digitale Stoppuhr-Software.
-Size = 1,5 MiB
 
 [Section.0415]
 Description = Elastyczny, cyfrowy stoper.
@@ -20,24 +18,20 @@ Description = Elastyczny, cyfrowy stoper.
 [Section.0418]
 License = Gratuită
 Description = Aplicație flexibilă de cronometru digital.
-Size = 1,5 Mio
 
 [Section.0419]
 License = Бесплатно
 Description = Цифровой секундомер.
-Size = 1,5 МиБ
 
 [Section.041f]
 Name = Ücretsiz Süreölçer
 License = Ücretsiz
 Description = Esnek bir sayısal süreölçer yazılımı.
-Size = 1,5 MiB
 
 [Section.0425]
 Name = Tasuta stopper
 License = Vabavaraline
 Description = Painduv digitaalne stopperi tarkvara.
-Size = 1,5 MiB
 
 [Section.0804]
 License = 免费软件

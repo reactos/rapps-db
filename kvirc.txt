@@ -3,7 +3,6 @@ Name = KVIrc
 Version = 4.2.0
 License = GPLv2+
 Description = A good client for the Internet Relay Chat (IRC) written using the Qt GUI Toolkit.
-Size = 18.3 MiB
 Category = 5
 URLSite = http://www.kvirc.net/
 URLDownload = ftp://ftp.kvirc.net/pub/kvirc/4.2.0/binary/win32/KVIrc-4.2.0-Equilibrium.exe
@@ -15,8 +14,6 @@ Description = Un buen cliente para el Internet Relay Chat (IRC) escrito usando l
 
 [Section.040c]
 Description = Un bon client pour l'Internet Relay Chat (IRC) écrit avec le GUI Toolkit Qt.
-Size = 18,3 Mio
 
 [Section.0415]
 Description = Dobry klient IRC (Internet Relay Chat) napisany przy użyciu Qt GUI.
-Size = 18,3 MiB

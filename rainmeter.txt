@@ -3,7 +3,6 @@ Name = Rainmeter
 Version = 3.3.3.2744
 License = GPL
 Description = Rainmeter displays customizable skins, like memory and battery power, RSS feeds and weather forecasts, right on your desktop.
-Size = 2.29 MiB
 Category = 12
 URLSite = https://www.rainmeter.net/
 URLDownload = https://github.com/rainmeter/rainmeter/releases/download/v3.3.3.2744/Rainmeter-3.3.3.exe

@@ -3,7 +3,6 @@ Name = Winamp
 Version = 5.666 Full
 License = Freemium
 Description = A media player that supports extensibility with plug-ins and skins, and features music visualization, playlist and a media library, supported by a large online community.
-Size = 14.3 MiB
 Category = 1
 URLSite = http://www.winamp.com/
 URLDownload = http://winamp.meggamusic.co.uk/winamp5666_full_all_redux.exe
@@ -12,7 +11,6 @@ SizeBytes = 15023516
 
 [Section.0407]
 Description = Media Player welcher Erweiterbarkeit mit Plug-Ins und Skins ermöglicht und Musikvisualisierung, Playlist und Medienbibliothek bietet. Er wird durch eine große Online-Community unterstützt.
-Size = 14,3 MiB
 
 [Section.0415]
 Description = Odtwarzacz multimedialny ze wsparciem dla rozszerzeń i skórek, oferujący takie funkcje jak wizualizacja muzyki, playlista i biblioteka, wspierany przez dużą społeczność internetową.
@@ -20,18 +18,15 @@ Description = Odtwarzacz multimedialny ze wsparciem dla rozszerzeń i skórek, o
 [Section.0418]
 License = Gratuită, cu funcționalități opționale negratuite
 Description = Lector media cu diverse extensii, având o largă comunitate de utilizatori.
-Size = 14,3 Mio
 
 [Section.0419]
 License = Условно бесплатно
 Description = Поддерживает расширяемость с помощью плагинов и скинов. Имеет возможность визуализировать музыку. Есть списки воспроизведения и медиа-библиотека.
-Size = 14,3 МиБ
 
 [Section.041f]
 Version = 5.666 Eksiksiz
 License = Ücretsiz Seçkin
 Description = Winamp, eklentilerle ve dış görünümlerle genişletilebilirliği destekleyen, mûsikî sanallaştırmayı, çalma sistemini ve büyük bir çevrim içi topluluk tarafından desteklenen bir ortam kitaplığını barındıran bir ortam oynatıcısıdır.
-Size = 14,3 MiB
 
 [Section.0804]
 License = 免费商业软件

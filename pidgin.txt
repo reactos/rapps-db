@@ -3,7 +3,6 @@ Name = Pidgin
 Version = 2.14.1
 License = GPLv2
 Description = An instant messaging program which lets you log in to accounts on multiple chat networks simultaneously.
-Size = 8.29 MiB
 Category = 5
 URLSite = https://pidgin.im/
 URLDownload = https://jztkft.dl.sourceforge.net/project/pidgin/Pidgin/2.14.1/pidgin-2.14.1.exe
@@ -16,22 +15,18 @@ Description = Un programa de mensajería instantanea que te permite iniciar sesi
 
 [Section.0407]
 Description = Ein instant messaging-Programm, welches läßt Sie zu Konten auf mehreren Chat-Netzwerken gleichzeitig anmelden.
-Size = 8,29 MiB
 
 [Section.0415]
 Description = Komunikator internetowy, który pozwala na jednoczesne logowanie się w wielu sieciach czatowych.
 
 [Section.0418]
 Description = Program de mesagerie instantă. Permite autentificarea simultană în diverse rețele de conversație.
-Size = 8,29 Mio
 
 [Section.0419]
 Description = Программа обмена мгновенными сообщениями, которая позволит Вам войти в аккаунты нескольких чат-сетей одновременно.
-Size = 8,29 МиБ
 
 [Section.041f]
 Description = Aynı anda birden çok sohbet ağında bulunan hesaplarda oturum açmanızı sağlayan bir anlık yazışma programı.
-Size = 8,29 MiB
 
 [Section.0804]
 Description = 允许您同时登录多个聊天网络账号的即时通讯程序。

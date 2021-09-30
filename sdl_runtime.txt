@@ -3,7 +3,6 @@ Name = Simple Direct Media Layer (SDL) Runtime
 Version = 1.2.15
 License = LGPL
 Description = Needed for many open source games to run.
-Size = 136.7 KiB
 Category = 14
 URLSite = http://www.libsdl.org/
 URLDownload = http://www.libsdl.org/release/SDL-1.2.15-win32.zip
@@ -15,7 +14,6 @@ Description = Nutný pro spuštění některých open source her.
 
 [Section.0407]
 Description = Erforderlich um einige quelloffene Spiele auszuführen.
-Size = 136,7 KiB
 
 [Section.0a]
 Description = Necesario para ejecutar muchos juegos de código abierto.
@@ -23,7 +21,6 @@ Description = Necesario para ejecutar muchos juegos de código abierto.
 [Section.040c]
 Name = Bibliothèque Simple Direct Media Layer (SDL)
 Description = Nécessaire pour faire tourner certains jeux open source.
-Size = 136,7 Kio
 
 [Section.0410]
 Description = Necessario per il corretto funzionamento di alcuni giochi OpenSource.
@@ -37,16 +34,13 @@ Description = Wymagana przez wiele gier (głównie o otwartym źródle).
 
 [Section.0418]
 Description = Necesar pentru execuția multor jocuri (cu surse deschise).
-Size = 136,7 Kio
 
 [Section.0419]
 Description = Нужен для запуска многих игр с открытым исходным кодом.
-Size = 136,7 КиБ
 
 [Section.041f]
 Name = Simple Direct Media Layer (SDL) Yürütücü
 Description = Birçok açık kaynak oyunu çalıştırmak için gereklidir.
-Size = 136,7 KiB
 
 [Section.0422]
 Name = Бібліотека Simple Direct Media Layer (SDL)

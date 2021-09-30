@@ -3,7 +3,6 @@ Name = Microsoft Visual C++ 2015 Redistributable Update 3
 Version = 14.0.24212
 License = Unknown
 Description = Needed by applications compiled with Visual Studio 2015. Contains: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
-Size = 13.7 MiB
 Category = 14
 URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=53587
 URLDownload = https://download.microsoft.com/download/6/D/F/6DF3FF94-F7F9-4F0B-838C-A328D1A7D0EE/vc_redist.x86.exe
@@ -13,7 +12,6 @@ SizeBytes = 14456872
 [Section.0407]
 License = Unbekannt
 Description = Benötigt für Visual Studio 2015 basierte Anwendungen. Beinhaltet: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
-Size = 13,7 MiB
 
 [Section.0a]
 License = Desconocida
@@ -22,7 +20,6 @@ Description = Necesario para aplicaciones compiladas con Visual Studio 2015. Inc
 [Section.040c]
 License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2015. Contient: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
-Size = 13,7 Mio
 
 [Section.0410]
 License = Sconosciuta
@@ -39,17 +36,14 @@ Description = Biblioteki uruchomieniowe Microsoft Visual Studio 2015. Zawiera: a
 [Section.0418]
 License = Nespecificată
 Description = Pachet necesar pentru aplicațiile compilate cu Visual Studio 2015. Conține: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
-Size = 13,7 Mio
 
 [Section.0419]
 License = Неизвестно
 Description = Необходим для приложений, написанных в Visual Studio 2015. Содержит: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
-Size = 13,7 МиБ
 
 [Section.041f]
 License = Bilinmiyor
 Description = Visual Studio 2015 ile derlenmiş uygulamalar tarafından gereklidir. Şunları içerir: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
-Size = 13,7 MiB
 
 [Section.0422]
 License = Невідома
