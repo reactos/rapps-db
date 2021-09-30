@@ -9,5 +9,4 @@ URLDownload = https://mirror2.internetdownloadmanager.com/idman639build2.exe
 Icon=idm.ico
 Screenshot1 = https://i.imgur.com/ZgyZ62m.png
 SHA1 = d99662924b9d260872bba995b233332ee0eab748
-CDPath = none
 SizeBytes = 10640368

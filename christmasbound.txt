@@ -8,7 +8,6 @@ Category = 4
 URLSite = http://www.blueskied.com/xmas/christmas_main.htm
 URLDownload = http://www.blueskied.com/xmas/ChristmasBound_setup.exe
 SHA1 = cc8bef8e9060b1838f63af2864dc1f91abe60ea0
-CDPath = none
 SizeBytes = 913751
 
 [Section.0407]

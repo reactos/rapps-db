@@ -8,7 +8,6 @@ Category = 5
 URLSite = https://pidgin.im/
 URLDownload = https://jztkft.dl.sourceforge.net/project/pidgin/Pidgin/2.14.1/pidgin-2.14.1.exe
 SHA1 = 6cabba4a6afebd7b9c5ce74fa12c655cafd5b445
-CDPath = none
 SizeBytes = 8697184
 Icon = pidgin.ico
 

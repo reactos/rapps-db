@@ -7,7 +7,6 @@ Category = 14
 URLSite = https://www.microsoft.com/en-US/download/details.aspx?id=7151
 URLDownload = https://download.microsoft.com/download/4/3/9/4393c9ac-e69e-458d-9f6d-2fe191c51469/Jet40SP8_9xNT.exe
 SHA1 = 8cd25342030857969ede2d8fcc34f3f7bcc2d6d4
-CDPath = none
 SizeBytes = 3872168
 
 [Section.0a]

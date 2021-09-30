@@ -7,7 +7,6 @@ Category = 2
 URLSite = http://www.videolan.org/vlc/
 URLDownload = https://ftp.icm.edu.pl/pub/video/vlc/vlc/3.0.11/win32/vlc-3.0.11-win32.exe
 SHA1 = cf3b8ed243803c47a20c990174d8a42fa2e5789a
-CDPath = none
 SizeBytes = 40732864
 
 [Section.0407]

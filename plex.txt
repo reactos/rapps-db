@@ -5,5 +5,4 @@ Description = Plex theme from Windows Codename Longhorn.
 Category = 15
 URLDownload = https://github.com/petr-akhlamov/ros-repo/raw/master/plex.exe
 SHA1 = 77e24dfc61920c2f2675ea3e9c889877bef12c93
-CDPath = none
 SizeBytes = 693590

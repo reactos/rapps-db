@@ -8,7 +8,6 @@ Category = 7
 URLSite = http://www.codeblocks.org/
 URLDownload = https://download.sourceforge.net/project/codeblocks/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe
 SHA1 = d9159bdfa76762bf6ceade3485af4af13a6ecff7
-CDPath = none
 SizeBytes = 90337727
 
 [Section.0407]

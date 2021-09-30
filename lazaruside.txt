@@ -8,7 +8,6 @@ Category = 7
 URLSite = http://www.lazarus.freepascal.org/
 URLDownload = https://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2032%20bits/Lazarus%202.0.6/lazarus-2.0.6-fpc-3.0.4-win32.exe
 SHA1 = 20f58dea4405c142340fb486c9710752f4838a5d
-CDPath = none
 SizeBytes = 133997259
 
 [Section.0407]

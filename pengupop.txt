@@ -7,7 +7,6 @@ Size = 1.7 MiB
 Category = 4
 URLDownload = http://svn.reactos.org/packages/Pengupop.exe
 SHA1 = 59b87b20244cf13136f59c31b962a0521486a359
-CDPath = none
 SizeBytes = 1780574
 
 [Section.0407]

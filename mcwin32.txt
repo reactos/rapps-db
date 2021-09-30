@@ -8,7 +8,6 @@ Category = 12
 URLSite = http://sourceforge.net/projects/mcwin32/
 URLDownload = https://download.sourceforge.net/project/mcwin32/mcwin32-build204-setup.exe
 SHA1 = df6382b46efc9d29eef066d15d8433e697a79c6f
-CDPath = none
 SizeBytes = 3461847
 
 [Section.0407]

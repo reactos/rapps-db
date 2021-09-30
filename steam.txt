@@ -8,7 +8,6 @@ Category = 4
 URLSite = http://store.steampowered.com/
 URLDownload = https://encodedpr.com/files/reactos/apps/steam.zip
 SHA1 = 5967d1b0e91b477659a808bc14844e9fdd1ed7af
-CDPath = none
 SizeBytes = 494672502
 
 [Section.0407]

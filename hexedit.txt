@@ -8,7 +8,6 @@ Category = 7
 URLSite = http://www.catch22.net/software/hexedit1
 URLDownload = https://web.archive.org/web/20170926130019/http://www.catch22.net/sites/default/files/HexEdit121.zip
 SHA1 = 0a9bec4835123f63c358163c13b5c74b2295dfb2
-CDPath = none
 SizeBytes = 149786
 
 [Section.0a]

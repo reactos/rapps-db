@@ -7,7 +7,6 @@ Category = 4
 URLSite = https://classic.blitwise.com/ptanks.html
 URLDownload = https://classic.blitwise.com/ptanks.exe
 SHA1 = 1f10dd5830eecf117bc10daf7e85d29f364dbdc2
-CDPath = none
 SizeBytes = 3003784
 
 [Section.0407]

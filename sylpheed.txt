@@ -7,7 +7,6 @@ Category = 5
 URLSite = https://sylpheed.sraoss.jp/en/
 URLDownload = https://sylpheed.sraoss.jp/sylpheed/win32/Sylpheed-3.7_setup.exe
 SHA1 = 0518235bbef0cda374e1c8002eb4f65f8f2f8e6c
-CDPath = none
 SizeBytes = 8233467
 
 [Section.0419]

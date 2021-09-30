@@ -8,7 +8,6 @@ Category = 6
 URLSite = http://support.microsoft.com/
 URLDownload = https://web.archive.org/web/20171225133033if_/http://download.microsoft.com/download/e/a/9/ea913c8b-51a7-41b7-8697-9f0d0a7274aa/ExcelViewer.exe
 SHA1 = 610cdc9a6684a5ef57ee5b4c1ca127384f3fb7e1
-CDPath = none
 SizeBytes = 77738888
 
 [Section.0407]

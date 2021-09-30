@@ -7,7 +7,6 @@ Category = 6
 URLSite = https://www.ghostscript.com/
 URLDownload = https://web.archive.org/web/20200916172531/https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs923/gs923w32.exe
 SHA1 = 5d741922a801bf882b1fff64e9d047aebb622ac0
-CDPath = none
 SizeBytes = 25909024
 
 [Section.0407]

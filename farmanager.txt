@@ -8,7 +8,6 @@ Category = 12
 URLSite = https://www.farmanager.com/
 URLDownload = https://www.farmanager.com/files/Far30b5200.x86.20180502.msi
 SHA1 = 4299f3835a498ad38ae01d226aea410bb4d6689c
-CDPath = none
 SizeBytes = 10739712
 
 [Section.0407]

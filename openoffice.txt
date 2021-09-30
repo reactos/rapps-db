@@ -8,7 +8,6 @@ Category = 6
 URLSite = https://www.openoffice.org/
 URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.10/binaries/en-US/Apache_OpenOffice_4.1.10_Win_x86_install_en-US.exe
 SHA1 = 68d73772b0f9559a08d65ca556230fe32530af41
-CDPath = none
 SizeBytes = 142587736
 Icon = openoffice.ico
 Screenshot1 = https://i.imgur.com/ADdiCqE.png

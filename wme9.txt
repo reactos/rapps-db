@@ -8,7 +8,6 @@ Category = 14
 URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=17792
 URLDownload = https://people.ok.ubc.ca/mberger/MiscSW/WMEncoder.exe
 SHA1 = 7a3f8781f3e5705651992ef0150ee30bc1295116
-CDPath = none
 SizeBytes = 9918872
 
 [Section.0407]

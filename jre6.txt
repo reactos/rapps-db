@@ -7,7 +7,6 @@ Size = 16.2 MiB
 Category = 14
 URLDownload = https://ayera.dl.sourceforge.net/project/acts/jre-6u45-windows-i586.exe
 SHA1 = 5100b8eafaa7ed73ed6dab5469ba3faff38a9ae9
-CDPath = none
 SizeBytes = 17090992
 Icon = jdk8.ico
 

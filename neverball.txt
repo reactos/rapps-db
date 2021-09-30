@@ -8,7 +8,6 @@ Category = 4
 URLSite = http://neverball.org/
 URLDownload = http://neverball.org/neverball-1.6.0.zip
 SHA1 = 51b744f87ee8c435959da1fa0b35472fe02c719b
-CDPath = none
 SizeBytes = 75802818
 
 [Section.0407]

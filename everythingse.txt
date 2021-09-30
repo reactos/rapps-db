@@ -8,7 +8,6 @@ Category = 12
 URLSite = https://www.voidtools.com/
 URLDownload = https://www.voidtools.com/Everything-1.4.1.928.x86-Setup.exe
 SHA1 = b13cfdac10dd85737d94e7fc3b02a074a184137a
-CDPath = none
 SizeBytes = 1481176
 
 [Section.0407]

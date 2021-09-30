@@ -8,7 +8,6 @@ Category = 1
 URLSite = http://qmmp.ylsoftware.com/
 URLDownload = http://qmmp.ylsoftware.com/files/windows/0.11/qmmp-0.11.1-win32.exe
 SHA1 = ffe410a53b46a7905a7b80863aba4a37249c5250
-CDPath = none
 SizeBytes = 14754797
 
 [Section.0407]

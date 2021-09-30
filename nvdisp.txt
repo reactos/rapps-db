@@ -8,7 +8,6 @@ Category = 13
 URLSite = http://www.nvidia.com/
 URLDownload = http://download.nvidia.com/Windows/52.16/52.16_win2kxp_international_whql.exe
 SHA1 = 1efee6ebcf98ea4f00783e00921fc2116be78dcf
-CDPath = none
 SizeBytes = 19433601
 
 [Section.0a]

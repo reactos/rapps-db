@@ -7,7 +7,6 @@ Size = 4.6 MiB
 Category = 6
 URLDownload = https://svn.reactos.org/packages/AlReader2Setup.exe
 SHA1 = 84093c0a4af21e733357c20b649d2cec20ea67bb
-CDPath = none
 SizeBytes = 4776658
 
 [Section.0407]

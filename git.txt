@@ -8,7 +8,6 @@ Category = 7
 URLSite = https://gitforwindows.org/
 URLDownload = https://github.com/git-for-windows/git/releases/download/v2.10.0.windows.1/Git-2.10.0-32-bit.exe
 SHA1 = 5defdff68265622535b9f0423d9d9b8fb1c90be2
-CDPath = none
 SizeBytes = 32980760
 
 [Section.0419]

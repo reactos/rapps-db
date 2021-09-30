@@ -8,7 +8,6 @@ Category = 6
 URLSite = http://www.documentfoundation.org/
 URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86.msi
 SHA1 = be0769418eed84391f9cbcb3702b5e7d344cdfa0
-CDPath = none
 SizeBytes = 225308672
 
 [Section.0407]

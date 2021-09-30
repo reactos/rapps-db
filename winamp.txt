@@ -8,7 +8,6 @@ Category = 1
 URLSite = http://www.winamp.com/
 URLDownload = http://winamp.meggamusic.co.uk/winamp5666_full_all_redux.exe
 SHA1 = 136314be0da42ed399b88a106cb1f43093e2c0c2
-CDPath = none
 SizeBytes = 15023516
 
 [Section.0407]

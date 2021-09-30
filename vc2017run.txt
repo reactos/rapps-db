@@ -7,7 +7,6 @@ Size = 13.9 MiB
 Category = 14
 URLDownload = https://aka.ms/vs/15/release/vc_redist.x86.exe
 SHA1 = 3ee9622151e4b50837fcdfac1b085430f0181f4e
-CDPath = none
 SizeBytes = 14656504
 
 [Section.0407]

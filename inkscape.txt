@@ -7,7 +7,6 @@ Category = 3
 URLSite = https://www.inkscape.org/
 URLDownload = https://inkscape.org/gallery/item/8396/Inkscape-0.48.5-1-win32.exe
 SHA1 = 6fa012e495aab0624056054003c998137326219a
-CDPath = none
 SizeBytes = 34573304
 
 [Section.0407]

@@ -8,7 +8,6 @@ Category = 7
 URLSite = http://www.angusj.com/resourcehacker/
 URLDownload = https://web.archive.org/web/20180426130124if_/http://www.angusj.com/resourcehacker/reshacker_setup.exe
 SHA1 = a34547ccb44ce387c95e97d540e4763894a4a15b
-CDPath = none
 SizeBytes = 2933617
 
 [Section.0407]

@@ -8,7 +8,6 @@ Category = 4
 URLSite = http://scummvm.org/
 URLDownload = https://scummvm.org/frs/scummvm/2.0.0/scummvm-2.0.0-win32.exe
 SHA1 = df72f47edc1341dae439815fdaf4c857feae5924
-CDPath = none
 SizeBytes = 11985315
 
 [Section.0407]

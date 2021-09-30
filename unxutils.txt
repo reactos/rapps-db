@@ -8,7 +8,6 @@ Category = 12
 URLSite = http://unxutils.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/unxutils/unxutils/current/UnxUtils.zip
 SHA1 = f6a83c372110276f535a1963fa9701a547ef5342
-CDPath = none
 SizeBytes = 3365638
 
 [Section.0a]

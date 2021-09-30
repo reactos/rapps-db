@@ -7,7 +7,6 @@ Category = 7
 URLSite = https://www.freebasic.net/
 URLDownload = https://sourceforge.net/projects/fbc/files/FreeBASIC-1.08.1/Binaries-Windows/FreeBASIC-1.08.1-win32.exe
 SHA1 = 29977d1d2aaa6c322e155f3a2db9e3b7481d80a1
-CDPath = none
 SizeBytes = 19823315
 
 [Section.0407]

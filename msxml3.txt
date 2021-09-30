@@ -8,7 +8,6 @@ Category = 14
 URLSite = http://www.microsoft.com/downloads/details.aspx?FamilyID=28494391-052B-42FF-9674-F752BDCA9582&displaylang=en
 URLDownload = http://svn.reactos.org/packages/msxml3.msi
 SHA1 = d4c2178dfb807e1a0267fce0fd06b8d51106d913
-CDPath = none
 SizeBytes = 1070592
 
 [Section.0407]

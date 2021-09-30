@@ -8,7 +8,6 @@ Category = 16
 URLSite = https://github.com/google/swiftshader
 URLDownload = http://svn.reactos.org/packages/SwiftShader_ReactOS_WindowsXP_3.3.0.2.zip
 SHA1 = 43c0fe3c4c18b360b78786df9af49f0ef1da7c93
-CDPath = none
 SizeBytes = 1782144
 
 [Section.0415]

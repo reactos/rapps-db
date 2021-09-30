@@ -7,7 +7,6 @@ Category = 7
 URLSite = http://www.everedit.net/
 URLDownload = http://download.everedit.cn/everedit_win32_4480_setup.exe
 SHA1 = 74ef1e92d2337a8beabdd8ac1d387c7674009009
-CDPath = none
 SizeBytes = 4380855
 
 [Section.0804]

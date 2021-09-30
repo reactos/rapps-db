@@ -8,7 +8,6 @@ Category = 1
 URLSite = http://audacityteam.org/
 URLDownload = https://dreimer.eu/reactos/audacity-win-2.2.2.exe
 SHA1 = 39d00d43e72a7944f433d3f61855a487b5797328
-CDPath = none
 SizeBytes = 20248056
 
 [Section.0407]

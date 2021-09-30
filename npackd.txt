@@ -8,7 +8,6 @@ Category = 5
 URLSite = http://npackd.appspot.com
 URLDownload = https://github.com/tim-lebedkov/npackd-cpp/releases/download/version_1.23.2/Npackd32-1.23.2.msi
 SHA1 = 88f9ae14f1ded509989c49b510603b7e52bfffe4
-CDPath = none
 SizeBytes = 8490496
 
 [Section.0a]
