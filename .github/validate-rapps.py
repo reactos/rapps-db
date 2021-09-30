@@ -21,7 +21,6 @@ ALL_KEYS = [
     b'URLSite',
     b'URLDownload',
     b'SHA1',
-    b'CDPath',
     b'SizeBytes',
     b'SizeInBytes',
     b'Icon',
