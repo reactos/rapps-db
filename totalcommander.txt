@@ -8,7 +8,6 @@ Category = 12
 URLSite = http://www.ghisler.com/
 URLDownload = https://totalcommander.ch/win/tcmd912x32.exe
 SHA1 = edec52556aea94d2f5d895abf7bfacb12e00f991
-CDPath = none
 SizeBytes = 4366296
 
 [Section.0407]

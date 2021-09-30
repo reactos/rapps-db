@@ -8,7 +8,6 @@ Category = 6
 URLSite = http://akelpad.sourceforge.net/
 URLDownload = https://sourceforge.net/projects/akelpad/files/AkelPad%204/4.9.8/AkelPad-4.9.8-setup.exe
 SHA1 = a3d6f629942544c752e2894207d1f8b7883edd3f
-CDPath = none
 SizeBytes = 1205230
 
 [Section.0a]

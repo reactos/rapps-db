@@ -7,5 +7,4 @@ Category = 12
 URLSite = https://processhacker.sourceforge.io/
 URLDownload = https://github.com/processhacker/processhacker/releases/download/v2.38/processhacker-2.38-setup.exe
 SHA1 = 8953D402F80D18423E8744EDB05EB6582ED11019
-CDPath = none
 SizeBytes = 2261896

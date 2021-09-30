@@ -8,7 +8,6 @@ Category = 12
 URLSite = https://www.nirsoft.net/utils/usb_devices_view.html
 URLDownload = https://web.archive.org/web/20180524095442if_/http://nirsoft.net/utils/usbdeview.zip
 SHA1 = 7d9c5ef40a4a0263cee45764e327fe3e6dd318cd
-CDPath = none
 SizeBytes = 94634
 
 [Section.0415]

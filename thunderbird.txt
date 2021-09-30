@@ -8,7 +8,6 @@ Category = 5
 URLSite = https://www.mozilla.org/en-US/thunderbird/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/45.8.0/win32/en-US/Thunderbird%20Setup%2045.8.0.exe
 SHA1 = 6a62c77eacb47149d1e631e8b4749e3fd422dd96
-CDPath = none
 SizeBytes = 35068528
 
 [Section.0407]

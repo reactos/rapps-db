@@ -8,7 +8,6 @@ Category = 16
 URLSite = https://dev.mysql.com/
 URLDownload = https://dev.mysql.com/get/Downloads/MySQL-5.5/mysql-5.5.60-win32.msi
 SHA1 = d23aad8c75ed3b0b0dd2131c9b679542d3890004
-CDPath = none
 SizeBytes = 37466112
 
 [Section.0a]

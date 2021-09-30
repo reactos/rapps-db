@@ -8,7 +8,6 @@ Category = 7
 URLSite = http://www.catch22.net/software/winspy
 URLDownload = http://www.catch22.net/assets/files/software/WinSpy17.zip
 SHA1 = E1414E233267025E9B384C4B02A5DADA7CC8098E
-CDPath = none
 SizeBytes = 59355
 
 [Section.0407]

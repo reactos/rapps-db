@@ -8,7 +8,6 @@ Category = 7
 URLSite = http://www.python.org/
 URLDownload = https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi
 SHA1 = 46c89a6eebfb5f2e8f9b7edbe5409e314366a66a
-CDPath = none
 SizeBytes = 24932352
 
 [Section.0407]

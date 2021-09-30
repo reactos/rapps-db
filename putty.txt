@@ -8,7 +8,6 @@ Category = 5
 URLSite = http://www.chiark.greenend.org.uk/~sgtatham/putty/
 URLDownload = https://the.earth.li/~sgtatham/putty/0.70/w32/putty-0.70-installer.msi
 SHA1 = 2031fc9b6a972f5c3f3e506987143dfc1f7214e0
-CDPath = none
 SizeBytes = 2942464
 
 [Section.0407]

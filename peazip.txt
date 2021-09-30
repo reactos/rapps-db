@@ -8,7 +8,6 @@ Category = 12
 URLSite = http://peazip.sourceforge.net/
 URLDownload = https://download.sourceforge.net/project/peazip/6.6.0/peazip-6.6.0.WINDOWS.exe
 SHA1 = a1aefe8e06f14c16e5516c797fc4a81afde3c1b5
-CDPath = none
 SizeBytes = 7138401
 
 [Section.0407]

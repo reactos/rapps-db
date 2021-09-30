@@ -7,7 +7,6 @@ Category = 7
 URLSite = https://katahiromz.web.fc2.com/re/en/
 URLDownload = https://github.com/katahiromz/RisohEditor/releases/download/5.5.6/RisohEditor-5.5.6-installer.exe
 SHA1 = 5970da2367ba28560f172f61dec47e6ed3ac679a
-CDPath = none
 SizeBytes = 3795621
 
 [Section.0411]

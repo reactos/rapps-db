@@ -8,7 +8,6 @@ Category = 7
 URLSite = https://tortoisegit.org/
 URLDownload = https://download.tortoisegit.org/tgit/1.8.16.0/TortoiseGit-1.8.16.0-32bit.msi
 SHA1 = ef5af7bb8eaa68bcb1dffd17b4cad23564169271
-CDPath = none
 SizeBytes = 16433152
 
 [Section.040c]

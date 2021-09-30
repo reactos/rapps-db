@@ -8,7 +8,6 @@ Category = 5
 URLSite = https://www.mypal-browser.org/
 URLDownload = https://archive.org/download/mypal-27.9.4.win32.installer/mypal-27.9.4.win32.installer.exe
 SHA1 = 185ad6bd279d532789a8e890773bc95239273ec4
-CDPath = none
 SizeBytes = 31540445
 
 [Section.0a]

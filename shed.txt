@@ -8,7 +8,6 @@ Category = 4
 URLSite = https://www.catch22.net/software/shed
 URLDownload = https://www.catch22.net/assets/files/software/shedsetup1.exe
 SHA1 = beb2f027c2955205a6c520be112b9b43ea5e6fae
-CDPath = none
 SizeBytes = 67371
 
 [Section.0407]

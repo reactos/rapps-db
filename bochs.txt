@@ -8,7 +8,6 @@ Category = 16
 URLSite = http://bochs.sourceforge.net/
 URLDownload = https://download.sourceforge.net/project/bochs/bochs/2.6.9/Bochs-2.6.9.exe
 SHA1 = ad2d245b9f7d0492ec800df4b38b8893d8bb0642
-CDPath = none
 SizeBytes = 5335913
 
 [Section.0407]

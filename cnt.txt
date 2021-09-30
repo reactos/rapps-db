@@ -8,7 +8,6 @@ Category = 12
 URLSite = http://cnt.lakefolks.com
 URLDownload = https://svn.reactos.org/packages/CNTzip.exe
 SHA1 = 5aac6280bd28308a1a92a0053fc550ea8e647eb3
-CDPath = none
 SizeBytes = 1368064
 
 [Section.0407]

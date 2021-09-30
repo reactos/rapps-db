@@ -8,7 +8,6 @@ Category = 15
 URLSite = https://uploads.s.zeid.me/Watercolor/README.html
 URLDownload = https://uploads.s.zeid.me/Watercolor/WatercolorLitev211.exe
 SHA1 = f8fa5c37077249724b7164a27efa47d526f7c2d5
-CDPath = none
 SizeBytes = 601627
 
 [Section.0a]

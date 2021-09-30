@@ -8,7 +8,6 @@ Category = 14
 URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=53587
 URLDownload = https://download.microsoft.com/download/6/D/F/6DF3FF94-F7F9-4F0B-838C-A328D1A7D0EE/vc_redist.x86.exe
 SHA1 = 89f20df555625e1796a60bba0fbd2f6bbc627370
-CDPath = none
 SizeBytes = 14456872
 
 [Section.0407]

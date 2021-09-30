@@ -8,8 +8,6 @@ Category = 12
 URLSite = https://www.ccleaner.com/ccleaner
 URLDownload = https://download.ccleaner.com/ccsetup562.exe
 SHA1 = e5c348ec9ff7905cb7f09a61a8686cb1e32154de
-
-CDPath = none
 SizeBytes = 25441808
 
 [Section.0407]

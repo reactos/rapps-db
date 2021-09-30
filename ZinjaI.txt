@@ -7,7 +7,6 @@ Size = 35.8MB
 Category = 7
 URLSite = http://zinjai.sourceforge.net/
 URLDownload = https://sourceforge.net/projects/zinjai/files/zinjai-20180718/zinjai-w32-20180718.exe/download
-CDPath = none
 
 [Section.040a]
 Description = ZinjaI es un entorno de desarrollo IDE para programar en C y C++.

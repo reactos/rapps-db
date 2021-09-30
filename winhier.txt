@@ -7,7 +7,6 @@ Category = 7
 URLSite = https://katahiromz.web.fc2.com/winhier/en
 URLDownload = https://github.com/katahiromz/WinHier/releases/download/2.2/WinHier-2.2-setup.exe
 SHA1 = 89b1088938e32d838983cee186e2277459123c6c
-CDPath = none
 SizeBytes = 783338
 
 [Section.0a]

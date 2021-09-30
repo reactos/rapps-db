@@ -8,7 +8,6 @@ Category = 16
 URLSite = https://www.qemu.org/
 URLDownload = https://qemu.weilnetz.de/w32/2013/qemu-w32-setup-20130627.exe
 SHA1 = d5c45b5220951a2abbb3340d368c36d3140da83f
-CDPath = none
 SizeBytes = 13938504
 
 [Section.0415]

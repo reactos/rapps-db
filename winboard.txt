@@ -8,7 +8,6 @@ Category = 4
 URLSite = http://hgm.nubati.net
 URLDownload = http://hgm.nubati.net/WinBoard-4.8.0.exe
 SHA1 = a242194b7582c196612f78b397bac892bb6908e0
-CDPath = none
 SizeBytes = 2551668
 
 [Section.0407]

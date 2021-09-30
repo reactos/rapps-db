@@ -8,7 +8,6 @@ Category = 4
 URLSite = http://www.blizzard.com/diablo2/
 URLDownload = https://bitbucket.org/Swyter/tld-downloads/downloads/diabloiidemo.exe
 SHA1 = f7aa7f76b9f4c7584d4980cb32a7de97394a3f05
-CDPath = none
 SizeBytes = 138309685
 
 [Section.0407]

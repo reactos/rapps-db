@@ -8,7 +8,6 @@ Category = 7
 URLSite = http://www.qb64.net/
 URLDownload = https://web.archive.org/web/20180526110545if_/http://www.qb64.net/release/dirty/2018_05_19__05_07_33-1.2-20180202.85/windows/qb64-1.2-20180202.85-win.zip
 SHA1 = 64b8f8d32c24c65598f9d655506fec25c4fb4052
-CDPath = none
 SizeBytes = 102775452
 
 [Section.0407]

@@ -8,7 +8,6 @@ Category = 12
 URLSite = http://doublecmd.sourceforge.net/
 URLDownload = https://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2032%20bit/Double%20Commander%200.8.2%20beta/doublecmd-0.8.2.i386-win32.exe
 SHA1 = 3fa65b99368bbd4d20aee2743e346b3e914e3315
-CDPath = none
 SizeBytes = 6566228
 
 [Section.0407]

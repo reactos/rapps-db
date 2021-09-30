@@ -8,7 +8,6 @@ Category = 4
 URLSite = http://www.supertux.lethargik.org
 URLDownload = https://github.com/SuperTux/supertux/releases/download/v0.5.1/SuperTux-v0.5.1-win32.msi
 SHA1 = e8ce99f3197b0c1cb329054ba82d957255c54cea
-CDPath = none
 SizeBytes = 90194764
 
 [Section.0407]

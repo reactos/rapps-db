@@ -8,7 +8,6 @@ Category = 12
 URLSite = http://www.md5summer.org/
 URLDownload = http://www.md5summer.org/md5v12011.zip
 SHA1 = 3d21df6f587bf187dad9a300b6ae3a2b479e8329
-CDPath = none
 SizeBytes = 463330
 
 [Section.0a]

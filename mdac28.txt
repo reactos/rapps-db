@@ -7,7 +7,6 @@ Category = 14
 URLSite = https://web.archive.org/web/20160306135607/https://www.microsoft.com/en-us/download/details.aspx?id=5793
 URLDownload = https://web.archive.org/web/20200803205618if_/https://download.microsoft.com/download/4/a/a/4aafff19-9d21-4d35-ae81-02c48dcbbbff/MDAC_TYP.EXE
 SHA1 = 4fbc272c79da59e38818924d8575accb0af776fb
-CDPath = none
 SizeBytes = 6100504
 
 [Section.0a]

@@ -7,7 +7,6 @@ Size = 185.5 KiB
 Category = 13
 URLDownload = http://svn.reactos.org/packages/ac97_vbox.exe
 SHA1 = 050b74c2f1b7aacaf2c2ff5068b89a24e4495d21
-CDPath = none
 SizeBytes = 189954
 
 [Section.0405]

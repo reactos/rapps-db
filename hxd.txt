@@ -7,7 +7,6 @@ Category = 7
 URLSite = https://mh-nexus.de/en/
 URLDownload = https://mh-nexus.de/downloads/HxDSetup.zip
 SHA1 = d0d69744f1d01353507bc090ff79fb45db6882c0
-CDPath = none
 SizeBytes = 3348036
 
 [Section.0407]

@@ -8,7 +8,6 @@ Category = 10
 URLSite = http://gnucash.org/
 URLDownload = https://download.sourceforge.net/sourceforge/gnucash/gnucash%20%28stable%29/2.6.21/gnucash-2.6.21-setup.exe
 SHA1 = 1e0c6b54de65824b24feb30e96de2f062bb9787e
-CDPath = none
 SizeBytes = 119588469
 
 [Section.0407]

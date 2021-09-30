@@ -8,7 +8,6 @@ Category = 4
 URLSite = https://www.openttd.org/
 URLDownload = https://cdn.openttd.org/openttd-releases/1.10.3/openttd-1.10.3-windows-win32.exe
 SHA1 = c4f37b89a7a657ea08541263acd6d851b133e146
-CDPath = none
 SizeBytes = 5161788
 
 [Section.0407]

@@ -8,7 +8,6 @@ Category = 5
 URLSite = https://www.mozilla.org/en-US/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/en-US/Firefox%20Setup%2048.0.2.exe
 SHA1 = 82e3a5075a4aeb053fb45a573c0388cb576fb6cb
-CDPath = none
 SizeBytes = 45172688
 
 [Section.0405]

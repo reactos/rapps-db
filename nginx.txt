@@ -8,7 +8,6 @@ Category = 5
 URLSite = http://nginx.org/
 URLDownload = https://nginx.org/download/nginx-1.14.0.zip
 SHA1 = a722b8ff0da23ebe9aeca256b44e52705a3cf71c
-CDPath = none
 SizeBytes = 1473335
 
 [Section.0a]

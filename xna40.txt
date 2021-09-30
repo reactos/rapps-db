@@ -8,7 +8,6 @@ Category = 14
 URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=20914
 URLDownload = https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi
 SHA1 = 49efdc29f65fc8263c196338552c7009fc96c5de
-CDPath = none
 SizeBytes = 7054336
 
 [Section.0a]

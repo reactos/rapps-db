@@ -8,7 +8,6 @@ Category =  4
 URLSite = https://www.gog.com/galaxy
 URLDownload = https://svn.reactos.org/packages/setup_galaxy_1.1.15.13.exe
 SHA1 = 93198e62d8e34034f8668479c92b106faacc850a
-CDPath = none
 SizeBytes = 146623848
 
 [Section.0a]

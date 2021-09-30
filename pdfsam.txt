@@ -8,7 +8,6 @@ Category = 6
 URLSite = http://www.pdfsam.org/
 URLDownload = https://download.sourceforge.net/project/pdfsam/pdfsam/3.3.5/pdfsam-v3.3.5.msi
 SHA1 = 3baf154bf6ce75d62746d866fc5106c4c8300776
-CDPath = none
 SizeBytes = 15396864
 
 [Section.0a]

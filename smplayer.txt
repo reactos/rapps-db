@@ -8,7 +8,6 @@ Category = 2
 URLSite = http://smplayer.sourceforge.net/en/
 URLDownload = https://download.sourceforge.net/project/smplayer/SMPlayer/18.5.0/smplayer-18.5.0-win32.exe
 SHA1 = 42ee24828cec18cb33b3f8ce54d96342118f399c
-CDPath = none
 SizeBytes = 40892832
 
 [Section.0407]

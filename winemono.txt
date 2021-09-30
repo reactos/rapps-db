@@ -8,7 +8,6 @@ Category = 14
 URLSite = http://sourceforge.net/projects/wine/files/Wine Mono
 URLDownload = http://download.sourceforge.net/wine/Wine%20Mono/4.5.6/wine-mono-4.5.6.msi
 SHA1 = 12ec9a4fa5958426292effd40d9230c7acbba1e8
-CDPath = none
 SizeBytes = 53705216
 
 [Section.0407]

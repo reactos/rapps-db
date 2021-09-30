@@ -8,7 +8,6 @@ Category = 14
 URLSite = 
 URLDownload = https://svn.reactos.org/amine/wine_gecko-2.40-x86.msi
 SHA1 = 8a3adedf3707973d1ed4ac3b2e791486abf814bd
-CDPath = none
 SizeBytes = 27959808
 
 [Section.0407]

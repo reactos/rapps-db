@@ -8,7 +8,6 @@ Category = 12
 URLSite = http://www.diskinternals.com/linux-reader/
 URLDownload = https://web.archive.org/web/20180525220638if_/http://www.diskinternals.com/files/Linux_Reader.exe
 SHA1 = e299b236a60536e4d44729d016dbfc4b9e1ffe7a
-CDPath = none
 SizeBytes = 22355893
 
 [Section.0407]

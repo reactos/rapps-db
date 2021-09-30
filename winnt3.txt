@@ -5,5 +5,4 @@ Description = A Windows theme based on the look of Windows NT 3.
 Category = 15
 URLDownload = https://github.com/petr-akhlamov/ros-repo/raw/master/winnt3.exe
 SHA1 = c24a23d4b39566a9e1e1738ae29b29db5f33c418
-CDPath = none
 SizeBytes = 170825

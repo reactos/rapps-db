@@ -8,7 +8,6 @@ Category = 12
 URLSite = http://www.sowsoft.com
 URLDownload = http://www.sowsoft.com/download/efsearch.zip
 SHA1 = f008759a3ed0dd96ca51438b857b41c4bd6a4e11
-CDPath = none
 SizeBytes = 967106
 
 [Section.0a]

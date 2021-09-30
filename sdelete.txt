@@ -7,7 +7,6 @@ Category = 12
 URLSite = https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete
 URLDownload = https://download.sysinternals.com/files/SDelete.zip
 SHA1 = e08182dcce77c122f7bc18c01e380ecf066aad2e
-CDPath = none
 SizeInBytes = 531364
 
 ; Turkish

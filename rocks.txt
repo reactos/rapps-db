@@ -8,7 +8,6 @@ Category = 4
 URLSite = http://www.artsoft.org/rocksndiamonds/
 URLDownload = http://www.artsoft.org/RELEASES/win32/rocksndiamonds/rocksndiamonds-3.3.1.2-setup.exe
 SHA1 = c00f508ec5edebc98d3159c1673bd02a2769d10b
-CDPath = none
 SizeBytes = 2549896
 
 [Section.0407]

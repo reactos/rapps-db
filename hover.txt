@@ -7,7 +7,6 @@ Size = 6.2 MiB
 Category = 4
 URLDownload = http://svn.reactos.org/packages/Hover.exe
 SHA1 = 2e9220901494175df906e6bb8d16fa4c6b730921
-CDPath = none
 SizeBytes = 6456517
 
 [Section.0407]

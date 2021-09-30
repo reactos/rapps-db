@@ -8,7 +8,6 @@ Category = 7
 URLSite = http://bellard.org/tcc/
 URLDownload = https://download.savannah.gnu.org/releases/tinycc/tcc-0.9.27-win32-bin.zip
 SHA1 = 455f7571620c9a002562184f8f1f8d9025b34d87
-CDPath = none
 SizeBytes = 483247
 
 [Section.0407]

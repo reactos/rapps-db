@@ -8,7 +8,6 @@ Category = 14
 URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=15697
 URLDownload = https://download.microsoft.com/download/A/2/D/A2D8587D-0027-4217-9DAD-38AFDB0A177E/msxml.msi
 SHA1 = aa70c5c1a7a069af824947bcda1d9893a895318b
-CDPath = none
 SizeBytes = 2434048
 
 [Section.0407]
