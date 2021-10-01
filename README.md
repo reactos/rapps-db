@@ -5,8 +5,8 @@ ADDING PROGRAMS TO THE RAPPS DATABASE
 
 Each program entry consists of a text file formatted with an INI-like syntax.
 
-They must be:
-Encoded in `UTF-16 LE (Little Endian)` or characters out of the ANSI range will display broken. 
+They must be encoded in UTF-8 without BOM (Byte Order Mask) in this repository.
+However, when you are testing a new entry file with RAPPS in ReactOS or Windows, they are stored in UTF-16 LE (Little Endian) encoding in the `rapps` folder on disk - otherwise characters out of the ANSI range will display broken. 
 **Note:** some editors like Notepad++ call this format `UCS-2 Little Endian.`
 
 
