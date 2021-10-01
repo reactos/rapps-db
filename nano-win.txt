@@ -1,0 +1,15 @@
+[Section]
+Name = Nano for Windows
+Version = 4.9
+License = GPLv3
+Description = Nano for Windows (nano-win) is the ported, standalone version of GNU nano, a famous, easy-to-use and handy text editor on Linux. Copy the "nano.exe" file to the target folder, preferably add the directory to PATH in Environment Variables.
+Category = 12
+URLSite = https://github.com/lhmouse/nano-win
+URLDownload = https://github.com/zbalkan/nano-win/releases/download/Executable/nano.exe
+SHA1 = 9a824dfd5486632e018c4fa8ece9a862c01e4772
+SizeInBytes = 638976
+Screenshot1 = https://raw.githubusercontent.com/zbalkan/nano-win/main/nano.jpg
+
+; Turkish
+[Section.041f]
+Description = Nano for Windows (nano-win), Linux üzerinde kullanılan ünlü, kullanımı kolay ve kullanışlı metin düzenleyici olan GNU nano'nun port edilmiş, tek başına çalışabilen bir sürümüdür. "nano.exe" dosyasını uygun bir klasöre kopyalayın. Çevresel Değişkenler'de PATH değişkenine klasörü eklemeniz tavsiye edilir.
