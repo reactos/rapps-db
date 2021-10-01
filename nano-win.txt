@@ -7,7 +7,7 @@ Category = 12
 URLSite = https://github.com/lhmouse/nano-win
 URLDownload = https://github.com/zbalkan/nano-win/releases/download/Executable/nano.exe
 SHA1 = 9a824dfd5486632e018c4fa8ece9a862c01e4772
-SizeInBytes = 638976
+SizeBytes = 638976
 Screenshot1 = https://raw.githubusercontent.com/zbalkan/nano-win/main/nano.jpg
 
 ; Turkish
