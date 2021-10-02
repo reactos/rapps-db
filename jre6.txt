@@ -3,16 +3,14 @@ Name = Java SE Runtime Environment 6
 Version = 6u45
 License = Oracle Binary Code License
 Description = Platform and libraries needed for running Java-based programs.
-Size = 16.2 MiB
 Category = 14
-URLDownload = https://ayera.dl.sourceforge.net/project/acts/jre-6u45-windows-i586.exe
+URLDownload = https://web.archive.org/web/20211002235240/https://de.osdn.net/projects/sfnet_acts/downloads/jre-6u45-windows-i586.exe/
 SHA1 = 5100b8eafaa7ed73ed6dab5469ba3faff38a9ae9
 SizeBytes = 17090992
 Icon = jdk8.ico
 
 [Section.0407]
 Description = Sie wollen Java Programme nutzen? Wenn ja, laden Sie die Java Runtime Environment herunter.
-Size = 16,2 MiB
 
 [Section.0a]
 Description = Plataforma y bibliotecas necesarias para la ejecución de aplicaciones programadas en Java.
@@ -21,25 +19,20 @@ Description = Plataforma y bibliotecas necesarias para la ejecución de aplicaci
 Name = Java SE Runtime Environment 6
 License = Oracle İkili Kod Ruhsatı
 Description = Java programlarını çalıştırmak ister misiniz? Öyleyse Java Runtime Environment'ı indiriniz.
-Size = 16,2 MiB
 
 [Section.0415]
 Description = Platforma i biblioteki potrzebne do uruchamiania programów Java.
-Size = 16,2 MiB
 
 [Section.0418]
 License = Licență Oracle pentru cod binar
 Description = Platformă necesară pentru aplicațiile Java.
-Size = 16,2 Mio
 
 [Section.0419]
 Description = Платформа и библиотеки для запуска java-программ.
-Size = 16,2 МиБ
 
 [Section.0425]
 License = Oracle binaarkoodi litsents
 Description = Vajalikud teegid ja platvorm Java-põhiste programmide rakendamiseks.
-Size = 16,2 MiB
 
 [Section.0804]
 License = Oracle 二进制代码许可
