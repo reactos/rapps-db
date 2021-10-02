@@ -9,6 +9,7 @@ URLSite = https://www.farmanager.com/
 URLDownload = https://www.farmanager.com/files/Far30b5200.x86.20180502.msi
 SHA1 = 4299f3835a498ad38ae01d226aea410bb4d6689c
 SizeBytes = 10739712
+Icon = farmanager.ico
 
 [Section.0407]
 Description = Quelloffener, konsolenbasierter Dateimanager mit zwei nebeneinander liegenden Panels.
