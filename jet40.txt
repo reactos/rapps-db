@@ -5,7 +5,7 @@ License = Unknown
 Description = This installation includes Microsoft products that incorporate Microsoft Jet database engine version 4.0.
 Category = 14
 URLSite = https://www.microsoft.com/en-US/download/details.aspx?id=7151
-URLDownload = https://download.microsoft.com/download/4/3/9/4393c9ac-e69e-458d-9f6d-2fe191c51469/Jet40SP8_9xNT.exe
+URLDownload = https://web.archive.org/web/20200822214824/https://download.microsoft.com/download/4/3/9/4393c9ac-e69e-458d-9f6d-2fe191c51469/Jet40SP8_9xNT.exe
 SHA1 = 8cd25342030857969ede2d8fcc34f3f7bcc2d6d4
 SizeBytes = 3872168
 
