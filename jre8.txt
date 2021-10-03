@@ -3,16 +3,14 @@ Name = Java SE Runtime Environment 8
 Version = 8u11
 License = Oracle Binary Code License
 Description = Platform and libraries needed for running Java-based programs.
-Size = 29.7 MiB
 Category = 14
-URLDownload = https://netix.dl.sourceforge.net/project/javaclientmsiinstallers/v8u11/jre-8u11-windows-i586.exe
+URLDownload = http://dubik.su/files/soft/Java/jre-8u11-windows-i586.exe
 SHA1 = 5d59f9e360c83e61e365c75d6602f5cd0ba033b5
 SizeBytes = 31150504
 Icon = jdk8.ico
 
 [Section.0407]
 Description = Sie wollen Java Programme nutzen? Wenn ja, laden Sie die Java Runtime Environment herunter.
-Size = 29,7 MiB
 
 [Section.0a]
 Description = Plataforma y bibliotecas necesarias para la ejecución de aplicaciones programadas en Java.
@@ -21,25 +19,20 @@ Description = Plataforma y bibliotecas necesarias para la ejecución de aplicaci
 Name = Java SE Runtime Environment 8
 License = Oracle İkili Kod Ruhsatı
 Description = Java programlarını çalıştırmak ister misiniz? Öyleyse Java Runtime Environment'ı indiriniz.
-Size = 29,7 MiB
 
 [Section.0415]
 Description = Platforma i biblioteki potrzebne do uruchamiania programów Java.
-Size = 29,7 MiB
 
 [Section.0418]
 License = Licență Oracle pentru cod binar
 Description = Platformă necesară pentru aplicațiile Java.
-Size = 29,7 Mio
 
 [Section.0419]
 Description = Платформа и библиотеки для запуска java-программ.
-Size = 29,7 МиБ
 
 [Section.0425]
 License = Oracle binaarkoodi litsents
 Description = Vajalikud teegid ja platvorm Java-põhiste programmide rakendamiseks.
-Size = 29,7 MiB
 
 [Section.0804]
 License = Oracle 二进制代码许可
