@@ -10,4 +10,3 @@ URLDownload = https://sourceforge.net/projects/gnukem/files/gnukem/Dave_Gnukem_S
 SHA1 = 1f0ebdeadb9aca427ad2ab14617103793506676f
 SizeBytes = 21524896
 Languages=0409
-Icon = davegnukem.ico

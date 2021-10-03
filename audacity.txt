@@ -9,7 +9,6 @@ URLSite = http://audacityteam.org/
 URLDownload = https://dreimer.eu/reactos/audacity-win-2.2.2.exe
 SHA1 = 39d00d43e72a7944f433d3f61855a487b5797328
 SizeBytes = 20248056
-Icon = audacity.ico
 
 [Section.0407]
 Description = Freie, quelloffene Cross-Plattform Software zur Aufnahme und Bearbeitung von Sounds.
