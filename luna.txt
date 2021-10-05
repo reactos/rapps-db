@@ -3,6 +3,6 @@ Name = Luna
 License = EULA
 Description = Luna theme from Windows XP.
 Category = 15
-URLDownload = https://github.com/petr-akhlamov/ros-repo/raw/master/luna.exe
+URLDownload = https://web.archive.org/web/20211005193602/https://raw.githubusercontent.com/petr-akhlamov/ros-repo/master/luna.exe
 SHA1 = 584cb4bc31f6c1a252a13f925fac6e1ade049bd5
 SizeBytes = 1186139
