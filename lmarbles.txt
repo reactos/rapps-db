@@ -5,7 +5,7 @@ License = GPL
 Description = Atomix Clone using SDL libs.
 Category = 4
 URLSite = http://lgames.sourceforge.net/index.php?project=LMarbles
-URLDownload = http://download.sourceforge.net/project/lgames/binaries/lmarbles-1.0.6-win32.exe
+URLDownload = https://archive.org/download/lmarbles-1.0.6-win32/lmarbles-1.0.6-win32.exe
 SHA1 = c812e4fd05f534e51104b42799b592765af7067a
 SizeBytes = 1453852
 
