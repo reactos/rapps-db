@@ -1,7 +1,7 @@
 [Section]
 Name = Apache OpenOffice
 Version = 4.1.11
-License = Apache License v2.0
+License = AL v2.0
 LicenseInfo = 1
 Description = Open source office suite.
 Category = 6
@@ -10,7 +10,7 @@ URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.
 SHA1 = c6ce23cd77302af3f7f16384296fc99712ae7458
 SizeBytes = 142721408
 Icon = openoffice.ico
-Screenshot1 = https://i.imgur.com/ADdiCqE.png
+Screenshot1 = https://i.imgur.com/Mzi6elK.png
 
 [Section.0407]
 Description = Quelloffene Office-Suite.
