@@ -11,8 +11,10 @@ SHA1 = 8351328b571bbec051a069322289a9eb65477be5
 SizeBytes = 92491776
 Languages=0409|040A
 
+[Section.0404]
+Description = 一款由 Zulu 建構，基於 OpenJDK 的開源 Java 編譯器和執行環境。
+
 [Section.040a]
 Name = Java SE 8. Compilador y entorno de ejecución.
 Description = Un compilador Java de código abierto y un entorno de ejecución creado por Zulu basado en OpenJDK.
-
 

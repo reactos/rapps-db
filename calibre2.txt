@@ -16,3 +16,7 @@ SizeBytes = 67489792
 
 [Section.0a]
 Description = Calibre es un software de licencia abierta para la gestión de libros digitales. Edita librerías virtuales, lee libros, crea y convierte ebooks y sincronízalos con tu dispositivo favorito.
+
+[Section.0404]
+Description = Calibre 是一款開源、跨平臺的電子書程式集。您可以編輯虛擬圖書館、顯示、建立、轉換您的電子書，並同步至您喜歡的裝置。
+

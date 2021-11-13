@@ -9,6 +9,12 @@ URLDownload = https://download.sourceforge.net/sourceforge/gnucash/gnucash%20%28
 SHA1 = 1e0c6b54de65824b24feb30e96de2f062bb9787e
 SizeBytes = 119588469
 
+[Section.0a]
+Description = Un programa de contabilidad personal y de PYMEs liberado bajo los términos de la GNU GPL. Está disponible para GNU/Linux, BSD, Solaris, Mac OS X y Microsoft Windows.
+
+[Section.0404]
+Description = 個人和小企業的財務管理軟體，以 GNU GPL 許可免費發行，可在 GNU/Linux、BSD、Solaris、Mac OS X 和 Microsoft Windows 上使用。
+
 [Section.0407]
 Description = Privat und Small-Business Finanzbuchhaltungssoftware, unter der GNU GPL lizenziert und frei für GNU / Linux, BSD, Solaris, Mac OS X und Microsoft Windows verfügbar.
 
@@ -26,9 +32,6 @@ Description = GNU GPL altında özgürce ruhsatlanmış, GNU/Linux, BSD, Solaris
 
 [Section.0425]
 Description = Finantsarvestus tarkvara eraisikutele ja väikeettevõtjatele, tasuta litsentseeritud GNU GPL all ja saadaval GNU/Linux, BSD, Solaris, Mac OS X ja Microsoft Windows platvormidel.
-
-[Section.0a]
-Description = Un programa de contabilidad personal y de PYMEs liberado bajo los términos de la GNU GPL. Está disponible para GNU/Linux, BSD, Solaris, Mac OS X y Microsoft Windows.
 
 [Section.0804]
 Description = 个人和小企业财务管理软件，以 GNU GPL 许可免费发行，可供 GNU/Linux、BSD、Solaris、Mac OS X 和 Microsoft Windows 使用。

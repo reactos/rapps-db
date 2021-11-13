@@ -9,6 +9,12 @@ URLDownload = http://download.sourceforge.net/project/freemat/FreeMat4/FreeMat-4
 SHA1 = 0f3dce8d6109e0da87f1851f4f4b8fec5f0e8943
 SizeBytes = 52264419
 
+[Section.0a]
+Description = Un entorno gratuito y rápido de prototipado científico, de procesamiento de datos e ingenieril.
+
+[Section.0404]
+Description = 一款免費的快速工程、科學原型設計和資料處理的環境。
+
 [Section.0407]
 Description = Eine freie Umgebung für schnelle technische und wissenschaftliche Prototyping und Datenverarbeitung.
 
@@ -30,7 +36,4 @@ Description = Tasuta keskkond kiire inseneri- ja teaduslik prototüüpimise ja a
 
 [Section.0804]
 Description = 一个免费的快速工程、科学原型设计及数据处理的环境。
-
-[Section.0a]
-Description = Un entorno gratuito y rápido de prototipado científico, de procesamiento de datos e ingenieril.
 

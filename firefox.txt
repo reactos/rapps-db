@@ -9,6 +9,20 @@ URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/en-US/Fi
 SHA1 = 82e3a5075a4aeb053fb45a573c0388cb576fb6cb
 SizeBytes = 45172688
 
+[Section.0a]
+Description = Navegador web popular, libre y gratuito.
+URLSite = https://www.mozilla.org/es-ES/
+URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/es-ES/Firefox%20Setup%2048.0.2.exe
+SHA1 = f49bc1d402f5bcb7a63c0cae6313045fadf6fd01
+SizeBytes = 44931032
+
+[Section.0404]
+Description = 一款全球流行的免費，開源的網頁瀏覽器。由社群共同製作。
+URLSite = https://www.mozilla.org/zh-TW/
+URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/zh-TW/Firefox%20Setup%2048.0.2.exe
+SHA1 = 06e8a6a3fe4f5d2cad265935d719281c50703b7c
+SizeBytes = 45229280
+
 [Section.0405]
 Description = Nejpopulárnější a jeden z nejlepších svobodných webových prohlížečů.
 URLSite = https://www.mozilla.org/cs/
@@ -22,13 +36,6 @@ URLSite = https://www.mozilla.org/de/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/de/Firefox%20Setup%2048.0.2.exe
 SHA1 = bbdbb9b0b3a35e4f355fca4735826fd1d78706c3
 SizeBytes = 45031256
-
-[Section.0a]
-Description = Navegador web popular, libre y gratuito.
-URLSite = https://www.mozilla.org/es-ES/
-URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/es-ES/Firefox%20Setup%2048.0.2.exe
-SHA1 = f49bc1d402f5bcb7a63c0cae6313045fadf6fd01
-SizeBytes = 44931032
 
 [Section.040c]
 Description = Le navigateur web gratuit le plus populaire et l'un des meilleurs.

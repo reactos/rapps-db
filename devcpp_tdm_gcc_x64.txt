@@ -10,11 +10,14 @@ SHA1 = 599853e3331311f9ef81b1e633d7713dd258f81d
 SizeBytes = 50433966
 Icon = devcpp.ico
 
+[Section.0a]
+Description = Una versión en desarrollo de Dev-C++. Viene con el compilador de 64 bits TDM-GCC.
+
 [Section.0407]
 Description = Gepflegte Version von Dev-C++. Der 64 bit TDM-GCC Compiler liegt bei.
 
-[Section.0a]
-Description = Una versión en desarrollo de Dev-C++. Viene con el compilador de 64 bits TDM-GCC.
+[Section.0404]
+Description = 一款仍在維護的 Dev-C++ 版本。它包含 64 位元 TDM-GCC 編譯器。
 
 [Section.0410]
 Description = Una versione sostenuta di Dev-C++. Contiene il compilatore a 64bit TDM-GCC.

@@ -9,8 +9,12 @@ URLDownload = https://boinc.berkeley.edu/dl/boinc_7.14.2_windows_intelx86.exe
 SHA1 = 0d4b39def85afe620df3e8cb0b68a795c338a18d
 SizeBytes = 8673832
 
+[Section.0a]
+Description = BOINC es una plataforma de software libre destinado a la computación usando recursos de ordenadores voluntarios.
+
+[Section.0404]
+Description = BOINC 是開源的軟體平臺。它利用各地志願者的裝置作運算。
+
 [Section.0415]
 Description = BOINC to otwartoźródłowa platforma do obliczeń wykorzystująca zasoby dobrowolne.
 
-[Section.0a]
-Description = BOINC es una plataforma de software libre destinado a la computación usando recursos de ordenadores voluntarios.  

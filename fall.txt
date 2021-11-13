@@ -9,6 +9,12 @@ URLDownload = http://download.sourceforge.net/project/insomnia/fall/stable/Fall-
 SHA1 = b8364dd7a015c1b9d5dbb2e8ac3cad34f803f0cb
 SizeBytes = 379782
 
+[Section.0a]
+Description = Los pingüinos están cayendo desde un iceberg y tienes que introducirlo en la barca.
+
+[Section.0404]
+Description = 企鵝會從冰山落下，您必須把它們彈上碼頭。
+
 [Section.0407]
 Description = Pinguine fallen von einem Eisberg herunter und man muss sie auf sicheres Land befördern.
 
@@ -29,7 +35,4 @@ Description = Pingviinid kukkuvad jäemäelt ja Te peate nad põrkama sadamasse.
 
 [Section.0804]
 Description = 企鹅从冰山落下，你必须把它们弹上码头。
-
-[Section.0a]
-Description = Los pingüinos están cayendo desde un iceberg y tienes que introducirlo en la barca.
 

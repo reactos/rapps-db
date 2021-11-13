@@ -9,5 +9,11 @@ URLDownload = http://download.everedit.cn/everedit_win32_4480_setup.exe
 SHA1 = 74ef1e92d2337a8beabdd8ac1d387c7674009009
 SizeBytes = 4380855
 
+[Section.0404]
+License = 共享軟體
+Description = 現代、強大和物有所值的文字編輯器。
+
 [Section.0804]
-Description = 最强的物有所值的现代文本编辑器
+License = 共享软件
+Description = 最强的物有所值的现代文本编辑器。
+

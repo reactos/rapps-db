@@ -9,6 +9,13 @@ URLDownload = https://sourceforge.net/projects/agatemulator/files/agatemulator/1
 SHA1 = 99db84ac514ea588d8d4938f09a9d0a0749ab461
 SizeBytes = 6346282
 
+[Section.0a]
+Name = Emulador Agat
+Description = Emulador de Apple ][ y Agat 7/9 para Win32.
+
+[Section.0404]
+Description = Win32 的 Apple ][ 和 Agat 7/9 的模擬軟體。
+
 [Section.0407]
 Description = Apple ][ und Agat 7/9 Emulator für Win32.
 
