@@ -1,0 +1,10 @@
+[Section]
+Name = otvdm
+Description = Enables support for wow16 applications
+Category = 14
+URLDownload = https://github.com/peterooch/otvdm_installer/releases/download/0.8.1-gcc/otvdm_setup.exe
+SizeBytes = 3304703
+SHA1 = 14C42244717D38D560DA15DE189895C2A71DA18E
+Version = 0.8.1
+URLSite = https://github.com/otya128/winevdm
+License = GPL
