@@ -1,15 +1,15 @@
 [Section]
 Name = Audacious
-Version = 3.5.2
+Version = 3.10.1
 License = BSD
 Description = An open source audio player inspired by Winamp/XMMS.
 Category = 1
 URLSite = https://audacious-media-player.org/
-URLDownload = https://distfiles.audacious-media-player.org/audacious-3.5.2-win32.zip
-SHA1 = 6b44de048a61c9356ba1a4aec1642c0b47a1bd9b
-SizeBytes = 19331247
+URLDownload = https://distfiles.audacious-media-player.org/audacious-3.10.1-win32.exe
+SHA1 = 988f86765b77315e6ccbc3bd53b78cc08fbed501
+SizeBytes = 15969876
 Icon = audacious.ico
-Screenshot1 = https://i.imgur.com/iGmnYJV.png
+Screenshot1 = https://i.imgur.com/xpvdELX.png
 
 [Section.0419]
 Description = Аудиопроигрыватель с открытым исходным кодом, вдохновлённый Winamp/XMMS.
