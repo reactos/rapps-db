@@ -1,0 +1,10 @@
+[Section]
+Name = WineVDM
+Description = Enables support for WOW16 applications. Installs in the "Program Files" directory.
+Category = 14
+URLDownload = https://github.com/peterooch/winevdm_installer/releases/download/0.8.1-gcc-v2/winevdm_setup.exe
+SizeBytes = 3304645
+SHA1 = 9A23BB67E3A26A6C56834972CD06A3D2AF5F9B0E
+Version = 0.8.1
+URLSite = https://github.com/otya128/winevdm
+License = GPL
