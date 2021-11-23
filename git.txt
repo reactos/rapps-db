@@ -5,7 +5,7 @@ License = GPLv2
 Description = Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.
 Category = 7
 URLSite = https://gitforwindows.org/
-URLDownload = https://github.com/git-for-windows/git/releases/download/v2.10.0.windows.1/Git-2.10.0-32-bit.exe
+URLDownload = https://web.archive.org/web/20170403083756/https://github.com/git-for-windows/git/releases/download/v2.10.0.windows.1/Git-2.10.0-32-bit.exe
 SHA1 = 5defdff68265622535b9f0423d9d9b8fb1c90be2
 SizeBytes = 32980760
 
