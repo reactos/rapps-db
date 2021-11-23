@@ -1,6 +1,6 @@
 [Section]
 Name = WineVDM
-Description = Enables support for WOW16 applications. Installs in Program Files directory.
+Description = Enables support for WOW16 applications. Installs in the "Program Files" directory.
 Category = 14
 URLDownload = https://github.com/peterooch/winevdm_installer/releases/download/0.8.1-gcc-v2/winevdm_setup.exe
 SizeBytes = 3304645
