@@ -1,10 +1,10 @@
 [Section]
-Name = otvdm
-Description = Enables support for wow16 applications
+Name = WineVDM
+Description = Enables support for WOW16 applications. Installs in Program Files directory.
 Category = 14
-URLDownload = https://github.com/peterooch/otvdm_installer/releases/download/0.8.1-gcc/otvdm_setup.exe
-SizeBytes = 3304703
-SHA1 = 14C42244717D38D560DA15DE189895C2A71DA18E
+URLDownload = https://github.com/peterooch/winevdm_installer/releases/download/0.8.1-gcc-v2/winevdm_setup.exe
+SizeBytes = 3304645
+SHA1 = 9A23BB67E3A26A6C56834972CD06A3D2AF5F9B0E
 Version = 0.8.1
 URLSite = https://github.com/otya128/winevdm
 License = GPL
