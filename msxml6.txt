@@ -9,13 +9,17 @@ URLDownload = http://download.microsoft.com/download/2/e/0/2e01308a-e17f-4bf9-bf
 SHA1 = 2308743ddb4cb56ae910e461eeb3eab0a9e58058
 SizeBytes = 1528320
 
-[Section.0407]
-License = Unbekannt
-Description = Wird von einigen MSI Installern benötigt. Beinhaltet: msxml6.dll, msxml6r.dll.
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para algunos instaladores MSI. Incluye: msxml6.dll, msxml6r.dll.
+
+[Section.0404]
+License = 不明
+Description = 一些 Microsoft Installer 安裝程式需要的檔案。包括：msxml6.dll、msxml6r.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Wird von einigen MSI Installern benötigt. Beinhaltet: msxml6.dll, msxml6r.dll.
 
 [Section.040c]
 License = Inconnue

@@ -12,6 +12,9 @@ SizeBytes = 37466112
 [Section.0a]
 Description = El gestor de bases de datos de código abierto más popular del mundo.
 
+[Section.0404]
+Description = 世界上最流行的開源資料庫。
+
 [Section.0415]
 Description = Najpopularniejsza otwartoźródłowa baza danych.
 

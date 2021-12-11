@@ -9,11 +9,14 @@ URLDownload = https://notepad-plus-plus.org/repository/6.x/6.9/npp.6.9.Installer
 SHA1 = 99d3507a8eab110b7471bf2a8e63e88ecfb4e831
 SizeBytes = 4206592
 
-[Section.0407]
-Description = Voll funktionsfähiger, kostenloser Texteditor mit vielen Plugins.
-
 [Section.0a]
 Description = Un editor de texto completo, libre y con gran cantidad de extensiones.
+
+[Section.0404]
+Description = 一款多功能，可安裝大量插件的免費文字編輯器。
+
+[Section.0407]
+Description = Voll funktionsfähiger, kostenloser Texteditor mit vielen Plugins.
 
 [Section.040c]
 Description = Un éditeur de texte.

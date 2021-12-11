@@ -10,6 +10,8 @@ SHA1 = 9a824dfd5486632e018c4fa8ece9a862c01e4772
 SizeBytes = 638976
 Screenshot1 = https://raw.githubusercontent.com/zbalkan/nano-win/main/nano.jpg
 
-; Turkish
+[Section.0404]
+Description = Nano for Windows（nano-win）是獨立的 GNU nano 的 Windows 移植版本。它是一款有名的，容易使用的 Linux 文字編輯器。請將「nano.exe」複製到目標資料夾，如果可以的話，請同時將目錄新增到環境變數中的 PATH 變數。
+
 [Section.041f]
 Description = Nano for Windows (nano-win), Linux üzerinde kullanılan ünlü, kullanımı kolay ve kullanışlı metin düzenleyici olan GNU nano'nun port edilmiş, tek başına çalışabilen bir sürümüdür. "nano.exe" dosyasını uygun bir klasöre kopyalayın. Çevresel Değişkenler'de PATH değişkenine klasörü eklemeniz tavsiye edilir.

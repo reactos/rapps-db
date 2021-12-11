@@ -13,6 +13,9 @@ SizeBytes = 5978718
 Name = Librería gráfica Mesa3D
 Description = Esta entrega de la librería gráfica Mesa3D contiene Mesa, Gallium y llvmpipe. Te proporciona una mejora significativa en el rendimiento de los sistemas sin necesariamente hacer uso de la aceleración hardware de OpenGL. Puede reemplazar a los OGL drivers de tu sistema - esto puede ser a lo largo de la instalación o a través del panel de control y configuración de OpenGL.
 
+[Section.0404]
+Description = 這個 Mesa3D 圖形庫由 Mesa、Gallium 和 llvmpipe 組成。它為沒有 OpenGL 硬體加速的系統提供重大的性能提升。它可以取代您的系統中的 OGL 驅動程式 — 這可以在安裝過程中或通過控制臺的 OpenGL 設定程式中設定。
+
 [Section.0405]
 Description = Grafická knihovna obsahujicí moduly Mesa, Gallium a llvmpipe. Poskytuje vyšší výkon na systémech bez hardwarové OpenGL akcelerace. Tato knihovna může nahradit výchozí OGL ovladač na Vašem systému - nastavení lze provést během instalace, nebo pomocí ovládacího panelu Nastavení OpenGL.
 

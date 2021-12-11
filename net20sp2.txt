@@ -9,13 +9,17 @@ URLDownload = https://web.archive.org/web/20190523030127if_/http://download.micr
 SHA1 = 22d776d4d204863105a5db99e8b8888be23c61a7
 SizeBytes = 25001480
 
-[Section.0407]
-Description = Runtime für C# Windows Anwendungen.
-URLSite = http://www.microsoft.com/de-DE/download/details.aspx?id=1639
-
 [Section.0a]
 Description = Componentes necesarios para ejecutar programas escritos en lenguajes intermedios como C#.
 URLSite = http://www.microsoft.com/es-ES/download/details.aspx?id=1639
+
+[Section.0404]
+License = 不明
+Description = 執行由 C# 之類的中間語言所編譯的 Windows 應用程式所需的組件。
+
+[Section.0407]
+Description = Runtime für C# Windows Anwendungen.
+URLSite = http://www.microsoft.com/de-DE/download/details.aspx?id=1639
 
 [Section.040c]
 Description = Microsoft .NET Framework version 2.0 Service Pack 2.

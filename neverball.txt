@@ -9,6 +9,12 @@ URLDownload = http://neverball.org/neverball-1.6.0.zip
 SHA1 = 51b744f87ee8c435959da1fa0b35472fe02c719b
 SizeBytes = 75802818
 
+[Section.0a]
+Description = Gira el suelo para mover una bola a través de una pista de obstáculos a contra reloj. Neverball es mitad puzle, mitad juego de acción y toda una prueba de habilidad.
+
+[Section.0404]
+Description = 傾斜地板來使小球在規定時間內繞過障礙物。Neverball 是一款半解密半動作遊戲，也是一種對技巧的考驗。
+
 [Section.0407]
 Description = Neigen Sie den Boden, um einen Ball durch einen Hindernisparcours zu rollen, bevor die Zeit abläuft. Neverball ist teils ein Puzzle-Spiel, teils ein Action-Spiel und ganz ein Test der Geschicklichkeit.
 
@@ -20,9 +26,6 @@ Description = Joc în parte de tip enigmă, în parte de tip acțiune, și un te
 
 [Section.0419]
 Description = Компьютерная игра-платформер, в которой игрок управляет мячом путём наклона опорной конструкции в трёхмерном пространстве. Для перехода на следующий уровень нужно открыть цель, собрав для этого определённое количество монет (очков), и попасть в неё мячом.
-
-[Section.0a]
-Description = Gira el suelo para mover una bola a través de una pista de obstáculos a contra reloj. Neverball es mitad puzle, mitad juego de acción y toda una prueba de habilidad.
 
 [Section.041f]
 License = GPL sürüm 2
