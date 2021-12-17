@@ -9,14 +9,17 @@ URLDownload = https://download.sourceforge.net/reactos/RosBE-2.1.6.exe
 SHA1 = 01b195f442cea01bcf21536f1c2e5d898ba9fe0c
 SizeBytes = 37300572
 
+[Section.0a]
+Description = Te permite compilar el código de ReactOS. Para más información consulta la Wiki de ReactOS.
+
+[Section.0404]
+Description = 可以讓您編譯 ReactOS 原始碼。詳情請參閱 ReactOS wiki。
+
 [Section.0405]
 Description = Dovoluje zkompilovat zdrojový kód systému ReactOS. Pro další detaily viz. ReactOS wiki.
 
 [Section.0407]
 Description = Erlaubt es Ihnen den ReactOS Source Code zu kompilieren. Im ReactOS-Wiki finden Sie dazu nähere Anweisungen.
-
-[Section.0a]
-Description = Te permite compilar el código de ReactOS. Para más información consulta la Wiki de ReactOS.
 
 [Section.040c]
 Description = Vous permet de compiler le code source de ReactOS. Pour plus d'instructions, reportez-vous au wiki ReactOS.

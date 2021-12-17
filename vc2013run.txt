@@ -9,13 +9,17 @@ URLDownload = http://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91
 SHA1 = df7f0a73bfa077e483e51bfb97f5e2eceedfb6a3
 SizeBytes = 6503984
 
-[Section.0407]
-License = Unbekannt
-Description = Benötigt für Visual Studio 2013 basierte Anwendungen. Beinhaltet: atl120.dll, mfc120.dll, mfc120u.dll, mfcm120.dll, mfcm120u.dll, msdia120.dll, msvcm120.dll, msvcp120.dll, msvcr120.dll, vcomp120.dll.
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 2013. Incluye: atl120.dll, mfc120.dll, mfc120u.dll, mfcm120.dll, mfcm120u.dll, msdia120.dll, msvcm120.dll, msvcp120.dll, msvcr120.dll, vcomp120.dll.
+
+[Section.0404]
+License = 不明
+Description = 開啟以 Visual Studio 2013 編寫的應用程式時需要的元件。包含：atl120.dll、mfc120.dll、mfc120u.dll、mfcm120.dll、mfcm120u.dll、msdia120.dll、msvcm120.dll、msvcp120.dll、msvcr120.dll、vcomp120.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Benötigt für Visual Studio 2013 basierte Anwendungen. Beinhaltet: atl120.dll, mfc120.dll, mfc120u.dll, mfcm120.dll, mfcm120u.dll, msdia120.dll, msvcm120.dll, msvcp120.dll, msvcr120.dll, vcomp120.dll.
 
 [Section.040c]
 License = Inconnue

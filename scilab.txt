@@ -9,11 +9,14 @@ URLDownload = http://www.scilab.org/download/5.5.2/scilab-5.5.2.exe
 SHA1 = 9f6eeabe4a90a4a3c84889eed1a82c866b02a1de
 SizeBytes = 134667168
 
-[Section.0407]
-Description = Eine Software für die numerische Berechnung in technischen und wissenschaftlichen Anwendungen.
-
 [Section.0a]
 Description = Un software para computación numérica en ingeniería y aplicaciones científicas.
+
+[Section.0404]
+Description = 一款用於工程和科學應用數值計算的軟體。
+
+[Section.0407]
+Description = Eine Software für die numerische Berechnung in technischen und wissenschaftlichen Anwendungen.
 
 [Section.040c]
 Description = Un logiciel de calcul numérique dans l'ingénierie et les applications scientifiques.

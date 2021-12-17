@@ -9,13 +9,17 @@ URLDownload = http://web.archive.org/web/20201112025512/http://download.microsof
 SHA1 = b8fab0bb7f62a24ddfe77b19cd9a1451abd7b847
 SizeBytes = 2707352
 
-[Section.0407]
-License = Unbekannt
-Description = Benötigt für Visual Studio 2005 basierte Anwendungen. Beinhaltet: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Studio 2005. Incluye: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
+
+[Section.0404]
+License = 不明
+Description = 開啟以 Visual Studio 2005 編寫的應用程式時需要的元件。包含：atl80.dll、mfc80.dll、mfcm80.dll、mfcm80u.dll、msdia80.dll、msvcm80.dll、msvcp80.dll、msvcr80.dll、vcomp.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Benötigt für Visual Studio 2005 basierte Anwendungen. Beinhaltet: atl80.dll, mfc80.dll, mfcm80.dll, mfcm80u.dll, msdia80.dll, msvcm80.dll, msvcp80.dll, msvcr80.dll, vcomp.dll.
 
 [Section.040c]
 License = Inconnue

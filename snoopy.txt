@@ -9,12 +9,16 @@ URLDownload = http://www.blueskied.com/snoop/Snoop_install.exe
 SHA1 = 51417f07cec3771513c70b718a87dac6fa41d1f1
 SizeBytes = 721152
 
+[Section.0a]
+Description = Nueva versión del juego Snoopy para Commodore 64.
+
+[Section.0404]
+License = 免費軟體
+Description = 原版 C64 Snoppy 的復刻。
+
 [Section.0407]
 Description = Das Original C64 Snoopy Remake.
 URLSite = http://www.blueskied.com/spiele-spielen/snoopy.htm
-
-[Section.0a]
-Description = Nueva versión del juego Snoopy para Commodore 64.
 
 [Section.0410]
 Description = Il remake del gioco Snoopy per Commodore 64.

@@ -12,6 +12,10 @@ SizeBytes = 2623656
 [Section.0a]
 Description = Ayuda a desinstalar el software y eliminar los programas y archivos no deseados facilmente.
 
+[Section.0404]
+License = 免費軟體
+Description = 幫助使用者簡單地解除安裝軟體並移除不想要的程式。
+
 [Section.0407]
 Description = Hilft Software zu deinstallieren und einfach ungewollte Programme loszuwerden.
 

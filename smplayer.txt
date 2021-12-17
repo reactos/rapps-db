@@ -9,13 +9,17 @@ URLDownload = https://download.sourceforge.net/project/smplayer/SMPlayer/18.5.0/
 SHA1 = 42ee24828cec18cb33b3f8ce54d96342118f399c
 SizeBytes = 40892832
 
-[Section.0407]
-Description = Grafische Oberfläche für MPlayer.
-URLSite = http://smplayer.sourceforge.net/de/
-
 [Section.0a]
 Description = Interfaz gráfica para Mplayer, el reproductor multimedia.
 URLSite = http://smplayer.sourceforge.net/es/
+
+[Section.0404]
+Description = MPlayer 的用戶圖形介面。
+URLSite = https://www.smplayer.info/zh_TW/
+
+[Section.0407]
+Description = Grafische Oberfläche für MPlayer.
+URLSite = http://smplayer.sourceforge.net/de/
 
 [Section.040c]
 URLSite = http://smplayer.sourceforge.net/fr/

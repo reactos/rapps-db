@@ -13,6 +13,9 @@ Icon = pidgin.ico
 [Section.0a]
 Description = Un programa de mensajería instantanea que te permite iniciar sesión en múltiples redes de chat simultaneamente.
 
+[Section.0404]
+Description = 允許您同時登入多個聊天網路帳戶的即時通訊程式。
+
 [Section.0407]
 Description = Ein instant messaging-Programm, welches läßt Sie zu Konten auf mehreren Chat-Netzwerken gleichzeitig anmelden.
 

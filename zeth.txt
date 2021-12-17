@@ -8,5 +8,7 @@ URLDownload = https://web.archive.org/web/20211217001357/https://raw.githubuserc
 SHA1 = 9E895D19F62FB636E8CF66C81CCD514BAD5C5B23
 SizeBytes = 259681
 
-
+[Section.0404]
+License = 免費軟體
+Description = 適用於 ReactOS 的 Zeth 視覺樣式。這是一個執行檔，您可以執行這個程式並將檔案提取至 C:\ReactOS\Resources\Themes\Zeth。
 

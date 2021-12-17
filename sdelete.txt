@@ -9,6 +9,9 @@ URLDownload = https://download.sysinternals.com/files/SDelete.zip
 SHA1 = e08182dcce77c122f7bc18c01e380ecf066aad2e
 SizeBytes = 531364
 
-; Turkish
+[Section.0404]
+Description = SDelete 是一款讓您用於安全地永久刪除檔案並使檔案無法復原的免費命令列工具。
+
 [Section.041f]
 Description = SDelete dosyalarınızı bir daha geri getirilemez biçimde güvenli olarak silmek için kullanabileceğiniz ücretsiz bir komut satırı aracıdır.
+

@@ -6,3 +6,7 @@ Category = 15
 URLDownload = https://web.archive.org/web/20211217000713/https://raw.githubusercontent.com/petr-akhlamov/ros-repo/master/slate.exe
 SHA1 = 4c8b77c79d14bfb378427775c40ca8e298bc092d
 SizeBytes = 1712682
+
+[Section.0404]
+Description = 來自 Windows Codename Longhorn 的 Slate 主題。
+

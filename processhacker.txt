@@ -8,3 +8,7 @@ URLSite = https://processhacker.sourceforge.io/
 URLDownload = https://github.com/processhacker/processhacker/releases/download/v2.38/processhacker-2.38-setup.exe
 SHA1 = 8953D402F80D18423E8744EDB05EB6582ED11019
 SizeBytes = 2261896
+
+[Section.0404]
+Description = Process Hacker 是一款免費、多用途、功能強大的工具程式，可幫助您監控系統資源、對軟體進行除錯和檢測惡意軟體。 
+

@@ -11,3 +11,8 @@ SizeBytes = 50109784
 
 [Section.0a]
 Description = Spotify es uno de los servicios más populares de streaming de música, incluye planes gratuitos y de pago. El cliente de Spotify ha cesado del soporte para Windows XP, pero está archivada una versión que todavía lo soporta.
+
+[Section.0404]
+License = 免費軟體
+Description = Spotify 是一款非常流行的音樂串流軟體。它同時有免費和收費計劃。現時的 Spotify 用戶端已不再支援 Windows XP，但舊有版本則仍然支援。
+

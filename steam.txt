@@ -9,13 +9,18 @@ URLDownload = https://encodedpr.com/files/reactos/apps/steam.zip
 SHA1 = 5967d1b0e91b477659a808bc14844e9fdd1ed7af
 SizeBytes = 494672502
 
-[Section.0407]
-Description = Beliebte Internet Spiel-Vertriebsplattform und soziales Netz. Enthält DRM.
-URLSite = http://store.steampowered.com/?l=german
-
 [Section.0a]
 Description = Plataforma de distribución de juegos por Internet y red social. Incluye DRM.
 URLSite = http://store.steampowered.com/?l=spanish
+
+[Section.0404]
+License = 免費軟體
+Description = 流行的網際網路遊戲發行平臺和社群網路。已包括 DRM。
+URLSite = http://store.steampowered.com/?l=tchinese
+
+[Section.0407]
+Description = Beliebte Internet Spiel-Vertriebsplattform und soziales Netz. Enthält DRM.
+URLSite = http://store.steampowered.com/?l=german
 
 [Section.040c]
 Description = La plateforme de jeu Steam utilisée par beaucoup de jeux de nos jours.

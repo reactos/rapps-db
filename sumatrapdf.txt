@@ -9,13 +9,16 @@ URLDownload = https://kjkpub.nyc3.digitaloceanspaces.com/software/sumatrapdf/rel
 SHA1 = b750eec0f91a5cf2e43259c935c5473c82d27d72
 SizeBytes = 4860560
 
-[Section.0407]
-Description = Freies, schlankes, quelloffenes PDF-Anzeigeprogramm.
-URLSite = http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-de.html
-
 [Section.0a]
 Description = Un lector PDF ligero, libre y de código abierto que no necesita instalación.
 URLSite = http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-es.html
+
+[Section.0404]
+Description = 一个輕巧便攜、免費、開源的 PDF 閱讀器。
+
+[Section.0407]
+Description = Freies, schlankes, quelloffenes PDF-Anzeigeprogramm.
+URLSite = http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-de.html
 
 [Section.040c]
 Description = Sumatra PDF est un lecteur PDF lÃ©ger, libre et open-source.

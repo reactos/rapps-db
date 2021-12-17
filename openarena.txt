@@ -12,6 +12,9 @@ SizeBytes = 425189255
 [Section.0a]
 Description = Un juego FPS creado por la comunidad basado en la tecnología GPL idTech3.
 
+[Section.0404]
+Description = 由社群製作的一款基於 GPL idTech3 技術的死亡競賽 FPS 遊戲。
+
 [Section.0407]
 Description = Ein Community-produziertes Deathmatch-FPS-Spiel basierend auf GPL idTech3 Technologie.
 

@@ -9,13 +9,17 @@ URLDownload = https://v1support.s3.amazonaws.com/WMEncoder.exe
 SHA1 = 7a3f8781f3e5705651992ef0150ee30bc1295116
 SizeBytes = 9918872
 
-[Section.0407]
-License = Unbekannt
-Description = Konvertieren und Broadcast von Audio und Video im Windows Media Format.
-
 [Section.0a]
 License = Desconocida
 Description = Convierte y emite audio y vídeo en los formatos de Windows Media.
+
+[Section.0404]
+License = 不明
+Description = 以 Windows Media 格式轉換及廣播音訊和視訊。
+
+[Section.0407]
+License = Unbekannt
+Description = Konvertieren und Broadcast von Audio und Video im Windows Media Format.
 
 [Section.040c]
 License = Inconnue

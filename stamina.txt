@@ -9,11 +9,15 @@ URLDownload = http://stamina.ru/files/StaminaSetup.exe
 SHA1 = 93664a5828e24a1081fe600d6e471bc45b1d9714
 SizeBytes = 5110315
 
-[Section.0407]
-Description = Freies Schreiblernprogramm.
-
 [Section.0a]
 Description = Programa para aprender a escribir a máquina.
+
+[Section.0404]
+License = 免費軟體
+Description = 免費的打字導師。
+
+[Section.0407]
+Description = Freies Schreiblernprogramm.
 
 [Section.0410]
 Description = Tutore di scrittura gratuita.

@@ -9,11 +9,14 @@ URLDownload = https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi
 SHA1 = 70830dd027e250a17b2265e24440785b1e2f3a16
 SizeBytes = 19304448
 
-[Section.0407]
-Description = Sehr mächtige, dynamische Programmiersprache.
-
 [Section.0a]
 Description = Un lenguaje de programación dinámico sumamente potente.
+
+[Section.0404]
+Description = 一款非常強大的動態語言。
+
+[Section.0407]
+Description = Sehr mächtige, dynamische Programmiersprache.
 
 [Section.040c]
 Description = Un langage de programmation dynamique remarquablement puissant.

@@ -13,6 +13,9 @@ SizeBytes = 70390771
 Name = Navegador Otter
 Description = El navegador Otter tiene el objetivo de recrear el buen aspecto del Opera clásico (12.x) usando Qt5.
 
+[Section.0404]
+Description = Otter Browser 旨在使用 Qt5 來重現經典的 Opera (12.x) UI 介面。
+
 [Section.0407]
 Description = Otter Browser ist ein Web-Browser, der das klassische Opera (12.x) UI mittels Qt5 wiederbelebt.
 

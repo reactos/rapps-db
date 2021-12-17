@@ -11,3 +11,7 @@ SizeBytes = 792973
 
 [Section.0a]
 Description = WinHier es un visor de las propiedades, jerarquía y mensajes de Windows.
+
+[Section.0404]
+Description = WinHier 是 Windows 的階層、屬性和訊息的檢視器。
+

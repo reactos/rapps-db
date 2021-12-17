@@ -9,11 +9,15 @@ URLDownload = https://web.archive.org/web/20110401000000/http://www.webalice.it/
 SHA1 = 11dc368582e7055cbc19d9b1a8a30b2f6e2e3601
 SizeBytes = 5184839
 
-[Section.0407]
-Description = Schnelle und effektive Suchanwendung.
-
 [Section.0a]
 Description = Una aplicación de búsqueda rápida y completa.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款快速和功能豐富的搜尋應用程式。
+
+[Section.0407]
+Description = Schnelle und effektive Suchanwendung.
 
 [Section.040c]
 Description = Une application de recherche rapide et riche en fonctionnalités.
@@ -43,9 +47,9 @@ Description = Hızlı ve özellik zengini bir arama uygulaması.
 Description = Швидка та потужна програма пошуку.
 
 [Section.0804]
+License = 免费软件
 Description = 一个快速和功能丰富的搜索应用程序。
 
 [Section.0813]
-License = 免费软件
 Description = Een snelle zoekapplicatie rijk aan mogelijkheden.
 

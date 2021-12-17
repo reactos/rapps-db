@@ -12,6 +12,10 @@ SizeBytes = 712140
 [Section.0a]
 Description = Programa para descargar podcasts.
 
+[Section.0404]
+License = 公用軟體
+Description = 一款下載 Podcast 的程式。
+
 [Section.0407]
 Description = Anwendung zum Herunterladen von Podcasts.
 

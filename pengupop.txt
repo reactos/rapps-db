@@ -8,11 +8,14 @@ URLDownload = http://svn.reactos.org/packages/Pengupop.exe
 SHA1 = 59b87b20244cf13136f59c31b962a0521486a359
 SizeBytes = 1780574
 
-[Section.0407]
-Description = Das Ziel des Spiels ist es farbige Orbs ins Spielfeld zu feuern, so dass diese Gruppen von drei oder mehr bilden.
-
 [Section.0a]
 Description = Dispara orbes de colores en el campo de juego formando grupos de más de tres.
+
+[Section.0404]
+Description = 將彩色彈珠發射到遊戲台上，使它們組合為三個或更多的彈珠。
+
+[Section.0407]
+Description = Das Ziel des Spiels ist es farbige Orbs ins Spielfeld zu feuern, so dass diese Gruppen von drei oder mehr bilden.
 
 [Section.0410]
 Description = Lo scopo di questo gioco è quello di sparare sfere colorate nel vostro campo di gioco, in modo da formare gruppi di tre o più.

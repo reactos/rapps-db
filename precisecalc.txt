@@ -9,6 +9,12 @@ URLDownload = http://download.sourceforge.net/preccalc/preccalc-32bit.zip
 SHA1 = 6a2711d3c72708f3876ac128fcd1f19a5145d77a
 SizeBytes = 192127
 
+[Section.0a]
+Description = Una calculadora científica gratuita y de código abierto.
+
+[Section.0404]
+Description = 一款適用於 Windows 的免費、開源的科學計算器。
+
 [Section.0407]
 Description = Freier und quelloffener wissenschaftlicher Rechner für Windows.
 
@@ -20,9 +26,6 @@ Description = Calculatr științific gratuit, cu surse deschise.
 
 [Section.0419]
 Description = Бесплатный научный калькулятор с исходным кодом для Windows.
-
-[Section.0a]
-Description = Una calculadora científica gratuita y de código abierto.
 
 [Section.041f]
 Name = Precise Hesap Makinesi

@@ -9,19 +9,26 @@ URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/3.1.20
 SHA1 = c60318ae183d61cbdc76a570a3557d1b308b05f2
 SizeBytes = 9502272
 
-[Section.0407]
-Description = Populärer und quelloffener E-Mail-Client.
-URLSite = https://www.mozilla.org/de/thunderbird/
-URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/3.1.20/win32/de/Thunderbird%20Setup%203.1.20.exe
-SHA1 = 60d0824eb22c843137801b8eea76bee4b810eeca
-SizeBytes = 9342360
-
 [Section.0a]
 Description = Cliente de correo electrónico popular y de código abierto.
 URLSite = https://www.mozilla.org/es-ES/thunderbird/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/3.1.20/win32/es-ES/Thunderbird%20Setup%203.1.20.exe
 SHA1 = 4313ca4bc8100e71b1a0d4e405259e3b1c1fb28c
 SizeBytes = 9310912
+
+[Section.0404]
+Description = 流行的開源電子郵件用戶端。
+URLSite = https://www.mozilla.org/zh-TW/thunderbird/
+URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/3.1.20/win32/zh-TW/Thunderbird%20Setup%203.1.20.exe
+SHA1 = c8c57b150c1c6400619bc9de182c5d64ca21f9dc
+SizeBytes = 9337624
+
+[Section.0407]
+Description = Populärer und quelloffener E-Mail-Client.
+URLSite = https://www.mozilla.org/de/thunderbird/
+URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/3.1.20/win32/de/Thunderbird%20Setup%203.1.20.exe
+SHA1 = 60d0824eb22c843137801b8eea76bee4b810eeca
+SizeBytes = 9342360
 
 [Section.040c]
 Description = Le plus populaire et l'un des meilleurs clients mail gratuits disponible.

@@ -9,11 +9,15 @@ URLDownload = http://www.classic.blitwise.com/superdxb.exe
 SHA1 = c8b6992e6879d4b607f248eb05d630cb44eb553f
 SizeBytes = 3995248
 
-[Section.0407]
-Description = Lebendiges und buntes Brick-Breaking-Spiel.
-
 [Section.0a]
 Description = Un juego vibrante y colorido de romper bloques.
+
+[Section.0404]
+License = 共享軟體
+Description = 一款節奏明快、顏色豐富的敲磚塊遊戲。
+
+[Section.0407]
+Description = Lebendiges und buntes Brick-Breaking-Spiel.
 
 [Section.0410]
 Description = Super DX-Ball è un gioco spacca blocchi vibrante e colorato.

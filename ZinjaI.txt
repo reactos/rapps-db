@@ -8,8 +8,12 @@ URLSite = http://zinjai.sourceforge.net/
 URLDownload = https://sourceforge.net/projects/zinjai/files/zinjai-20180718/zinjai-w32-20180718.exe/download
 SizeBytes = 37629858
 
+[Section.0404]
+Description = ZinjaI 是用於編寫 C 和 C++ 語言的整合開發環境。
+
 [Section.040a]
 Description = ZinjaI es un entorno de desarrollo IDE para programar en C y C++.
 
 [Section.0416]
 Description= ZinjaI é um ambiente de desenvolvimento IDE para programar em C e C++.
+

@@ -9,11 +9,16 @@ URLDownload = https://web.archive.org/web/20180526110545if_/http://www.qb64.net/
 SHA1 = 64b8f8d32c24c65598f9d655506fec25c4fb4052
 SizeBytes = 102775452
 
-[Section.0407]
-Description = Self-Hosting BASIC-Compiler für Microsoft Windows, Linux und Mac OS X, entwickelt, um mit Microsoft QBasic und Microsoft QuickBASIC kompatibel zu sein.
-
 [Section.0a]
 Description = Es un compilador auto-compilable de BASIC para Windows, Linux y Mac OS X, diseñado para ser compatible con Microsoft QuickBasic.
+
+[Section.0404]
+Name = QB64（SDL 版本）
+License = 免費軟體
+Description = 適用於 Microsoft Windows、Linux 及 Mac OS X 平臺的 BASIC 編譯器，設計上與 Microsoft QBasic 和 Microsoft QuickBASIC 相容。
+
+[Section.0407]
+Description = Self-Hosting BASIC-Compiler für Microsoft Windows, Linux und Mac OS X, entwickelt, um mit Microsoft QBasic und Microsoft QuickBASIC kompatibel zu sein.
 
 [Section.0410]
 Description = QB64 è un compilatore auto ospitante di BASIC per Microsoft Windows, Linux e Mac OS X, progettato per essere compatibile con Microsoft QuickBasic.
