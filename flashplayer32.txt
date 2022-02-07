@@ -1,0 +1,55 @@
+[Section]
+Name = Adobe Flash Player 32
+Version = 32.0.0.101
+License = Freeware
+Description = A 32 bits Flash player that can run SWF files.
+Category = 12
+URLSite = https://www.adobe.com/
+URLDownload = https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe
+SHA1 = 7736efc1c76e6a80132a22e1f9fc87a5884fa375
+SizeBytes = 15986688
+Icon = flashplayer32.ico
+Screenshot1 = https://i.imgur.com/JlSKduT.png
+
+[Section.0001]
+Description = بت يمكنه تشغيل إثنان و ثلاثون بت يمكنها تنفيذ الملفات  SWF
+
+[Section.0407]
+Description = Ein 32-Bit-Flash-Player, der SWF-Dateien ausführen kann.
+
+[Section.0a]
+Description = Un reproductor de Flash de 32 bits que puede ejecutar archivos SWF.
+
+[Section.040c]
+Description = Un lecteur Flash 32 bits qui peut exécuter des fichiers SWF.
+
+[Section.0410]
+Description = Un lettore Flash a 32 bit in grado di eseguire file SWF.
+
+[Section.0413]
+Description = Een 32-bits Flash-speler die SWF-bestanden kan uitvoeren.
+
+[Section.0415]
+Description = 32-bitowy odtwarzacz Flash, który może uruchamiać pliki SWF.
+
+[Section.0418]
+Description = Un player Flash pe 32 de biți care poate rula fișiere SWF.
+
+[Section.0419]
+Description = 32-разрядный Flash-плеер, который может запускать SWF-файлы.
+
+[Section.041f]
+Description = SWF dosyalarını çalıştırabilen 32 bit Flash oynatıcı.
+
+[Section.0422]
+Description = 32-розрядний Flash-програвач, який може запускати файли SWF.
+
+[Section.0425]
+Description = 32-bitine Flash-mängija, mis suudab käitada SWF-faile.
+
+[Section.0804]
+Description = 可以运行 SWF 文件的 32 位 Flash 播放器。
+
+[Section.0813]
+Description = Een 32-bits Flash-speler die SWF-bestanden kan uitvoeren.
+
