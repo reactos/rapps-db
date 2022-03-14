@@ -1,0 +1,20 @@
+[Section]
+Name = AR PL UMing font for ReactOS
+Version = 0.2
+License = the Arphic Public License
+Description = This is a package of AR PL UMing fonts for ReactOS. It is only supported for Chinese (PRC), Chinese (HongKong) and Chinese (Taiwan).This font was developed by Arphic Technology Co., Ltd. in Taiwan.
+Category = 15
+URLSite = https://github.com/njlyf2011/ttf-arphic-uming-reactos
+URLDownload = https://github.com/njlyf2011/ttf-arphic-uming-reactos/releases/download/2022-03-14/uming-package-x86.exe
+SizeBytes = 7707637
+
+[Section.0404]
+Description = AR PL UMing 字型是由臺灣文鼎科技開發股份有限公司開發的一款開源字型。目前只支持中文環境。
+
+[Section.0c04]
+Description = AR PL UMing 字型是由臺灣文鼎科技開發股份有限公司開發的一款開源字型。目前只支持中文環境。
+
+[Section.0804]
+Description = AR PL UMing 字体是由台湾文鼎科技开发股份有限公司开发的一款开源字体。目前只支持中文环境。
+
+
