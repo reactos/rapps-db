@@ -16,5 +16,3 @@ Description = AR PL UMing 字型是由臺灣文鼎科技開發股份有限公司
 
 [Section.0804]
 Description = AR PL UMing 字体是由台湾文鼎科技开发股份有限公司开发的一款开源字体。目前只支持中文环境。
-
-
