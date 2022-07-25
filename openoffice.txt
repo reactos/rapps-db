@@ -1,58 +1,58 @@
 [Section]
 Name = Apache OpenOffice
-Version = 4.1.12
+Version = 4.1.13
 License = AL v2.0
 LicenseInfo = 1
 Description = Open source office suite.
 Category = 6
 URLSite = https://www.openoffice.org/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.12/binaries/en-US/Apache_OpenOffice_4.1.12_Win_x86_install_en-US.exe
-SHA1 = 2d24951f76cfac01e0540a07ad21836764897d1c
-SizeBytes = 142652728
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/en-US/Apache_OpenOffice_4.1.13_Win_x86_install_en-US.exe
+SHA1 = bc4206a7b751c9d0651c47842041542876f586b1
+SizeBytes = 142674664
 Icon = openoffice.ico
-Screenshot1 = https://i.imgur.com/AiOiKXO.png
+Screenshot1 = https://i.imgur.com/AYl9dp6.png
 
 [Section.0407]
 Description = Quelloffene Office-Suite.
 URLSite = https://www.openoffice.org/de/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.12/binaries/de/Apache_OpenOffice_4.1.12_Win_x86_install_de.exe
-SHA1 = 554e0bd1280782daa122504e9f3bb117de6263a9
-SizeBytes = 176648936
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/de/Apache_OpenOffice_4.1.13_Win_x86_install_de.exe
+SHA1 = dc81621a1f94d4092714963876fc430371517588
+SizeBytes = 176650648
 
 [Section.0a]
 Description = Suite de ofimática de código abierto.
 URLSite = https://www.openoffice.org/es/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.12/binaries/es/Apache_OpenOffice_4.1.12_Win_x86_install_es.exe
-SHA1 = 067b8e0e1019641d67fd225e845bb6c539cb4718
-SizeBytes = 131686528
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/es/Apache_OpenOffice_4.1.13_Win_x86_install_es.exe
+SHA1 = d76a5e24896606875ef89d12d4e3d90b3b6361e0
+SizeBytes = 131730832
 
 [Section.040c]
 Description = La suite bureautique open source.
 URLSite = https://www.openoffice.org/fr/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.12/binaries/fr/Apache_OpenOffice_4.1.12_Win_x86_install_fr.exe
-SHA1 = f59a1e758d6c2b607295fcbb96e8c3a44134f4ec
-SizeBytes = 133810624
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/fr/Apache_OpenOffice_4.1.13_Win_x86_install_fr.exe
+SHA1 = 930312b625b47fc7960c7fab7b98d6f89947d5b6
+SizeBytes = 133845584
 
 [Section.0410]
 Description = La suite di office Open Source.
 URLSite = https://www.openoffice.org/it/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.12/binaries/it/Apache_OpenOffice_4.1.12_Win_x86_install_it.exe
-SHA1 = eebc2750a7f97a9295c1b93ba426e89a7171af01
-SizeBytes = 137699040
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/it/Apache_OpenOffice_4.1.13_Win_x86_install_it.exe
+SHA1 = dc9a48df916baba86ddaa5495da5018a3c0c9a18
+SizeBytes = 137760144
 
 [Section.0413]
 Description = Open-bron Office Pakket.
 URLSite = https://www.openoffice.org/nl/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.12/binaries/nl/Apache_OpenOffice_4.1.12_Win_x86_install_nl.exe
-SHA1 = 990187852c8fa0e4d188df1ef5e6af5c5dad482b
-SizeBytes = 143533136
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/nl/Apache_OpenOffice_4.1.13_Win_x86_install_nl.exe
+SHA1 = 9b6ecaf419f012266058bf21ba788e722dc22638
+SizeBytes = 143577368
 
 [Section.0415]
 Description = Otwarty pakiet biurowy.
 URLSite = https://www.openoffice.org/pl/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.12/binaries/pl/Apache_OpenOffice_4.1.12_Win_x86_install_pl.exe
-SHA1 = 678dc721717ac011ea8120b102ea5812a73599f4
-SizeBytes = 132887704
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/pl/Apache_OpenOffice_4.1.13_Win_x86_install_pl.exe
+SHA1 = 9916f7d5862cebb6ebb0bc8faf4c8f1c9068e312
+SizeBytes = 132892424
 
 [Section.0418]
 Description = Suită de aplicații de birotică cu surse deschise.
@@ -61,16 +61,16 @@ URLSite = https://www.openoffice.org/ro/
 [Section.0419]
 Description = Офисный пакет с открытым исходным кодом.
 URLSite = https://www.openoffice.org/ru/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.12/binaries/ru/Apache_OpenOffice_4.1.12_Win_x86_install_ru.exe
-SHA1 = 592616025a479bce47e82477f31d02a105cbce89
-SizeBytes = 141364552
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/ru/Apache_OpenOffice_4.1.13_Win_x86_install_ru.exe
+SHA1 = 2cf6804c1a760544258c74cd42d8bc8edfc3eb3f
+SizeBytes = 141377192
 
 [Section.041f]
 Description = Bir açık kaynak ofis paketi.
 URLSite = https://www.openoffice.org/tr/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.12/binaries/tr/Apache_OpenOffice_4.1.12_Win_x86_install_tr.exe
-SHA1 = 0ed3764afe3ed82899cb94bb1b7cd8da37acfc01
-SizeBytes = 129611512
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/tr/Apache_OpenOffice_4.1.13_Win_x86_install_tr.exe
+SHA1 = 3530dc5d16d14b85f7ca22433357f626ebe4fa7c
+SizeBytes = 129627032
 
 [Section.0422]
 Description = Відкритий офісний пакет.
@@ -79,13 +79,13 @@ URLSite = https://www.openoffice.org/uk/
 [Section.0804]
 Description = 开源办公套件。
 URLSite = https://www.openoffice.org/zh-cn/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.12/binaries/zh-CN/Apache_OpenOffice_4.1.12_Win_x86_install_zh-CN.exe
-SHA1 = a57444d5e4075b16aba857784ebe9729d1e750c5
-SizeBytes = 131138304
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/zh-CN/Apache_OpenOffice_4.1.13_Win_x86_install_zh-CN.exe
+SHA1 = aab9030aeb2488b8486e828ac9ab4b5f439d7278
+SizeBytes = 131153736
 
 [Section.0813]
 Description = Open-bron Office Pakket.
 URLSite = https://www.openoffice.org/nl/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.12/binaries/nl/Apache_OpenOffice_4.1.12_Win_x86_install_nl.exe
-SHA1 = 990187852c8fa0e4d188df1ef5e6af5c5dad482b
-SizeBytes = 143533136
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/nl/Apache_OpenOffice_4.1.13_Win_x86_install_nl.exe
+SHA1 = 9b6ecaf419f012266058bf21ba788e722dc22638
+SizeBytes = 143577368
