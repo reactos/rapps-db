@@ -8,7 +8,7 @@ Category = 12
 URLSite = http://www.clamwin.com/
 URLDownload = https://sourceforge.net/projects/clamwin/files/clamwin/0.103.2.1/clamwin-0.103.2.1-setup.exe
 SHA1 = f75d795dd6c31ea646cd944ec944c3e8be2a8f17
-SizeBytes = 172661090
+SizeBytes = 236832816
 Languages = 0409|040A
 
 [Section.040a]
