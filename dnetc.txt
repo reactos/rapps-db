@@ -1,0 +1,5 @@
+﻿[Section]
+Name = dnetc
+Category = 16
+URLDownload = http://http.distributed.net/pub/dcti/current-client/dnetc-win32-x86-setup.msi
+SizeBytes = 868352
