@@ -5,15 +5,15 @@ License = LGPL
 Description = A file archiving utility with support for 7zip, zip, tar, rar and many other archive formats.
 Category = 12
 URLSite = https://www.7-zip.org/
-URLDownload = https://www.7-zip.org/a/7z1900.exe
-SHA1 = 2f23a6389470db5d0dd2095d64939657d8d3ea9d
-SizeBytes = 1185968
+URLDownload = https://www.7-zip.org/a/7z2201.exe
+SHA1 = e49a4d750f83bc81d79f1c4c3f3648a817c7d3da
+SizeBytes = 1290308
 Icon = 7zip.ico
 
 [Section.amd64]
-URLDownload = http://svn.reactos.org/packages/7z1900-x64.exe
-SHA1 = 0138746b529d4d3a81302c2bc355a0b855a86d38
-SizeBytes = 1594881
+URLDownload = https://www.7-zip.org/a/7z2201-x64.exe
+SHA1 = c0dcae7c4c80be25661d22400466b4ea074fc580
+SizeBytes = 1575742
 
 [Section.0001]
 Description = .برنامج لضغط وفك ضغط الملفات يدعم تنسيقات متعددة مثل زيب و 7زيب و رار و غيرها
