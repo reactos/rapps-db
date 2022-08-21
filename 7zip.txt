@@ -1,6 +1,6 @@
 [Section]
 Name = 7-Zip
-Version = 19.00
+Version = 22.01
 License = LGPL
 Description = A file archiving utility with support for 7zip, zip, tar, rar and many other archive formats.
 Category = 12
