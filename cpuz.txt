@@ -1,0 +1,11 @@
+[Section]
+Name = CPUID CPU-Z
+Version = 2.02
+License = EULA
+Description = A freeware tool that gathers information on some of the main devices of your system.
+Category = 12
+URLSite = https://www.cpuid.com/softwares/cpu-z.html
+URLDownload = https://download.cpuid.com/cpu-z/cpu-z_2.02-en.exe
+SHA1 = a476e8b2ae9c645c1e1fc7ba6d9e39adffac0c70
+SizeBytes = 2127024
+Icon = cpuz.ico
