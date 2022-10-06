@@ -5,7 +5,7 @@ License = Unknown
 Description = Convert and broadcast audio and video in Windows Media formats.
 Category = 14
 URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=17792
-URLDownload = https://people.ok.ubc.ca/mberger/MiscSW/WMEncoder.exe
+URLDownload = https://v1support.s3.amazonaws.com/WMEncoder.exe
 SHA1 = 7a3f8781f3e5705651992ef0150ee30bc1295116
 SizeBytes = 9918872
 
