@@ -1,0 +1,11 @@
+[Section]
+Name = FbIDE
+Version = 0.4.6r4
+License = GPLv3
+Description = FBIde is one of the most popular and oldest editors for the FreeBASIC programming language.
+Category = 7
+URLSite = https://fbide.freebasic.net/
+URLDownload = https://altushost-swe.dl.sourceforge.net/project/fbide/fbide%200.4/fbide%200.4.6%20r4/FBIde0.4.6r4.zip
+SHA1 = 326327c7082adae0af1df0281cde4af990b1e273
+SizeBytes = 3132022
+Icon = fbide.ico
