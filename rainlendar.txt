@@ -1,0 +1,10 @@
+[Section]
+Name = Rainlendar Lite
+Version = 2.18
+License = EULA
+Description = A freeware tool that gathers information on some of the main devices of your system.
+Category = 16
+URLSite = Rainlendar is a feature rich calendar application which stays out of your way but keeps all your important events and tasks always visible on your desktop.
+URLDownload = https://www.rainlendar.net/download/2.18.0/Rainlendar-Lite-2.18.0-32bit.exe
+SHA1 = 6929ebc102821aaa40c08dbebbf643f17c1dd93d
+SizeBytes = 32226365
