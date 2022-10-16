@@ -1,0 +1,11 @@
+[Section]
+Name = Folder2Iso
+Version = 3.1
+License = EULA
+Description = Folder2Iso is a portable Window and Linux application that creates an ISO from any folder.
+Category = 12
+URLSite = https://www.trustfm.net/software/utilities/Folder2Iso.php
+URLDownload = https://ia802807.us.archive.org/27/items/folder2iso_202001/Folder2Iso.zip
+SHA1 = 07c1641ada57f31964eb4327d5753ab310fc5975
+SizeBytes = 2736100
+Icon = folder2iso.ico
