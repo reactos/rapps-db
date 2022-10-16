@@ -2,7 +2,7 @@
 Name = Nemobar
 Version = 1.0
 License = EULA
-Description = 	NemoBar (Network Monitoring Bar) is a handy utility to monitor internet traffic.
+Description = NemoBar (Network Monitoring Bar) is a handy utility to monitor internet traffic.
 Category = 12
 URLSite = http://www.nemobar.com
 URLDownload = http://www.nemobar.com/nemobar_100.exe
