@@ -1,0 +1,10 @@
+[Section]
+Name = Speccy
+Version = 1.3.2
+License = EULA
+Description = Fast, lightweight, advanced system information tool for your PC.
+Category = 12
+URLSite = https://www.ccleaner.com/it-it/speccy
+URLDownload = https://download.ccleaner.com/spsetup132.exe
+SHA1 = 8070b4e5c50a4a981f6dcf78ffd424c065182b09
+SizeBytes = 8995336
