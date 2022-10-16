@@ -1,0 +1,10 @@
+[Section]
+Name = Slash'EM
+Version = 0.0.7E7F3
+License = Nethack GPL
+Description = Slash'EM (Super Lotsa Added Stuff Hack – Extended Magic) is a variant of the roguelike game NetHack that offers extra features, monsters, and items.
+Category = 4
+URLSite = https://slashem.sourceforge.net/
+URLDownload = https://netcologne.dl.sourceforge.net/project/slashem/slashem-win32/0.0.7E7F3/SlashEM_0.0.7E7F3.exe
+SHA1 = 660b7c0248fc8ff54fe4e0fa9afb192307bc6549
+SizeBytes = 2386923
