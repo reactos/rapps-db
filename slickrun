@@ -1,0 +1,11 @@
+[Section]
+Name = SlickRun
+Version = 1.0
+License = Freeware
+Description = SlickRun is a free floating command line utility for Windows. SlickRun gives you almost instant access to any program or website.
+Category = 12
+URLSite = https://bayden.com/slickrun
+URLDownload = https://bayden.com/dl/sr-setup.exe
+SHA1 = c5393c3351f14ee0e0e4a22c2122b33c3fb15a67
+SizeBytes = 1043456
+Icon = slickrun.ico
