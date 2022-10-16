@@ -1,0 +1,11 @@
+[Section]
+Name = QMPlay2
+Version = 3.0.11
+License = GPL
+Description = QMPlay2 is an audio and video player compatible with the main formats and multimedia codecs.
+Category = 2
+URLSite = http://www.videolan.org/vlc/
+URLDownload = https://github.com/zaps166/QMPlay2/releases/download/22.08.21/QMPlay2-Win32-22.08.21.exe
+SHA1 = da4e6c4095e459791167d0ef09302f179c1c8f2e
+SizeBytes = 22302720
+Icon = qmplay2.ico
