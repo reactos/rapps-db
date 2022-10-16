@@ -1,0 +1,9 @@
+[Section]
+Name = Maelstorm
+Version = 3.0.6
+License = GPL
+Description = WAtomic is a Windows clone of Linux KAtomic logic game, developed using the GLScene OpenGl based library for Delphi.
+URLSite = https://www.libsdl.org/projects/Maelstrom/
+URLDownload = http://slouken.libsdl.org/projects/Maelstrom/bin/Maelstrom-3.0.6-Windows.zip
+SHA1 = e8ce99f3197b0c1cb329054ba82d957255c54cea
+SizeBytes = 90194764
