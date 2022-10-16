@@ -1,0 +1,11 @@
+[Section]
+Name = Waveshop (Portable - 64 bit)
+Version = 1.0.14
+License = GPL v2
+Description = WaveShop is a free, open-source audio editor.
+Category = 1
+URLSite = https://waveshop.sourceforge.net/
+URLDownload = https://nav.dl.sourceforge.net/project/waveshop/waveshop-1.0.14/waveshop-1.0.14.001-portable-x64.zip
+SHA1 = 14b3dab7254ab854f68fa27d7c2e1547f5086973
+SizeBytes = 3355511
+Icon = waveshop.ico
