@@ -1,0 +1,10 @@
+[Section]
+Name = Super Cars 3 (JOTD)
+Version = 0.6
+License = Freeware
+Description = Supercars 3 is a Java / GTGE-powered remake of classic Super Cars / Super Cars II game from the Atari ST / Amiga, with stuff borrowed from those games and also from Supercars International (MS-DOS).
+Category = 4
+URLSite = https://jotd.pagesperso-orange.fr/supercars3/
+URLDownload = https://jotd.pagesperso-orange.fr/supercars3/Supercars3_06.zip
+SHA1 = 6fd396624fb19064f4b89e3bdd964fa6fd048d61
+SizeBytes = 5888807
