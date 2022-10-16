@@ -9,6 +9,12 @@ URLDownload = https://inkscape.org/gallery/item/8396/Inkscape-0.48.5-1-win32.exe
 SHA1 = 6fa012e495aab0624056054003c998137326219a
 SizeBytes = 34573304
 
+[Section.0a]
+Description = Un editor de gráficos vectoriales bajo la licencia GNU GPL.
+
+[Section.0404]
+Description = 以 GNU General Public 條款發行的矢量圖編輯器。
+
 [Section.0407]
 Description = Editor für Vektorgrafiken, lizensiert unter der GNU General Public License.
 
@@ -20,9 +26,6 @@ Description = Editor de grafică vectorială oferit sub Licența Publică Genera
 
 [Section.0419]
 Description = Векторный графический редактор под лицензией GNU General Public License.
-
-[Section.0a]
-Description = Un editor de gráficos vectoriales bajo la licencia GNU GPL.
 
 [Section.041f]
 Description = GNU Genel Kamu Ruhsatı altında ruhsatlanmış bir vektör çizge düzenleyicisidir.

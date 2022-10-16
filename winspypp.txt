@@ -9,6 +9,13 @@ URLDownload = http://www.catch22.net/assets/files/software/WinSpy17.zip
 SHA1 = E1414E233267025E9B384C4B02A5DADA7CC8098E
 SizeBytes = 59355
 
+[Section.0a]
+Description = Una herramienta práctica para programadores que puede ser usada para seleccionar y ver las propiedades de cualquier ventana del sistema.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款能用來選擇和檢視系統中任意窗口的屬性的公用程式。
+
 [Section.0407]
 Description = Ein nützliches Werkzeug für Programmierer, das verwendet werden kann, um die Eigenschaften jedes Fensters im System sehen zu können.
 
@@ -30,7 +37,4 @@ Description = Sistemdeki bir pencerenin özelliklerini görüntülemek ve seçme
 [Section.0804]
 License = 免费软件
 Description = 一款能够用来选择和查看系统中任意窗口属性的面向高级程序员的实用工具。
-
-[Section.0a]
-Description = Una herramienta práctica para programadores que puede ser usada para seleccionar y ver las propiedades de cualquier ventana del sistema.
 

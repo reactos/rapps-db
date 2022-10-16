@@ -9,14 +9,18 @@ URLDownload = http://kindleforpc.amazon.com/44025/KindleForPC-installer-1.16.440
 SHA1 = c57d0a7d8cd5f1c3020536edf336c3187f3e051f
 SizeBytes = 65292192
 
+[Section.0a]
+Description = Una aplicación gratuita que te permite lee libros Kindle.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款讓您閱讀 Kindle 電子書的免費應用程式。
+
 [Section.0405]
 Description = Bezplatná aplikace, která umožňuje číst knihy Kindle.
 
 [Section.0407]
 Description = Ein kostenloses Programm, mit dem Sie Kindle Bücher lesen können.
-
-[Section.0a]
-Description = Una aplicación gratuita que te permite lee libros Kindle.
 
 [Section.040c]
 Description = Une application gratuite qui vous permet de lire des livres Kindle.

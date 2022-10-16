@@ -11,6 +11,10 @@ SHA1 = f75d795dd6c31ea646cd944ec944c3e8be2a8f17
 SizeBytes = 236832816
 Languages = 0409|040A
 
+[Section.0404]
+Description = ClamWin 是適用於 Microsoft Windows 10/8/7/Vista/XP/Me/2000/98 及 Windows Server 2012/2008/2003 的免費防毒軟體。
+
 [Section.040a]
 Name = ClamWin Antivirus Gratuito
 Description = ClamWin es un antivirus libre para Microsoft Windows 10/8/7/Vista/XP/Me/2000/98 y para Windows Server 2012, 2008 y 2003.
+

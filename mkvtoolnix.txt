@@ -12,6 +12,9 @@ SizeBytes = 15467976
 [Section.0a]
 Description = Set de herramientas para trabajar los archivos con formato MKV.
 
+[Section.0404]
+Description = 能處理 MKV 格式檔案的工具套件。
+
 [Section.0407]
 Description = Sammlung von Werkzeugen zum Bearbeiten von MKV Dateien.
 

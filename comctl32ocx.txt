@@ -9,14 +9,6 @@ URLDownload = http://download.microsoft.com/download/3/a/5/3a5925ac-e779-4b1c-bb
 SHA1 = f271f3f5c8e0436b860cbd094133d97428bcd151
 SizeBytes = 937984
 
-[Section.0407]
-License = Unbekannt
-Description = Datei wird von einigen Anwendungen benötigt. Beinhaltet: comctl32.ocx, mscomctl.ocx, advpack.dll.
-URLSite = http://www.microsoft.com/de-DE/download/details.aspx?id=10019
-URLDownload = http://download.microsoft.com/download/c/e/d/ced699fe-7a40-420b-bdd7-10b38caef4c6/VisualBasic6-KB896559-v1-DEU.exe
-SHA1 = 423a2bc72bca3b25ce55aeada1a98e6295751033
-SizeBytes = 932872
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para algunas aplicaciones. Incluye: comctl32.ocx, mscomctl.ocx y advpack.dll.
@@ -24,6 +16,18 @@ URLSite = http://www.microsoft.com/es-ES/download/details.aspx?id=10019
 URLDownload = http://download.microsoft.com/download/9/0/9/90935db7-89ec-4344-a9ea-e6913c03f060/VisualBasic6-KB896559-v1-ESN.exe
 SHA1 = 934f60140442a539400972e954e4e99ee6293a2b
 SizeBytes = 934400
+
+[Section.0404]
+License = 不明
+Description = 一些應用程式需要的檔案。包括：comctl32.ocx、mscomctl.ocx、advpack.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Datei wird von einigen Anwendungen benötigt. Beinhaltet: comctl32.ocx, mscomctl.ocx, advpack.dll.
+URLSite = http://www.microsoft.com/de-DE/download/details.aspx?id=10019
+URLDownload = http://download.microsoft.com/download/c/e/d/ced699fe-7a40-420b-bdd7-10b38caef4c6/VisualBasic6-KB896559-v1-DEU.exe
+SHA1 = 423a2bc72bca3b25ce55aeada1a98e6295751033
+SizeBytes = 932872
 
 [Section.040c]
 License = Inconnue

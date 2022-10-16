@@ -9,6 +9,13 @@ URLDownload = https://web.archive.org/web/20180317021711if_/https://airdownload.
 SHA1 = 9460f20461e2b92abd30c03454c810dc919fc8ad
 SizeBytes = 10857648
 
+[Section.0a]
+Description = El entorno de ejecución de Adobe AIR permite a los desarrolladores empaquetar el mismo código en aplicaciones nativas y juegos.
+
+[Section.0404]
+License = Adobe 軟體授權合約
+Description = Adobe AIR 執行環境可讓開發者以同樣的代碼封裝為原生應用程式及遊戲。
+
 [Section.0407]
 Description = Mithilfe der Adobe AIR-Laufzeit können Entwickler den gleichen Code in native Anwendungen und Spiele einbinden.
 
@@ -32,7 +39,4 @@ Description = Adobe AIR runtime lubab arendajatel pakkida sama koodi kohalikesse
 
 [Section.0804]
 Description = Adobe AIR 运行库允许开发者将同样的代码打包成原生应用及游戏。
-
-[Section.0a]
-Description = El entorno de ejecución de Adobe AIR permite a los desarrolladores empaquetar el mismo código en aplicaciones nativas y juegos.
 

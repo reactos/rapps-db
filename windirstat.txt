@@ -9,6 +9,12 @@ URLDownload = https://download.sourceforge.net/project/windirstat/windirstat/1.1
 SHA1 = 6fa92dd2ca691c11dfbfc0a239e34369897a7fab
 SizeBytes = 645729
 
+[Section.0a]
+Description = Programa que analiza el uso del diso y su limpieza.
+
+[Section.0404]
+Description = 一款分析磁碟使用情況及清理磁碟的程式。
+
 [Section.0407]
 Description = Programm zur Laufwerkanalyse und Bereinigung.
 
@@ -27,5 +33,3 @@ Description = Disk kullanımını çözümleme ve silme için program.
 [Section.0804]
 Description = 分析磁盘使用情况及清理磁盘的程序
 
-[Section.0a]
-Description = Programa que analiza el uso del diso y su limpieza.

@@ -9,13 +9,17 @@ URLDownload = http://download.microsoft.com/download/vb50pro/utility/1/win98/en-
 SHA1 = 28bfaf09b8ac32cf5ffa81252f3e2fadcb3a8f27
 SizeBytes = 992864
 
-[Section.0407]
-License = Unbekannt
-Description = Benötigt für Visual Basic 5 basierte Anwendungen. Beinhaltet: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para aplicaciones escritas en Visual Basic 5. Incluye: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
+
+[Section.0404]
+License = 不明
+Description = 開啟以 Visual Basic 5 編寫的應用程式時需要的元件。包含：advpack.dll、asycfilt.dll、comcat.dll、msvbvm50.dll、oleaut32.dll、olepro32.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Benötigt für Visual Basic 5 basierte Anwendungen. Beinhaltet: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
 
 [Section.040c]
 License = Inconnue

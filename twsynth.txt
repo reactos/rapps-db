@@ -9,10 +9,14 @@ URLDownload = https://sourceforge.net/projects/twsynth/files/Originarl%20TiMidit
 SHA1 = bac885b32da21d7a71004189df4a95a66cbde745
 SizeBytes = 27588544
 
+[Section.0a]
+Name = Sintetizador TiMidity++ para Windows
+Description = TWSYNTH es una versión extendida del software de síntesis TiMidity++ con driver de salida MIDI.
+
+[Section.0404]
+Description = TWSYNTH 是 TiMidity++ 軟體合成器的延伸版本。它帶有 MIDI 輸出驅動程式。
+
 [Section.0419]
 Name = Синтезатор TiMidity++ для Windows
 Description = TWSYNTH является расширенной версией программного синтезатора TiMidity++ с драйвером выхода MIDI.
 
-[Section.0a]
-Name = Sintetizador TiMidity++ para Windows
-Description = TWSYNTH es una versión extendida del software de síntesis TiMidity++ con driver de salida MIDI.

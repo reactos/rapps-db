@@ -9,6 +9,13 @@ URLDownload = https://web.archive.org/web/20180524095442if_/http://nirsoft.net/u
 SHA1 = 7d9c5ef40a4a0263cee45764e327fe3e6dd318cd
 SizeBytes = 94634
 
+[Section.0a]
+Description = Una pequeña utilidad que muestra todos los dispositivos USB que estén conectados en tu ordenador, así como todos los que hayas usado previamente.
+
+[Section.0404]
+License = 免費軟體
+Description = 列舉目前連接到您的電腦及曾經使用過的所有 USB 裝置的小工具。
+
 [Section.0415]
 Description = Małe narzędzie, które wyświetla wszystkie urządzenia USB podłączone do komputera, a także wszystkie urządzenia USB, z których korzystałeś wcześniej.
 
@@ -18,7 +25,4 @@ Description = Небольшая утилита, которая позволяе
 [Section.0804]
 License = 免费软件
 Description = 列举当前连接到您的电脑及曾经使用过的所有 USB 设备的小工具。
-
-[Section.0a]
-Description = Una pequeña utilidad que muestra todos los dispositivos USB que estén conectados en tu ordenador, así como todos los que hayas usado previamente.
 

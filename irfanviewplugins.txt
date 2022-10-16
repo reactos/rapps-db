@@ -9,13 +9,17 @@ URLDownload = https://web.archive.org/web/20180526163030if_/http://www.tucows.co
 SHA1 = 1e2d2a83eeb9d4f5d48776789e159a3ba332f5fd
 SizeBytes = 16595080
 
-[Section.0407]
-License = Freeware für nichtkommerzielle Nutzung
-Description = Zusätzliche Plugins zur Unterstützung von weiteren Dateitypen.
-
 [Section.0a]
 License = Gratuito (para uso personal)
 Description = Complementos adicionales para visualizar más formatos.
+
+[Section.0404]
+License = 免費軟體（僅限個人用戶）
+Description = 一個使 IrfanView 支援更多格式的插件集。
+
+[Section.0407]
+License = Freeware für nichtkommerzielle Nutzung
+Description = Zusätzliche Plugins zur Unterstützung von weiteren Dateitypen.
 
 [Section.040c]
 License = Gratuit (pour un usage personnel)

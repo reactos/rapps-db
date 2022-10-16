@@ -8,13 +8,17 @@ URLDownload = https://aka.ms/vs/15/release/vc_redist.x86.exe
 SHA1 = 3ee9622151e4b50837fcdfac1b085430f0181f4e
 SizeBytes = 14656504
 
-[Section.0407]
-License = Unbekannt
-Description = Benötigt für Visual Studio 2015/2017 basierte Anwendungen. Beinhaltet: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 2015/2017. Incluye: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+
+[Section.0404]
+License = 不明
+Description = 開啟以 Visual Studio 2015 或 2017 編寫的應用程式時需要的元件。包含：atl140.dll、mfc140.dll、mfc140u.dll、mfcm140.dll、mfcm140u.dll、msdia140.dll、msvcm140.dll、msvcp140.dll、msvcr140.dll、vcomp140.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Benötigt für Visual Studio 2015/2017 basierte Anwendungen. Beinhaltet: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
 
 [Section.040c]
 License = Inconnue
@@ -55,3 +59,4 @@ Description = 用 Visual Studio 2015/2017 编译的应用程序需要它。包�
 [Section.0813]
 License = Ongekend
 Description = Microsoft Visual Studio 2015/2017 Runtime. Bevat: atl140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msdia140.dll, msvcm140.dll, msvcp140.dll, msvcr140.dll, vcomp140.dll.
+

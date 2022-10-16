@@ -8,11 +8,15 @@ URLDownload = http://www.blueskied.com/BoundAround_Demo.exe
 SHA1 = 06907f4f3ff6fb9be2f64ff7056b9bb1623a48b9
 SizeBytes = 2045624
 
-[Section.0407]
-Description = Spiel ähnlich zu Frozen Fruits.
-
 [Section.0a]
 Description = Un juego similar a Frozen Fruits.
+
+[Section.0404]
+License = 共享軟體
+Description = 一款類似 Frozen Fruits 的遊戲。
+
+[Section.0407]
+Description = Spiel ähnlich zu Frozen Fruits.
 
 [Section.0410]
 Name = Bound Around (Versione di prova)

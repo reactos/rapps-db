@@ -9,11 +9,14 @@ URLDownload = http://ghostgum.com.au/download/gsv50w32.exe
 SHA1 = e2a99a0725769f9e0c622ca37adead6fe32ea165
 SizeBytes = 2032640
 
-[Section.0407]
-Description = Grafisches Interface für Ghostscript.
-
 [Section.0a]
 Description = Una interfaz gráfica para Ghostscript.
+
+[Section.0404]
+Description = Ghostscript 的圖形界面。
+
+[Section.0407]
+Description = Grafisches Interface für Ghostscript.
 
 [Section.0415]
 Description = Interfejs graficzny dla Ghostscript.

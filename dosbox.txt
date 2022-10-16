@@ -9,11 +9,14 @@ URLDownload = http://download.sourceforge.net/project/dosbox/dosbox/0.74-2/DOSBo
 SHA1 = 06f23be4ceba35c8c547a98f1b327da20082b483
 SizeBytes = 1453151
 
-[Section.0407]
-Description = Quelloffener DOS-Emulator.
-
 [Section.0a]
 Description = Un emulador de DOS de código abierto.
+
+[Section.0404]
+Description = 一款開源的 DOS 模擬器。
+
+[Section.0407]
+Description = Quelloffener DOS-Emulator.
 
 [Section.040c]
 Description = DOSBox est un émulateur DOS.

@@ -9,11 +9,14 @@ URLDownload = https://sourceforge.net/projects/fbc/files/FreeBASIC-1.08.1/Binari
 SHA1 = 29977d1d2aaa6c322e155f3a2db9e3b7481d80a1
 SizeBytes = 19823315
 
-[Section.0407]
-Description = Quelloffener BASIC Compiler. Die BASIC Syntax ist kompatibel zu QBASIC.
-
 [Section.0a]
 Description = Compilador BASIC de código abierto. El lenguaje BASIC es compatible con QBASIC.
+
+[Section.0404]
+Description = 開源的 BASIC 編譯器。BASIC 語法相容於 QBASIC。
+
+[Section.0407]
+Description = Quelloffener BASIC Compiler. Die BASIC Syntax ist kompatibel zu QBASIC.
 
 [Section.040c]
 Description = Compilateur BASIC open source. La syntaxe du BASIC est compatible avec le QBASIC.

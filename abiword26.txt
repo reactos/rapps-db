@@ -9,11 +9,14 @@ URLDownload = http://www.abisource.com/downloads/abiword/2.6.8/Windows/abiword-s
 SHA1 = 50d9d952cd159b7e7f7aa19c57d448ebc9cb422f
 SizeBytes = 5912280
 
-[Section.0407]
-Description = Quelloffene Textverarbeitung.
-
 [Section.0a]
 Description = Procesador de textos rápido y de código abierto.
+
+[Section.0404]
+Description = 開源的文字處理器。
+
+[Section.0407]
+Description = Quelloffene Textverarbeitung.
 
 [Section.040c]
 Description = Éditeur de texte.

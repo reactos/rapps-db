@@ -9,11 +9,14 @@ URLDownload = http://download.sourceforge.net/wine/Wine%20Mono/4.5.6/wine-mono-4
 SHA1 = 12ec9a4fa5958426292effd40d9230c7acbba1e8
 SizeBytes = 53705216
 
-[Section.0407]
-Description = Freie Neu-Umsetzung des .NET Frameworks, welche von den Wine-Bibliotheken verwendet wird.
-
 [Section.0a]
 Description = Reimplementación libre de .NET Framework utilizadas por las bibliotecas de Wine.
+
+[Section.0404]
+Description = 由 Wine 庫重新實作的免費 .NET 框架。
+
+[Section.0407]
+Description = Freie Neu-Umsetzung des .NET Frameworks, welche von den Wine-Bibliotheken verwendet wird.
 
 [Section.040c]
 Description = Wine Mono .NET Framework

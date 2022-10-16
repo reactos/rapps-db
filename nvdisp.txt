@@ -13,6 +13,11 @@ SizeBytes = 19433601
 Name = Controladores de pantalla de NVidia
 Description = Controlador de pantalla para RIVA TNT2, tarjetas GeForce/Quadro 1/2/3/4 de NVidia.
 
+[Section.0404]
+Name = NVidia 顯示驅動程式
+License = 不明
+Description = 適用於 NVidia 的 RIVA TNT2、GeForce/Quadro 1/2/3/4 的顯示驅動程式。
+
 [Section.0407]
 Name = NVidia Display Treiber
 License = Unbekannt

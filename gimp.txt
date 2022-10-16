@@ -9,6 +9,12 @@ URLDownload = https://download.gimp.org/mirror/pub/gimp/v2.6/windows/gimp-2.6.12
 SHA1 = 438ee0a517507396cdab6d814638d7313d0b99e0
 SizeBytes = 20924432
 
+[Section.0a]
+Description = Es un acrónimo en inglés de «Programa de Manipulación de Imágenes GNU». Se distribuye libremente y está pensado para el retoque fotográfico, composición de imágenes y dibujo.
+
+[Section.0404]
+Description = 「GNU 圖像處理程式」的英文首字母縮寫。它是一款用於圖像的修飾、構圖和設計的軟體。
+
 [Section.0407]
 Description = Akronym für GNU Image Manipulation Program. Es ist ein frei verfügbares Programm für Aufgaben wie Foto-Retusche, Bildkomposition und Bild-Authoring.
 
@@ -26,9 +32,6 @@ Description = "GNU Image Manipulation Program" için bir kısaltma. Fotoğraf d�
 
 [Section.0425]
 Description = Lühend "GNU Image Manipulation Progamm" jaoks. Tasuta jagatud programm ülesannete jaoks nagu foto viimistlus, pildikompositsioonimine, pildi loomine.
-
-[Section.0a]
-Description = Es un acrónimo en inglés de «Programa de Manipulación de Imágenes GNU». Se distribuye libremente y está pensado para el retoque fotográfico, composición de imágenes y dibujo.
 
 [Section.0804]
 Description = “GNU 图片编辑程序”的首字母缩写。它是一个用于譬如照片修描、图像构图和设计的自由软件。

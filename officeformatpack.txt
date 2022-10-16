@@ -13,6 +13,12 @@ SizeBytes = 38808920
 Name = Paquete de compatibilidad de Microsoft Office de Word, Excel y Powerpoint
 Description =  Paquete necesario para poder abrir los *.docx, *.xlsx, etc en el visor de Word y Excel y en Office 2003/XP.
 
+[Section.0404]
+Name = Microsoft Office Word、Excel 及 PowerPoint 檔案格式相容性套件
+License = 不明
+Description = 在 Word/Excel Viewer 和 Office 2003 上開啟 *.docx、*.xlsx 等格式時需要的套件。
+URLSite = https://web.archive.org/web/20180426155056if_/http://www.microsoft.com/zh-tw/download/details.aspx?id=3
+
 [Section.0407]
 License = Unbekannt
 Description = Wird zum Öffnen von *.docx, *.xlsx, etc unter Word/Excel Viewer und Office 2003 benötigt.

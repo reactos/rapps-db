@@ -9,15 +9,19 @@ URLDownload = http://svn.reactos.org/packages/nirsoft_package_1.19.98.zip
 SHA1 = 003458ee09b034884c8d5d4753463985a1c16862
 SizeBytes = 24751955
 
+[Section.0a]
+License = Gratuita
+Description = Un paquete con más de 180 utilidades.
+
+[Section.0404]
+License = 免費軟體
+Description = 適用於 Windows 的一款超過 180 個工具的合集。
+
 [Section.0407]
 Description = Paket von mehr als 180 Utilities für Windows.
 
 [Section.040c]
 Description = Un ensemble de plus de 180 utilitaires pour Windows.
-
-[Section.0a]
-License = Gratuita
-Description = Un paquete con más de 180 utilidades.
 
 [Section.0415]
 Description = Pakiet zawierający ponad 180 narzędzi dla Windows.

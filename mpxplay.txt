@@ -9,11 +9,14 @@ URLDownload = http://download.sourceforge.net/project/mpxplay/Mpxplay/Mpxplay%20
 SHA1 = d2b1ad5cd95a7b0b16391888ba40aafaf0918518
 SizeBytes = 537943
 
-[Section.0407]
-Description = Konsolenbasierter 32-bit Audio Player für Windows.
-
 [Section.0a]
 Description = Un reproductor de audio en consola de 32-bit.
+
+[Section.0404]
+Description = Windows 的 32 位元主控臺音訊播放器。
+
+[Section.0407]
+Description = Konsolenbasierter 32-bit Audio Player für Windows.
 
 [Section.0410]
 Description = Mpxplay è una console audio 32-bit per Windows.

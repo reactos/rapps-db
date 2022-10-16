@@ -9,13 +9,6 @@ URLDownload = https://web.archive.org/web/20210505032023if_/http://download.micr
 SHA1 = 16a354a2207c4c8846b617cbc78f7b7c1856340e
 SizeBytes = 24265736
 
-[Section.0407]
-Description = Runtime für C# Windows Anwendungen.
-URLSite = http://www.microsoft.com/de-DE/download/details.aspx?id=26
-URLDownload = https://web.archive.org/web/20210212100858if_/http://download.microsoft.com/download/4/f/3/4f3ac857-e063-45d0-9835-83894f20e808/dotnetfx.exe
-SHA1 = 4e5cd34df2b41bdcc0d813df259ea994d7cfc7fd
-SizeBytes = 24277024
-
 [Section.0a]
 Description = Componentes necesarios para ejecutar programas escritos en lenguajes intermedios como C#.
 License = Desconocida
@@ -23,6 +16,21 @@ URLSite = http://www.microsoft.com/es-ES/download/details.aspx?id=26
 URLDownload = https://web.archive.org/web/20210126141804if_/http://download.microsoft.com/download/8/f/0/8f023ff4-2dc1-4f10-9618-333f5b9f8040/dotnetfx.exe
 SHA1 = 092d1f37018bfeba6ce8d9da43552d3f6e98cf86
 SizeBytes = 24275488
+
+[Section.0404]
+License = 不明
+Description = 執行由 C# 之類的中間語言所編譯的 Windows 應用程式所需的組件。
+URLSite = http://www.microsoft.com/zh-TW/download/details.aspx?id=26
+URLDownload = http://web.archive.org/web/20210415125751if_/https://download.microsoft.com/download/8/2/7/827bb1ef-f5e1-4464-9788-40ef682930fd/dotnetfx.exe
+SHA1 = ae602dd9efcdfe296f3d67f91c7aa2282533636a
+SizeBytes = 24282144
+
+[Section.0407]
+Description = Runtime für C# Windows Anwendungen.
+URLSite = http://www.microsoft.com/de-DE/download/details.aspx?id=26
+URLDownload = https://web.archive.org/web/20210212100858if_/http://download.microsoft.com/download/4/f/3/4f3ac857-e063-45d0-9835-83894f20e808/dotnetfx.exe
+SHA1 = 4e5cd34df2b41bdcc0d813df259ea994d7cfc7fd
+SizeBytes = 24277024
 
 [Section.040c]
 Description = Paquet redistribuable.

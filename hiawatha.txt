@@ -12,6 +12,9 @@ SizeBytes = 3560500
 [Section.0a]
 Description = Un webserver de licencia abierta centrado en la seguridad.
 
+[Section.0404]
+Description = 一款專注於安全的開源網路伺服器。
+
 [Section.0407]
 Description = Quelloffener Webserver mit einem Augenmerk auf Sicherheit.
 

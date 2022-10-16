@@ -19,11 +19,14 @@ SizeBytes = 1594881
 [Section.0001]
 Description = .برنامج لضغط وفك ضغط الملفات يدعم تنسيقات متعددة مثل زيب و 7زيب و رار و غيرها
 
-[Section.0407]
-Description = Dateiarchivierungswerkzeug zum Erstellen und Öffnen von 7zip, zip, tar, rar und vielen anderen Archivformaten.
-
 [Section.0a]
 Description = Utilidad para crear y abrir 7zip, zip, tar, rar y otros archivos comprimidos.
+
+[Section.0404]
+Description = 一款檔案封存工具程式，支援 7zip、zip、tar、rar 及其他的壓縮檔格式。
+
+[Section.0407]
+Description = Dateiarchivierungswerkzeug zum Erstellen und Öffnen von 7zip, zip, tar, rar und vielen anderen Archivformaten.
 
 [Section.040c]
 Description = Utilitaire pour créer et ouvrir les fichiers 7zip, zip, tar, rar et d'autres archives.

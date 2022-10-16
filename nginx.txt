@@ -12,6 +12,9 @@ SizeBytes = 1473335
 [Section.0a]
 Description = Un servidor proxy HTTP y revertido, también como servidor proxy mail, escrito por Igor Sysoev.
 
+[Section.0404]
+Description = HTTP 和反向代理伺服器，以及一個郵件代理伺服器，由 Igor Sysoev 編寫。
+
 [Section.0407]
 Description = HTTP- und Reverse Proxy Server, sowie Mail Proxy Server, erstellt von Igor Sysoev.
 

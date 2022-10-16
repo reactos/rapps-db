@@ -1,15 +1,17 @@
-Translations:
-German translation by Daniel Reimer (dreimer) daniel.reimer@reactos.org
-Polish translation by wojo664
-Romanian translated by Ștefan Fulea
-Turkish translation by Erdem Ersoy (eersoy93) (erdemersoy [at] erdemersoy [dot] net) and Ercan Ersoy (ercanersoy) (ercanersoy [at] ercanersoy [dot] net)
-Simplified Chinese translation by Henry Tang Ih (henrytang5247) (henrytang2@hotmail.com), Luo Yufan (njlyf2011@hotmail.com) and Li Keqing (auroracloud4096@gmail.com)
-Russian translation by Nikolay Burshtyn (amber) (amber8706@mail.ru)
-Estonian translations by Joann Mõndresku (cernodile) (joannmondresku at gmail dot com)
-
 Maintenance:
-Maintained by Daniel Reimer (dreimer) daniel.reimer@reactos.org
+Maintained by Daniel Reimer (dreimer) <daniel.reimer@reactos.org>
 
-Other:
+Translations:
+Chinese (Simplified): by Henry Tang Ih (henrytang5247) <henrytang2@hotmail.com>, Luo Yufan <njlyf2011@hotmail.com> and Li Keqing <auroracloud4096@gmail.com>
+Chinese (Traditional): by Chan Chilung <eason066@gmail.com>
+Estonian: by Joann Mõndresku (cernodile) <joannmondresku@gmail.com>
+German: by Daniel Reimer (dreimer) <daniel.reimer@reactos.org>
+Polish: by wojo664 and CompGame356
+Romanian: by Ștefan Fulea
+Russian: by Nikolay Burshtyn (amber) <amber8706@mail.ru>
+Spanish: by Julen Urizar Compains <julenuri@hotmail.com>
+Turkish: by Erdem Ersoy (eersoy93) <erdemersoy@erdemersoy.net> and Ercan Ersoy (ercanersoy) <ercanersoy@ercanersoy.net>
+
+Others:
 Base Python script for SHA1 sync by Ismael Ferreras Morezuelas
 Extended Python script with ini parsing, size calculating, dead link detection and language specific namings by Christopher Reimer

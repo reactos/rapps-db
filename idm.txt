@@ -10,3 +10,8 @@ Icon=idm.ico
 Screenshot1 = https://i.imgur.com/ZgyZ62m.png
 SHA1 = d99662924b9d260872bba995b233332ee0eab748
 SizeBytes = 10640368
+
+[Section.0404]
+License = 試用版本
+Description = Internet Download Manager（IDM）工具可以提升下載速度至最高 5 倍，而且可以暫停或排定下載。
+

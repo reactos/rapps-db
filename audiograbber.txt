@@ -9,14 +9,18 @@ URLDownload = http://rsteinbu.myonlineportal.org/downloads/freeware/Multimedia/A
 SHA1 = c53224ad4f0e381af5c8cd146d7c90539c6d6489
 SizeBytes = 3349460
 
+[Section.0a]
+Description = Un buen extractor de pistas de CDs de música y conversor de archivos de audio.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款非常好用的 CD 分割和音訊檔案轉換工具。
+
 [Section.0407]
 Description = Sehr guter CD-Ripper/Audio-Datei-Konverter.
 
 [Section.0410]
 Description = Un buon CD Ripper/Convertitore di file Audio.
-
-[Section.0a]
-Description = Un buen extractor de pistas de CDs de música y conversor de archivos de audio.
 
 [Section.040c]
 Description = Un très bon extracteur de CD/convertisseur de fichier audio.

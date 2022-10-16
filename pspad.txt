@@ -9,13 +9,17 @@ URLDownload = https://www.pspad.com/files/pspad/pspad500_setup.exe
 SHA1 = 92dfe2d3a8b999e2f85f9d3e66bd54ff1ec658e6
 SizeBytes = 6582336
 
-[Section.0407]
-Description = Leichtgewichtiger Texteditor.
-URLSite = http://www.pspad.com/de/
-
 [Section.0a]
 Description = Un pequeño editor de texto.
 URLSite = http://www.pspad.com/es/
+
+[Section.0404]
+License = 免費軟體
+Description = 一個輕量級的文字編輯器。
+
+[Section.0407]
+Description = Leichtgewichtiger Texteditor.
+URLSite = http://www.pspad.com/de/
 
 [Section.040c]
 Description = Un éditeur de texte.

@@ -11,6 +11,9 @@ SizeBytes = 15969876
 Icon = audacious.ico
 Screenshot1 = https://i.imgur.com/xpvdELX.png
 
+[Section.0404]
+Description = 一款以 Winamp/XMMS 為靈感的開源音訊播放器。
+
 [Section.0419]
 Description = Аудиопроигрыватель с открытым исходным кодом, вдохновлённый Winamp/XMMS.
 

@@ -13,6 +13,10 @@ SizeBytes = 3365638
 Name = Utilidades GNU para Win32
 Description = Algunos ports de las utilidades GNU para Win32 nativo.
 
+[Section.0404]
+Name = 適用於 Win32 的 GNU 公用程式
+Description = 一些常用 GNU 公用程式的原生 Win32 移植版本。
+
 [Section.0407]
 Description = Einige Portierungen der bekannten GNU Utilities auf natives Win32.
 

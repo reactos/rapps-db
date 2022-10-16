@@ -6,3 +6,7 @@ Category = 15
 URLDownload = https://web.archive.org/web/20211217001039/https://raw.githubusercontent.com/petr-akhlamov/ros-repo/master/winnt3.exe
 SHA1 = c24a23d4b39566a9e1e1738ae29b29db5f33c418
 SizeBytes = 170825
+
+[Section.0404]
+Description = 基於 Windows NT 3 的外觀的 Windows 主題。
+

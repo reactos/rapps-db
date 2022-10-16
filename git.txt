@@ -9,6 +9,13 @@ URLDownload = https://web.archive.org/web/20170403083756/https://github.com/git-
 SHA1 = 5defdff68265622535b9f0423d9d9b8fb1c90be2
 SizeBytes = 32980760
 
+[Section.0a]
+Name = Git para Windows
+Description = Git es un sistema de control y revision de sistemas rápido, escalable y distribucional con una variedad rica de comandos que proveen operaciones a alto nivel y un control total de los elementos.
+
+[Section.0404]
+Description = Git 是快速，可擴展的分散式版本控制軟體，並擁有非常多用於高階操作和對內部的完全存取的命令。
+
 [Section.0419]
 Name = Git для Windows
 Description = Git - это быстрая, масштабируемая, распределённая система контроля версий с необычно богатым набором команд, который обеспечивает как операции высокого уровня, так и полный доступ к внутренним компонентам.
@@ -17,6 +24,3 @@ Description = Git - это быстрая, масштабируемая, рас�
 Name = Git Windowsile
 Description = Git on kiire, skaleeritav, jaotatud muudatuste kontrollsüsteem ebatavaliselt rikka käsustikuga, mis annab nii kõrge tasemelisi operatsiooni kui ka täieliku ligipääsu siseosadesse.
 
-[Section.0a]
-Name = Git para Windows
-Description = Git es un sistema de control y revision de sistemas rápido, escalable y distribucional con una variedad rica de comandos que proveen operaciones a alto nivel y un control total de los elementos.

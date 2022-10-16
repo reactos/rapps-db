@@ -9,13 +9,6 @@ URLDownload = https://web.archive.org/web/20171225132744if_/http://download.micr
 SHA1 = ab48a8ebac88219c84f293c6c1e81f1a0f420da6
 SizeBytes = 63210976
 
-[Section.0407]
-License = Unbekannt
-Description = Freeware Präsentationsbetrachter für Office-Formate (*.ppt).
-URLDownload = https://web.archive.org/web/20170105015503if_/http://download.microsoft.com/download/9/F/7/9F742C8F-8C70-4498-B4D1-539BE36A1077/PowerPointViewer.exe
-SHA1 = 8fab720491697b378110212d3ec673c575dd302c
-SizeBytes = 63363736
-
 [Section.0a]
 Name = Visor de Microsoft Powerpoint
 Description = Visor de presentaciones gratuito para formatos de Office (*.ppt).
@@ -23,6 +16,17 @@ License = Desconocida
 URLDownload = https://web.archive.org/web/20170426125202if_/http://download.microsoft.com/download/C/1/A/C1AAD042-4407-4470-97CB-863B869F9EDF/PowerPointViewer.exe
 SHA1 = 8b6f50e6129412fc51692864150a42295861ec63
 SizeBytes = 63412736
+
+[Section.0404]
+License = 不明
+Description = 免費的 Office 簡報格式（*.ppt）檢視器。
+
+[Section.0407]
+License = Unbekannt
+Description = Freeware Präsentationsbetrachter für Office-Formate (*.ppt).
+URLDownload = https://web.archive.org/web/20170105015503if_/http://download.microsoft.com/download/9/F/7/9F742C8F-8C70-4498-B4D1-539BE36A1077/PowerPointViewer.exe
+SHA1 = 8fab720491697b378110212d3ec673c575dd302c
+SizeBytes = 63363736
 
 [Section.040c]
 License = Inconnue

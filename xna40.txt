@@ -12,6 +12,11 @@ SizeBytes = 7054336
 [Section.0a]
 Description = La framework redistribuible XNA te proporciona los componentes runtime para ejecutar un juego en Windows que haya sido desarrollado usando el Microsoft XNA Game Studio 4.0.
 
+[Section.0404]
+License = 不明
+Description = XNA Framework Redistributable 向使用 Microsoft XNA Game Studio 4.0 開發的遊戲提供在 Windows 執行時必要的執行環境。
+
 [Section.0415]
 License = Nieznana
 Description = Pakiet redystrybucyjny XNA zawiera niezbędne biblioteki do uruchomienia gier w systemie Windows, które zostały opracowane przy użyciu oprogramowania Microsoft XNA Game Studio 4.0.
+

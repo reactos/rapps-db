@@ -9,6 +9,13 @@ URLDownload = https://web.archive.org/web/20180413051731if_/http://dw.ezbsys.net
 SHA1 = 2ea6f41e99886667a185608328c9adb03e6aa9ed
 SizeBytes = 4536880
 
+[Section.0a]
+Description = Una herramienta para crear, convertir y editar imágenes ISO, y un creador de CD/DVD, que puede editar directamente las imágenes de CD/DVD para extraer archivos o carpetas. Crea imágenes de disco duro y CD/DVD.
+
+[Section.0404]
+License = 試用版本
+Description = 一款針對 ISO CD/DVD 映像檔案的建立、編輯、轉換及製作可引導 CD/DVD 的工具。它可以直接編輯 CD/DVD 映像檔案並從中提取檔案或目錄，也可以直接從您的 CD/DVD-ROM 或硬碟中建立 ISO 檔案。
+
 [Section.0415]
 License = Wersja próbna
 Description = Program do tworzenia, edycji, lub konwertowania obrazów płyt CD/DVD (bootowalnych i zwykłych). Można bezpośrednio edytować plik obrazu, wypakować z niego pliki i foldery, potrafi równierz utworzyć obrazy ISO z napędu optycznego lub plików na dysku twardym.
@@ -27,8 +34,5 @@ Description = CD/DVD kalıp dosyasını doğrudan düzenleyebilmekle ve ondan do
 
 [Section.0804]
 License = 试用版本
-Description = 一款针对 ISO CD/DVD 镜像文件创建、编辑及转换的工具，它也可以用来制作可引导 CD/DVD。它可以直接编辑编辑 CD/DVD 的镜像文件并从中释放文件或目录，也可以直接从您的 CD/DVD-ROM 或硬盘中创建 ISO 文件。
-
-[Section.0a]
-Description = Una herramienta para crear, convertir y editar imágenes ISO, y un creador de CD/DVD, que puede editar directamente las imágenes de CD/DVD para extraer archivos o carpetas. Crea imágenes de disco duro y CD/DVD.
+Description = 一款针对 ISO CD/DVD 镜像文件创建、编辑及转换的工具，它也可以用来制作可引导 CD/DVD。它可以直接编辑 CD/DVD 的镜像文件并从中释放文件或目录，也可以直接从您的 CD/DVD-ROM 或硬盘中创建 ISO 文件。
 

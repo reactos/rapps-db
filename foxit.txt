@@ -9,14 +9,18 @@ URLDownload = https://cdn09.foxitsoftware.com/product/reader/desktop/win/9.1/Fox
 SHA1 = b158cbc4095c184bbcb65af38e7c0dee28b56bfc
 SizeBytes = 81823328
 
-[Section.0407]
-Version = 9.1.0
-Description = Alternativer PDF Reader. Neben Adobe Reader der beste PDF Reader.
-
 [Section.0a]
 Version = 9.1.0
 License = Gratuito
 Description = Uno de los mejores lectores de PDF, parecido a Adobe Reader.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款在功能上媲美 Adobe Reader 的 PDF 閱讀器。
+
+[Section.0407]
+Version = 9.1.0
+Description = Alternativer PDF Reader. Neben Adobe Reader der beste PDF Reader.
 
 [Section.0415]
 Description = Alternatywny czytnik PDF, konkurujący funkcjonalnością z Adobe Reader.

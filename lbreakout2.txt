@@ -9,11 +9,14 @@ URLDownload = https://sourceforge.net/projects/portableapps/files/LBreakout2%20P
 SHA1 = 4a61f55e861c71c13469fc1692d0ffac7783480d
 SizeBytes = 2895032
 
-[Section.0407]
-Description = Breakout-Klon. Verwendet SDL Bibliothek.
-
 [Section.0a]
 Description = Clon de Breakout usando las librerias SDL.
+
+[Section.0404]
+Description = 使用 SDL 庫的 Breakout 的克隆。
+
+[Section.0407]
+Description = Breakout-Klon. Verwendet SDL Bibliothek.
 
 [Section.040c]
 Description = Clone de casse-brique utilisant la bibliothèque SDL.

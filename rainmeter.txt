@@ -10,3 +10,7 @@ Icon=rainmeter.ico
 Screenshot1 = https://i.imgur.com/oj6yqE2.png
 SHA1 = eac2d350cac138c9ece86fe9ccd823e380601b1c
 SizeBytes = 2404088
+
+[Section.0404]
+Description = Rainmeter 可以在桌面顯示如記憶體、電池容量、RSS 摘要及天氣報告。程式支援自訂外觀。
+

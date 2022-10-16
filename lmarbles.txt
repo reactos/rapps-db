@@ -9,11 +9,14 @@ URLDownload = https://archive.org/download/lmarbles-1.0.6-win32/lmarbles-1.0.6-w
 SHA1 = c812e4fd05f534e51104b42799b592765af7067a
 SizeBytes = 1453852
 
-[Section.0407]
-Description = Atomix-Klon. Verwendet SDL Bibliotheken.
-
 [Section.0a]
 Description = Clon de Atomix usando las librerias SDL.
+
+[Section.0404]
+Description = 使用 SDL 庫的 Atomix 的克隆。
+
+[Section.0407]
+Description = Atomix-Klon. Verwendet SDL Bibliotheken.
 
 [Section.040c]
 Description = Clone de Atomix utilisant la bibliothèque SDL.

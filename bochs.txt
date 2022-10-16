@@ -9,11 +9,14 @@ URLDownload = https://download.sourceforge.net/project/bochs/bochs/2.6.9/Bochs-2
 SHA1 = ad2d245b9f7d0492ec800df4b38b8893d8bb0642
 SizeBytes = 5335913
 
-[Section.0407]
-Description = Portabler, quelloffener IA-32 (x86) PC-Emulator geschrieben in C++, der auf den meisten populären Plattformen läuft.
-
 [Section.0a]
 Description = Un emulador de PC IA-32 (x86) multiplataforma y de código abierto escrito en C++, funciona en gran cantidad de arquitecturas.
+
+[Section.0404]
+Description = 一款以 C++ 編寫，開源的可攜式 IA-32 (x86) PC 模擬器。它可在大多數的主流平臺上執行。
+
+[Section.0407]
+Description = Portabler, quelloffener IA-32 (x86) PC-Emulator geschrieben in C++, der auf den meisten populären Plattformen läuft.
 
 [Section.0410]
 Description = Bochs è un emulatore pc IA-32 (x86) scritto in C++ open source e portatile, che può essere eseguito sulle piattaformi più popolari.

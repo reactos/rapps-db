@@ -9,11 +9,15 @@ URLDownload = https://download.sourceforge.net/project/codeblocks/Binaries/17.12
 SHA1 = d9159bdfa76762bf6ceade3485af4af13a6ecff7
 SizeBytes = 90337727
 
-[Section.0407]
-Description = Quelloffene, plattformübergreifende, mächtige IDE. Diese enthält den TDM-GCC (version 5.1.0, 32 bit) Compiler.
-
 [Section.0a]
 Description = Un IDE potente, de código abierto y multiplataforma. Viene con el compilador TDM-GCC (version 5.1.0, 32 bit).
+
+[Section.0804]
+Name = Code::Blocks TDM-GCC（版本 5.1.0, 32 位元）
+Description = 開源、跨平台和功能強大的 IDE。這個軟體包含 TDM-GCC（版本 5.1.0, 32 位元）編譯器。
+
+[Section.0407]
+Description = Quelloffene, plattformübergreifende, mächtige IDE. Diese enthält den TDM-GCC (version 5.1.0, 32 bit) Compiler.
 
 [Section.0410]
 Description = Un IDE potente, open source, multipiattaforma. Contiene il compilatore TDM-GCC (versione 5.1.0, 32 bit).

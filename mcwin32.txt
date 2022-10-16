@@ -9,15 +9,18 @@ URLDownload = https://download.sourceforge.net/project/mcwin32/mcwin32-build204-
 SHA1 = df6382b46efc9d29eef066d15d8433e697a79c6f
 SizeBytes = 3461847
 
+[Section.0a]
+Description = Una versión para Windows 32-bits de Midnight Commander.
+
+[Section.0404]
+Description = GNU Midnight Commander 的 32 位 Windows 移植版。
+
 [Section.0407]
 Description = 32-bit Windows port des GNU Midnight Commander.
 
 [Section.0410]
 License = GPL versione 3
 Description = Un porting Windows 32bit di Midnight Commander.
-
-[Section.0a]
-Description = Una versión para Windows 32-bits de Midnight Commander.
 
 [Section.0415]
 License = GPL wersja 3

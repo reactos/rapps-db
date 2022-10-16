@@ -9,11 +9,14 @@ URLDownload = http://downloads.xiph.org/releases/oggdsf/opencodecs_0.85.17777.ex
 SHA1 = 386cf7cd29ffcbf8705eff8c8233de448ecf33ab
 SizeBytes = 2653944
 
-[Section.0407]
-Description = DirectShow Filter für Ogg Vorbis, Speex, Theora, FLAC, und WebM Audio-/Videoformate.
-
 [Section.0a]
 Description = Filtros DirectShow para los formatos de audio y vídeo Ogg Vorbis, Speex, Theora, FLAC y WebM.
+
+[Section.0404]
+Description = 適用於 Ogg Vorbis, Speex, Theora, FLAC 和 WebM 的音訊視訊檔案格式的 DirectShow 過濾器。
+
+[Section.0407]
+Description = DirectShow Filter für Ogg Vorbis, Speex, Theora, FLAC, und WebM Audio-/Videoformate.
 
 [Section.0410]
 Description = I filtri DirectShow per la Ogg Vorbis, Speex, Theora, FLAC e formati di file WebM.

@@ -9,11 +9,15 @@ URLDownload = http://svn.reactos.org/packages/mirc635.exe
 SHA1 = d9c26f7e40298b20f553934ed69dcbe6223c1101
 SizeBytes = 1751280
 
-[Section.0407]
-Description = Der populärste Client für Internet Relay Chat (IRC).
-
 [Section.0a]
 Description = El cliente más popular para Internet Relay Chat (IRC).
+
+[Section.0404]
+License = 共享軟體
+Description = 一款流行的網際網路中繼聊天（IRC）用戶端。
+
+[Section.0407]
+Description = Der populärste Client für Internet Relay Chat (IRC).
 
 [Section.040c]
 Description = Le client le plus populaire pour l'Internet Relay Chat (IRC).

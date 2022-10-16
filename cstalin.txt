@@ -9,11 +9,14 @@ URLDownload = http://download.sourceforge.net/project/commanderstalin/commander%
 SHA1 = 736b89d96c025bdf0b17116b4b8f26424e219669
 SizeBytes = 273683958
 
-[Section.0407]
-Description = Ein "Soviet" Echzeitstrategiespiel basierend auf Boswars.
-
 [Section.0a]
 Description = Un juego de estrategia en tiempo real con tintes soviéticos.
+
+[Section.0404]
+Description = 一款基於 Boswars，以蘇聯為主題的即時戰略遊戲。
+
+[Section.0407]
+Description = Ein "Soviet" Echzeitstrategiespiel basierend auf Boswars.
 
 [Section.0415]
 Description = "Sowiecka" gra strategiczna czasu rzeczywistego (RTS) oparta na Boswars.

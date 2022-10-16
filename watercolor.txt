@@ -9,6 +9,13 @@ URLDownload = https://uploads.s.zeid.me/Watercolor/Watercolor43.exe
 SHA1 = 069be12175d80a0f3c76daa5b90eeca8f547dd28
 SizeBytes = 881783
 
+[Section.0a]
+Description = Un tema de Windows basado en el look del Windows Codename Whistler.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款基於 Windows Codename Whistler 的外觀的 Windows 主題。
+
 [Section.0407]
 Description = Ein Windows Design basierend auf dem Aussehenvon Windows Codename Whistler.
 
@@ -31,5 +38,3 @@ Description = Windows Codename Whistler görünümü tabanlı bir Windows temas�
 License = 免费软件
 Description = 基于 Windows 代号 Whistler 外观的 Windows 主题。
 
-[Section.0a]
-Description = Un tema de Windows basado en el look del Windows Codename Whistler.

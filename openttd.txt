@@ -9,11 +9,14 @@ URLDownload = https://cdn.openttd.org/openttd-releases/1.10.3/openttd-1.10.3-win
 SHA1 = c4f37b89a7a657ea08541263acd6d851b133e146
 SizeBytes = 5161788
 
-[Section.0407]
-Description = Quelloffener Klon der "Transport Tycoon Deluxe" Spiel-Engine. Sie benötigen eine Kopie von Transport Tycoon.
-
 [Section.0a]
 Description = Clon del motor de juegos «Transport Tycoon Deluxe» de código abierto. Es necesaria una copia de Transport Tycoon.
+
+[Section.0404]
+Description = Transport Tycoon Deluxe 遊戲引擎的開源復刻。您可能需要一份 Transport Tycoon 的副本。
+
+[Section.0407]
+Description = Quelloffener Klon der "Transport Tycoon Deluxe" Spiel-Engine. Sie benötigen eine Kopie von Transport Tycoon.
 
 [Section.040c]
 Description = Clone open source du moteur de jeu "Transport Tycoon Deluxe". Vous aurez besoin d'une copie de Transport Tycoon.

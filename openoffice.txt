@@ -12,19 +12,26 @@ SizeBytes = 142674664
 Icon = openoffice.ico
 Screenshot1 = https://i.imgur.com/AYl9dp6.png
 
-[Section.0407]
-Description = Quelloffene Office-Suite.
-URLSite = https://www.openoffice.org/de/
-URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/de/Apache_OpenOffice_4.1.13_Win_x86_install_de.exe
-SHA1 = dc81621a1f94d4092714963876fc430371517588
-SizeBytes = 176650648
-
 [Section.0a]
 Description = Suite de ofimática de código abierto.
 URLSite = https://www.openoffice.org/es/
 URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/es/Apache_OpenOffice_4.1.13_Win_x86_install_es.exe
 SHA1 = d76a5e24896606875ef89d12d4e3d90b3b6361e0
 SizeBytes = 131730832
+
+[Section.0404]
+Description = 開源的辦公套件。
+URLSite = https://www.openoffice.org/zh-tw/
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/zh-TW/Apache_OpenOffice_4.1.13_Win_x86_install_zh-TW.exe
+SHA1 = c1cbf4afd3c75910c4e173f274d851925fd1b357
+SizeBytes = 131196000
+
+[Section.0407]
+Description = Quelloffene Office-Suite.
+URLSite = https://www.openoffice.org/de/
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.13/binaries/de/Apache_OpenOffice_4.1.13_Win_x86_install_de.exe
+SHA1 = dc81621a1f94d4092714963876fc430371517588
+SizeBytes = 176650648
 
 [Section.040c]
 Description = La suite bureautique open source.

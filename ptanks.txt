@@ -9,11 +9,15 @@ URLDownload = https://classic.blitwise.com/ptanks.exe
 SHA1 = 1f10dd5830eecf117bc10daf7e85d29f364dbdc2
 SizeBytes = 3003784
 
-[Section.0407]
-Description = Das schnellste Artillerie-Spiel, das Sie jemals gespielt haben.
-
 [Section.0a]
 Description = Un divertido y rápido juego de artillería.
+
+[Section.0404]
+License = 免費軟體
+Description = 你玩過最快的炮戰遊戲。
+
+[Section.0407]
+Description = Das schnellste Artillerie-Spiel, das Sie jemals gespielt haben.
 
 [Section.0410]
 Description = Il gioco d'artiglieria più veloce a cui potrai giocare.

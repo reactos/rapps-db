@@ -9,6 +9,12 @@ URLDownload = https://web.archive.org/web/20180518145318if_/http://fpdownload.ma
 SHA1 = 4f81e6c440331bc6a12bc1365ecbc6e227443fc1
 SizeBytes = 20872192
 
+[Section.0a]
+Description = Plugin de Flash Player para los navegadores web con soporte NPAPI (p.e. Firefox, Opera 12).
+
+[Section.0404]
+Description = 適用於支援 NPAPI 的網頁瀏覽器的 Flash Player 插件（如：Firefox、Opera 12）。
+
 [Section.0415]
 License = Darmowe
 Description = Wtyczka Flash Player do przeglądarek internetowych obsługujących NPAPI (np. Firefox, Opera 12).
@@ -17,5 +23,3 @@ Description = Wtyczka Flash Player do przeglądarek internetowych obsługującyc
 License = Vabavaraline
 Description = Flash Playeri plugin veebibrauseritele NPAPI toega (nt. Firefox, Opera 12).
 
-[Section.0a]
-Description = Plugin de Flash Player para los navegadores web con soporte NPAPI (p.e. Firefox, Opera 12).

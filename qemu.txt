@@ -9,11 +9,15 @@ URLDownload = https://qemu.weilnetz.de/w32/2013/qemu-w32-setup-20130627.exe
 SHA1 = d5c45b5220951a2abbb3340d368c36d3140da83f
 SizeBytes = 13938504
 
+[Section.0a]
+Description = Un emulador o virtualizador de máquinas muy ligero y de código abierto. Puede emular procesadores basados en muchas arquitecturas (p.e. x86, ARM, MIPS, PowerPC). Utilizar con la línea "-display sdl" para evitar los gliches en pantalla. 
+
+[Section.0404]
+Description = 一款開源、快速的模擬器／虛擬機器。它可以模擬多種架構的處理器（如：x86、ARM、MIPS、PowerPC）。執行程式時加上「-display sdl」參數可避免顯示錯誤。
+
 [Section.0415]
 Description = Otwartoźródłowy i bardzo szybki emulator/virtualizer maszyny. Potrafi emulować procesory bazujące na wielu różnych architekturach (np. x86, ARM, MIPS, PowerPC). Uruchom z opcją "-display sdl", aby zapobiec błędom w wyświetlaniu.
 
 [Section.0804]
 Description = 一款开源、快速的模拟器/虚拟机。它可以模拟基于多种架构的处理器（比如 x86、ARM、MIPS、PowerPC）。运行程序时加上 “-display sdl” 参数可避免显示错误。
 
-[Section.0a]
-Description = Un emulador o virtualizador de máquinas muy ligero y de código abierto. Puede emular procesadores basados en muchas arquitecturas (p.e. x86, ARM, MIPS, PowerPC). Utilizar con la línea "-display sdl" para evitar los gliches en pantalla. 

@@ -9,13 +9,17 @@ URLDownload = https://mh-nexus.de/downloads/HxDSetup.zip
 SHA1 = d0d69744f1d01353507bc090ff79fb45db6882c0
 SizeBytes = 3348036
 
-[Section.0407]
-Description = Guter Hexadezimal Editor.
-URLSite = https://mh-nexus.de/de/
-
 [Section.0a]
 License = Gratuito
 Description = Un buen editor hexadecimal.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款好用的十六進制編輯器。
+
+[Section.0407]
+Description = Guter Hexadezimal Editor.
+URLSite = https://mh-nexus.de/de/
 
 [Section.0415]
 Description = Dobry edytor Hex.

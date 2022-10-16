@@ -9,6 +9,12 @@ URLDownload = https://www.farmanager.com/files/Far30b5200.x86.20180502.msi
 SHA1 = 4299f3835a498ad38ae01d226aea410bb4d6689c
 SizeBytes = 10739712
 
+[Section.0a]
+Description = Un gestor de archivos open source basado en consola con dos paneles a cada lado.
+
+[Section.0404]
+Description = 一款使用主控臺，帶有兩個面板並排一起的開源檔案管理器。
+
 [Section.0407]
 Description = Quelloffener, konsolenbasierter Dateimanager mit zwei nebeneinander liegenden Panels.
 
@@ -32,5 +38,3 @@ Description = Avatud lähtekoodiga konsoolipõhine failihaldur kahe kõrvuti pan
 [Section.0804]
 Description = 一款开源的拥有两个并排面板的基于控制台的文件管理器。
 
-[Section.0a]
-Description = Un gestor de archivos open source basado en consola con dos paneles a cada lado.

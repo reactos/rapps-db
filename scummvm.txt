@@ -9,11 +9,14 @@ URLDownload = https://scummvm.org/frs/scummvm/2.0.0/scummvm-2.0.0-win32.exe
 SHA1 = df72f47edc1341dae439815fdaf4c857feae5924
 SizeBytes = 11985315
 
-[Section.0407]
-Description = Quelloffene Implementierung von klassischen Abenteuervideospiel-Engines (wie Monkey Island, Sam and Max oder Day of the Tentacle), so dass sie auf ReactOS funktionieren.
-
 [Section.0a]
 Description = Reimplementación de código abierto de motores de juegos de aventura clásicos (como «Monkey Island», «Sam and Max» o «Day of the Tentacle»), haciéndolos funcionar en ReactOS.
+
+[Section.0404]
+Description = 經典冒險遊戲引擎（如 Monkey Island，Sam and Max 及 Day of the Tentacle）的開源復刻，它們能在 ReactOS 上執行。
+
+[Section.0407]
+Description = Quelloffene Implementierung von klassischen Abenteuervideospiel-Engines (wie Monkey Island, Sam and Max oder Day of the Tentacle), so dass sie auf ReactOS funktionieren.
 
 [Section.040c]
 Description = Sam and Max, Day of the Tentacle, etc sur ReactOS.

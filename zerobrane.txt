@@ -9,6 +9,9 @@ URLDownload = https://download.zerobrane.com/ZeroBraneStudioEduPack-1.80-win32.e
 SHA1 = 35195342a6199437ae2e9d5040abb8b092b2c71a
 SizeBytes = 6390000
 
+[Section.0404]
+Description = Zerobrane Studio 是一款輕量級開源 Lua 整合開發環境編輯器，它實現了很多能使用戶輕鬆編寫 Lua 代碼和腳本的特性與功能。
+
 [Section.0415]
 Description = ZeroBrane Studio to lekki, otwartoźródłowy edytor tekstu IDE z wieloma funkcjami pozwalającymi na łatwe programowanie w Lua i tworzenie skryptów w tym języku.
 

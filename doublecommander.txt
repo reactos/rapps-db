@@ -9,11 +9,14 @@ URLDownload = https://sourceforge.net/projects/doublecmd/files/DC%20for%20Window
 SHA1 = 3fa65b99368bbd4d20aee2743e346b3e914e3315
 SizeBytes = 6566228
 
-[Section.0407]
-Description = Quelloffener Dateimanager mit zwei nebeneinander liegenden Panels.
-
 [Section.0a]
 Description = Un explorador de archivos multipanel de código abierto.
+
+[Section.0404]
+Description = 一款帶有兩個面板並排一起的開源檔案管理器。
+
+[Section.0407]
+Description = Quelloffener Dateimanager mit zwei nebeneinander liegenden Panels.
 
 [Section.0410]
 Description = Double Commander è un open-source file-manager con due pannelli laterali affiancati.

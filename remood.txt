@@ -9,14 +9,17 @@ URLDownload = http://download.sourceforge.net/project/remood/ReMooD/0.8a/remoods
 SHA1 = 3d91e4feb9f56616a17baeedafc55fd7fe30d560
 SizeBytes = 1205484
 
+[Section.0a]
+Description = Una versión derivada de Doom Legacy. Su fin es revivir la experiencia clásica con nuevas características y mayor estabilidad.
+
+[Section.0404]
+Description = 一款 Doom Legacy 的開源移植。它旨在提供新功能和更好穩定性的經典傳統遊戲體驗。
+
 [Section.0407]
 Description = Port des Doom Legacy Sources. Es versucht das klassische Legacy Erfahrung zusammen mit neuen Features und mehr Stabilität zu bieten.
 
 [Section.0410]
 Description = ReMooD è un porting sorgente di Doom Legacy. Punta a provedere la classica esperienza ereditaria con nuove funzionalità e maggiore stabilità.
-
-[Section.0a]
-Description = Una versión derivada de Doom Legacy. Su fin es revivir la experiencia clásica con nuevas características y mayor estabilidad.
 
 [Section.040c]
 Description = ReMood est un portage du source de Doom Legacy. Son but est de fournir l'expérience classique de Legacy avec de nouvelles fonctionnalités et plus de stabilité.
