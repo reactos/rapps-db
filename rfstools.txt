@@ -9,6 +9,12 @@ URLDownload = http://p-nand-q.com/download/rfstool/rfstool-0.14.zip
 SHA1 = 137131e26c8fefa38d13e4e51c26b8750285c0f2
 SizeBytes = 54687
 
+[Section.0a]
+Description = Te permite acceder a particiones ReiserFS desde un sistema Windows.
+
+[Section.0404]
+Description = 允許您從 Windows 系統存取 ReiserFS 分區。
+
 [Section.0407]
 Description = Ermöglicht den Zugriff auf ReiserFS Partitionen unter Windows Systemen.
 
@@ -26,7 +32,4 @@ Description = Позволяет вам получить доступ к раз�
 
 [Section.0804]
 Description = 允许您从 Windows 系统访问 ReiserFS 分区。
-
-[Section.0a]
-Description = Te permite acceder a particiones ReiserFS desde un sistema Windows.
 

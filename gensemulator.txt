@@ -9,6 +9,12 @@ URLDownload = http://www.emucamp.com/sega_megadrive/gens/windows/gens-win32-bin-
 SHA1 = 664af709eeb828aeae57e79739f4edcdfbc156dd
 SizeBytes = 586839
 
+[Section.0a]
+Description = Un emulador Win32 de Sega Genesis, Sega CD y Sega 32X.
+
+[Section.0404]
+Description = 適用於 Win32 的 Sega Genesis／Sega CD／Sega 32X 模擬器。
+
 [Section.0407]
 Description = Ein Win32 Sega Genesis / Sega CD / Sega 32X Emulator.
 
@@ -30,7 +36,4 @@ Description = Win32 Sega Genesis / Sega CD / Sega 32X emulaator.
 
 [Section.0804]
 Description = Win32 用的 Sega Genesis / Sega CD / Sega 32X 模拟器。
-
-[Section.0a]
-Description = Un emulador Win32 de Sega Genesis, Sega CD y Sega 32X.
 

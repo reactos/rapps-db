@@ -11,3 +11,8 @@ SizeBytes = 6538290
 
 [Section.0a]
 Description = Este paquete convierte el entorno de tu ReactOS al japonés.
+
+[Section.0404]
+Name = ReactOS 日本組合包
+Description = 適用於日本地區的 ReactOS 組合包。
+

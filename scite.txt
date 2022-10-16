@@ -9,11 +9,15 @@ URLDownload = https://www.ebswift.com/uploads/7/0/4/0/70403747/scite-4.0.5x86.ms
 SHA1 = bb2fc084824157912b1709352e8e3b6e3c6e4b25
 SizeBytes = 3448832
 
-[Section.0407]
-Description = SCIntilla basierter Text Editor. Ursprünglich wurde er erstellt, um Scintilla vorzuführen, wuchs aber zu einem nützlichen Editor mit der Fähigkeit Programme zu erstellen und auszuführen.
-
 [Section.0a]
 Description = Editor de texto basado en SCIntilla. Originalmente creado para demostrar Scintilla, ha terminado siendo un gran editor con capacidad para crear y ejecutar programas.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款基於 SCIntilla 的文字編輯器。最初的構建用於模擬 Scintilla，現在已發展成能夠構建並執行程式的編輯器。
+
+[Section.0407]
+Description = SCIntilla basierter Text Editor. Ursprünglich wurde er erstellt, um Scintilla vorzuführen, wuchs aber zu einem nützlichen Editor mit der Fähigkeit Programme zu erstellen und auszuführen.
 
 [Section.040c]
 Description = SciTE est un éditeur de texte basé sur SCIntilla. Originelement réalisé pour montrer Scintilla, il a évolué pour devenir un éditeur généralement utile avec des options pour compiler et lancer des programmes.

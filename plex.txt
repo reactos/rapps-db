@@ -6,3 +6,7 @@ Category = 15
 URLDownload = https://web.archive.org/web/20211216235851/https://raw.githubusercontent.com/petr-akhlamov/ros-repo/master/plex.exe
 SHA1 = 77e24dfc61920c2f2675ea3e9c889877bef12c93
 SizeBytes = 693590
+
+[Section.0404]
+Description = 來自 Windows Codename Longhorn 的 Plex 主題。
+

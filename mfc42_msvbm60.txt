@@ -12,3 +12,8 @@ SizeBytes = 1464
 [Section.0a]
 Name = Script MFC 4.2 y VB6 (DIY)
 Description = Un pequeño script que, via comandos y al vuelo, instala los DLLs de VS6 en ReactOS. Varias aplicaciones los pueden necesitar. Incluyen: mfc42.dll, mfc42u.dll y msvbvm60.dll.
+
+[Section.0404]
+Name = MFC 4.2 & VB6（自製）
+Description = 一個為 ReactOS 而設的 VS6 DLL 安裝腳本。一些應用程式需要它們才能執行。包括：mfc42.dll、mfc42u.dll、msvbvm60.dll。
+

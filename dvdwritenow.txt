@@ -9,12 +9,16 @@ URLDownload = https://web.archive.org/web/20150606193303if_/http://dwn.alter.org
 SHA1 = 52ff824dc8363e4e6323f3417dbd337cb21d7f98
 SizeBytes = 1354393
 
-[Section.0407]
-Description = Kostenlose CD/DVD Brennsoftware. Sobald es installiert ist, kann man CD/DVD RW als USB Flash oder Wechseldatenträger beschreiben. Auch kann man hiermit auf CD/DVD RW schreiben, welche mit dem UDF Dateisystem beschrieben wurden. Auch kann man mit dieser Software UDF Disks, welche mit anderer Software erstellt wurden, lesen. (Microsoft DVD−ROMs, RW Disks erstellt mit Ahead InCD). Es wird für die Installation ein ZIP Dekomprimierprogramm benötigt.
-
 [Section.0a]
 License = Gratuito
 Description = Un programa gratuito de grabación de CD/DVD. Una vez instalado, es posible utilizar CD/DVDs regrabables como memorias flash o discos duros extraíbles. Aparte, también permite escribir CD/DVDs regrabables que utilicen el sistema de archivos UDF. Además permite leer discos creados con otros programas(DVD−ROMs de Microsoft, discos regrabables hechos con Ahead InCD). Para instalarlo es necesario utilizar un extractor ZIP.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款免費的 CD/DVD 直接刻錄軟體。安裝後，您可以將 CD/DVD RW 當作 USB 隨身碟或移動硬碟來使用。您也可以使用這個工具來將 CD/DVD RW 以 UDF 檔案系統燒錄。這個程式也可以讀取由其他軟體（如 Microsoft DVD−ROMs，在 Ahead InCD 燒錄的 RW 光碟）建立的 UDF 光碟。您需要一個 ZIP 解壓縮程式才能安裝這個應用程式。
+
+[Section.0407]
+Description = Kostenlose CD/DVD Brennsoftware. Sobald es installiert ist, kann man CD/DVD RW als USB Flash oder Wechseldatenträger beschreiben. Auch kann man hiermit auf CD/DVD RW schreiben, welche mit dem UDF Dateisystem beschrieben wurden. Auch kann man mit dieser Software UDF Disks, welche mit anderer Software erstellt wurden, lesen. (Microsoft DVD−ROMs, RW Disks erstellt mit Ahead InCD). Es wird für die Installation ein ZIP Dekomprimierprogramm benötigt.
 
 [Section.0410]
 Description = Un software di masterizzazione CD/DVD diretto e gratuito. Una volta installato, è possibile utilizzare il CD/DVD RW da flash USB o dischi rigidi rimovibili. Insieme a questo è possibile scrivere CD/DVD RW registrati con filesystem UDF. È anche possibile leggere i dischi UDF creati con altri software. (Microsoft DVD-ROM, dischi RW registrati con InCD Ahead). Il programma ha bisogno di un programma di decompressione ZIP per installarlo.

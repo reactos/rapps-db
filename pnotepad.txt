@@ -9,5 +9,9 @@ URLDownload = https://github.com/simonsteele/pn/releases/download/v2.4.2/pn24214
 SHA1 = 2df95fbda64d23b7d07a06690f05859f7c994580
 SizeBytes = 2492493
 
+[Section.0404]
+Description = 專為程式設計師設計的 Windows 記事本程式。
+
 [Section.0804]
-Description = 专为程序员设计的 Windows 记事本程序
+Description = 专为程序员设计的 Windows 记事本程序。
+

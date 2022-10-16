@@ -9,6 +9,13 @@ URLDownload = https://www.voidtools.com/Everything-1.4.1.928.x86-Setup.exe
 SHA1 = b13cfdac10dd85737d94e7fc3b02a074a184137a
 SizeBytes = 1481176
 
+[Section.0a]
+Description = Localiza archivos y carpetas por el nombre al instante.
+
+[Section.0404]
+License = 免費軟體
+Description = 可以通過名稱來即時找到檔案和資料夾。
+
 [Section.0407]
 Description = Finde schnell Dateien und Ordner durch den Namen.
 
@@ -34,7 +41,4 @@ Description = Leia faile ja kaustu nimepidi koheselt.
 [Section.0804]
 License = 免费软件
 Description = 即刻通过名字找到文件和文件夹。
-
-[Section.0a]
-Description = Localiza archivos y carpetas por el nombre al instante.
 

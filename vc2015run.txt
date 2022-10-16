@@ -9,13 +9,17 @@ URLDownload = https://download.microsoft.com/download/6/D/F/6DF3FF94-F7F9-4F0B-8
 SHA1 = 89f20df555625e1796a60bba0fbd2f6bbc627370
 SizeBytes = 14456872
 
-[Section.0407]
-License = Unbekannt
-Description = Benötigt für Visual Studio 2015 basierte Anwendungen. Beinhaltet: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 2015. Incluye: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
+
+[Section.0404]
+License = 不明
+Description = 開啟以 Visual Studio 2015 編寫的應用程式時需要的元件。包含：atl140.dll、concrt140.dll、mfc140.dll、mfc140u.dll、mfcm140.dll、mfcm140u.dll、msvcp140.dll、vcamp140.dll、vccorlib140.dll、vcomp140.dll、vcruntime140.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Benötigt für Visual Studio 2015 basierte Anwendungen. Beinhaltet: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
 
 [Section.040c]
 License = Inconnue
@@ -56,3 +60,4 @@ Description = 用 Visual Studio 2015 编译的应用程序需要它。包含: at
 [Section.0813]
 License = Ongekend
 Description = Microsoft Visual Studio 2015 Runtime. Bevat: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
+

@@ -9,8 +9,12 @@ URLDownload = https://download.tortoisegit.org/tgit/1.8.16.0/TortoiseGit-1.8.16.
 SHA1 = ef5af7bb8eaa68bcb1dffd17b4cad23564169271
 SizeBytes = 16433152
 
+[Section.0a]
+Description = Una interfaz gráfica para Git, basada en TortoiseSVN, para la actualización/sincronización de código.
+
+[Section.0404]
+Description = 一款基於 TortoiseSVN，適用於 Git 的圖形殼層介面。它用於代碼同步和更新。
+
 [Section.040c]
 Description = Interface graphique de shell pour Git, basée sur TortoiseSVN.
 
-[Section.0a]
-Description = Una interfaz gráfica para Git, basada en TortoiseSVN, para la actualización/sincronización de código.

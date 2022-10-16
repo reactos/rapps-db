@@ -9,13 +9,17 @@ URLDownload = http://svn.reactos.org/packages/msxml3.msi
 SHA1 = d4c2178dfb807e1a0267fce0fd06b8d51106d913
 SizeBytes = 1070592
 
-[Section.0407]
-License = Unbekannt
-Description = Wird von einigen MSI Installern benötigt. Beinhaltet: msxml3.dll, msxml3a.dll, msxml3r.dll.
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para algunos instaladores MSI. Incluye: msxml3.dll, msxml3a.dll, msxml3r.dll.
+
+[Section.0404]
+License = 不明
+Description = 一些 Microsoft Installer 安裝程式需要的檔案。包括：msxml3.dll、msxml3a.dll、msxml3r.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Wird von einigen MSI Installern benötigt. Beinhaltet: msxml3.dll, msxml3a.dll, msxml3r.dll.
 
 [Section.040c]
 License = Inconnue

@@ -9,13 +9,18 @@ URLDownload = https://web.archive.org/web/20210525175036if_/https://download.mic
 SHA1 = 58da3d74db353aad03588cbb5cea8234166d8b99
 SizeBytes = 50449456
 
-[Section.0407]
-Description = Runtime für C# Windows Anwendungen.
-URLSite = http://www.microsoft.com/de-DE/download/details.aspx?id=17718
-
 [Section.0a]
 Description = Componentes necesarios para ejecutar programas escritos en lenguajes intermedios como C#.
 URLSite = http://www.microsoft.com/es-ES/download/details.aspx?id=17718
+
+[Section.0404]
+License = 不明
+Description = 執行由 C# 之類的中間語言所編譯的 Windows 應用程式所需的組件。
+URLSite = http://www.microsoft.com/zh-TW/download/details.aspx?id=17718
+
+[Section.0407]
+Description = Runtime für C# Windows Anwendungen.
+URLSite = http://www.microsoft.com/de-DE/download/details.aspx?id=17718
 
 [Section.040c]
 Description = Microsoft .NET Framework version 4.0

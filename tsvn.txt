@@ -9,6 +9,12 @@ URLDownload = https://download.sourceforge.net/project/tortoisesvn/1.8.12/Applic
 SHA1 = 5caa4cf8c30c2ced5a439016a7f43b309bf83293
 SizeBytes = 15646720
 
+[Section.0a]
+Description = Cliente gráfico SVN para la sincronización y actualización de código.
+
+[Section.0404]
+Description = 用於代碼同步和更新的圖形化 SVN 用戶端。
+
 [Section.0407]
 Description = Grafischer SVN Client für Code Synchronisation/Aktualisierung.
 
@@ -27,5 +33,3 @@ Description = Kod eş zamanlama ve güncelleme için grafik SVN istemcisi.
 [Section.0804]
 Description = 用来做代码同步及更新的图形化 SVN 客户端。
 
-[Section.0a]
-Description = Cliente gráfico SVN para la sincronización y actualización de código.

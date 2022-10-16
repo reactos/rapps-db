@@ -14,3 +14,8 @@ Name = Jet 4.0 Service Pack 8 (SP8) (KB829558) para 9x/NT
 License = Desconocida
 Description = Esta instalación incluye productos de Microsoft que incorporan funciones de Microsoft Jet database engine versión 4.0. 
 
+[Section.0404]
+Name = 適用於 9x/NT 的 Jet 4.0 Service Pack 8 (SP8) (KB829558)
+License = 不明
+Description = 這個安裝程式包括使用了 Microsoft Jet Database Engine 4.0 版本的 Microsoft 產品。
+

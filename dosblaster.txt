@@ -9,11 +9,14 @@ URLDownload = http://download.sourceforge.net/project/dosblaster/DosBlaster%202.
 SHA1 = 900927b51b67e09d83d924670e0ca72ba8151901
 SizeBytes = 2152137
 
-[Section.0407]
-Description = Shell Extension, die es ermöglicht jede DOS Anwendung via Rechtsklick in DOSBox zu öffnen. Diese Version beinhaltet DOSBox 0.70, kann aber sehr einfach aktualisiert werden, indem man ein neueres DOSBox in die DosBlaster Ordner installiert.
-
 [Section.0a]
 Description = Una extensión del explorador de archivos que permite abrir cualquier ejecutable DOS en DOSBox haciendo clic derecho del ratón. Esta versión contiene DOSBox 0.70, pero se puede actualizar fácilmente instalando una nueva versión de DOSBox en la carpeta de DosBlaster.
+
+[Section.0404]
+Description = 一款能通過滑鼠右鍵使任何 DOS 程式在 DOSBox 中執行的殼層延伸。這個版本包括 DOSBox 0.70，但您可以在 DosBlaster 資料夾中安裝 DOSBox 的新版本。
+
+[Section.0407]
+Description = Shell Extension, die es ermöglicht jede DOS Anwendung via Rechtsklick in DOSBox zu öffnen. Diese Version beinhaltet DOSBox 0.70, kann aber sehr einfach aktualisiert werden, indem man ein neueres DOSBox in die DosBlaster Ordner installiert.
 
 [Section.040c]
 Description = DosBlaster est une extension Shell qui permet d'ouvrir n'importe quel exécutable DOS dans DOSBox via un click droit. Cette version contient DOSBox 0.70 mais peut être simplement mise à jour en installant une nouvelle version de DOSBox dans les répertoires de DosBlaster.

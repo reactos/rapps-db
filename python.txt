@@ -9,11 +9,14 @@ URLDownload = https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi
 SHA1 = 46c89a6eebfb5f2e8f9b7edbe5409e314366a66a
 SizeBytes = 24932352
 
-[Section.0407]
-Description = Sehr mächtige, dynamische Programmiersprache.
-
 [Section.0a]
 Description = Un lenguaje de programación dinámico sumamente potente.
+
+[Section.0404]
+Description = 一款非常強大的動態語言。
+
+[Section.0407]
+Description = Sehr mächtige, dynamische Programmiersprache.
 
 [Section.040c]
 Description = Un langage de programmation dynamique remarquablement puissant.

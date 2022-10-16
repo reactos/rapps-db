@@ -9,13 +9,17 @@ URLDownload = http://download.microsoft.com/download/vc60pro/Update/2/W9XNT4/EN-
 SHA1 = a8c4dd33e281c166488846a10edf97ff0ce37044
 SizeBytes = 1837888
 
-[Section.0407]
-License = Unbekannt
-Description = Benötigt für Visual Studio 6 basierte Anwendungen. Beinhaltet: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll, oleaut32.dll, olepro32.dll.
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 6. Incluye: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll, oleaut32.dll, olepro32.dll.
+
+[Section.0404]
+License = 不明
+Description = 開啟以 Visual Studio 6 編寫的應用程式時需要的元件。包含：advpack.dll、asycfilt.dll、atla.dll、atlu.dll、comcat.dll、mfc42.dll、mfc42u.dll、msvcirt.dll、msvcp60.dll、msvcrt.dll、oleaut32.dll、olepro32.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Benötigt für Visual Studio 6 basierte Anwendungen. Beinhaltet: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll, oleaut32.dll, olepro32.dll.
 
 [Section.040c]
 License = Inconnue

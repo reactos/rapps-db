@@ -12,6 +12,9 @@ SizeBytes = 7949158
 [Section.0a]
 Description = Un completo sistema de autoría web que combina la gestión de archivos web y una interfaz WYSIWYG fácil de usar en la edición web.
 
+[Section.0404]
+Description = 一套完整結合網路檔案管理和簡單易用的所見即所得網頁編輯的網路創作系統。
+
 [Section.0407]
 Description = Ein vollständiges Web-Authoring-System, welches Web-Datei-Management und leicht zu bedienende WYSIWYG Web-Seite Bearbeitung verbindet.
 

@@ -9,6 +9,12 @@ URLDownload = https://download.sourceforge.net/librecad/Windows/2.1.3/LibreCAD-I
 SHA1 = 03ea2ea9634294608c26f4a7835c17e372bac0d4
 SizeBytes = 27870725
 
+[Section.0a]
+Description = Un editor CAD (de diseño asistido) 2D para Windows, Linux y OS X.
+
+[Section.0404]
+Description = 一款免費的開源二維 CAD 應用程式。適用於 Windows、 Linux 和 OS X。
+
 [Section.0407]
 Description = Kostenloses und quelloffenes 2D-CAD Programm für Windows, Linux und OS X.
 
@@ -20,9 +26,6 @@ Description = Aplicație 2D-CAD gratuită, cu surse deschise, pentru Windows, Li
 
 [Section.0419]
 Description = Кроссплатформенная, открытая и свободная САПР для 2-мерного черчения и проектирования, создана на основе QCad
-
-[Section.0a]
-Description = Un editor CAD (de diseño asistido) 2D para Windows, Linux y OS X.
 
 [Section.041f]
 License = GPL sürüm 2

@@ -9,5 +9,9 @@ URLDownload = https://github.com/ProgerXP/Notepad2e/releases/download/R134/Notep
 SHA1 = 1917ca27cb46bf7f65e153376105bcb7f379c1dd
 SizeBytes = 1001759
 
+[Section.0404]
+Description = Notepad 2e 是 Notepad2 的分支版本，帶有高亮字詞、並行編輯、數學計算、正則匹配、Lua 解析和 DPI 適配等的功能。
+
 [Section.0804]
 Description = Notepad 2e 是 Notepad2 的分支版本，带有词语高亮、并行编辑、数学计算、正则匹配、Lua 解析和 DPI 适配等功能特性
+

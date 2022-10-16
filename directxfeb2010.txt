@@ -9,6 +9,14 @@ URLDownload = https://web.archive.org/web/20191108074337/https://download.micros
 SHA1 = a97c820915dc20929e84b49646ec275760012a42
 SizeBytes = 109072752
 
+[Section.0a]
+Description = Proporciona el entorno de ejecución requerido por la mayoría de las aplicaciones y juegos basados en DirectX. Necesitarás iniciar manualmente el instalador tras descomprimirlo.
+
+[Section.0404]
+Name = DirectX End-User Runtimes（2010 年 2 月）
+License = 不明
+Description = 為多數基於 DirectX 的應用程式和遊戲提供必須的執行環境。您需要在解壓縮後自行執行安裝程式。
+
 [Section.0415]
 License = Nieznana
 Description = Zawiera biblioteki wymagane przez większość gier i aplikacji opartych na DirectX. Należy uruchomić instalator po wypakowaniu plików.
@@ -25,5 +33,3 @@ Description = Надає бібліотеки, необхідні для біл�
 License = Tundmatu
 Description = Annab enamus DirectX põhinevate rakenduste ja mängude jaoks sobivad runtimed. Peate installeri käivitama käsitisi pärast lahti pakkimist.
 
-[Section.0a]
-Description = Proporciona el entorno de ejecución requerido por la mayoría de las aplicaciones y juegos basados en DirectX. Necesitarás iniciar manualmente el instalador tras descomprimirlo.

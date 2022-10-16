@@ -9,6 +9,13 @@ URLDownload = https://download.savannah.gnu.org/releases/tinycc/tcc-0.9.27-win32
 SHA1 = 455f7571620c9a002562184f8f1f8d9025b34d87
 SizeBytes = 483247
 
+[Section.0a]
+Name = Compilador Tiny C
+Description = Un pequeño pero muy rápido compilador de lenguaje C.
+
+[Section.0404]
+Description = 小而精的 C 語言編譯器。
+
 [Section.0407]
 Description = Ein kleiner, aber sehr schneller C-Compiler.
 
@@ -28,6 +35,3 @@ Description = Küçük ancak aşırı hızlı bir C derleyicisi.
 [Section.0804]
 Description = 小而精的 C 语言编译器。
 
-[Section.0a]
-Name = Compilador Tiny C
-Description = Un pequeño pero muy rápido compilador de lenguaje C.

@@ -9,11 +9,14 @@ URLDownload = https://download.sourceforge.net/project/peazip/6.6.0/peazip-6.6.0
 SHA1 = a1aefe8e06f14c16e5516c797fc4a81afde3c1b5
 SizeBytes = 7138401
 
-[Section.0407]
-Description = Freier, plattformübergreifender, quelloffener Datei- und Archivmanager. Er unterstützt über 150 Archiv-Formate.
-
 [Section.0a]
 Description = Un administrador de archivos y compresor de código abierto y multiplataforma. Soporta más de 150 formatos de archivo.
+
+[Section.0404]
+Description = 免費、跨平台、開源的檔案和壓縮檔管理器。它支持超過 150 種壓縮檔格式。
+
+[Section.0407]
+Description = Freier, plattformübergreifender, quelloffener Datei- und Archivmanager. Er unterstützt über 150 Archiv-Formate.
 
 [Section.0410]
 Description = PeaZip è un manager di file e archivi gratis, multipiattaforma e open source. Supporta oltre 150 formati d'archivio.

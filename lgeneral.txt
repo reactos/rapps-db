@@ -9,11 +9,14 @@ URLDownload = https://sourceforge.net/projects/lgeneral/files/lgeneral/lgeneral-
 SHA1 = 85925fbee97d0fbd3af7ee09639e68c7d7667dde
 SizeBytes = 6161244
 
-[Section.0407]
-Description = Panzer-General-Klon. Verwendet SDL Bibliotheken.
-
 [Section.0a]
 Description = Clon de Panzer General usando las librerias SDL.
+
+[Section.0404]
+Description = 使用 SDL 庫的 Panzer General 的克隆。
+
+[Section.0407]
+Description = Panzer-General-Klon. Verwendet SDL Bibliotheken.
 
 [Section.040c]
 Description = Clone de Pansez General utilisant la bibliothèque SDL.

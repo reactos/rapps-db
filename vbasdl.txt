@@ -9,6 +9,14 @@ URLDownload = http://download.sourceforge.net/project/vba/VisualBoyAdvance/1.7.2
 SHA1 = 550882e10d873b84a2034d68fe66e4c470eb1b57
 SizeBytes = 449393
 
+[Section.0a]
+Name = VisualBoyAdvance (versión SDL)
+Description = Un emulador para juegos de los sistemas GameBoy y GameBoy Advance.
+
+[Section.0404]
+Name = VisualBoyAdvance（SDL 版本）
+Description = 一款 Gameboy 和 GameboyAdvance 系統的模擬器。
+
 [Section.0407]
 Description = Ein Gameboy und Gameboy Advance System Emulator.
 
@@ -30,6 +38,3 @@ Description = Gameboy ve GameboyAdvance sistemleri için bir öykünücü.
 [Section.0804]
 Description = 一个 Gameboy 和 GameboyAdvance 系统的模拟器。
 
-[Section.0a]
-Name = VisualBoyAdvance (versión SDL)
-Description = Un emulador para juegos de los sistemas GameBoy y GameBoy Advance.

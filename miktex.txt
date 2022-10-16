@@ -9,12 +9,16 @@ URLDownload = http://ftp.lyx.org/pub/TeX/CTAN/systems/win32/miktex/setup/basic-m
 SHA1 = 8a0797f119d796ff80adfab99945e76e6883609f
 SizeBytes = 171108104
 
-[Section.0407]
-Description = Aktuelle Implementierung von TeX/LaTeX und zugehöriger Programme für Windows.
-
 [Section.0a]
 License = Gratuita
 Description = MikTEX es una implementación actualizada de TeX/LaTeX y otros programas.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款將 TeX/LaTeX 及相關程式加入到 Windows 上的最新實作。
+
+[Section.0407]
+Description = Aktuelle Implementierung von TeX/LaTeX und zugehöriger Programme für Windows.
 
 [Section.0415]
 Description = Nowoczesna implementacja TeX/LaTeX i pokrewnych programów dla Windows.

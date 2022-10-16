@@ -12,5 +12,9 @@ SizeBytes = 31540445
 [Section.0a]
 Description = Mypal es un navegador web mantenido y actual para Windows XP, basado en PaleMoon y Firefox.
 
+[Section.0404]
+Description = Mypal 是一款現代，但已放棄開發的 Windows XP 網頁瀏覽器。
+
 [Section.0407]
 Description = Mypal ist ein freier, moderner und quelloffener Webbrowser, der Kompatibilität zu Windows XP bewahrt.
+

@@ -9,6 +9,12 @@ URLDownload = https://archive.org/download/scratchinstaller1.4/ScratchInstaller1
 SHA1 = fc48f579616cab2c2986c018745852e6c8817460
 SizeBytes = 34637975
 
+[Section.0a]
+Description = Un entorno de programación orientada a objetos, muy visual para niños. 
+
+[Section.0404]
+Description = 一款面向兒童的可視化物件導向編程環境。
+
 [Section.0407]
 Description = Visuelle objektorientierte Programmierumgebug für Kinder.
 
@@ -27,5 +33,3 @@ Description = Çocuklar için görmelik nesneye yönelik programlama ortamı.
 [Section.0804]
 Description = 面向儿童的可视化面向对象编程环境。
 
-[Section.0a]
-Description = Un entorno de programación orientada a objetos, muy visual para niños. 

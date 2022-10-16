@@ -12,6 +12,9 @@ SizeBytes = 15396864
 [Section.0a]
 Description = Una herramienta de código abierto independiente, que divide, combina y edita otras funciones en un documento PDF. Necesita tener instalado Java runtime.
 
+[Section.0404]
+Description = 一款免費、開源和獨立於平臺的 PDF 檔案拆分、合併和其他操作的工具。需要 Java 執行環境。
+
 [Section.0407]
 Description = Freies, quelloffenes, Plattformunabhängiges Werkzeug zum spiltten, zusammenfügen und anderer Manipulationen an PDF Dokumenten. Java Runtime benötigt!
 

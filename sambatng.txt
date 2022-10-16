@@ -9,11 +9,14 @@ URLDownload = http://svn.reactos.org/packages/samba-tng.exe
 SHA1 = 23daea49ec9fb08cbee044fa49dfbcc195073c62
 SizeBytes = 2238545
 
-[Section.0407]
-Description = Erlaubt den Zugriff auf Windows' gemeinsame Verzeichnisse und Drucker aus ReactOS heraus.
-
 [Section.0a]
 Description = Permite acceder a carpetas e impresoras compartidas en Windows con ReactOS.
+
+[Section.0404]
+Description = 讓您在 ReactOS 存取 Windows 共享資料夾、印表機。
+
+[Section.0407]
+Description = Erlaubt den Zugriff auf Windows' gemeinsame Verzeichnisse und Drucker aus ReactOS heraus.
 
 [Section.040c]
 Description = Cet outil vous permet d'accéder à vos répertoire/imprimantes partagés Windows avec ReactOS.

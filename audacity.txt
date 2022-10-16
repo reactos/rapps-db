@@ -9,11 +9,14 @@ URLDownload = https://dreimer.eu/reactos/audacity-win-2.2.2.exe
 SHA1 = 39d00d43e72a7944f433d3f61855a487b5797328
 SizeBytes = 20248056
 
-[Section.0407]
-Description = Freie, quelloffene Cross-Plattform Software zur Aufnahme und Bearbeitung von Sounds.
-
 [Section.0a]
 Description = Programa libre, gratuito y multiplataforma para grabar y editar audio y música.
+
+[Section.0404]
+Description = 免費、開源、跨平台的聲音錄制和編輯軟體。
+
+[Section.0407]
+Description = Freie, quelloffene Cross-Plattform Software zur Aufnahme und Bearbeitung von Sounds.
 
 [Section.0415]
 Description = Darmowy, otwartoźródłowy, wieloplatformowy program do nagrywania i edycji dźwięków.
@@ -31,5 +34,5 @@ Description = Sesleri kaydetme ve düzenleme için özgür, açık kaynak ve ça
 Description = Tasuta, avatud lähtekoodiga ja mitmikplatvormil tarkvara helisalvestamiseks ja redigeerimiseks.
 
 [Section.0804]
-Description = 免费开源跨平台的声音录制、编辑软件。
+Description = 免费、开源、跨平台的声音录制和编辑软件。
 

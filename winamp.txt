@@ -9,6 +9,13 @@ URLDownload = http://winamp.meggamusic.co.uk/winamp5666_full_all_redux.exe
 SHA1 = 136314be0da42ed399b88a106cb1f43093e2c0c2
 SizeBytes = 15023516
 
+[Section.0a]
+Description = Un reproductor de media que soporta una gran cantidad de plugins, skins y presenta visualización musical, listas, librería media, con soporte de una gran comunidad online.
+
+[Section.0404]
+License = 免費增值軟體
+Description = 一款由一個大型的在線社群提供支援的媒體播放器，支援插件、外觀、可視化音樂功能、播放列表和媒體庫。
+
 [Section.0407]
 Description = Media Player welcher Erweiterbarkeit mit Plug-Ins und Skins ermöglicht und Musikvisualisierung, Playlist und Medienbibliothek bietet. Er wird durch eine große Online-Community unterstützt.
 
@@ -31,7 +38,4 @@ Description = Winamp, eklentilerle ve dış görünümlerle genişletilebilirli�
 [Section.0804]
 License = 免费商业软件
 Description = 一个支持插件、皮肤、音乐可视化功能、播放列表和媒体库媒体播放器，由一个大型的在线社区提供支持。
-
-[Section.0a]
-Description = Un reproductor de media que soporta una gran cantidad de plugins, skins y presenta visualización musical, listas, librería media, con soporte de una gran comunidad online.
 

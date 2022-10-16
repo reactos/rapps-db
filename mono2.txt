@@ -9,11 +9,15 @@ URLDownload = https://download.mono-project.com/archive/4.3.2/windows-installer/
 SHA1 = 9b4210bee8ca90517244fca40573dd062a596473
 SizeBytes = 133230592
 
-[Section.0407]
-Description = Quelloffenes .NET Framework.
-
 [Section.0a]
 Description = Versión de .NET Framework de código abierto.
+
+[Section.0404]
+License = 不明
+Description = 開源的 .NET 框架。
+
+[Section.0407]
+Description = Quelloffenes .NET Framework.
 
 [Section.040c]
 Description = Framework .NET open source.

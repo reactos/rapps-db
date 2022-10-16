@@ -9,6 +9,13 @@ URLDownload = https://www.catch22.net/assets/files/software/shedsetup1.exe
 SHA1 = beb2f027c2955205a6c520be112b9b43ea5e6fae
 SizeBytes = 67371
 
+[Section.0a]
+Description = Un juego de cartas de un jugador hecho para Windows. Está basado en el popular juego de estudiantes "Shit-head".
+
+[Section.0404]
+License = 免費軟體
+Description = Windows 上的單人卡牌遊戲。它基於一款名為「Shit-head」的學生卡牌遊戲。
+
 [Section.0407]
 Description = Ein Single-Player-Kartenspiel für Windows. Es basiert auf dem beliebten Kartenpiel "Arschloch".
 
@@ -30,7 +37,4 @@ Description = Windows için bir tekli oyunculu kart oyunu. "Shit-head" tutulan �
 [Section.0804]
 License = 免费软件
 Description = Windows 上的单人卡牌游戏。它基于一款叫做 "Shit-head" 的流行的学生卡牌游戏。
-
-[Section.0a]
-Description = Un juego de cartas de un jugador hecho para Windows. Está basado en el popular juego de estudiantes "Shit-head".
 

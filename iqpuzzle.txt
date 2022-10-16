@@ -12,6 +12,9 @@ Icon = iqpuzzle.ico
 Screenshot1 = https://user-images.githubusercontent.com/26674558/166152612-90f722f6-e937-4b11-8c4c-160c3568e267.png
 Languages = 0407|0809|040C|0410|0413|0412|0414|0402|0804
 
+[Section.0404]
+Description = 一款有趣且具有挑戰性的的五格骨牌。
+
 [Section.0a]
 Description = Un puzzle pentominó que te divertirá y retará intelectualmente.
 
@@ -20,3 +23,4 @@ Description = Ein kurzweiliges herausforderndes Pentomino-Puzzle
 
 [Section.0425]
 Description = Suunav I.Q. pentomino mõistatus.
+

@@ -12,6 +12,9 @@ SizeBytes = 12370635
 [Section.0a]
 Description = Un procesador fotográfico gratuito y de código abierto.
 
+[Section.0404]
+Description = 免費、開源的圖片處理軟體。
+
 [Section.0415]
 Description = Darmowy i otwartoźródłowy program do obróbki zdjęć.
 

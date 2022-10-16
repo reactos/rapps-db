@@ -9,6 +9,12 @@ URLDownload = http://download.sourceforge.net/project/winmerge/stable/2.14.0/Win
 SHA1 = 4006203d4fc3542e765212e1a78f115fb3f946d2
 SizeBytes = 6433055
 
+[Section.0a]
+Description = Una herramienta para la comparación, combinación de archivos y versionado, para tanto archivos como directorios.
+
+[Section.0404]
+Description = 一款可視化的檔案和目錄的差異顯示及合併的工具。
+
 [Section.0407]
 Description = Werkzeug zur grafischen Darstellung und Zusammenführen von Dateien und Ordnern.
 
@@ -27,7 +33,4 @@ Description = Dosyalar ve dizinler için, görsel ayrım görüntüleme ve birle
 
 [Section.0804]
 Description = 一款可视化文件及目录差异显示及合并的工具。
-
-[Section.0a]
-Description = Una herramienta para la comparación, combinación de archivos y versionado, para tanto archivos como directorios.
 

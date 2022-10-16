@@ -9,11 +9,14 @@ URLDownload = http://hgm.nubati.net/WinBoard-4.8.0.exe
 SHA1 = a242194b7582c196612f78b397bac892bb6908e0
 SizeBytes = 2551668
 
-[Section.0407]
-Description = Grafisches Schachbrett für Windows/ReactOS welches als Nutzerinterface für GNU Chess, Crafty oder andere Schachprogramme, für Internet Schachserver und für Briefschach dient.
-
 [Section.0a]
 Description = Tablero de ajedrez para Windows/ReactOS que puede ser utilizado como interfaz para GNU Chess, Crafty, y otros motores de ajedrez, para servidores de ajedrez en internet, así como para partidas por correo electrónico.
+
+[Section.0404]
+Description = 適用於 Windows/ReactOS 的圖形化棋盤軟體，能作為 GNU Chess，Crafty 及其他棋類遊戲引擎的用戶界面，支持網路棋類遊戲伺服器及通過電郵下棋。
+
+[Section.0407]
+Description = Grafisches Schachbrett für Windows/ReactOS welches als Nutzerinterface für GNU Chess, Crafty oder andere Schachprogramme, für Internet Schachserver und für Briefschach dient.
 
 [Section.040c]
 Description = WinBoard est un jeu d'échec graphique pour Windows/ReactOS qui peut servir d'interface utilisateur pour GNU Chess, Crafty et d'autres moteurs d'échecs, pour les serveurs d'échec internet et pour le jeu d'échec par courriel.

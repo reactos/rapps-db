@@ -9,13 +9,17 @@ URLDownload = https://web.archive.org/web/20200819111521/http://download.microso
 SHA1 = 470640aa4bb7db8e69196b5edb0010933569e98d
 SizeBytes = 4479832
 
-[Section.0407]
-License = Unbekannt
-Description = Benötigt für Visual Studio 2008 basierte Anwendungen. Enthält: atl90.dll, mfc90.dll, mfc90u.dll, mfcm90.dll, mfcm90u.dll, msdia90.dll, msvcm90.dll, msvcp90.dll, msvcr90.dll, vcomp90.dll.
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 2008. Incluye: atl90.dll, mfc90.dll, mfc90u.dll, mfcm90.dll, mfcm90u.dll, msdia90.dll, msvcm90.dll, msvcp90.dll, msvcr90.dll, vcomp90.dll.
+
+[Section.0404]
+License = 不明
+Description = 開啟以 Visual Studio 2008 編寫的應用程式時需要的元件。包含：atl90.dll、mfc90.dll、mfc90u.dll、mfcm90.dll、mfcm90u.dll、msdia90.dll、msvcm90.dll、msvcp90.dll、msvcr90.dll、vcomp90.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Benötigt für Visual Studio 2008 basierte Anwendungen. Enthält: atl90.dll, mfc90.dll, mfc90u.dll, mfcm90.dll, mfcm90u.dll, msdia90.dll, msvcm90.dll, msvcp90.dll, msvcr90.dll, vcomp90.dll.
 
 [Section.040c]
 License = Inconnue

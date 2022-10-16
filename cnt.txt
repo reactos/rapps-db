@@ -9,6 +9,11 @@ URLDownload = https://svn.reactos.org/packages/CNTzip.exe
 SHA1 = 5aac6280bd28308a1a92a0053fc550ea8e647eb3
 SizeBytes = 1368064
 
+[Section.0404]
+Name = Click-N-Type 虛擬鍵盤
+License = 免費軟體
+Description = 一款免費的虛擬鍵盤應用程式。
+
 [Section.0407]
 Description = Kostenlose virtuelle Tastatur.
 

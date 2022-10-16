@@ -9,11 +9,14 @@ URLDownload = http://www.artsoft.org/RELEASES/win32/rocksndiamonds/rocksndiamond
 SHA1 = c00f508ec5edebc98d3159c1673bd02a2769d10b
 SizeBytes = 2549896
 
-[Section.0407]
-Description = Arcade-Style Spiel für UNIX, Mac OS X, Windows und DOS in der Tradition von: "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga / PC), "Sokoban" (PC).
-
 [Section.0a]
 Description = Juego al estilo arcade para UNIX, Mac OS X, Windows y DOS siguiendo la tradición de: «Boulder Dash» (C64), «Emerald Mine» (Amiga), «Supaplex» (Amiga/PC), «Sokoban» (PC).
+
+[Section.0404]
+Description = 適用於 UNIX、Mac OS X、Windows 及 DOS 平臺的街機風格遊戲，包括「Boulder Dash」（C64）、「Emerald Mine」（Amiga）、「Supaplex」（Amiga/PC）、「Sokoban」（PC）。
+
+[Section.0407]
+Description = Arcade-Style Spiel für UNIX, Mac OS X, Windows und DOS in der Tradition von: "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga / PC), "Sokoban" (PC).
 
 [Section.0410]
 Description = Gioco in stile arcade per UNIX, Mac OS X, Windows e DOS nella tradizione di: "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga/PC), "Sokoban" (PC).
