@@ -3,6 +3,7 @@ Name = Maelstorm
 Version = 3.0.6
 License = GPL
 Description = Maelstrom is a GPL'd port of the original shareware game for the Macintosh. It is a fast-action, high resolution (640x480) asteroids-like game, with detailed graphics and original sounds.
+Category = 4
 URLSite = https://www.libsdl.org/projects/Maelstrom/
 URLDownload = http://slouken.libsdl.org/projects/Maelstrom/bin/Maelstrom-3.0.6-Windows.zip
 SHA1 = b47b44f1767bf7ed375ad60cb6376d3178f1824d
