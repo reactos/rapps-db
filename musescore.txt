@@ -12,6 +12,9 @@ SizeBytes = 79675392
 [Section.0a]
 Description = Programa de edición musical profesional de partituras de licencia abierta.
 
+[Section.0404]
+Description = 專業的開源樂譜軟體。
+
 [Section.0415]
 Description = Profesjonalne oprogramowanie do zapisu nutowego o otwartym kodzie źródłowym.
 

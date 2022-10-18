@@ -9,11 +9,15 @@ URLDownload = https://sylpheed.sraoss.jp/sylpheed/win32/Sylpheed-3.7_setup.exe
 SHA1 = 0518235bbef0cda374e1c8002eb4f65f8f2f8e6c
 SizeBytes = 8233467
 
+[Section.0a]
+Description = Un cliente de correo ligero y amigable para el usuario.
+
+[Section.0404]
+Description = 一款輕巧和易用的電子郵件用戶端。
+
 [Section.0419]
 Description = Легковесный и дружелюбный к пользователю почтовый клиент.
 
 [Section.0422]
 Description = Легкий і дружний до користувача поштовий клієнт.
 
-[Section.0a]
-Description = Un cliente de correo ligero y amigable para el usuario.

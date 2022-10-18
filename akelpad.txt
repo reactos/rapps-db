@@ -12,6 +12,9 @@ SizeBytes = 1205230
 [Section.0a]
 Description = Un editor de texto plano de código abierto. Se diseñó para ser ligero y rápido.
 
+[Section.0404]
+Description = 一款小巧而快速的開源純文字編輯器。
+
 [Section.0407]
 Description = Kleiner, schneller und quelloffener Text Editor.
 

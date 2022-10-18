@@ -9,11 +9,15 @@ URLDownload = https://ftp.icm.edu.pl/pub/video/vlc/vlc/3.0.11/win32/vlc-3.0.11-w
 SHA1 = cf3b8ed243803c47a20c990174d8a42fa2e5789a
 SizeBytes = 40732864
 
-[Section.0407]
-Description = Voll funktionsfähiger FOSS Media-Player mit eingebauten Codecs.
-
 [Section.0a]
 Description = Completo reproductor multimedia, de código abierto y con códecs propios.
+
+[Section.0404]
+Description = 功能完善的自由開源媒體播放器。程式內置了編解碼器。
+URLSite = http://www.videolan.org/vlc/index.zh_TW.html
+
+[Section.0407]
+Description = Voll funktionsfähiger FOSS Media-Player mit eingebauten Codecs.
 
 [Section.040c]
 Description = Un lecteur media.
@@ -45,7 +49,8 @@ Description = Мультимедійний програвач.
 
 [Section.0804]
 Description = 功能完善的包含内置编码解码器的自由开源媒体播放器。
-URLSite = http://www.videolan.org/vlc/index.zh.html
+URLSite = http://www.videolan.org/vlc/index.zh_CN.html
 
 [Section.0813]
 Description = Een mediaspeler.
+

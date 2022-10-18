@@ -12,3 +12,6 @@ SizeBytes = 6100504
 [Section.0a]
 Description = MDAC 2.8 SP1 contiene el núcleo de componentes de Data Access como el Microsoft SQL Server™ OLE DB proveedor y driver ODBC.
 
+[Section.0404]
+License = 不明
+

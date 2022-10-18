@@ -9,11 +9,14 @@ URLDownload = http://www.dftpd.com/files/IndiFTPD/1.0.9_beta/Windows/Intel/indif
 SHA1 = 106b5c86c563ed4d4d1976014a8b2562281e5e2d
 SizeBytes = 569344
 
-[Section.0407]
-Description = Eigenständiger FTP Server in einer einzigen Anwendung. Er wurde erstellt für Situationen, in denen ein Anwender keinen Server auf dem System installieren/konfigurieren möchte (oder nicht die Rechte dafür besitzt) und schnell einen Server lauffähig bekommen will.
-
 [Section.0a]
 Description = Un servidor FTP autónomo que funciona como un único ejecutable. Útil para situaciones en las que no se quiere/puede instalar un servidor en el sistema y se necesita tener algo rápido que lo supla en un momento.
+
+[Section.0404]
+Description = 一款以可執行檔案運作的獨立 FTP 伺服器。它為不想在系統上安裝或設定伺服器（或者沒有權限這樣做）並且想馬上運行一個伺服器的使用者而設計。
+
+[Section.0407]
+Description = Eigenständiger FTP Server in einer einzigen Anwendung. Er wurde erstellt für Situationen, in denen ein Anwender keinen Server auf dem System installieren/konfigurieren möchte (oder nicht die Rechte dafür besitzt) und schnell einen Server lauffähig bekommen will.
 
 [Section.0410]
 Description = IndiFTPD è un server FTP autonomo che funziona come un unico eseguibile. È stato progettato per le situazioni quando un utente non vuole installare / configurare un server sul sistema (o non ha il permesso di farlo), e vuole ottenere rapidamente un server che esegue.

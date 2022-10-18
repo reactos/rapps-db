@@ -9,6 +9,20 @@ URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/3.6.28/win
 SHA1 = 3657287c2cff34f5edc237de954a9cc6f2ca465a
 SizeBytes = 8624296
 
+[Section.0a]
+Description = Navegador web popular, libre y gratuito.
+URLSite = http://www.mozilla.org/es-ES/
+URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/3.6.28/win32/es-ES/Firefox%20Setup%203.6.28.exe
+SHA1 = ad49dd088ed934504c30ee122abacc6cf774d65a
+SizeBytes = 8444280
+
+[Section.0404]
+Description = 一款全球流行的免費，開源的網頁瀏覽器。由社群共同製作。
+URLSite = http://www.mozilla.org/zh-TW/
+URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/3.6.28/win32/zh-TW/Firefox%20Setup%203.6.28.exe
+SHA1 = 94a15386582847ecf1beceb59e0fcb6831ac432a
+SizeBytes = 8455416
+
 [Section.0405]
 Description = Nejpopulárnější a jeden z nejlepších svobodných webových prohlížečů.
 URLSite = http://www.mozilla.org/cs/
@@ -22,13 +36,6 @@ URLSite = http://www.mozilla.org/de/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/3.6.28/win32/de/Firefox%20Setup%203.6.28.exe
 SHA1 = 17c100fa1ecb36d6751dc72004b24eb84b251fc5
 SizeBytes = 8459768
-
-[Section.0a]
-Description = Navegador web popular, libre y gratuito.
-URLSite = http://www.mozilla.org/es-ES/
-URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/3.6.28/win32/es-ES/Firefox%20Setup%203.6.28.exe
-SHA1 = ad49dd088ed934504c30ee122abacc6cf774d65a
-SizeBytes = 8444280
 
 [Section.040c]
 Description = Le navigateur web gratuit le plus populaire et l'un des meilleurs.

@@ -9,14 +9,18 @@ URLDownload = https://web.archive.org/web/20140327183619if_/http://arc.opera.com
 SHA1 = e7354e79956acae6f76727a3c9bb3c25ea3a7b6f
 SizeBytes = 7562568
 
+[Section.0a]
+Description = Popular navegador web con muchas características avanzadas, incluyendo un cliente de correo y BitTorrent.
+
+[Section.0404]
+License = 免費軟體
+Description = Opera 是一款流行的瀏覽器。有許多進階功能，包括電子郵件和 BitTorrent 用戶端。
+
 [Section.0405]
 Description = Populární prohlížeč Opera s mnoha pokročilými vlastnostmi, včetně vestavené podpory pro e-mail a BitTorrent.
 
 [Section.0407]
 Description = Der populäre Opera Browser mit vielen fortschrittlichen Eigenschaften, enthält einen E-Mail und BitTorrent Client.
-
-[Section.0a]
-Description = Popular navegador web con muchas características avanzadas, incluyendo un cliente de correo y BitTorrent.
 
 [Section.040c]
 Description = Le populaire navigateur Opera avec beaucoup de fonctionnalités avancées, incluant un client mail et BitTorrent.

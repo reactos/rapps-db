@@ -11,4 +11,7 @@ SizeBytes = 2203783
 [Section.0a]
 Description = PCSX es un emulador de la consola PlayStation 1.
 
+[Section.0404]
+License = 免費軟體
+Description = PCSX 是一款 Playstation 1 的模擬器。
 

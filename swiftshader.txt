@@ -9,8 +9,12 @@ URLDownload = http://svn.reactos.org/packages/SwiftShader_ReactOS_WindowsXP_3.3.
 SHA1 = 43c0fe3c4c18b360b78786df9af49f0ef1da7c93
 SizeBytes = 1782144
 
+[Section.0a]
+Description = SwiftShader es un emulador de dispositivos de Direct3D 9 de alto rendimiento, puede ser práctico para cargar algunas aplicaciones o juegos basados en Direct3D 9 cuando el renderizado 3D por hardware no está disponible.
+
+[Section.0404]
+Description = SwiftShader 是一款高效能的 Direct3D 9 裝置模擬器。當沒有 3D 硬體圖形算繪器可用時，它可能對執行某些基於 Direct3D 9 的應用程式或遊戲很有用。
+
 [Section.0415]
 Description = SwiftShader to szybki emulator urządzenia Direct3D 9, może być użyteczny przy uruchamianiu niektórych aplikacji i gier opartych na Direct3D 9, gdy sprzętowa akceleracja grafiki 3D nie jest dostępna.
 
-[Section.0a]
-Description = SwiftShader es un emulador de dispositivos de Direct3D 9 de alto rendimiento, puede ser práctico para cargar algunas aplicaciones o juegos basados en Direct3D 9 cuando el renderizado 3D por hardware no está disponible.

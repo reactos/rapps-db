@@ -9,11 +9,14 @@ URLDownload = https://web.archive.org/web/20210121063508/https://binaries.mpc-hc
 SHA1 = 213e67b32df5585f9fb50302aa317918064c6f62
 SizeBytes = 13331776
 
-[Section.0407]
-Description = Alternativer Mediaplayer.
-
 [Section.0a]
 Description = Reproductor multimedia alternativo.
+
+[Section.0404]
+Description = 一款媒體播放器。
+
+[Section.0407]
+Description = Alternativer Mediaplayer.
 
 [Section.040c]
 Description = Un lecteur media.

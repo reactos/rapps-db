@@ -1,14 +1,17 @@
- [Section]
- Name = QtEmu
- Version = 1.0.5
- License = GPLv2
- Description = QtEmu is a graphical user interface for QEMU written in Qt4.
- Category = 16
- URLSite = https://qtemu.org/
- URLDownload = https://downloads.sourceforge.net/project/qtemu/qtemu/1.0.5/qtemu-1.0.5.exe
- SHA1 = 064318f1c199340fd08c5e314347f5a93460dc83
- SizeBytes = 5336074
- 
- [Section.0415]
- Description = QtEmu to graficzny interfejs użytkownika dla QEMU napisany w Qt4.
+[Section]
+Name = QtEmu
+Version = 1.0.5
+License = GPLv2
+Description = QtEmu is a graphical user interface for QEMU written in Qt4.
+Category = 16
+URLSite = https://qtemu.org/
+URLDownload = https://downloads.sourceforge.net/project/qtemu/qtemu/1.0.5/qtemu-1.0.5.exe
+SHA1 = 064318f1c199340fd08c5e314347f5a93460dc83
+SizeBytes = 5336074
+
+[Section.0404]
+Description = QtEmu 是一款以 Qt4 編寫的 QEMU 圖形用戶界面。
+
+[Section.0415]
+Description = QtEmu to graficzny interfejs użytkownika dla QEMU napisany w Qt4.
  

@@ -12,6 +12,10 @@ SizeBytes = 463330
 [Section.0a]
 Description = Una aplicación que genera y comprueba las sumas de verificación md5.
 
+[Section.0404]
+License = 免費軟體
+Description = 一款生成並驗證 MD5 校驗碼的應用程式。
+
 [Section.0407]
 Description = Anwendung, welche MD5 Checksummen generiert und verifiziert.
 

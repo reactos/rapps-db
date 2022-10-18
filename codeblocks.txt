@@ -11,12 +11,12 @@ SizeBytes = 37372176
 Icon=codeblocks.ico
 Screenshot1=https://i.imgur.com/FykFrzz.png
 
-[Section.0407]
-Description = Quelloffene, plattformübergreifende, mächtige IDE. Diese enthält keinen Compiler.
-
 [Section.0a]
 Name = Code::Blocks (sin compilador)
 Description = Un IDE potente, de código abierto y multiplataforma. No viene con compilador.
+
+[Section.0407]
+Description = Quelloffene, plattformübergreifende, mächtige IDE. Diese enthält keinen Compiler.
 
 [Section.0410]
 Description = Un IDE potente, open source, multipiattaforma. Non contiene un compilatore.
@@ -42,5 +42,6 @@ Name = Code::Blocks (kompileerijata)
 Description = Avatud lähtekoodiga, mitmikplatvormil, võimas IDE. Ei sisalda kompileerijat.
 
 [Section.0804]
-Description = 开源、跨平台的强大的 IDE。不含编译器。
+Name = Code::Blocks（無編譯器）
+Description = 開源、跨平台和功能強大的 IDE。這個軟體不含編譯器。
 

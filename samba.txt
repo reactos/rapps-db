@@ -9,6 +9,12 @@ URLDownload = http://svn.reactos.org/packages/samba-for-ReactOSv1.3.exe
 SHA1 = 85e670da4700dbfe93e8460a43f6aeafee6fd1fd
 SizeBytes = 11290074
 
+[Section.0a]
+Description = Proporciona proveedores de autentificación para secur32.dll (p.e. NTLM) necesario para cargar algunas aplicaciones.
+
+[Section.0404]
+Description = 為需要 secur32.dll（如 NTLM）才能執行的程式提供驗證提供者。
+
 [Section.0407]
 Description = Liefert Authentifizierungsanbieter für secur32.dll (wie NTLM ...) die für einige Anwendungen benötigt werden.
 
@@ -27,7 +33,4 @@ Description = Çalışan uygulamaların gereksinim duyduğu secur32.dll (ör: NT
 
 [Section.0804]
 Description = 为需要 secur32.dll (如 NTLM)运行的程序提供鉴权提供者
-
-[Section.0a]
-Description = Proporciona proveedores de autentificación para secur32.dll (p.e. NTLM) necesario para cargar algunas aplicaciones.
 

@@ -9,12 +9,14 @@ URLDownload = https://www.tightvnc.com/download/2.8.11/tightvnc-2.8.11-gpl-setup
 SHA1 = 3ac08623e2158e532933af3af5941e3caeadebf8
 SizeBytes = 2080768
 
+[Section.0a]
+Description = Paquete de software que sirve para el control remoto del equipo vía VNC.
+
+[Section.0404]
+Description = 一款免費的遠端控制軟體套裝。
+
 [Section.0407]
 Description = Freies Fernbedienungsoftwarepaket.
-
-[Section.041f]
-License = GPL sürüm 2
-Description = Ücretsiz bir uzaktan denetim yazılımı paketi.
 
 [Section.0415]
 Description = Darmowe oprogramowanie do zdalnej kontroli.
@@ -25,8 +27,10 @@ Description = Program gratuit de control la distanță.
 [Section.0419]
 Description = Бесплатный пакет программного обеспечения для удаленного управления.
 
+[Section.041f]
+License = GPL sürüm 2
+Description = Ücretsiz bir uzaktan denetim yazılımı paketi.
+
 [Section.0804]
 Description = 一套免费的远程控制软件。
 
-[Section.0a]
-Description = Paquete de software que sirve para el control remoto del equipo vía VNC.

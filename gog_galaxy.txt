@@ -2,7 +2,7 @@
 Name = GOG Galaxy
 Version = 1.1.15.13
 License = Freeware
-Description =  The gaming Client designed for a convenient purchasing, playing and updating games, as well as an online play between gaming platforms, GOG Galaxy is also built with optionality in mind, and a belief that you should own the games you buy. DRM-free!
+Description = The gaming Client designed for a convenient purchasing, playing and updating games, as well as an online play between gaming platforms, GOG Galaxy is also built with optionality in mind, and a belief that you should own the games you buy. DRM-free!
 Category =  4
 URLSite = https://www.gog.com/galaxy
 URLDownload = https://svn.reactos.org/packages/setup_galaxy_1.1.15.13.exe
@@ -12,6 +12,10 @@ SizeBytes = 146623848
 [Section.0a]
 Description = El cliente gaming diseñado para una conveniente venta, juego y actualización de juegos, así como para el juego online entre plataformas gamers, GOG Galaxy está construida con la opcionalidad en mente, y creyendo que deberías ser propietario de los juegos que compras. ¡Sin DRM!
 
+[Section.0404]
+License = 免費軟體
+Description = 一款方便玩家購買、遊玩、更新遊戲和跨平臺線上多人遊玩的遊戲用戶端。GOG Galaxy 在構建時也考慮到可選性，並堅信您應該擁有自己購買的遊戲。無 DRM！
+
 [Section.0419]
 License = Бесплатно
 Description = Клиет для игровой платформы GOG Galaxy
@@ -19,3 +23,4 @@ Description = Клиет для игровой платформы GOG Galaxy
 [Section.0425]
 License = Vabavara
 Description = Mänguri klient disainitud mugavaks mängude ostmiseks, mängimiseks ja uuendamiseks, lisaks mitmikmängimise võimalus erinevate platvormidega, GOG Galaxy on veel üles ehitatud valikulisust silmas pidades ja veendumisega, et Te peaksite omama mänge, mida ostate. DRM-vaba!
+

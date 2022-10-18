@@ -7,3 +7,8 @@ Category = 4
 URLDownload = https://archive.org/download/neko98/neko98_4.zip
 SHA1 = 0213288fd85ce90b72279c05bcfabeb8d044b8d9
 SizeBytes = 69538
+
+[Section.0404]
+License = 免費軟體
+Description = Neko98 是一款以追逐游標的貓為主題的動畫 Screenmate 應用程式。
+

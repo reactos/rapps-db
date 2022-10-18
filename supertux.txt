@@ -9,11 +9,14 @@ URLDownload = https://github.com/SuperTux/supertux/releases/download/v0.5.1/Supe
 SHA1 = e8ce99f3197b0c1cb329054ba82d957255c54cea
 SizeBytes = 90194764
 
-[Section.0407]
-Description = Zweidimensionales, freies, quelloffenes Plattformspiel.
-
 [Section.0a]
 Description = Un juego 2D plataformero de código abierto.
+
+[Section.0404]
+Description = 一款免費、開源的二維平臺遊戲。
+
+[Section.0407]
+Description = Zweidimensionales, freies, quelloffenes Plattformspiel.
 
 [Section.0410]
 Description = SuperTux è un gioco open-source gratuito in 2D.

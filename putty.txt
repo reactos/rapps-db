@@ -9,11 +9,14 @@ URLDownload = https://the.earth.li/~sgtatham/putty/0.70/w32/putty-0.70-installer
 SHA1 = 2031fc9b6a972f5c3f3e506987143dfc1f7214e0
 SizeBytes = 2942464
 
-[Section.0407]
-Description = Freier SSH-, Telnet-, rlogin- und TCP-Client.
-
 [Section.0a]
 Description = Un cliente SSH, Telnet, rlogin y TCP libre y gratuito.
+
+[Section.0404]
+Description = 免費的 SSH、Telnet、rlogin 及原始 TCP 用戶端。
+
+[Section.0407]
+Description = Freier SSH-, Telnet-, rlogin- und TCP-Client.
 
 [Section.040c]
 Description = Un client SSH, Telnet, rlogin et raw TCP gratuit.

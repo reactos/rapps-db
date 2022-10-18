@@ -9,12 +9,16 @@ URLDownload = https://web.archive.org/web/20210505034809if_/http://download.micr
 SHA1 = a3625c59d7a2995fb60877b5f5324892a1693b2a
 SizeBytes = 23510720
 
-[Section.0407]
-Description = Runtime für C# Windows Anwendungen
-
 [Section.0a]
 Description = Componentes necesarios para ejecutar programas escritos en lenguajes intermedios como C#.
 License = Desconocida
+
+[Section.0404]
+License = 不明
+Description = 執行由 C# 之類的中間語言所編譯的 Windows 應用程式所需的組件。
+
+[Section.0407]
+Description = Runtime für C# Windows Anwendungen
 
 [Section.040c]
 Description = Paquet redistribuable.

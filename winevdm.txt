@@ -8,3 +8,7 @@ SHA1 = 9A23BB67E3A26A6C56834972CD06A3D2AF5F9B0E
 Version = 0.8.1
 URLSite = https://github.com/otya128/winevdm
 License = GPL
+
+[Section.0404]
+Description = 這款軟體將啟用對 WOW16 應用程式的支援。請將程式直接安裝至「Program Files」目錄。
+

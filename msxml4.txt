@@ -9,13 +9,17 @@ URLDownload = https://download.microsoft.com/download/A/2/D/A2D8587D-0027-4217-9
 SHA1 = aa70c5c1a7a069af824947bcda1d9893a895318b
 SizeBytes = 2434048
 
-[Section.0407]
-License = Unbekannt
-Description = Wird von einigen MSI Installern benötigt. Beinhaltet: msxml4.dll, msxml4r.dll.
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para algunos instaladores MSI. Incluye: msxml4.dll, msxml4r.dll.
+
+[Section.0404]
+License = 不明
+Description = 一些 Microsoft Installer 安裝程式需要的檔案。包括：msxml4.dll、msxml4r.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Wird von einigen MSI Installern benötigt. Beinhaltet: msxml4.dll, msxml4r.dll.
 
 [Section.040c]
 License = Inconnue

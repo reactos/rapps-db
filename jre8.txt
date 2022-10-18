@@ -9,11 +9,14 @@ SHA1 = 5d59f9e360c83e61e365c75d6602f5cd0ba033b5
 SizeBytes = 31150504
 Icon = jdk8.ico
 
-[Section.0407]
-Description = Sie wollen Java Programme nutzen? Wenn ja, laden Sie die Java Runtime Environment herunter.
-
 [Section.0a]
 Description = Plataforma y bibliotecas necesarias para la ejecución de aplicaciones programadas en Java.
+
+[Section.0404]
+Description = 執行基於 Java 的程式時所需的平臺和函式庫。
+
+[Section.0407]
+Description = Sie wollen Java Programme nutzen? Wenn ja, laden Sie die Java Runtime Environment herunter.
 
 [Section.041f]
 Name = Java SE Runtime Environment 8
@@ -35,5 +38,5 @@ License = Oracle binaarkoodi litsents
 Description = Vajalikud teegid ja platvorm Java-põhiste programmide rakendamiseks.
 
 [Section.0804]
-License = Oracle 二进制代码许可
+License = Oracle 二进制代码许可协议
 Description = 运行基于 Java 的程序所需的平台和运行库。

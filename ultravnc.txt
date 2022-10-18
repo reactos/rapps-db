@@ -9,11 +9,14 @@ URLDownload = https://www.uvnc.eu/download/1217/UltraVNC_1_2_17_X86_Setup.exe
 SHA1 = 77d70393e3a3446c7456ff19271d694a86036c02
 SizeBytes = 2970960
 
-[Section.0407]
-Description = Quelloffener VNC Client/Server.
-
 [Section.0a]
 Description = Cliente/servidor VNC de código abierto.
+
+[Section.0404]
+Description = 開源的 VNC 用戶端／伺服器。
+
+[Section.0407]
+Description = Quelloffener VNC Client/Server.
 
 [Section.040c]
 Description = Client/serveur VNC open source.

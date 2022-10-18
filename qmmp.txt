@@ -9,12 +9,16 @@ URLDownload = http://qmmp.ylsoftware.com/files/windows/0.11/qmmp-0.11.1-win32.ex
 SHA1 = ffe410a53b46a7905a7b80863aba4a37249c5250
 SizeBytes = 14754797
 
-[Section.0407]
-Description = Audio-Player, der mit Hilfe der Qt Bibliothek geschrieben wurde. Die Benutzeroberfläche ist ähnlich zu WinAMP oder XMMS. Alternative Benutzeroberflächen sind ebenfalls verfügbar.
-
 [Section.0a]
 Name = Qmmp (Reproductor multimedia Qt)
 Description = Reproductor multimedia basado en las bibliotecas Qt, la interfaz es parecida a la de WinAMP o XMMS. Existen otras interfaces alternativas.
+
+[Section.0404]
+Name = Qmmp
+Description = 基於 Qt 庫的音訊播放器。用戶界面與 WinAMP 或 XMMS 類似。亦可以使用其他用戶界面款式。
+
+[Section.0407]
+Description = Audio-Player, der mit Hilfe der Qt Bibliothek geschrieben wurde. Die Benutzeroberfläche ist ähnlich zu WinAMP oder XMMS. Alternative Benutzeroberflächen sind ebenfalls verfügbar.
 
 [Section.0410]
 Description = Qmmp è un lettore multimediale, scritto con l'aiuto della libreria Qt. L'interfaccia grafica è simile a WinAMP o XMMS. Interfaccie utenti alternative sono disponibili.

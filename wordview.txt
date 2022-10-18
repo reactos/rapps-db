@@ -9,13 +9,6 @@ URLDownload = https://web.archive.org/web/20171123104006if_/http://download.micr
 SHA1 = e6dfdc8a1545d45ef5840ba513a5c4036bf154bc
 SizeBytes = 25685128
 
-[Section.0407]
-License = Unbekannt
-Description = Freeware Dokumentbetrachter für Office-Formate (*.doc).
-URLDownload = https://web.archive.org/web/20170104154150if_/http://download.microsoft.com/download/d/4/b/d4b23f0e-c8b6-4383-878d-1a8184b7db56/wordview_de-de.exe
-SHA1 = 679d2c80bb33ca262b9cf55626ce36e23fd67293
-SizeBytes = 25755856
-
 [Section.0a]
 Name = Visor de Microsoft Word
 Description = Visor gratuito de documentos en formato Office (*.doc)
@@ -23,6 +16,17 @@ License = Desconocida
 URLDownload = https://web.archive.org/web/20170426125808if_/http://download.microsoft.com/download/4/4/c/44c2d552-8b40-464f-8470-b4976d7ba60b/wordview_es-es.exe
 SHA1 = 6c83c4418f384ea9a0ddb81c8c5bcdb183dba3d8
 SizeBytes = 25725600
+
+[Section.0404]
+License = 不明
+Description = 免費的 Office 文件格式（*.doc）檢視器。
+
+[Section.0407]
+License = Unbekannt
+Description = Freeware Dokumentbetrachter für Office-Formate (*.doc).
+URLDownload = https://web.archive.org/web/20170104154150if_/http://download.microsoft.com/download/d/4/b/d4b23f0e-c8b6-4383-878d-1a8184b7db56/wordview_de-de.exe
+SHA1 = 679d2c80bb33ca262b9cf55626ce36e23fd67293
+SizeBytes = 25755856
 
 [Section.040c]
 License = Inconnue

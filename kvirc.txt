@@ -12,8 +12,12 @@ SizeBytes = 19206936
 [Section.0a]
 Description = Un buen cliente para el Internet Relay Chat (IRC) escrito usando la interfaz GUI Qt Toolkit.
 
+[Section.0404]
+Description = 一款以 Qt GUI Toolkit 開發，好用的 IRC（Internet Relay Chat）用戶端。
+
 [Section.040c]
 Description = Un bon client pour l'Internet Relay Chat (IRC) écrit avec le GUI Toolkit Qt.
 
 [Section.0415]
 Description = Dobry klient IRC (Internet Relay Chat) napisany przy użyciu Qt GUI.
+

@@ -8,7 +8,13 @@ URLSite = https://github.com/snes9xgit/snes9x/
 URLDownload = https://github.com/snes9xgit/snes9x/releases/download/1.60/snes9x-1.60-win32.zip
 SHA1 = a67156f159405c73be86df49818f9984dfee218d
 SizeBytes = 2619607
-[Section.040c]
-Description = Un émulateur portable et gratuit de Super Nintendo Entertainment System (SNES). Vous devrez utiliser OpenGL comme moteur de rendu dans les paramètres vidéo ou dans le fichier .ini.
+
 [Section.0a]
 Description = Un emulador de Super Nintendo Entertainment System (SNES) portátil y gratuito. Deberá cambiar el renderizador de video a OpenGL en la configuración de video o en el archivo ini.
+
+[Section.0404]
+Description = 一款免費，輕便的超級任天堂（SNES/SFC）模擬器。您需要在視訊設定或直接在 INI 檔案中將視訊算繪器設定為 OpenGL。
+
+[Section.040c]
+Description = Un émulateur portable et gratuit de Super Nintendo Entertainment System (SNES). Vous devrez utiliser OpenGL comme moteur de rendu dans les paramètres vidéo ou dans le fichier .ini.
+

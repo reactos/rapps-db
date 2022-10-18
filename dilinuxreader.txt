@@ -9,6 +9,13 @@ URLDownload = https://web.archive.org/web/20180525220638if_/http://www.diskinter
 SHA1 = e299b236a60536e4d44729d016dbfc4b9e1ffe7a
 SizeBytes = 22355893
 
+[Section.0a]
+Description = Una manera sencilla de conectar entre Windows/ReactOS y los sistemas de archivos Ext2/Ext3/Ext4, HFS y ReiserFS.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款能使 Windows/ReactOS 與 Ext2/Ext3/Ext4、HFS 和 ReiserFS 檔案系統建立聯繫的軟體。
+
 [Section.0407]
 Description = Eine einfache Möglichkeit zwischen Windows/ReactOS und Ext2/Ext3/Ext4, HFS und ReiserFS-Dateisystemen zu überbrücken.
 
@@ -34,7 +41,4 @@ Description = Kerge viis sillastada Windows/Reactos ja Ext2/Ext3/Ext4, HFS ja Re
 [Section.0804]
 License = 免费软件
 Description = 一种能够简单使 Windows/ReactOS 与 Ext2/Ext3/Ext4、HFS 和 ReiserFS 文件系统建立联系的软件。
-
-[Section.0a]
-Description = Una manera sencilla de conectar entre Windows/ReactOS y los sistemas de archivos Ext2/Ext3/Ext4, HFS y ReiserFS.
 

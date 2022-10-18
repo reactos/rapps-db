@@ -12,6 +12,10 @@ SizeBytes = 967106
 [Section.0a]
 Description = Buscador de archivos compatible con ReactOS.
 
+[Section.0404]
+License = 免費軟體
+Description = 與 ReactOS 相容的檔案搜尋工具程式。
+
 [Section.0407]
 Description = ReactOS kompatibles Dateisuchprogramm.
 

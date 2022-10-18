@@ -9,14 +9,18 @@ URLDownload = https://download.ccleaner.com/ccsetup562.exe
 SHA1 = e5c348ec9ff7905cb7f09a61a8686cb1e32154de
 SizeBytes = 25441808
 
-[Section.0407]
-Description = Sehr gutes Bereinigungswerkzeug für den PC.
-URLSite = https://www.ccleaner.com/de-de/ccleaner
-
 [Section.0a]
 License = Gratuita
 Description = Una herramienta de limpieza y mantenimiento con la que borrar archivos temporales.
 URLSite = https://www.ccleaner.com/es-es/ccleaner
+
+[Section.0404]
+License = 免費軟體
+Description = 一款清理暫存檔案和日常維護電腦的好工具。
+
+[Section.0407]
+Description = Sehr gutes Bereinigungswerkzeug für den PC.
+URLSite = https://www.ccleaner.com/de-de/ccleaner
 
 [Section.0415]
 Description = Przyzwoite narzędzie do czyszczenia tymczasowych plików i ogólnej konserwacji komputera.

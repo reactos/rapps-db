@@ -9,13 +9,17 @@ URLDownload = http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B6
 SHA1 = 96b377a27ac5445328cbaae210fc4f0aaa750d3f
 SizeBytes = 6554576
 
-[Section.0407]
-License = Unbekannt
-Description = Benötigt für Visual Studio 2012 basierte Anwendungen. Beinhaltet: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
-
 [Section.0a]
 License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 2012. Incluye: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
+
+[Section.0404]
+License = 不明
+Description = 開啟以 Visual Studio 2012 編寫的應用程式時需要的元件。包含：atl110.dll、mfc110.dll、mfc110u.dll、mfcm110.dll、mfcm110u.dll、msdia110.dll、msvcm110.dll、msvcp110.dll、msvcr110.dll、vcomp110.dll。
+
+[Section.0407]
+License = Unbekannt
+Description = Benötigt für Visual Studio 2012 basierte Anwendungen. Beinhaltet: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.040c]
 License = Inconnue

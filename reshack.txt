@@ -9,11 +9,15 @@ URLDownload = https://web.archive.org/web/20180426130124if_/http://www.angusj.co
 SHA1 = a34547ccb44ce387c95e97d540e4763894a4a15b
 SizeBytes = 2933617
 
-[Section.0407]
-Description = Freeware-Tool zum Anzeigen, Ändern, Umbenennen, Hinzufügen, Löschen und Extrahieren von Ressourcen in 32-Bit & 64-Bit-Windows Anwendungen und Ressourcen-Dateien (*.res).
-
 [Section.0a]
 Description = Una utilidad gratuita para ver, editar, renombrar, borrar y extraer recursos de ejecutables de Windows y archivos derivados (*.res).
+
+[Section.0404]
+License = 免費軟體
+Description = 一款可以在 32 及 64 位元 Windows 中查看、修改、重新命名、新增、刪除和提取可執行程式和資源檔案 (*.res) 的資源的公用程式。
+
+[Section.0407]
+Description = Freeware-Tool zum Anzeigen, Ändern, Umbenennen, Hinzufügen, Löschen und Extrahieren von Ressourcen in 32-Bit & 64-Bit-Windows Anwendungen und Ressourcen-Dateien (*.res).
 
 [Section.0410]
 Description = Resource Hacker, è uno strumento freewere per vedere, modificare, rinominare, aggiungere, rimuovere e estrarre risorse in eseguibili Windows 32 e 64 bit e file di risorse (*.res).

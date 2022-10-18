@@ -12,6 +12,10 @@ SizeBytes = 149786
 [Section.0a]
 Description = Un buen editor hexadecimal para Windows.
 
+[Section.0404]
+License = 免費軟體
+Description = 一款適用於 Windows 的十六進制檔案編輯器。
+
 [Section.0407]
 Description = Ein HEX-Editor für Windows.
 

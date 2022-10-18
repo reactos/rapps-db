@@ -12,6 +12,9 @@ SizeBytes = 26570888
 [Section.0a]
 Description = Un navegador web ligero, rápido y personalizable basado en el entorno Gecko.
 
+[Section.0404]
+Description = 基於 Gecko 布局引擎，速度快、可自訂卻仍舊輕量的網路瀏覽器。
+
 [Section.0407]
 Description = Extrem schneller, erweiterbarer und dennoch kleiner Web Browser basierend auf der Gecko Layout Engine.
 

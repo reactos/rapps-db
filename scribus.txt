@@ -9,14 +9,17 @@ URLDownload = https://download.sourceforge.net/project/scribus/scribus/1.4.7/scr
 SHA1 = 644694da09557b30d019f09949c6809db768b2e2
 SizeBytes = 84314878
 
+[Section.0a]
+Description = Un programa de código abierto que brinda diseño de página profesional a ReactOS.
+
+[Section.0404]
+Description = 一款給予 ReactOS 專業的頁面布局的開源程式。
+
 [Section.0405]
 Description = Open-source program, který přináší profesionální stránky rozložení ReactOS.
 
 [Section.0407]
 Description = Ein Open-Source-Programm, das professionelles Seitenlayout in ReactOS bringt.
-
-[Section.0a]
-Description = Un programa de código abierto que brinda diseño de página profesional a ReactOS.
 
 [Section.040c]
 Description = Un programme open source qui apporte la mise en page professionnelle de ReactOS.

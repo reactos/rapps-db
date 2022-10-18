@@ -12,6 +12,9 @@ SizeBytes = 8490496
 [Section.0a]
 Description = Npackd es un gestor de paquetes, tienda de aplicaciones, instalador para Windows, licenciado con la GPLv3.
 
+[Section.0404]
+Description = Npackd（讀作「unpacked」）是一款適用於 Windows 平臺，使用 GPLv3 許可的安裝程式、應用商店、套件管理和應用購買的應用程式。
+
 [Section.0407]
 Description = Leistungsstarke Paketverwaltung, bietet die Installation von Software in verschiedenen Versionen an.
 
