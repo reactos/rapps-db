@@ -1,0 +1,10 @@
+[Section]
+Name = WAtomic
+Version = 1.2.3.257
+License = GPL v2
+Description = WAtomic is a Windows clone of Linux KAtomic logic game, developed using the GLScene OpenGl based library for Delphi.
+Category = 4
+URLSite = https://watomic.sourceforge.net/
+URLDownload = https://master.dl.sourceforge.net/project/watomic/watomic/1.2.3/WAtomic_1_2_3_257.msi
+SHA1 = 62e531f3bbfed7a9893ef49c20ff1826dffee09f
+SizeBytes = 964608

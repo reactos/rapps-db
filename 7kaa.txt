@@ -1,0 +1,10 @@
+[Section]
+Name = Seven Kingdoms
+Version = 2.15.5
+License = GPL
+Description = Seven Kingdoms Ancient Adversaries is the real-time strategy game designed by Trevor Chan, now freely available and maintained by the community.
+Category = 4
+URLSite = https://7kfans.com/
+URLDownload = https://github.com/the3dfxdude/7kaa/releases/download/v2.15.5/7kaa-install-win32-2.15.5.exe
+SHA1 = f802798bda5ede67c3ec72e3d699b5daa03583d3
+SizeBytes = 66934971

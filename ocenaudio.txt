@@ -1,0 +1,11 @@
+[Section]
+Name = ocenaudio
+Version = 3.11.15
+License = EULA
+Description = ocenaudio is a cross-platform, easy to use, fast and functional audio editor.
+Category = 1
+URLSite = https://www.ocenaudio.com
+URLDownload = https://www.ocenaudio.com/downloads/index.php/ocenaudio.exe
+SHA1 = 4811b71aa24611cae2b28b95aeab96a56a1577fd
+SizeBytes = 37183568
+Icon = ocenaudio.ico

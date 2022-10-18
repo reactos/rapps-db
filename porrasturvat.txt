@@ -1,0 +1,8 @@
+[Section]
+Name = Porrasturvat (Stair Dismount)
+Description = Spector is placed on top of some stairs and you select which body part to push and the angle. Time your click on the push button when the pulsating force bar reaches the desired level. 
+Category = 4
+URLSite = https://jet.ro/dismount/
+URLDownload = https://jet.ro/dismount/files/SetupPorrast103.exe
+SHA1 = 0ea25f4bca59a030667daef45ffc17c8ba19701d
+SizeBytes = 2315038

@@ -1,0 +1,11 @@
+[Section]
+Name = Avidemux
+Version = 2.7.2
+License = GPL v2
+Description = Edit your avi, mpeg and nuv. Process audio and video. Cut.
+Category = 2
+URLSite = https://avidemux.sourceforge.net/
+URLDownload = https://master.dl.sourceforge.net/project/avidemux/avidemux/2.7.2/avidemux_2.7.2_win3.exe
+SHA1 = 29de9029a856c25b774ec93ec589bb4546bcb679
+SizeBytes = 23832850
+Icon = avidemux.ico

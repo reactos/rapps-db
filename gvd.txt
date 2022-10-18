@@ -1,0 +1,10 @@
+[Section]
+Name = gBurner virtual disk
+Version = 5.2
+License = EULA
+Description = gBurner Virtual Drive is a free utility designed for creating and managing virtual CD / DVD drives. 
+Category = 12
+URLSite = https://www.gburner.com/online-help/virtual-drive.htm
+URLDownload = https://www.gburner.com/gvd5.exe
+SHA1 = b9ac15b98d65459d79273d8f7fc863c2d11a70c4
+SizeBytes = 463288

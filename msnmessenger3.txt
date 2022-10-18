@@ -1,0 +1,15 @@
+[Section]
+Name = MSN Messenger 3 (Escargot)
+Version = 3.6
+License = EULA
+Description = Escargot is a new service that makes old versions of MSN Messenger and Windows Live Messenger work again.
+Category = 5
+URLSite = https://escargot.chat
+URLDownload = https://storage.levelleap.com/nina/clients/msnp/installer/msn/msn-3.6.0039-en.exe
+SHA1 = fda4d9dfb6248bdea8bf94e5f0f60b493c1b185e
+SizeBytes = 858672
+
+[Section.0410]
+URLDownload = https://storage.levelleap.com/nina/clients/msnp/installer/msn/msn-3.6.0039-it.exe
+SHA1 = 084cc9ddeabe4299fb05ca290c1422be623666df
+SizeBytes = 858216
