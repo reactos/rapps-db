@@ -1,0 +1,10 @@
+[Section]
+Name = Multires
+Version = 1.58
+License = Freeware
+Description = MultiRes works very much like a 32-bit version of the venerable Microsoft QuickRes 16-bit applet for Windows 95 that is a very simple Windows software solution that places an icon in the System Tray to help users easily change screen resolution.
+Category = 12
+URLSite = https://www.entechtaiwan.com/util/multires.shtm
+URLDownload = https://www.entechtaiwan.com/files/multires.exe
+SHA1 = b189418c89b15ae28bb20d10787c5348c0efc55f
+SizeBytes = 102771

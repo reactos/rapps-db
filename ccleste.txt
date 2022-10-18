@@ -1,0 +1,9 @@
+[Section]
+Name = Celeste Classic C
+Version = 1.4.0
+Description = Celeste Classic C source port for 3DS and PC.
+Category = 4
+URLSite = https://github.com/lemon32767/ccleste
+URLDownload = https://github.com/lemon32767/ccleste/releases/download/v1.4.0/ccleste-win.zip
+SHA1 = 25daffeeb4445de62e6fc162ade04f65c16dd70c
+SizeBytes = 2972378

@@ -1,0 +1,10 @@
+[Section]
+Name = Crimson Fields
+Version = 0.5.1
+License = GPL
+Description = A turn-based tactical war game.
+Category = 4
+URLSite = http://crimson.seul.org/
+URLDownload = http://crimson.seul.org/files/crimson-0.5.1-win32.exe
+SHA1 = f02ea3778d7aa63c713939745ccffd4699cfaaaf
+SizeBytes = 1380280

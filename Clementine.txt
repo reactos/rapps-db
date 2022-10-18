@@ -1,0 +1,11 @@
+[Section]
+Name = Clementine
+Version = 1.3.1
+License = GPL v3
+Description = Clementine is a multiplatform music player. It is inspired by Amarok 1.4, focusing on a fast and easy-to-use interface for searching and playing your music.
+Category = 1
+URLSite = https://www.clementine-player.org/
+URLDownload = https://github.com/clementine-player/Clementine/releases/download/1.3.1/ClementineSetup-1.3.1.exe
+SHA1 = 81908dfe1866be5441abf9131ac7f5a261974731
+SizeBytes = 22011528
+Icon = clementine.ico

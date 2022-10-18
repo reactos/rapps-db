@@ -1,0 +1,10 @@
+[Section]
+Name = Celestia
+Version = 1.6.1
+License = GPL
+Description = The free space simulation that lets you explore our universe in three dimensions.
+Category = 8
+URLSite = https://celestia.space/
+URLDownload = https://celestia.space/files/celestia/1.6.1/celestia-win32-1.6.1.exe
+SHA1 = 78c674cc834dfd7928f4afc10d06acf41e2920c2
+SizeBytes = 34363645

@@ -1,0 +1,11 @@
+[Section]
+Name = xrick
+Version = 021212
+License = GPL
+Description = xrick is a clone of Rick Dangerous.
+Category = 4
+URLSite = http://www.bigorno.net/xrick/
+URLDownload = http://www.bigorno.net/xrick/xrick-021212-win32.zip
+SHA1 = 0fdd9641003c8181670abd4edc7345c685dfbabd
+SizeBytes = 1645879
+Icon = xrick.ico
