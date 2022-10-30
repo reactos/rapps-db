@@ -1,0 +1,10 @@
+[Section]
+Name = Mari0
+Version = 1.6
+License = MIT
+Description = A fan made mario game with portal gun mechanics.
+Category = 4
+URLSite = https://stabyourself.net/mari0/
+URLDownload = https://stabyourself.net/dl.php?file=mari0-1006/mari0-win.zip
+SHA1 = 0153a306426762ccf7bb540b02550b73f95ec71e
+SizeBytes = 5565454

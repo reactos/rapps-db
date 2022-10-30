@@ -1,0 +1,10 @@
+[Section]
+Name = Extreme Tux Racer
+Version = 0.5beta
+License = GPLv2
+Description = A downhill racing game starring Tux, the Linux penguin.
+Category = 4
+URLSite = https://sourceforge.net/projects/extremetuxracer/
+URLDownload = https://master.dl.sourceforge.net/project/extremetuxracer/releases/0.5beta/extremetuxracer-0.5beta.exe
+SHA1 = b63599ae6809421a0b8a5784d370534fd3bfd462
+SizeBytes = 43461310
