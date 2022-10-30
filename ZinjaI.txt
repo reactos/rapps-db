@@ -4,8 +4,9 @@ Version = 20180718
 License = GPL
 Description = ZinjaI is an IDE for programming in C and C++.
 Category = 7
-URLSite = http://zinjai.sourceforge.net/
-URLDownload = https://sourceforge.net/projects/zinjai/files/zinjai-20180718/zinjai-w32-20180718.exe/download
+URLSite = https://zinjai.sourceforge.net/
+URLDownload = https://download.sourceforge.net/zinjai/zinjai-w32-20180718.exe
+SHA1 = 6a8f768b5812185acc0a9db54b4879d775a73a29
 SizeBytes = 37629858
 
 [Section.0404]

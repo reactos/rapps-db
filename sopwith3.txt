@@ -1,10 +1,10 @@
 [Section]
-Name = Maelstorm
-Version = 3.0.6
+Name = Sopwith 3 (2003)
+Version = 3.0.0
 License = GPL
-Description = Maelstrom is a GPL'd port of the original shareware game for the Macintosh. It is a fast-action, high resolution (640x480) asteroids-like game, with detailed graphics and original sounds.
+Description = Sopwith is a side-scrolling arcade shooter where you fly a biplane (the eponymous Sopwith Camel) and try to wreak havoc on the opponent's bases, ground and air forces.
 Category = 4
 URLSite = https://www.wingkong.net/sopwith2b/sopwith3.html
-URLDownload = https://master.dl.sourceforge.net/project/sopwith3/sopwith3/3.0.0/sopwith-3.0.0-win32.zip?viasf=1
+URLDownload = https://download.sourceforge.net/sopwith3/sopwith-3.0.0-win32.zip
 SHA1 = cbe3893d340678f4e22e7967b1e5c7f557724c2a
 SizeBytes = 526387

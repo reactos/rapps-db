@@ -29,6 +29,13 @@ ALL_KEYS = [
 ]
 
 
+REQUIRED_KEYS = [
+    b'Name',
+    b'Category',
+    b'URLDownload',
+]
+
+
 ALL_ARCH = [
     b'x86',
     b'amd64',
@@ -37,6 +44,10 @@ ALL_ARCH = [
     b'ia64',
     b'ppc',
 ]
+
+
+all_names = {}
+all_urls = {}
 
 
 HEXDIGITS = b'0123456789abcdef'
@@ -70,7 +81,9 @@ class RappsLine:
         self._lineno = lineno
         self._text = text
         self._last_col = len(self._text.rstrip())
+        self.main_section = False
         self.key = None
+        self.val = None
         self._entries = []
 
     def add(self, line):
@@ -113,6 +126,8 @@ class RappsLine:
         if section_name != b'Section':
             help = 'should always be "Section"'
             reporter.add(self, self._text.index(section_name) + 1, f'Invalid section name: "{section_name}", {help}')
+        elif not locale:
+            self.main_section = True
 
         if locale:
             if len(locale) not in (2, 4) or not all(c in HEXDIGITS for c in locale):
@@ -150,6 +165,7 @@ class RappsLine:
         # key = value
         assert len(parts) == 2, self
         self.key = parts[0]
+        self.val = parts[1]
 
         if self.key not in ALL_KEYS:
             reporter.add(self, 0, f'Unknown key: "{self.key}"')
@@ -184,9 +200,54 @@ class RappsFile:
                 assert section, "Got no section yet?"
                 section.add(line)
 
+        all_sections = []
+        found_main = False
+        name = None
+        ver = None
+        url = None
+
         for section in self._sections:
+            uniq_section = section._text.strip().upper()
+            if uniq_section in all_sections:
+                reporter.add(section, 0, 'Duplicate section found!')
+            else:
+                all_sections.append(uniq_section)
+            if not found_main and section.main_section:
+                found_main = True
+                for key in REQUIRED_KEYS:
+                    if not section[key]:
+                        reporter.add(section, 0, f'Main section has no {key} key!')
             if section[b'URLDownload'] and not section[b'SizeBytes']:
                 reporter.add(section, 0, 'Section has URLDownload but no SizeBytes!')
+
+            if section[b'Name'] and not name:
+                name = section[b'Name']
+            if section[b'Version'] and not ver:
+                ver = section[b'Version']
+            if section[b'URLDownload'] and not url:
+                url = section[b'URLDownload']
+
+        # Verify that the application name and version is unique
+        if name:
+            global all_names
+            if ver:
+                verify_unique(reporter, all_names, name, name.val + b', version ' + ver.val)
+            else:
+                verify_unique(reporter, all_names, name, name.val)
+
+        # Verify that the download URL is unique
+        if url:
+            global all_urls
+            verify_unique(reporter, all_urls, url, url.val)
+
+
+def verify_unique(reporter, lines, line, name):
+    first = lines.get(name, None)
+    if first:
+        reporter.add(line, 0, f'Duplicate value found: {name}')
+        reporter.add(first, 0, 'First occurence:')
+    else:
+        lines[name] = line
 
 
 def validate_repo(dirname):
@@ -197,7 +258,7 @@ def validate_repo(dirname):
         entry.parse(reporter)
 
     if reporter.problems():
-        print('Please check https://reactos.org/wiki/index.php?title=RAPPS for details on the file format')
+        print('Please check https://reactos.org/wiki/RAPPS for details on the file format.')
         sys.exit(1)
     else:
         print('No problems found.')

@@ -4,8 +4,8 @@ Version = CVS060306
 License = GPLv2
 Description = TWSYNTH is an extended version of TiMidity++ software synthesizer with MIDI output driver.
 Category = 1
-URLSite = http://sourceforge.net/projects/twsynth/
-URLDownload = https://sourceforge.net/projects/twsynth/files/Originarl%20TiMidity%2B%2B/TiMidityCVS060306/TiMidity-CVS060306_setup_en.exe/download
+URLSite = https://sourceforge.net/projects/twsynth/
+URLDownload = https://download.sourceforge.net/twsynth/TiMidity-CVS060306_setup_en.exe
 SHA1 = bac885b32da21d7a71004189df4a95a66cbde745
 SizeBytes = 27588544
 
