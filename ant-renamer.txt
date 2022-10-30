@@ -5,6 +5,6 @@ License = GPLv2
 Description = Mass file renaming utility, allows for renaming of many files at once.
 Category = 12
 URLSite = https://www.antp.be/software/renamer
-URLDownload = http://update.antp.be/renamer/antrenamer2_install.exe
+URLDownload = https://update.antp.be/renamer/antrenamer2_install.exe
 SHA1 = ae30eddaea71cf4a22f5e2d4cf17872f7f1b03b0
 SizeBytes = 1212478
