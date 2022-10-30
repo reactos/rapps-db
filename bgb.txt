@@ -1,0 +1,10 @@
+[Section]
+Name = BGB - GB/GBC emulator
+Version = 1.5.10
+License = Freeware
+Description = A GameBoy/GameBoy color emulator, lets you play gb/gbc games on your PC.
+Category = 4
+URLSite = https://bgb.bircd.org
+URLDownload = https://bgb.bircd.org/bgb.zip
+SHA1 = b9131426d85608057e3a07efabfb7c5d15eb9d9d
+SizeBytes = 480208
