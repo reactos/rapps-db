@@ -1,16 +1,16 @@
 [Section]
 Name = iQPuzzle
-Version = 1.2.6
+Version = 1.2.7
 License = Open Source (GPLv3)
 Description = A diverting I.Q. challenging pentomino puzzle
 Category = 4
 URLSite = https://elth0r0.github.io/iqpuzzle/
-URLDownload = https://github.com/ElTh0r0/iqpuzzle/releases/download/v1.2.6/iQPuzzle-1.2.6-ReactOS_Installer.exe
-SHA1 = 0c502a1a485de7f387f8c2c12478795e705c40db
-SizeBytes = 7634583
+URLDownload = https://github.com/ElTh0r0/iqpuzzle/releases/download/v1.2.7/iQPuzzle-1.2.7-ReactOS_Installer.exe
+SHA1 = cca4ad63c929579b9dc4be00ba21ba4e82da8e63
+SizeBytes = 7637764
 Icon = iqpuzzle.ico
 Screenshot1 = https://user-images.githubusercontent.com/26674558/166152612-90f722f6-e937-4b11-8c4c-160c3568e267.png
-Languages = 0407|0809|040C|0410|0413|0412|0414|0402|0804
+Languages = 0407|0809|040C|0410|0413|0412|0414|0402|0804|0408
 
 [Section.0404]
 Description = 一款有趣且具有挑戰性的的五格骨牌。
