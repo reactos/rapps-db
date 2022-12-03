@@ -1,0 +1,9 @@
+[Section]
+Name = Cave Story
+Version = 1.0.0.6
+License = Freeware
+Description = A Japanese freeware PC side-scrolling platformer game.
+Category = 4
+URLSite = https://www.cavestory.org/
+URLDownload = https://www.cavestory.org/downloads/cavestoryen.zip
+SizeBytes = 1136575
