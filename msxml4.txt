@@ -1,11 +1,11 @@
 [Section]
-Name = Microsoft XML 4
+Name = Microsoft XML 4 (sp3)
 Version = 4.0
 License = Unknown
 Description = Needed for some Microsoft Installers. Contains: msxml4.dll, msxml4r.dll.
 Category = 14
-URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=15697
-URLDownload = https://download.microsoft.com/download/A/2/D/A2D8587D-0027-4217-9DAD-38AFDB0A177E/msxml.msi
+URLSite = https://web.archive.org/web/20160402111243/https://www.microsoft.com/en-us/download/details.aspx?id=15697
+URLDownload = https://web.archive.org/web/20160328201533/https://download.microsoft.com/download/A/2/D/A2D8587D-0027-4217-9DAD-38AFDB0A177E/msxml.msi
 SHA1 = aa70c5c1a7a069af824947bcda1d9893a895318b
 SizeBytes = 2434048
 
