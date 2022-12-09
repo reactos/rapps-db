@@ -1,0 +1,19 @@
+[Section]
+Name = Krita
+Version = 3.2.1
+License = GPL
+Description = Krita is an open-source graphic editor that allows to draw, paint and make 2D animation. Is a part of KDE.
+Category = 3
+URLSite = https://krita.org
+URLDownload = https://download.kde.org/Attic/krita/3.2.1/krita-3.2.1-x86.zip
+SHA1 = 3f3ff0c2d971b8803fa978efd59f65aa7f8e8f1f
+SizeBytes = 71598080
+
+[Section.amd64]
+Version = 3.2.1
+URLDownload = https://download.kde.org/Attic/krita/3.2.1/krita-3.2.1-x64.zip
+SHA1 = cb85d630a8efdbc816296d757e05b1dc3d77943d
+SizeBytes = 100532224
+
+[Section.0a]
+Description = Krita es un programa de edición de imagen open source, que te permite dibujar, pintar y hacer animación 3D. Es parte de KDE.
