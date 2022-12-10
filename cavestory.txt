@@ -6,4 +6,5 @@ Description = A Japanese freeware PC side-scrolling platformer game.
 Category = 4
 URLSite = https://www.cavestory.org/
 URLDownload = https://www.cavestory.org/downloads/cavestoryen.zip
+SHA1 = aa9aca14e95914acc9799b651b5f5bd21847edb1
 SizeBytes = 1136575
