@@ -2,7 +2,7 @@
 PROJECT:     ReactOS rapps-db validator
 LICENSE:     MIT (https://spdx.org/licenses/MIT)
 PURPOSE:     Validate all rapps-db files
-COPYRIGHT:   Copyright 2020,2021 Mark Jansen <mark.jansen@reactos.org>
+COPYRIGHT:   Copyright 2020-2023 Mark Jansen <mark.jansen@reactos.org>
 '''
 import os
 import sys
@@ -201,7 +201,7 @@ class RappsFile:
                 section.add(line)
 
         all_sections = []
-        found_main = False
+        main_section = None
         name = None
         ver = None
         url = None
@@ -212,13 +212,15 @@ class RappsFile:
                 reporter.add(section, 0, 'Duplicate section found!')
             else:
                 all_sections.append(uniq_section)
-            if not found_main and section.main_section:
-                found_main = True
+            if not main_section and section.main_section:
+                main_section = section
                 for key in REQUIRED_KEYS:
                     if not section[key]:
                         reporter.add(section, 0, f'Main section has no {key} key!')
             if section[b'URLDownload'] and not section[b'SizeBytes']:
-                reporter.add(section, 0, 'Section has URLDownload but no SizeBytes!')
+                # We allow this, if the main section has a SizeBytes (alternate mirror without duplicating the info)
+                if section == main_section or main_section and not main_section[b'SizeBytes']:
+                    reporter.add(section, 0, 'Section has URLDownload but no SizeBytes!')
 
             if section[b'Name'] and not name:
                 name = section[b'Name']
