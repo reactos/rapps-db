@@ -1,0 +1,12 @@
+[Section]
+Name = WinFile
+Version = 10.14.4.0
+License = MIT
+LicenseInfo = 1
+Description =  The Windows File Manager lives again and runs as a native x86 and x64 desktop app on all currently supported version of Windows, including Windows 10.
+Category = 12
+URLSite = https://github.com/qbancoffee/winfile/tree/reactos
+URLDownload = https://github.com/qbancoffee/winfile/releases/download/v1.0/winfile-installer.exe
+SHA1 = b920cddbc6a46c97d46aec194638d4c2709c7f0e
+SizeBytes = 1079185
+Languages=0409
