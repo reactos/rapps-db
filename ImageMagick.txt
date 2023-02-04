@@ -1,0 +1,11 @@
+[Section]
+Name = ImageMagick
+Version = 6.9.11-19
+Description = An Software Tool To Edit, Convert, Animate, Crop And Resize Images.
+Category = 12
+URLSite = https://imagemagick.org/
+URLDownload = https://dl.dropboxusercontent.com/s/zmrs5bv8uykvdhl/ImageMagick-6.9.11-19-Q8-x86-dll.exe
+SHA1 = b88d55543cdaf62f45d8c7de7483d0d63fcb5f11
+SizeBytes = 30352856
+Icon = ImageMagick.ico
+
