@@ -1,0 +1,11 @@
+[Section]
+Name = TechPowerUp GPU-Z 
+Version = 0.6.6
+License = EULA
+Description = A freeware tool that gathers information on the GPU devices of your system.
+Category = 12
+URLSite = https://www.techpowerup.com/download/techpowerup-gpu-z/
+URLDownload = https://de1-dl.techpowerup.com/files/inMaEKiEApD-BpFnze5P3w/1675732482/GPU-Z.0.6.6.exe
+SHA1 = 36f95c8068dd2b20de1700973a973c9ccd16f364
+SizeBytes = 1299424
+Icon = cpuz.ico
