@@ -1,5 +1,5 @@
 [Section]
-Name = TechPowerUp GPU-Z 
+Name = TechPowerUp GPU-Z
 Version = 0.6.6
 License = EULA
 Description = A freeware tool that gathers information on the GPU devices of your system.
