@@ -1,35 +1,34 @@
 [Section]
 Name = K-Meleon
-Version = 75.1
+Version = 76.4.7
 License = GPL
-Description = An extremely fast, customizable and still lightweight web browser based on the Gecko layout engine.
+Description = An extremely fast, customizable and still lightweight web browser based on the Goanna layout engine.
 Category = 5
-URLSite = http://kmeleon.sourceforge.net
-URLDownload = http://download.sourceforge.net/project/kmeleon/k-meleon/75.1/K-Meleon75.1.exe
-SHA1 = a46ead69a6d18609b1f2e8ae60a3a5883e2e061e
-SizeBytes = 26570888
+URLSite = http://kmeleonbrowser.org/forum/read.php?19,154431
+URLDownload = https://o.rthost.win/kmeleon/KM76.4.7-Goanna-20230218.7z
+SHA1 = 19a9518fd7752f9062ee25b342da807139d367a9
+SizeBytes = 37751126
 
 [Section.0a]
-Description = Un navegador web ligero, rápido y personalizable basado en el entorno Gecko.
+Description = Un navegador web ligero, rápido y personalizable basado en el entorno Goanna.
 
 [Section.0404]
-Description = 基於 Gecko 布局引擎，速度快、可自訂卻仍舊輕量的網路瀏覽器。
+Description = 基於 Goanna 布局引擎，速度快、可自訂卻仍舊輕量的網路瀏覽器。
 
 [Section.0407]
-Description = Extrem schneller, erweiterbarer und dennoch kleiner Web Browser basierend auf der Gecko Layout Engine.
+Description = Extrem schneller, erweiterbarer und dennoch kleiner Web Browser basierend auf der Goanna Layout Engine.
 
 [Section.041f]
-Description = Gecko düzen motoru tabanlı, aşırı hızlı, özelleştirilebilir ve şimdi bile hafif bir ağ tarayıcısı.
+Description = Goanna düzen motoru tabanlı, aşırı hızlı, özelleştirilebilir ve şimdi bile hafif bir ağ tarayıcısı.
 
 [Section.0415]
-Description = Bardzo szybka, konfigurowalna i lekka przeglądarka internetowa oparta na silniku Gecko.
+Description = Bardzo szybka, konfigurowalna i lekka przeglądarka internetowa oparta na silniku Goanna.
 
 [Section.0418]
-Description = Navigator web extrem de rapid, particularizabil, și totuși ușor, bazat pe motorul de afișare Gecko.
+Description = Navigator web extrem de rapid, particularizabil, și totuși ușor, bazat pe motorul de afișare Goanna.
 
 [Section.0419]
-Description = Быстрый, настраиваемый, легкий веб-браузер, основанный на движке Gecko.
+Description = Быстрый, настраиваемый, легкий веб-браузер, основанный на движке Goanna.
 
 [Section.0804]
-Description = 基于 Gecko 布局引擎，速度极快、可定制却仍旧轻量的网络浏览器。
-
+Description = 基于 Goanna 布局引擎，速度极快、可定制却仍旧轻量的网络浏览器。
