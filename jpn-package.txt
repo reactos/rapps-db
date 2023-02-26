@@ -1,13 +1,13 @@
 [Section]
 Name = ReactOS JPN Package
-Version = 0.9.3
+Version = 0.9.5
 License = GPLv3
 Description = (For Japanese only) This package provides Japanese fonts and Japanese IME for Japanese ReactOS.
 Category = 16
 URLSite = https://github.com/katahiromz/ReactOS-JPN-Package
-URLDownload = https://github.com/katahiromz/ReactOS-JPN-Package/releases/download/0.9.3/reactos-jpn-setup-0.9.3.exe
-SHA1 = 484e8f42ce77b1478c58c91b0e4351a757a791e6
-SizeBytes = 7109081
+URLDownload = https://github.com/katahiromz/ReactOS-JPN-Package/releases/download/0.9.5/reactos-jpn-setup-0.9.5.exe
+SHA1 = 98eac83faaf5ba54e5f52bba1400fa3bc0717485
+SizeBytes = 7099939
 
 [Section.0a]
 Description = (For Japanese only) This package provides Japanese fonts and Japanese IME for Japanese ReactOS.
