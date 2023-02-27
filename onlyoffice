@@ -1,6 +1,6 @@
 [Section]
 Name = OnlyOffice
-Version = 	7.3.0.184
+Version = 7.3.0.184
 License = AGPL-3.0-only
 Description = OnlyOffice (formerly TeamLab), a powerful and free software office suite developed by Ascensio System SIA. Supports opening and saving documents in Microsoft Office formats.
 Category = 6
