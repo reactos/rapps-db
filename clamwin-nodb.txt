@@ -1,0 +1,11 @@
+[Section]
+Name = ClamWin Free Antivirus (Without virus base)
+Version = 0.103.2.1
+License = GPL
+LicenseInfo = 1
+Category = 12
+URLSite = http://www.clamwin.com/
+URLDownload = https://sourceforge.net/projects/clamwin/files/clamwin/0.103.2.1/clamwin-0.103.2.1-setup-nodb.exe
+SHA1 = 2d19a8b0e25faf218fd411561261244e6b34eb5e
+SizeBytes = 11114476
+Languages = 0409|040A
