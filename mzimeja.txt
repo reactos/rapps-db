@@ -1,13 +1,13 @@
 [Section]
 Name = MZ-IME Japanese Input (mzimeja)
-Version = 0.9.8.6
+Version = 0.9.8.7
 License = Freeware
 Description = (For Japanese only) MZ-IME Japanese Input (mzimeja) is one of the free IMEs (Input Method Editors) that enable Japanese input on Japanese ReactOS. NOTICE: This package has been integrated into "ReactOS JPN Package".
 Category = 12
 URLSite = https://github.com/katahiromz/mzimeja
-URLDownload = https://github.com/katahiromz/mzimeja/releases/download/v0.9.8.6/mzimeja-0.9.8.6-setup.exe
-SHA1 = 393058c43829ac082530be9ac9440a3829a2caf1
-SizeBytes = 1790919
+URLDownload = https://github.com/katahiromz/mzimeja/releases/download/v0.9.8.7/mzimeja-0.9.8.7-setup.exe
+SHA1 = f1a11d33a75be71617bf73a6b47178f1b638f841
+SizeBytes = 1802615
 
 [Section.0411]
 License = フリーソフト
