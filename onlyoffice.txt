@@ -1,13 +1,13 @@
 [Section]
 Name = OnlyOffice
-Version = 7.3.0.184
+Version = 7.3.3.50
 License = AGPL-3.0-only
 Description = OnlyOffice (formerly TeamLab), a powerful and free software office suite developed by Ascensio System SIA. Supports opening and saving documents in Microsoft Office formats.
 Category = 6
 URLSite = https://www.onlyoffice.com/
-URLDownload = https://download.onlyoffice.com/install/desktop/editors/windows/distrib/onlyoffice/DesktopEditors_x86.exe
-SHA1 = 3a9b1cea5e088b3462dc0f942e34b3a2373be5ee
-SizeBytes = 206759344
+URLDownload = https://web.archive.org/web/20230423010607if_/https://download.onlyoffice.com/install/desktop/editors/windows/distrib/onlyoffice/DesktopEditors_x86_xp.exe
+SHA1 = 04175e7047b88255365732dd5ba36bf6f772de26
+SizeBytes = 375520600
 
 [Section.0419]
-Description = OnlyOffice (в прошлом Teamlab) — мощный офисный пакет с открытым исходным кодом, разработанный компанией Ascensio System SIA. Поддерживает открытие и сохрание документов в форматах Microsoft Office.
+Description = OnlyOffice (в прошлом TeamLab) — мощный офисный пакет с открытым исходным кодом, разработанный компанией Ascensio System SIA. Поддерживает открытие и сохранение документов в форматах Microsoft Office.
