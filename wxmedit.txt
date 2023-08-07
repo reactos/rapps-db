@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = wxMEdit
 Category = 7
 URLDownload = http://downloads.sourceforge.net/project/wxmedit/3.2/wxMEdit-3.2-win32-bin-ros.zip
