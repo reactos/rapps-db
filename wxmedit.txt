@@ -28,7 +28,7 @@ Description = Ein Plattformübergreifender Text- und Hexadezimal-Editor
 URLSite = https://wxmedit.github.io/de_DE/
 
 [Section.040c]
-Description = Un Editeur Multi-Plateformes Texte et Héxadécimal
+Description = Un Editeur Multi-Plateformes Texte et Hexadécimal
 
 [Section.0411]
 Description = クロスプラットフォームのテキスト/Hex エディタ
