@@ -1,0 +1,60 @@
+﻿[Section]
+Name = wxMEdit
+Category = 7
+URLDownload = http://downloads.sourceforge.net/project/wxmedit/3.2/wxMEdit-3.2-win32-bin-ros.zip
+SizeBytes = 16495754
+Description = A Cross-platform Text/Hex Editor
+Icon = wxmedit.ico
+License = GPLv3
+SHA1 = 316550af63f6f2eed217c602818ba89092b378a8
+URLSite = https://wxmedit.github.io/
+Version = 3.2
+Screenshot1 = https://github.com/reactos/rapps-db/assets/3896345/a7cb984d-1dcc-4db1-8e8d-2e390599bfe1
+
+[Section.04]
+Description = 跨平台的文本/十六进制编辑器
+URLSite = https://wxmedit.github.io/zh_CN/
+
+[Section.0a]
+Description = Un Editor de Texto/Hexadecimal Multiplataforma
+URLSite = https://wxmedit.github.io/es/
+
+[Section.0404]
+Description = 跨平台的文字/十六進位編輯器
+URLSite = https://wxmedit.github.io/zh_TW/
+
+[Section.0407]
+Description = Ein Plattformübergreifender Text- und Hexadezimal-Editor
+URLSite = https://wxmedit.github.io/de_DE/
+
+[Section.040c]
+Description = Un Editeur Multi-Plateformes Texte et Héxadécimal
+
+[Section.0411]
+Description = クロスプラットフォームのテキスト/Hex エディタ
+URLSite = https://wxmedit.github.io/ja_JP/
+
+[Section.0415]
+Description = Międzyplatformowy Tekst/Hex Edytor
+URLSite = https://wxmedit.github.io/pl_PL/
+
+[Section.0419]
+Description = Кросс-платформенный Редактор Текста/Hex
+URLSite = https://wxmedit.github.io/ru_RU/
+
+[Section.0804]
+Description = 跨平台的文本/十六进制编辑器
+URLSite = https://wxmedit.github.io/zh_CN/
+
+[Section.1004]
+Description = 跨平台的文本/十六进制编辑器
+URLSite = https://wxmedit.github.io/zh_CN/
+
+[Section.0C04]
+Description = 跨平台的文字/十六進位編輯器
+URLSite = https://wxmedit.github.io/zh_TW/
+
+[Section.1404]
+Description = 跨平台的文字/十六進位編輯器
+URLSite = https://wxmedit.github.io/zh_TW/
+
