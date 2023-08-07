@@ -28,7 +28,7 @@ Description = Ein Plattformübergreifender Text- und Hexadezimal-Editor
 URLSite = https://wxmedit.github.io/de_DE/
 
 [Section.040c]
-Description = Un Editeur Multi-Plateformes Texte et Hexadécimal
+Description = Un Éditeur Multi-Plateformes Texte et Hexadécimal
 
 [Section.0411]
 Description = クロスプラットフォームのテキスト/Hex エディタ
@@ -39,7 +39,7 @@ Description = Międzyplatformowy Tekst/Hex Edytor
 URLSite = https://wxmedit.github.io/pl_PL/
 
 [Section.0419]
-Description = Кросс-платформенный Редактор Текста/Hex
+Description = Кросс-платформенный текстовый/шестнадцатеричный редактор
 URLSite = https://wxmedit.github.io/ru_RU/
 
 [Section.0804]
@@ -50,11 +50,10 @@ URLSite = https://wxmedit.github.io/zh_CN/
 Description = 跨平台的文本/十六进制编辑器
 URLSite = https://wxmedit.github.io/zh_CN/
 
-[Section.0C04]
+[Section.0c04]
 Description = 跨平台的文字/十六進位編輯器
 URLSite = https://wxmedit.github.io/zh_TW/
 
 [Section.1404]
 Description = 跨平台的文字/十六進位編輯器
 URLSite = https://wxmedit.github.io/zh_TW/
-
