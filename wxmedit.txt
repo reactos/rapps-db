@@ -32,6 +32,7 @@ URLSite = https://wxmedit.github.io/ja_JP/
 URLSite = https://wxmedit.github.io/pl_PL/
 
 [Section.0419]
+Description = Кросс-платформенный текстовый/шестнадцатеричный редактор, написанный на C++ и wxWidgets, с поддержкой различных кодировок, в том числе в шестнадцатеричном режиме.
 URLSite = https://wxmedit.github.io/ru_RU/
 
 [Section.0804]
