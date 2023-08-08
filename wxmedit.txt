@@ -1,14 +1,14 @@
 [Section]
 Name = wxMEdit
+Version = 3.2
+Description = A Cross-platform Text/Hex Editor
+License = GPLv3
 Category = 7
+URLSite = https://wxmedit.github.io/
 URLDownload = http://downloads.sourceforge.net/project/wxmedit/3.2/wxMEdit-3.2-win32-bin-ros.zip
 SizeBytes = 16495754
-Description = A Cross-platform Text/Hex Editor
-Icon = wxmedit.ico
-License = GPLv3
 SHA1 = 316550af63f6f2eed217c602818ba89092b378a8
-URLSite = https://wxmedit.github.io/
-Version = 3.2
+Icon = wxmedit.ico
 Screenshot1 = https://github.com/reactos/rapps-db/assets/3896345/a7cb984d-1dcc-4db1-8e8d-2e390599bfe1
 
 [Section.04]
