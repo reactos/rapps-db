@@ -1,0 +1,51 @@
+[Section]
+Name = wxMEdit
+Version = 3.2
+Description = A cross-platform text/hex editor written in C++ & wxWidgets, supporting various encodings even in hexadecimal mode.
+License = GPLv3
+Category = 7
+URLSite = https://wxmedit.github.io/
+URLDownload = http://downloads.sourceforge.net/project/wxmedit/3.2/wxMEdit-3.2-win32-bin-ros.zip
+SizeBytes = 16495754
+SHA1 = 316550af63f6f2eed217c602818ba89092b378a8
+Icon = wxmedit.ico
+Screenshot1 = https://github.com/reactos/rapps-db/assets/3896345/a7cb984d-1dcc-4db1-8e8d-2e390599bfe1
+
+[Section.04]
+Description = 用 C++ 与 wxWidgets 编写的跨平台文本/十六进制编辑器，即使在十六进制模式下也支持各种编码。
+URLSite = https://wxmedit.github.io/zh_CN/
+
+[Section.0a]
+URLSite = https://wxmedit.github.io/es/
+
+[Section.0404]
+Description = 用 C++ 與 wxWidgets 編寫的跨平台文本/十六進位編輯器，即使在十六進位模式下也支援各種編碼。
+URLSite = https://wxmedit.github.io/zh_TW/
+
+[Section.0407]
+URLSite = https://wxmedit.github.io/de_DE/
+
+[Section.0411]
+URLSite = https://wxmedit.github.io/ja_JP/
+
+[Section.0415]
+URLSite = https://wxmedit.github.io/pl_PL/
+
+[Section.0419]
+URLSite = https://wxmedit.github.io/ru_RU/
+
+[Section.0804]
+Description = 用 C++ 与 wxWidgets 编写的跨平台文本/十六进制编辑器，即使在十六进制模式下也支持各种编码。
+URLSite = https://wxmedit.github.io/zh_CN/
+
+[Section.1004]
+Description = 用 C++ 与 wxWidgets 编写的跨平台文本/十六进制编辑器，即使在十六进制模式下也支持各种编码。
+URLSite = https://wxmedit.github.io/zh_CN/
+
+[Section.0c04]
+Description = 用 C++ 與 wxWidgets 編寫的跨平台文本/十六進位編輯器，即使在十六進位模式下也支援各種編碼。
+URLSite = https://wxmedit.github.io/zh_TW/
+
+[Section.1404]
+Description = 用 C++ 與 wxWidgets 編寫的跨平台文本/十六進位編輯器，即使在十六進位模式下也支援各種編碼。
+URLSite = https://wxmedit.github.io/zh_TW/
