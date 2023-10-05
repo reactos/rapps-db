@@ -9,3 +9,6 @@ URLDownload = https://master.dl.sourceforge.net/project/avidemux/avidemux/2.7.2/
 SHA1 = 29de9029a856c25b774ec93ec589bb4546bcb679
 SizeBytes = 23832850
 Icon = avidemux.ico
+
+[Section.041f]
+Description = avi, mpeg ve nuv dosyalarını düzenle. Sesi ve videoyu işle. Kes.

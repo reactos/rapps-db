@@ -31,8 +31,7 @@ Description = Emulator de PC (x86) cu surse deschise și portabilitate înaltă,
 Description = Программа эмуляции аппаратного обеспечения IBM PC (IA-32). Эмулирует x86-совместимые процессоры, поддерживает MMX, SSE, SSE2, 3DNow!, SSE3, SSE4, x86-64, VMX, AES.
 
 [Section.041f]
-License = LGPL sürüm 2
-Description = Çok taşınabilir, C++ ile yazılmış, en yaygın platformlarda çalışan, açık kaynak bir IA-32 (x86) PC öykünücüsüdür.
+Description = Çok taşınabilir, C++ ile yazılmış, en yaygın platformlarda çalışan, açık kaynak bir IA-32 (x86) PC emülatörüdür.
 
 [Section.0425]
 Description = Kõrgelt kaasaskantav avatud lähtekoodiga C++ keeles kirjutatud IA-32 (x86) personaalarvuti emulaator, mis töötab kõige populaarsematel platvormidel.

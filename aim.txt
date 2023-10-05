@@ -16,3 +16,5 @@ Description = Mensajería Instantánea AOL. Cambie el DNS host a iwarg.ddns.net 
 License = 廢棄軟體
 Description = AOL 即時通訊。在連線設定中將 host DNS 變更為 iwarg.ddns.net，並將連接埠設為 5190 即可恢復其功能。這個軟體需要一個 AIM Phoenix 帳戶。
 
+[Section.041f]
+Description = AOL Instant Messenger. İşlevselliği yeniden kazanmak için ana bilgisayar DNS'ini 5190 port numarası ile iwarg.ddns.net adresine değiştiriniz. Bir AIM Phoenix hesabı gerektirir.

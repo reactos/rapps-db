@@ -12,6 +12,11 @@ SizeBytes = 8720872
 [Section.0404]
 Description = AR PL UMing 字型是由臺灣文鼎科技開發股份有限公司開發的一款開源字型。目前只支持中文環境。
 
+[Section.041f]
+Name = ReactOS için AR PL UMing Yazı Tipi
+License = the Arphic Public License
+Description = Bu, ReactOS için bir AR PL UMing yazı tipleri paketidir. Sadece Basitleştirilmiş Çince (ÇHC) ve Geleneksel Çince (Hong Kong ve Tayvan) desteklenmektedir. Bu yazı tipi Tayvan'da Arphic Technology Co., Ltd. tarafından geliştirilmiştir.
+
 [Section.0c04]
 Description = AR PL UMing 字型是由臺灣文鼎科技開發股份有限公司開發的一款開源字型。目前只支持中文環境。
 
