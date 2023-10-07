@@ -34,8 +34,7 @@ Description = Свободная кроссплатформенная среда
 
 [Section.041f]
 Name = Code::Blocks (derleyicisiz)
-License = GPL sürüm 3
-Description = Açık kaynak, çapraz platform, güçlü bir tümleşik geliştirme ortamı. Bir derleyici içermez.
+Description = Açık kaynak, çapraz platform, güçlü bir IDE. Bir derleyici içermez.
 
 [Section.0425]
 Name = Code::Blocks (kompileerijata)

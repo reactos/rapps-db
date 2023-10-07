@@ -31,7 +31,7 @@ Description = Joc de strategie futurist, în timp real. Necesită „Microsoft V
 Description = Футуристическая стратегия, отдалённо напоминающая игры типа Command & Conquer. Для работы необходимо наличие Microsoft Visual C++ 2008.
 
 [Section.041f]
-Description = Gelecekçi ve gerçek zamanlı bir izlem oyunu. Çalıştırmak için Microsoft Visual C++ 2008 Yürütücü gerekir.
+Description = Fütüristik ve gerçek zamanlı bir strateji oyunu. Çalışması için Microsoft Visual C++ 2008 yürütücüsü gerekir.
 
 [Section.0425]
 Description = Futuristlik reaalajas strateegiamäng. Vajab Microsoft Visual C++ 2008 runtime'i tööks.

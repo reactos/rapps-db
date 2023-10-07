@@ -64,7 +64,7 @@ Description = Файлы, необходимые для работы некот�
 [Section.041f]
 Name = Microsoft Visual Basic 6.0 Ortak Denetimler
 License = Bilinmiyor
-Description = Bir takım uygulamalar için gerekli dosya. Şunları içerir: comctl32.ocx, mscomctl.ocx, advpack.dll.
+Description = Bazı uygulamalar için gerekli dosya. Şunları içerir: comctl32.ocx, mscomctl.ocx, advpack.dll.
 
 [Section.0422]
 License = Невідома

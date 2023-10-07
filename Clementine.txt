@@ -9,3 +9,6 @@ URLDownload = https://github.com/clementine-player/Clementine/releases/download/
 SHA1 = 81908dfe1866be5441abf9131ac7f5a261974731
 SizeBytes = 22011528
 Icon = clementine.ico
+
+[Section.041f]
+Description = Clementine, çoklu platform bir müzik oynatıcısıdır. Amarok 1.4'ten esinlenilmiştir, müziklerinizi aramak ve çalmak için hızlı ve kolay kullanımlı bir arayüze odaklanmıştır.

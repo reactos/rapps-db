@@ -38,8 +38,7 @@ Description = Виртуальная клавиатура
 
 [Section.041f]
 Name = Click-N-Type Sanal Klavye
-License = Ücretsiz
-Description = Ücretsiz sanal klavye uygulaması.
+Description = Freeware sanal klavye uygulaması.
 
 [Section.0425]
 Name = Click-N-Type Virtuaalklaviatuur
