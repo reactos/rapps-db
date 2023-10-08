@@ -35,7 +35,6 @@ Description = Свободная интегрированная среда ра�
 Description = Ülalpeetud versioon programmist Dev-C++. Sisaldab 64 bittist TDM-GCC kompileerijat.
 
 [Section.041f]
-License = GPL sürüm 2
 Description = Dev-C++'nın sürdürülen bir sürümü. 64 bitlik TDM-GCC derleyicisi içerir.
 
 [Section.0804]
