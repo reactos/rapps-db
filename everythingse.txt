@@ -31,8 +31,7 @@ License = Бесплатно
 Description = Мгновенный поиск файлов и папок.
 
 [Section.041f]
-License = Ücretsiz
-Description = Dosyaları ve dizinleri ada göre gecikmeden bulunuz.
+Description = Dosyaları ve klasörleri ada göre gecikmeden konumlayınız.
 
 [Section.0425]
 License = Vabavaraline

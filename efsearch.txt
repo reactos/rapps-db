@@ -31,7 +31,6 @@ License = Бесплатно
 Description = Утилита для поиска файлов, совместимая с ReactOS.
 
 [Section.041f]
-License = Ücretsiz
 Description = ReactOS'la uyumlu dosya arama aracı.
 
 [Section.0425]

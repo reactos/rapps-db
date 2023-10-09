@@ -34,8 +34,7 @@ Description = Графический веб-браузер с акцентом �
 
 [Section.041f]
 Name = D+ Tarayıcı
-License = GPL sürüm 3
-Description = Güvenlik, başarım ve taşınabilirlik üzerine bir vurguyla, grafiksel bir ağ tarayıcısıdır. Dillo tabanlıdır ve Dillo-Win32 tasarısından çatallanmıştır.
+Description = Güvenlik, performans ve taşınabilirlik üzerine bir vurguyla, grafiksel bir ağ tarayıcısıdır. Dillo tabanlıdır ve Dillo-Win32 projesinden çatallanmıştır.
 
 [Section.0425]
 Description = Graafiline veebibrauser rõhuga turvalisusele ja kaasaskantavusele. Põhineb Dillo pealt ja on harustatud Dillo-Win32 projektist.

@@ -13,6 +13,9 @@ SizeBytes = 4380855
 License = 共享軟體
 Description = 現代、強大和物有所值的文字編輯器。
 
+[Section.041f]
+Description = Modern, en güçlü, değer fiyatlamalı metin düzenleyicisi.
+
 [Section.0804]
 License = 共享软件
 Description = 最强的物有所值的现代文本编辑器。
