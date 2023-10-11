@@ -9,3 +9,6 @@ URLDownload = https://altushost-swe.dl.sourceforge.net/project/fbide/fbide%200.4
 SHA1 = 326327c7082adae0af1df0281cde4af990b1e273
 SizeBytes = 3132022
 Icon = fbide.ico
+
+[Section.041f]
+Description = FBIde, FreeBASIC programlama dili için en popüler ve en eski düzenleyicilerden biridir.

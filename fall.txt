@@ -30,6 +30,9 @@ Description = Joc cu pinguini care cad de pe aisberg, iar jucătorul trebuie să
 [Section.0419]
 Description = Пингвины падают с айсберга, а вы должны их ловить батутом.
 
+[Section.041f]
+Description = Penguenler bir buzdağından kaydırılmakta ve onları rıhtımlara sektirmelisiniz.
+
 [Section.0425]
 Description = Pingviinid kukkuvad jäemäelt ja Te peate nad põrkama sadamasse.
 
