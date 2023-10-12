@@ -18,9 +18,6 @@ Description = 企鵝會從冰山落下，您必須把它們彈上碼頭。
 [Section.0407]
 Description = Pinguine fallen von einem Eisberg herunter und man muss sie auf sicheres Land befördern.
 
-[Section.041f]
-Description = Penguenler buz dağından düşüyor ve siz onları limanların içine sektirmelisiniz.
-
 [Section.0415]
 Description = Pingwiny spadają z góry lodowej, musisz je poprowadzić w bezpieczne miejce.
 
