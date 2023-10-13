@@ -28,7 +28,7 @@ Description = Editor de grafică vectorială oferit sub Licența Publică Genera
 Description = Векторный графический редактор под лицензией GNU General Public License.
 
 [Section.041f]
-Description = GNU Genel Kamu Ruhsatı altında ruhsatlanmış bir vektör çizge düzenleyicisidir.
+Description = GNU Genel Kamu Lisansı altında lisanslanmış bir vektör grafik düzenleyicisidir.
 
 [Section.0425]
 Description = Vektorgraafika redigeerija litsentseeritud GNU General Public License all.

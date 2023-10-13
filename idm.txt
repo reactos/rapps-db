@@ -15,3 +15,5 @@ SizeBytes = 10640368
 License = 試用版本
 Description = Internet Download Manager（IDM）工具可以提升下載速度至最高 5 倍，而且可以暫停或排定下載。
 
+[Section.041f]
+Description = Internet Download Manager (IDM), indirme hızlarını 5 katına kadar çıkaran, devam eden ve zamanlanmış indirmeler için bir araç.

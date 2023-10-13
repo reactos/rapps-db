@@ -18,10 +18,6 @@ Description = 一款專注於安全的開源網路伺服器。
 [Section.0407]
 Description = Quelloffener Webserver mit einem Augenmerk auf Sicherheit.
 
-[Section.041f]
-License = GPL sürüm 2
-Description = Güvenlik üzerine odaklı açık kaynak bir ağ sunucusu.
-
 [Section.0415]
 Description = Otwartoźródłowy serwer internetowy z naciskiem na bezpieczeństwo.
 
@@ -30,6 +26,9 @@ Description = Server web cu surse deschise, având securitatea în prim plan.
 
 [Section.0419]
 Description = Веб-сервер с упором на безопасность.
+
+[Section.041f]
+Description = Güvenlik üzerine odaklı açık kaynak bir Web sunucusu.
 
 [Section.0425]
 Description = Avatud lähtekoodiga veebiserver rõhuga turvalisusele.
