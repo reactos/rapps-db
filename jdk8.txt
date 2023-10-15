@@ -18,3 +18,6 @@ Description = 一款由 Zulu 建構，基於 OpenJDK 的開源 Java 編譯器和
 Name = Java SE 8. Compilador y entorno de ejecución.
 Description = Un compilador Java de código abierto y un entorno de ejecución creado por Zulu basado en OpenJDK.
 
+[Section.041f]
+Name = Java SE 8. Derleyici ve Çalışma Zamanı.
+Description =  OpenJDK tabanlı Zulu tarafından inşa edilen açık kaynak bir Java derleyicisi ve çalışma zamanı ortamı.
