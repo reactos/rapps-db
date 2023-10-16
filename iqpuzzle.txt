@@ -23,6 +23,7 @@ Description = Un puzzle pentominó que te divertirá y retará intelectualmente.
 Description = Ein kurzweiliges herausforderndes Pentomino-Puzzle
 
 [Section.041f]
+License = Açık Kaynak (GPL sürüm 3)
 Description = Oyalayıcı ve IQ zorlayan bir pentomino bulmaca.
 
 [Section.0425]

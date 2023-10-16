@@ -11,4 +11,5 @@ SizeBytes = 22011528
 Icon = clementine.ico
 
 [Section.041f]
+License = GPL sürüm 3
 Description = Clementine, çoklu platform bir müzik oynatıcısıdır. Amarok 1.4'ten esinlenilmiştir, müziklerinizi aramak ve çalmak için hızlı ve kolay kullanımlı bir arayüze odaklanmıştır.

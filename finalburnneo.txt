@@ -11,4 +11,5 @@ SizeBytes = 9389433
 Icon = fbneo.ico
 
 [Section.041f]
+License = MAME sürüm 2
 Description = Arcade tarzı oyunlar için emülatör. Konsolları seçiniz.

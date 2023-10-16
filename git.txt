@@ -22,6 +22,7 @@ Description = Git - это быстрая, масштабируемая, рас�
 
 [Section.041f]
 Name = Windows için Git
+License = GPL sürüm 2
 Description = Git, yüksek seviyeli işlemler ve kendi içine tam erişim sağlayan fevkalade zengin komut setiyle bir hızlı, ölçeklenebilir, dağıtık sürüm kontrol sistemidir.
 
 [Section.0425]

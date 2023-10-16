@@ -21,4 +21,5 @@ Description = Calibre es un software de licencia abierta para la gestión de lib
 Description = Calibre 是一款開源、跨平臺的電子書程式集。您可以編輯虛擬圖書館、顯示、建立、轉換您的電子書，並同步至您喜歡的裝置。
 
 [Section.041f]
+License = GLP sürüm 3
 Description = Calibre, bir çapraz platform açık kaynak e-kitap yazılımı takımıdır. Sanal kitaplıkları düzenle; e-kitapları görüntüle, oluştur ve dönüştür; onları istediğiniz aygıtınızla eşleştir.

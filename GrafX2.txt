@@ -10,4 +10,5 @@ SHA1 = df7ec1ee27dd509c484a277aa33546adc3616817
 SizeBytes = 2198528
 
 [Section.041f]
+License = GPL sürüm 2
 Description = GrafX2, Amiga programları olan Deluxe Paint ve Brilliance'dan esinlenilmiş bir bit eşlem boyama programıdır. 256 renk çizim üzerine özelleşmiştir; özellikle piksel sanatı, oyun grafikleri ve fareyle yapılan herhangi bir ayrıntılı genel grafikler için uygun kılan çok büyük sayıda araçlar ve efektler barındırır.

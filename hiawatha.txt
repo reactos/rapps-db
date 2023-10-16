@@ -28,6 +28,7 @@ Description = Server web cu surse deschise, având securitatea în prim plan.
 Description = Веб-сервер с упором на безопасность.
 
 [Section.041f]
+License = GPL sürüm 2
 Description = Güvenlik üzerine odaklı açık kaynak bir Web sunucusu.
 
 [Section.0425]
