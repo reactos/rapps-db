@@ -31,8 +31,7 @@ License = Бесплатно
 Description = Приложение генерирует и проверяет контрольные суммы MD5.
 
 [Section.041f]
-License = Ücretsiz
-Description = MD5 sağlama toplamlarını oluşturan ve doğrulayan bir uygulamadır.
+Description = MD5 sağlama toplamlarını oluşturan ve doğrulayan bir uygulama.
 
 [Section.0804]
 License = 免费软件
