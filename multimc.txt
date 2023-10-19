@@ -9,3 +9,4 @@ URLDownload = https://files.multimc.org/downloads/mmc-develop-win32.zip
 SHA1 = 94b8e884cbf59378754bc300e60e570ed204e819
 SizeBytes = 14141416
 Icon = multimc.ico
+Screenshot1 = https://user-images.githubusercontent.com/54766538/276584135-c27902a2-aa45-4cdd-a2f7-fdb6fb327cd5.png
