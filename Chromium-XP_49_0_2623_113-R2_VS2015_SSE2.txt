@@ -2,7 +2,7 @@
 Name = Chromium-XP
 Version = 49.0.2623.113-R2 VS2015 SSE2 2nd Release
 License = BSD 3-Clause
-Description = Prebundled with Pepperflash 21.0.0.213. 489/555 in html5test.com. Currently needs --no-sandbox command line option to run on ROS.
+Description = Prebundled with Pepperflash 21.0.0.213. 489/555 in html5test.com. Currently needs --no-sandbox command line option to run.
 Category = 5
 URLSite = https://github.com/Alex313031/chromium-xp
 URLDownload = https://github.com/Alex313031/chromium-xp/releases/download/M49.0.2623.113-2/mini_installer.exe
