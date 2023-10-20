@@ -2,7 +2,7 @@
 Name = Chromium-XP
 Version = 49.0.2623.113 VS2013 SSE3 1st Release
 License = BSD 3-Clause License
-Description = Prebundled with Pepperflash 21.0.0.213. WebM VP9 support. Currently needs --no-sandbox command line option to run on ros.
+Description = Prebundled with Pepperflash 21.0.0.213. 489/555 in html5test.com. Currently needs --no-sandbox command line option to run on ros.
 Category = 5
 URLSite = https://github.com/Alex313031/chromium-xp
 URLDownload = https://github.com/Alex313031/chromium-xp/releases/download/M49.0.2623.113/mini_installer_MSVS2013.exe
