@@ -1,7 +1,8 @@
 [Section]
 Name = StackAndConquer
 Version = 0.10.0
-License = Open Source (GPLv3)
+License = GPLv3
+LicenseType = 1
 Description = A challenging tower conquest board game
 Category = 4
 URLSite = https://github.com/ElTh0r0/stackandconquer

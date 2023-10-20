@@ -2,7 +2,7 @@
 Name = ClamWin Free Antivirus
 Version = 0.103.2.1
 License = GPL
-LicenseInfo = 1
+LicenseType = 1
 Description = ClamWin is a Free Antivirus program for Microsoft Windows 10/8/7/Vista/XP/Me/2000/98 and Windows Server 2012, 2008 and 2003.
 Category = 12
 URLSite = http://www.clamwin.com/
