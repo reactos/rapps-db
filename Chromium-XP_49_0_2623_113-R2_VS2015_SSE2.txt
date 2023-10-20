@@ -1,0 +1,10 @@
+[Section]
+Name = Chromium-XP
+Version = 49.0.2623.113-R2 VS2015 SSE2 2nd Release
+License = BSD 3-Clause License
+Description = Prebundled with Pepperflash 21.0.0.213. WebM VP9 support. Currently needs --no-sandbox command line option to run on ros.
+Category = 5
+URLSite = https://github.com/Alex313031/chromium-xp
+URLDownload = https://github.com/Alex313031/chromium-xp/releases/download/M49.0.2623.113-2/mini_installer.exe
+SHA1 = 29fe5f8e02adfe44fe5bdbeb749fa93f97fc2aaf
+SizeBytes = 47201792
