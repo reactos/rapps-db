@@ -1,7 +1,7 @@
 [Section]
 Name = Chromium-XP
 Version = 49.0.2623.113 VS2013 SSE3 1st Release
-License = BSD 3-Clause License
+License = BSD 3-Clause
 Description = Prebundled with Pepperflash 21.0.0.213. 489/555 in html5test.com. Currently needs --no-sandbox command line option to run on ROS.
 Category = 5
 URLSite = https://github.com/Alex313031/chromium-xp
