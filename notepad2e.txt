@@ -12,6 +12,10 @@ SizeBytes = 1001759
 [Section.0404]
 Description = Notepad 2e 是 Notepad2 的分支版本，帶有高亮字詞、並行編輯、數學計算、正則匹配、Lua 解析和 DPI 適配等的功能。
 
+[Section.041f]
+License = 3 cümlecikli BSD
+Description = Notepad 2e; Notepad2'nin kelime vurgulamalı, eş zamanlı düzenlemeli, matematiksel değerlendirmeli, un/grep'li, UAC yükseltmeli, tam düzenli ifadeli (PCRE), Lua sözcük değerlendirmeli, DPI farkındalıklı ve daha fazlalı bir çatalıdır.
+
 [Section.0804]
 Description = Notepad 2e 是 Notepad2 的分支版本，带有词语高亮、并行编辑、数学计算、正则匹配、Lua 解析和 DPI 适配等功能特性
 

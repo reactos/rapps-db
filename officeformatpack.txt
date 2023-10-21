@@ -48,7 +48,7 @@ SizeBytes = 38986320
 [Section.041f]
 Name = Word, Excel ve PowerPoint Dosya Biçimleri İçin Microsoft Office Uyumluluk Paketi
 License = Bilinmiyor
-Description = Word ve Excel Viewer'lar ve Office 2003 üzerinde *.docx, *.xlsx ve benzerlerini açmak için gerekli.
+Description = Word ve Excel Viewer'lar ve Office 2003 üzerinde *.docx, *.xlsx ve benzerlerini açmak için gereklidir.
 
 [Section.0804]
 Name = Word、Excel 和 PowerPoint 文件格式适用的 Microsoft Office 兼容包
