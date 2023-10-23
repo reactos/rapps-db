@@ -26,6 +26,7 @@ ALL_KEYS = [
     b'Screenshot1',
     b'LicenseType',
     b'Languages',
+    b'RegName',
 ]
 
 

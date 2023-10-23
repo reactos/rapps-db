@@ -8,6 +8,7 @@ URLSite = http://www.angusj.com/resourcehacker/
 URLDownload = https://web.archive.org/web/20180426130124if_/http://www.angusj.com/resourcehacker/reshacker_setup.exe
 SHA1 = a34547ccb44ce387c95e97d540e4763894a4a15b
 SizeBytes = 2933617
+RegName = ResourceHacker_is1
 
 [Section.0a]
 Description = Una utilidad gratuita para ver, editar, renombrar, borrar y extraer recursos de ejecutables de Windows y archivos derivados (*.res).

@@ -8,6 +8,7 @@ URLSite = http://www.opera.com/
 URLDownload = https://web.archive.org/web/20210606230730/http://ftp.opera.com/pub/opera/win/1218/int/Opera_1218_int_Setup.exe
 SHA1 = b2344bfd13e85dab4f50c0b579b9a485bf473136
 SizeBytes = 12956472
+RegName = Opera 12.18.1872
 
 [Section.0a]
 Description = Popular navegador web con muchas características avanzadas, incluyendo un cliente de correo y BitTorrent.
