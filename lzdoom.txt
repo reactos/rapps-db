@@ -2,7 +2,7 @@
 Name = LZDoom and Freedoom packaged with an installer.
 Version = 3.86
 License = GPL and BSD
-LicenseInfo = 1
+LicenseType = 1
 Description =  Open source Doom assets packged with an open source Doom engine.
 Category = 4
 URLSite = https://sourceforge.net/projects/lzdoom-plus-freedoom

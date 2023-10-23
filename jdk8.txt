@@ -2,7 +2,7 @@
 Name = Java SE 8. Compiler and Runtime Environment.
 Version = 8.48.0.53
 License = GPLv2
-LicenseInfo = 1
+LicenseType = 1
 Description =  An open source Java compiler and runtime environment built by Zulu based on OpenJDK.
 Category = 7
 URLSite = https://www.azul.com

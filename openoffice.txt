@@ -2,7 +2,7 @@
 Name = Apache OpenOffice
 Version = 4.1.14
 License = AL v2.0
-LicenseInfo = 1
+LicenseType = 1
 Description = Open source office suite.
 Category = 6
 URLSite = https://www.openoffice.org/
