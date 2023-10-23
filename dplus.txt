@@ -8,6 +8,7 @@ URLSite = http://dplus-browser.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/dplus-browser/Releases/dplus-0.5b/dplus-0.5b-setup.exe
 SHA1 = 26fa54b8fbe66e7172bdf217cce247f49f7d92e6
 SizeBytes = 1425497
+RegName = DPlus
 
 [Section.0a]
 Description = Un navegador de archivos con interfaz gráfica y un énfasis en la seguridad, el rendimiento y la portabilidad. Se basa en Dillo y es una versión alternativa del proyecto Dillo-Win32.
