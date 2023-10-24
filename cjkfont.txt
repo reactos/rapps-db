@@ -1,0 +1,10 @@
+[Section]
+Name = ReactOS CJK Font
+Version = 1.0
+License = Apache License Version 2.0
+Description = The font package of ReactOS for CJK (Chinese, Japanese, and Korean) users.
+Category = 16
+URLSite = https://github.com/katahiromz/ReactOSCJKFont
+URLDownload = https://github.com/katahiromz/ReactOSCJKFont/releases/download/1.0/ReactOS-CJK-Font-setup.exe
+SHA1 = 1046fc3fcbe5782fd087127074b9b9132ae95622
+SizeBytes = 1591087
