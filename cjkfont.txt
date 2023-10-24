@@ -2,7 +2,7 @@
 Name = ReactOS CJK Font
 Version = 1.1
 License = Apache License Version 2.0
-Description = The font package of ReactOS for CJK (Chinese, Japanese, and Korean) users.
+Description = The font package of ReactOS for CJK (Chinese, Japanese, and Korean) users. It contains "DroidSansFallback.ttf" font file.
 Category = 16
 URLSite = https://github.com/katahiromz/ReactOSCJKFont
 URLDownload = https://github.com/katahiromz/ReactOSCJKFont/releases/download/1.1/ReactOS-CJK-Font-1.1-setup.exe
