@@ -1,7 +1,8 @@
 [Section]
 Name = Mozilla Fira Font
 Version = 4.1
-License = Unknown
+LicenseType = 1
+License = SIL Open Font License v1.1
 Description = A font pack that includes Mono and Sans fonts. Unzip in the ReactOS folder.
 Category = 14
 URLSite = https://github.com/mozilla/Fira

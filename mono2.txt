@@ -1,7 +1,8 @@
 [Section]
 Name = Mono .NET Development Framework
 Version = 4.3.2
-License = Unknown
+LicenseType = 1
+License = MIT, BSD-3-Clause, Apache v2, MPL v1.1
 Description = Open-source .NET Framework.
 Category = 14
 URLSite = http://www.mono-project.com/
