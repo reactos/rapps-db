@@ -1,7 +1,8 @@
 [Section]
 Name = Mono .NET Development Framework
 Version = 4.3.2
-License = Unknown
+LicenseType = 1
+License = MIT, BSD-3-Clause, Apache v2, MPL v1.1
 Description = Open-source .NET Framework.
 Category = 14
 URLSite = http://www.mono-project.com/
@@ -13,7 +14,6 @@ SizeBytes = 133230592
 Description = Versión de .NET Framework de código abierto.
 
 [Section.0404]
-License = 不明
 Description = 開源的 .NET 框架。
 
 [Section.0407]
@@ -29,15 +29,12 @@ Description = Versione Open-source di .NET Framework.
 Description = Pakiet Mono .NET Framework dla Programistów.
 
 [Section.0418]
-License = Nespecificată
 Description = Platformă .NET (cu surse deschise).
 
 [Section.0419]
-License = Неизвестно
 Description = .NET Framework с открытым исходным кодом.
 
 [Section.041f]
-License = Bilinmiyor
 Description = Açık kaynak .NET Framework.
 
 [Section.0422]
@@ -45,6 +42,4 @@ Description = Відкритий .NET Фреймворк.
 
 [Section.0804]
 Name = Mono .NET 开发框架
-License = 未知
 Description = 开源的 .NET 框架。
-
