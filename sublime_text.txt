@@ -1,0 +1,12 @@
+[Section]
+Name = Sublime Text 3
+Version = 3
+License = EULA
+Description = Code editor, powerful and lightweight.
+Category = 7
+URLSite = https://www.renpy.org/
+URLDownload = https://download.sublimetext.com/Sublime%20Text%20Build%203211%20Setup.exe
+SizeBytes = 9840000
+
+[Section.0a]
+Description = Editor de código, potente y ligero.
