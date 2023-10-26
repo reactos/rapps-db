@@ -68,7 +68,7 @@ SizeBytes = 63444304
 [Section.041f]
 Name = Microsoft Powerpoint Görüntüleyici
 License = Bilinmiyor
-Description = Office biçimleri (*.ppt) için ücretsiz sunum görüntüleyicisi.
+Description = Office biçimleri (*.ppt) için freeware sunum görüntüleyici.
 URLDownload = https://web.archive.org/web/20160409051858if_/http://download.microsoft.com/download/4/6/4/4641DACB-5DE8-4E3A-B8F4-39A1C73889D3/PowerPointViewer.exe
 SHA1 = 06d07e03b06fd92d3be3161025dfe6e334aad55e
 SizeBytes = 63331264

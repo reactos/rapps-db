@@ -8,3 +8,6 @@ URLSite = https://www.rainlendar.net/
 URLDownload = https://www.rainlendar.net/download/2.18.0/Rainlendar-Lite-2.18.0-32bit.exe
 SHA1 = 6929ebc102821aaa40c08dbebbf643f17c1dd93d
 SizeBytes = 32226365
+
+[Section.041f]
+Description = Rainlendar, istediğiniz şekilde uzaklaştırılabilen ancak masaüstünüzde önemli olayları ve görevleri her zaman görünür kılan, zengin özellikli bir takvim uygulamasıdır.

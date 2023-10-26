@@ -14,3 +14,5 @@ SizeBytes = 2404088
 [Section.0404]
 Description = Rainmeter 可以在桌面顯示如記憶體、電池容量、RSS 摘要及天氣報告。程式支援自訂外觀。
 
+[Section.041f]
+Description = Rainmeter, bellek, pil gücü, RSS akışları, hava tahminleri gibi masaüstünüzde özelleştirilebilir temalar görüntüler.

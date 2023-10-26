@@ -30,7 +30,7 @@ Description = Бесплатный научный калькулятор с ис
 [Section.041f]
 Name = Precise Hesap Makinesi
 License = GPL sürüm 3
-Description = Windows için özgür ve açık kaynak bir bilimsel hesap makinesidir.
+Description = Windows için ücretsiz ve açık kaynak bir bilimsel hesap makinesidir.
 
 [Section.0804]
 Description = 一个 Windows 上的免费开源科学计算器。

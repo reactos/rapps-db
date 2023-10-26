@@ -14,4 +14,7 @@ Description = QtEmu 是一款以 Qt4 編寫的 QEMU 圖形用戶界面。
 
 [Section.0415]
 Description = QtEmu to graficzny interfejs użytkownika dla QEMU napisany w Qt4.
- 
+
+[Section.041f]
+License = GPL sürüm 2
+Description = QtEmu, Qt4 ile yazılmış bir QEMU için grafik kullanıcı arayüzüdür.
