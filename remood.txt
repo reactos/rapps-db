@@ -37,7 +37,7 @@ Description = Portare a codului Doom Legacy, având ca scop de a oferi clasica e
 Description = Очередная версия игры Doom.
 
 [Section.041f]
-Description = Doom Legacy'in bir kaynak kodu uyarlamasıdır. Yeni özelliklerle ve daha çok kararlılıkla klasik eski deneyimini sağlamayı amaçlar.
+Description = Doom Legacy'in bir kaynak kodu uyarlamasıdır. Yeni özelliklerle ve daha çok kararlılıkla klasik eski deneyimi sağlamayı amaçlar.
 
 [Section.0422]
 Description = ReMooD э Портом вихідних кодів Doom Legacy. Його метою є додати нові можливості та стабільність до досвіду класичного Legacy.

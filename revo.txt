@@ -34,6 +34,9 @@ Description = Program de dezinstalare a programelor și de eliminare a programel
 License = Бесплатно
 Description = Помогает удалить софт и нежелательные программы, легко установить.
 
+[Section.041f]
+Description = Yazılımları kaldırmaya ve kurulan istenmeyen programları kolayca kaldırmaya yardımcı olur.
+
 [Section.0804]
 License = 免费软件
 Description = 帮助用户简便地卸载软件并移除不想要的程序的工具。

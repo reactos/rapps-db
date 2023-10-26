@@ -32,7 +32,7 @@ Description = Игра в стиле аркады для Unix, Мас OS X, Wind
 
 [Section.041f]
 License = GPL sürüm 2
-Description = "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga/PC), "Sokoban" (PC) gelenekleri içinde; UNIX, Mac OS X, Windows ve DOS için atari oyun salonu türünde oyun.
+Description = "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga/PC), "Sokoban" (PC) gelenekleri içinde; UNIX, Mac OS X, Windows ve DOS için arcade türünde oyun.
 
 [Section.0804]
 Description = UNIX, Mac OS X, Windows 及 DOS 平台上的街机风格游戏，包含 "Boulder Dash" (C64), "Emerald Mine" (Amiga), "Supaplex" (Amiga/PC), "Sokoban" (PC)。
