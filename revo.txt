@@ -19,10 +19,6 @@ Description = 幫助使用者簡單地解除安裝軟體並移除不想要的程
 [Section.0407]
 Description = Hilft Software zu deinstallieren und einfach ungewollte Programme loszuwerden.
 
-[Section.041f]
-License = Bilinmiyor
-Description = Yazılımları kaldırmak ve istenmeyen kurulu programları kolayca silmek için yardım eder.
-
 [Section.0415]
 Description = Pomaga w dezinstalacji oprogramowania i w łatwym usuwaniu niechcianych programów.
 
