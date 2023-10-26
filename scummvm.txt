@@ -37,7 +37,7 @@ Description = Reimplementarea în surse deschise a motoarelor clasice de jocuri 
 Description = Коллекция игровых движков, созданных заново (независимо от разработчиков оригиналов), таких игр, как:  Monkey Island, Sam and Max или Day of the Tentacle, заставляя их работать в ReactOS.
 
 [Section.041f]
-Description = Sam ve Max, Day of the Tentacle, Monkey Island gibi klasik mâcera video oyunlarının oyun motorlarının ReactOS üzerinde çalışmasını sağlayan açık kaynak uyarlaması.
+Description = Sam ve Max, Day of the Tentacle, Monkey Island gibi klasik macera video oyun motorlarının ReactOS üzerinde çalışmasını sağlayan açık kaynak uyarlaması.
 
 [Section.0422]
 Description = Дозволить грати Sam and Max, Day of the Tentacle та інші класичні ігри в ReactOS.
