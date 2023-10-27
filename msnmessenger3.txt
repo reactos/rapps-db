@@ -13,3 +13,9 @@ SizeBytes = 858672
 URLDownload = https://storage.levelleap.com/nina/clients/msnp/installer/msn/msn-3.6.0039-it.exe
 SHA1 = 084cc9ddeabe4299fb05ca290c1422be623666df
 SizeBytes = 858216
+
+[Section.041f]
+Description = Escargot, MSN Messenger'ın eski sürümlerini ve Windows Live Messenger'ı tekrar çalışır hâle getirmek için yeni bir hizmettir.
+URLDownload = https://storage.levelleap.com/nina/clients/msnp/installer/msn/msn-3.6.0039-tr.exe
+SHA1 = bd1d96c1ed2e05a74a1edf7cc0d5cf168b9d40a5
+SizeBytes = 857200
