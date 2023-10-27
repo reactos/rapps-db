@@ -6,7 +6,8 @@ Description = WinRAR is a popular archive manager to compress or decompress file
 Category = 12
 URLSite = https://www.winrar.es/
 URLDownload = https://d.winrar.es/d/52z1698348162/snDlprqnRvBfMkspFOJjgA/winrar-x32-624.exe
-SizeBytes = 3260000
+SHA1 = 4923d045851434d65ce7c56b7e1bd73a08fc2305
+SizeBytes = 3692112
 
 [Section.0a]
 Description = WinRAR es un popular gestor de archivadores para comprimir o descomprimir archivos,  tiene su propio formato para compresión sin mucha perdida (.rar)

@@ -6,7 +6,8 @@ Description = Free and open source, Ren'Py is a video game engine for creating v
 Category = 7
 URLSite = https://www.renpy.org/
 URLDownload = https://www.renpy.org/dl/7.3.5/renpy-7.3.5-sdk.7z.exe
-SizeBytes = 74500000
+SHA1 = 923360124f2c33c1668b1204bf3f2e34cc27c361
+SizeBytes = 78139086
 
 [Section.0a]
 Description = Libre y de código abierto, Ren'Py es un motor de videojuegos para crear novelas visuales y juegos de simulación, escrito en Python y C.
