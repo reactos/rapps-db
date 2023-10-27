@@ -8,3 +8,6 @@ URLSite = https://www-archive.mozilla.org/projects/calendar/sunbird/download
 URLDownload = http://download.cdn.mozilla.net/pub/calendar/sunbird/releases/0.8/win32/en-US/sunbird-0.8.en-US.win32.installer.exe
 SHA1 = 3a23b1d33a5df3fbb9c0fac5c1e08c1862e42cd3
 SizeBytes = 5215757
+
+[Section.041f]
+Description = Sunbird, ajandanızı kolayca yönetmenize ve onu istediğiniz yere saklamanıza olanak sağlar.
