@@ -18,3 +18,5 @@ Description = 一款基於 TortoiseSVN，適用於 Git 的圖形殼層介面。�
 [Section.040c]
 Description = Interface graphique de shell pour Git, basée sur TortoiseSVN.
 
+[Section.041f]
+Description = Kod eş zamanlaması ve güncellemsi için, TortoiseSVN tabanlı, grafiksel Git kabuğu arayüzü.
