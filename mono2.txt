@@ -35,7 +35,6 @@ Description = Platformă .NET (cu surse deschise).
 Description = .NET Framework с открытым исходным кодом.
 
 [Section.041f]
-Name = Mono .NET Geliştirme Çatısı
 License = MIT, BSD (3 cümlecikli), Apache sürüm 2, MPL sürüm 1.1
 Description = Açık kaynak .NET Framework.
 
