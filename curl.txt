@@ -1,0 +1,11 @@
+[Section]
+Name = cURL
+Version = 7.80.0
+Category = 12
+URLDownload = https://web.archive.org/web/20230529150511if_/https://curl.se/windows/dl-7.80.0_2/curl-7.80.0_2-win32-mingw.zip
+SizeBytes = 5132638
+
+Description = Command line tool and library for transferring data with URL syntax.
+License = The curl license
+SHA1 = e998537335c1735d0e214275964bbf2f6b6c9539
+URLSite = https://curl.se

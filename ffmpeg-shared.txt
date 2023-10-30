@@ -1,0 +1,11 @@
+[Section]
+Name = FFmpeg-XP (shared library version)
+Version = 6.1-2009-bef151d
+Category = 2
+URLDownload = https://rwijnsma.home.xs4all.nl/files/ffmpeg/ffmpeg-6.1-2009-bef151d-win32-shared-xpmod-sse.7z
+SizeBytes = 27344813
+
+Description = A complete, cross-platform solution to record, convert and stream audio and video. Build by Reino.
+License = GPL
+SHA1 = 62b17a0eec6a21f1c0d55def22fa41816a27de43
+URLSite = https://forum.doom9.org/showthread.php?t=181802
