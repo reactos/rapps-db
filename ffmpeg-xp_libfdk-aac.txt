@@ -1,5 +1,5 @@
 [Section]
-Name = libfdk-aac for FFmpeg-XP
+Name = FFmpeg-XP libfdk-aac
 Version = 2.0.2-231-3f864cc
 Category = 14
 URLDownload = https://rwijnsma.home.xs4all.nl/files/ffmpeg/libfdk-aac/libfdk-aac-2.0.2-231-3f864cc-win32-xpmod-sse.7z
