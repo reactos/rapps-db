@@ -7,7 +7,7 @@ Category = 7
 URLSite = https://www.sublimetext.com/
 URLDownload = https://download.sublimetext.com/Sublime%20Text%20Build%203211%20Setup.exe
 SHA1 = a7f40c2bb09511d89c0ecead252a41f82b7e977b
-SizeBytes = 9840000
+SizeBytes = 10321893
 
 [Section.0a]
 Description = Editor de código, potente y ligero.
