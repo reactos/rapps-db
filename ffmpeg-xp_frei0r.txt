@@ -1,5 +1,5 @@
 [Section]
-Name = frei0r for FFmpeg-XP
+Name = FFmpeg-XP frei0r framework
 Version = 2.0.2-231-3f864cc
 Category = 14
 URLDownload = https://rwijnsma.home.xs4all.nl/files/ffmpeg/frei0r/frei0r-plugins-2.3.1-win32-xpmod-sse.7z
