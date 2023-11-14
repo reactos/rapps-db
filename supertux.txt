@@ -4,10 +4,15 @@ Version = 0.5.1
 License = GPL
 Description = A free, open-source two-dimensional platform game.
 Category = 4
-URLSite = http://www.supertux.lethargik.org
+URLSite = https://www.supertux.lethargik.org
 URLDownload = https://github.com/SuperTux/supertux/releases/download/v0.5.1/SuperTux-v0.5.1-win32.msi
 SHA1 = e8ce99f3197b0c1cb329054ba82d957255c54cea
 SizeBytes = 90194764
+
+[Section.amd64]
+URLDownload = https://github.com/SuperTux/supertux/releases/download/v0.5.1/SuperTux-v0.5.1-win64.msi
+SHA1 = e41412e9acf78dde42dfd73ae29aebb9fffdca00
+Sizebytes = 90714956
 
 [Section.0a]
 Description = Un juego 2D plataformero de código abierto.

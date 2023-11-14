@@ -2,7 +2,7 @@
 Name = Agat Emulator
 Version = 1.29.1
 License = GPL
-Description = Apple ][ and Agat 7/9 software simulation program for Win32.
+Description = Apple II and Agat 7/9 software simulation program for Win32.
 Category = 16
 URLSite = http://agatemulator.sourceforge.net/
 URLDownload = https://sourceforge.net/projects/agatemulator/files/agatemulator/1.29.1/agatemulator-1.29.1.exe
@@ -11,29 +11,29 @@ SizeBytes = 6346282
 
 [Section.0a]
 Name = Emulador Agat
-Description = Emulador de Apple ][ y Agat 7/9 para Win32.
+Description = Emulador de Apple II y Agat 7/9 para Win32.
 
 [Section.0404]
-Description = Win32 的 Apple ][ 和 Agat 7/9 的模擬軟體。
+Description = Win32 的 Apple II 和 Agat 7/9 的模擬軟體。
 
 [Section.0407]
-Description = Apple ][ und Agat 7/9 Emulator für Win32.
+Description = Apple II und Agat 7/9 Emulator für Win32.
 
 [Section.0415]
-Description = Emulator Apple ][ i Agat 7/9 dla Win32.
+Description = Emulator Apple II i Agat 7/9 dla Win32.
 
 [Section.0418]
-Description = Eimulator de Apple ][ și Agat 7/9 pentru Win32.
+Description = Eimulator de Apple II și Agat 7/9 pentru Win32.
 
 [Section.0419]
 Description = Эмулятор ПЭВМ АГАТ для Win32
 
 [Section.0425]
-Description = Apple ][ ja Agat 7/9 tarkvara simulatsiooni programm Win32-le.
+Description = Apple II ja Agat 7/9 tarkvara simulatsiooni programm Win32-le.
 
 [Section.041f]
-Description = Win32 için Apple ][ ve Agat 7/9 yazılım benzetim programı.
+Description = Win32 için Apple II ve Agat 7/9 yazılım benzetim programı.
 
 [Section.0804]
-Description = Win32 的 Apple ][ 和 Agat 7/9 的软件模拟程序。
+Description = Win32 的 Apple II 和 Agat 7/9 的软件模拟程序。
 

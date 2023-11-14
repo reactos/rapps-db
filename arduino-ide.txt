@@ -8,6 +8,7 @@ URLSite = https://www.arduino.cc/
 URLDownload = https://downloads.arduino.cc/arduino-1.8.9-windows.exe
 SHA1 = a4e6b81150e8187783100bdb5a41a62ce82940b8
 SizeBytes = 110737696
+Icon = arduino.ico
 
 [Section.0001]
 Description = Arduino IDE هو برنامج مفتوح المصدر ، والذي يستخدم لكتابة وتحميل التعليمات البرمجية إلى لوحات Arduino.

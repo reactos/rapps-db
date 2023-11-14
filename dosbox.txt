@@ -8,6 +8,7 @@ URLSite = http://www.dosbox.com/
 URLDownload = http://download.sourceforge.net/project/dosbox/dosbox/0.74-2/DOSBox0.74-2-win32-installer.exe
 SHA1 = 06f23be4ceba35c8c547a98f1b327da20082b483
 SizeBytes = 1453151
+Icon = dosbox.ico
 
 [Section.0a]
 Description = Un emulador de DOS de código abierto.

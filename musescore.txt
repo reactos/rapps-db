@@ -9,6 +9,11 @@ URLDownload = https://ftp.osuosl.org/pub/musescore/releases/MuseScore-2.2.1/Muse
 SHA1 = a187d1f99659535dcff87d58b3c5546dac0f83c8
 SizeBytes = 79675392
 
+[Section.amd64]
+URLDownload = https://ftp.osuosl.org/pub/musescore/releases/MuseScore-2.2.1/unsupported/MuseScore-2.2.1-win64.7z
+SHA1 = aaacc47a4cba29014381b79d8235708d4ac63945
+SizeBytes = 68995744
+
 [Section.0a]
 Description = Programa de edición musical profesional de partituras de licencia abierta.
 
