@@ -8,7 +8,6 @@ URLSite = http://www.blizzard.com/diablo2/
 URLDownload = https://bitbucket.org/Swyter/tld-downloads/downloads/diabloiidemo.exe
 SHA1 = f7aa7f76b9f4c7584d4980cb32a7de97394a3f05
 SizeBytes = 138309685
-Icon = diablo2.ico
 
 [Section.0a]
 Description = Versión de demostración. El adaptador de compatibilidad para Glide de Zeckensack es necesario para poder ejecutar el juego.
