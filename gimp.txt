@@ -8,7 +8,6 @@ URLSite = https://www.gimp.org/
 URLDownload = https://download.gimp.org/mirror/pub/gimp/v2.6/windows/gimp-2.6.12-i686-setup.exe
 SHA1 = 438ee0a517507396cdab6d814638d7313d0b99e0
 SizeBytes = 20924432
-Icon = gimp.ico
 
 [Section.0a]
 Description = Es un acrónimo en inglés de «Programa de Manipulación de Imágenes GNU». Se distribuye libremente y está pensado para el retoque fotográfico, composición de imágenes y dibujo.

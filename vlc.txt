@@ -8,7 +8,6 @@ URLSite = http://www.videolan.org/vlc/
 URLDownload = http://download.videolan.org/pub/videolan/vlc/3.0.20/win32/vlc-3.0.20-win32.exe
 SHA1 = 512092bbadfadd550f5bb5bcbe95eb107b342d29
 SizeBytes = 42860784
-Icon = vlc.ico
 
 [Section.amd64]
 URLDownload = http://download.videolan.org/pub/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.msi
