@@ -5,7 +5,7 @@ License = GPL
 Description = Snappy and open source word processor.
 Category = 6
 URLSite = https://www.abisource.com/
-URLDownload = http://www.abisource.com/downloads/abiword/2.6.8/Windows/abiword-setup-2.6.8.exe
+URLDownload = http://www.nl.abisource.com/downloads/abiword/2.6.8/Windows/abiword-setup-2.6.8.exe
 SHA1 = 50d9d952cd159b7e7f7aa19c57d448ebc9cb422f
 SizeBytes = 5912280
 

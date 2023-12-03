@@ -1,0 +1,19 @@
+[Section]
+Name = Blender
+Version = 2.76b
+License = GPL
+Description = Blender is a free and open-source 3D computer graphics software tool set used for creating animated films, visual effects, art, 3D-printed models, and 3D design in general.
+Category = 3
+URLSite = https://blender.org/
+URLDownload = https://download.blender.org/release/Blender2.76/blender-2.76b-windows32.msi
+SHA1 = d2cf0f1261a0243243a2a022fb65acef615d0909
+SizeBytes = 67756836
+Icon = blender.ico
+
+[Section.amd64]
+URLDownload = https://download.blender.org/release/Blender2.76/blender-2.76b-windows64.msi
+SHA1 = 9d983a9015daaede0434eaa1e5c63b88328b7873
+SizeBytes = 83674076
+
+[Section.0a]
+Description = Blender es un programa informático multiplataforma, dedicado especialmente al modelado, iluminación, renderizado, la animación y creación de gráficos tridimensionales.
