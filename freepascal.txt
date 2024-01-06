@@ -1,0 +1,10 @@
+[Section]
+Name = FreePascal
+Version = 3.2.2
+License = LGPL
+Description = Open Source Pascal Compiler. Compatible with many Pascal variants
+Category = 7
+URLSite = https://www.freepascal.org/
+URLDownload = http://downloads.freepascal.org/fpc/dist/3.2.2/i386-win32/fpc-3.2.2.i386-win32.exe
+SHA1 = c3fc24290da7349e4fba763eaadd2a5bec07bfa3
+SizeBytes = 53470080
