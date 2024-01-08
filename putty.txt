@@ -1,13 +1,19 @@
 [Section]
 Name = PuTTY
-Version = 0.70
+Version = 0.80
 License = MIT
 Description = A free SSH, Telnet, rlogin, and raw TCP client.
 Category = 5
 URLSite = http://www.chiark.greenend.org.uk/~sgtatham/putty/
-URLDownload = https://the.earth.li/~sgtatham/putty/0.70/w32/putty-0.70-installer.msi
-SHA1 = 2031fc9b6a972f5c3f3e506987143dfc1f7214e0
-SizeBytes = 2942464
+URLDownload = https://the.earth.li/~sgtatham/putty/0.80/w32/putty-0.80-installer.msi
+SHA1 = 84b295c34fb91f073331795f9db69c6465ded064
+SizeBytes = 3419136
+
+[Section.amd64]
+Version = 0.80
+URLDownload = https://the.earth.li/~sgtatham/putty/0.80/w64/putty-64bit-0.80-installer.msi
+SHA1 = 9da4e411e0ca62fc452cb91a3b33c7c1621f746d
+SizeBytes = 3709440
 
 [Section.0a]
 Description = Un cliente SSH, Telnet, rlogin y TCP libre y gratuito.
