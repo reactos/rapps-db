@@ -1,0 +1,17 @@
+[Section]
+Name = FCEUX
+Version = 2.6.6
+License = GPLv2
+Description = An open source, all in one NES/Famicom/Dendy emulator. Needs Microsoft Visual C++ 2005 runtime to work.
+Category = 4
+URLSite = https://fceux.com/
+URLDownload = https://github.com/TASEmulators/fceux/releases/download/v2.6.6/fceux-2.6.6-win32.zip
+SHA1 = d3c3355c65b959d033f251697f9ca0ff871c20fd
+SizeBytes = 3954384
+Icon = fceux.ico
+
+[Section.amd64]
+Version = 2.6.6
+URLDownload = https://github.com/TASEmulators/fceux/releases/download/v2.6.6/fceux-2.6.6-win64.zip
+SHA1 = b5fdc79aacf8d794655e3413d81fd4525413375d
+SizeBytes = 4745197
