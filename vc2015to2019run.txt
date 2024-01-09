@@ -1,0 +1,15 @@
+[Section]
+Name = Microsoft Visual C++ 2015-2019 Redistributable
+Version = 14.29.30133
+License = EULA
+Description = Needed by applications compiled with Visual Studio 2015/2017/2019.
+Category = 14
+URLDownload = https://aka.ms/vs/16/release/14.29.30133/VC_Redist.x86.exe
+SHA1 = 2c1ae47103e7f8d6072df4a8d9ceb382724ac59b
+SizeBytes = 13782872
+
+[Section.amd64]
+Version = 14.29.30133
+URLDownload = https://aka.ms/vs/16/release/14.29.30133/VC_Redist.x64.exe
+SHA1 = 27fbb5058bad2b41b353900792a3d808e95331b5
+SizeBytes = 25167488
