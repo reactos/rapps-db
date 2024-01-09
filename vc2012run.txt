@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft Visual C++ 2012 Redistributable Update 4
 Version = 11.0
-License = Unknown
+License = EULA
 Description = Needed by applications compiled with Visual Studio 2012. Contains: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 Category = 14
 URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=30679
@@ -10,54 +10,41 @@ SHA1 = 96b377a27ac5445328cbaae210fc4f0aaa750d3f
 SizeBytes = 6554576
 
 [Section.0a]
-License = Desconocida
 Description = Necesario para aplicaciones compiladas con Visual Studio 2012. Incluye: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.0404]
-License = 不明
 Description = 開啟以 Visual Studio 2012 編寫的應用程式時需要的元件。包含：atl110.dll、mfc110.dll、mfc110u.dll、mfcm110.dll、mfcm110u.dll、msdia110.dll、msvcm110.dll、msvcp110.dll、msvcr110.dll、vcomp110.dll。
 
 [Section.0407]
-License = Unbekannt
 Description = Benötigt für Visual Studio 2012 basierte Anwendungen. Beinhaltet: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.040c]
-License = Inconnue
 Description = Bibliothèque Microsoft Visual Studio 2012 Update 4. Contient: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.0410]
-License = Sconosciuta
 Description = Libreria Microsoft Visual Studio 2012 Update 4. Include: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.0413]
-License = Ongekend
 Description = Microsoft Visual Studio 2012 Runtime Update 4. Bevat: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.0415]
-License = Nieznana
 Description = Biblioteki uruchomieniowe Microsoft Visual Studio 2012 Update 4. Zawiera: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.0418]
-License = Nespecificată
 Description = Pachet necesar pentru aplicațiile compilate cu Visual Studio 2012. Conține: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.0419]
-License = Неизвестно
 Description = Необходим для приложений, написанных в Visual Studio 2012. Содержит: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.041f]
-License = Bilinmiyor
 Description = Visual Studio 2012 ile derlenmiş uygulamalar tarafından gereklidir. Şunları içerir: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.0422]
-License = Невідома
 Description = Бібліотеки Microsoft Visual Studio 2012 Update 4. включає: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
 [Section.0804]
-License = 未知
 Description = 用 Visual Studio 2012 Update 4 编译的应用程序需要它。包含: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll。
 
 [Section.0813]
-License = Ongekend
 Description = Microsoft Visual Studio 2012 Runtime Update 4. Bevat: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 
