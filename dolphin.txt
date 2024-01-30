@@ -1,0 +1,20 @@
+[Section]
+Name = Dolphin
+Version = 4.0.2
+License = GNU GPL v2+
+Description = Dolphin is a Nintendo GameCube and Wii emulator.
+Category = 4
+URLSite = https://es.dolphin-emu.org/
+URLDownload = https://dl-mirror.dolphin-emu.org/4.0.2/dolphin-x86-4.0.2.exe
+SHA1 = A208511F6DC7028738FD95348CE4C8B928AB70C5
+SizeBytes = 9731263
+
+[Section.Amd64]
+URLDownload = https://dl-mirror.dolphin-emu.org/4.0.2/dolphin-x64-4.0.2.exe
+SHA1 = 4c86a05df4dea4afa8ff22c3e8b9797d96f0bb6a 
+SizeBytes = 10150809
+
+[Section.0a]
+Description = Dolphin es el emulador de Nintendo GameCube y Wii más completo.
+
+

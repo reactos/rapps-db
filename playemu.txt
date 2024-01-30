@@ -1,0 +1,15 @@
+[Section]
+Name = Play! (PS2 Emulator)
+Version = PENDING
+License = GNU GPL v2
+Description = Play! is a Playstation 2 emulator. 
+Category = 4
+URLSite = 
+URLDownload = 
+SHA1 =  
+SizeBytes = 
+
+[Section.0a]
+Description = PCSX2 es un emulador de la consola PlayStation 2.
+
+
