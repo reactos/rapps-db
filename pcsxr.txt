@@ -1,0 +1,18 @@
+[Section]
+Name = PCSX-r
+Version = 1.9.94
+License = GNU/GPL
+Description = PCSX-Reloaded is a fork based on PCSX-df 1.9 version of the classic PCSX Playstation 1 emulator. For plugins it needs Microsoft Visual C++ 2010 redistributable.
+Category = 4
+URLSite = https://web.archive.org/web/20180106130747/https://pcsxr.codeplex.com/
+URLDownload = https://ps1emulator.com/PCSXR_Setup.exe
+SHA1 = d28c0b8933815141392ef407738bc9e2fc7f7c8d
+SizeBytes = 2431014
+
+[Section.0a]
+Description = PCSX-r es una versión del emulador clásico PCSX de la consola PlayStation 1. Para que los plugins funcionen, necesitarás Microsoft Visual C++ 2010 redistributable.
+
+[Section.0404]
+License = 免費軟體
+Description = PCSX-r 是一款 Playstation 1 的模擬器。
+

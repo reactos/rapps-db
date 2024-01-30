@@ -1,0 +1,20 @@
+[Section]
+Name = DeSmuME
+Version = 0.9.11
+License = GNU GPL v2
+Description = DeSmuME is one of the most popular Nintendo DS emulator. Needs Microsoft Visual C++ 2010 Redistributable.
+Category = 4
+URLSite = https://desmume.org
+URLDownload = https://download.sourceforge.net/project/desmume/desmume/0.9.11/desmume-0.9.11-win32.zip
+SHA1 = 3040b9c5457f623c33b98cbeb7f35343aaf6748e
+SizeBytes = 1194684
+
+[Section.amd64]
+URLDownload = https://download.sourceforge.net/project/desmume/desmume/0.9.11/desmume-0.9.11-win64.zip
+SHA1 = 0de5ef3e7712e25b0bba4fd4ef4700eca10c6066 
+SizeBytes = 1868290
+
+[Section.0a]
+Description = DeSmuME es uno de los emuladores de Nintendo DS más populares. Necesita tener instalado Microsoft Visual C++ 2010 Redistributable.
+
+
