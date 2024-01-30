@@ -6,7 +6,7 @@ Description = PCSX2 is a Playstation 2 emulator. It needs Microsoft Visual C++ 2
 Category = 4
 URLSite = http://neonfloppy.sytes.net/projects/pcsx2-xp/
 URLDownload = http://neonfloppy.sytes.net/projects/pcsx2-xp/releases/1.6.0/pcsx2-xp-binaries.7z
-SHA1 = 3DFF7C6478942685B84BF7145C1C87621F03AF7F 
+SHA1 = 3dff7c6478942685b84bf7145c1c87621f03af7f 
 SizeBytes = 5897396
 
 [Section.0a]
