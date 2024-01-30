@@ -6,7 +6,7 @@ Description = Dolphin is a Nintendo GameCube and Wii emulator.
 Category = 4
 URLSite = https://es.dolphin-emu.org/
 URLDownload = https://dl-mirror.dolphin-emu.org/4.0.2/dolphin-x86-4.0.2.exe
-SHA1 = A208511F6DC7028738FD95348CE4C8B928AB70C5
+SHA1 = a208511f6dc7028738fd95348ce4c8b928ab70c5
 SizeBytes = 9731263
 
 [Section.Amd64]
