@@ -5,7 +5,7 @@ License = GNU GPL v2
 Description = Project64 is a really known Nintendo 64 emulator. Needs 3D acceleration.
 Category = 4
 URLSite = https://www.pj64-emu.com/
-URLDownload = https://archive.org/download/project-64-3.0.1-5664-2df-3434_202206/Project64-3.0.1-5664-2df3434.zip
+URLDownload = https://archive.org/download/project-64-3.0.1-5664-2df-3434-1/Project64-3.0.1-5664-2df3434.zip
 SHA1 = 86324809cd0ecf4b3f76dc59dfb24f76100a3326
 SizeBytes = 4496865
 
