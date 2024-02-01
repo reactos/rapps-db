@@ -1,10 +1,16 @@
 [Section]
-Name = Vi IMproved
+Name = Vim (Vi IMproved)
 Version = 8.2.5171
 License = GPL-compatible charityware
+LicenseType = 1
 Description = Vim is a highly configurable text editor built to enable efficient text editing. It is an improved version of the vi editor distributed with most UNIX systems.
 Category = 7
 URLSite = http://www.vim.org/
 URLDownload = https://github.com/vim/vim-win32-installer/releases/download/v8.2.5171/gvim_8.2.5171_x86_signed.exe
 SHA1 = 40b579d4ea767a533524256a289e4e14eb8a4c81
 SizeBytes = 9841432
+
+[Section.amd64]
+URLDownload = https://github.com/vim/vim-win32-installer/releases/download/v8.2.5171/gvim_8.2.5171_x64_signed.exe
+SHA1 = bfb2f956d91663b647c403801d031af1fca95915
+SizeBytes = 10411736
