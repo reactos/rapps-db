@@ -9,7 +9,7 @@ URLDownload = https://download.sourceforge.net/project/desmume/desmume/0.9.11/de
 SHA1 = 3040b9c5457f623c33b98cbeb7f35343aaf6748e
 SizeBytes = 1194684
 
-[Section.Amd64]
+[Section.amd64]
 URLDownload = https://download.sourceforge.net/project/desmume/desmume/0.9.11/desmume-0.9.11-win64.zip
 SHA1 = 0de5ef3e7712e25b0bba4fd4ef4700eca10c6066 
 SizeBytes = 1868290
