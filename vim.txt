@@ -7,10 +7,12 @@ Description = Vim is a highly configurable text editor built to enable efficient
 Category = 7
 URLSite = http://www.vim.org/
 URLDownload = https://github.com/vim/vim-win32-installer/releases/download/v8.2.5171/gvim_8.2.5171_x86_signed.exe
+Screenshot1 = https://i.imgur.com/PzitUVC.png
 SHA1 = 40b579d4ea767a533524256a289e4e14eb8a4c81
 SizeBytes = 9841432
 
 [Section.amd64]
 URLDownload = https://github.com/vim/vim-win32-installer/releases/download/v8.2.5171/gvim_8.2.5171_x64_signed.zip
+Screenshot1 = https://i.imgur.com/IWTOJH1.png
 SHA1 = e74858e328ee1d1d05c9dd66dfb366b89ada89e1
 SizeBytes = 20577877
