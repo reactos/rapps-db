@@ -1,7 +1,6 @@
 [Section]
 Name = Vectorian Giotto
 Version = 3.0.0
-License = Freeware
 LicenseType = 2
 Description = Vectorian Giotto is a free Adobe Flash clone application that allows you to create animations in swf format in a similar way to Adobe's commercial application.
 Category = 3
