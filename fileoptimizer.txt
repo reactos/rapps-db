@@ -1,0 +1,10 @@
+[Section]
+Name = FileOptimizer
+Version = 16.50.2809
+License = LGPL
+Description = Fileoptimizer is an application for Windows that allows you to reduce the weight of files.
+Category = 12
+URLSite = https://sourceforge.net/projects/nikkhokkho/files/FileOptimizer/
+URLDownload = https://downloads.sourceforge.net/project/nikkhokkho/FileOptimizer/16.50.2809/FileOptimizerSetup.exe
+SHA1 = F63508C3A22BF29580463293409FC6867875B01D
+SizeBytes = 125272705
