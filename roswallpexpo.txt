@@ -2,7 +2,7 @@
 Name = ReactOS Wallpaper Exposition
 Version = 1
 License = CC BY
-Description = This is a wallpaper set (apple, leaves, sky etc.) for ReactOS, by fastcom.
+Description = A wallpaper set (apple, leaves, sky etc.) for ReactOS, by fastcom.
 Category = 16
 URLSite = https://jira.reactos.org/browse/CORE-12639
 URLDownload = https://jira.reactos.org/secure/attachment/67588/ReactOSWallpaperExposition-v1.zip
