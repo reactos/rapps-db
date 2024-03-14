@@ -1,0 +1,15 @@
+[Section]
+Name = No$GBA
+Version = 3.02
+License = Unknown
+Description = No$GBA is a free Nintendo DS and GameBoy Advance emulator.
+Category = 4
+URLSite = https://www.nogba.com/
+URLDownload = https://www.nogba.com/download/3.2/no$gba-win.zip
+SHA1 = 8cc6007e548988a3bc5c99d13722ffd99b07b705
+SizeBytes = 214901
+
+[Section.0a]
+Description = No$GBA es un emulador de Nintendo DS y GameBoy Advance.
+
+

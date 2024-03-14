@@ -1,13 +1,18 @@
 [Section]
 Name = SNES9x
-Version = 1.60
+Version = 1.62.3
 License = GPL
 Description = A portable, freeware Super Nintendo Entertainment System (SNES) emulator. You'll need to change the video renderer to OpenGL in the video settings or in the ini file.
 Category = 4
 URLSite = https://github.com/snes9xgit/snes9x/
-URLDownload = https://github.com/snes9xgit/snes9x/releases/download/1.60/snes9x-1.60-win32.zip
-SHA1 = a67156f159405c73be86df49818f9984dfee218d
-SizeBytes = 2619607
+URLDownload = https://github.com/snes9xgit/snes9x/releases/download/1.62.3/snes9x-1.62.3-win32.zip
+SHA1 = 5c18dfca2d5512d0c14c6ce23b193cf5f09b42a3
+SizeBytes = 2914318
+
+[Section.amd64]
+URLDownload = https://github.com/snes9xgit/snes9x/releases/download/1.62.3/snes9x-1.62.3-win32-x64.zip
+SHA1 = 705c7a3a550ca416f5c78d4e19259366a428d920
+SizeBytes = 4485201
 
 [Section.0a]
 Description = Un emulador de Super Nintendo Entertainment System (SNES) portátil y gratuito. Deberá cambiar el renderizador de video a OpenGL en la configuración de video o en el archivo ini.

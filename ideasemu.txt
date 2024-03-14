@@ -1,0 +1,15 @@
+[Section]
+Name = iDeaS
+Version = 1.0.4.0
+License = No license
+Description = iDeaS is a free Nintendo DS emulator discontinued in 2011. Source is available in Github.
+Category = 4
+URLSite = https://web.archive.org/web/20111130005614/http://ideasemu.biz/
+URLDownload = https://archive.org/download/ideas1040/ideas1040.7z
+SHA1 = a88c95da43f63e39f448d48a9e61fe0e3e07b2ea
+SizeBytes = 246745
+
+[Section.0a]
+Description = iDeaS es un emulador de Nintendo DS descontinuado en 2011. Código fuente disponible en Github.
+
+
