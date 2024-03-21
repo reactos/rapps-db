@@ -18,3 +18,5 @@ Description = 一款免費，輕便的超級任天堂（SNES/SFC）模擬器。�
 [Section.040c]
 Description = Un émulateur portable et gratuit de Super Nintendo Entertainment System (SNES). Vous devrez utiliser OpenGL comme moteur de rendu dans les paramètres vidéo ou dans le fichier .ini.
 
+[Section.041f]
+Description = Taşınabilir bir freeware Super Nintendo Entertainment System (SNES) emülatorü. ini dosyasında ya da video ayarlarında video işleyicisini OpenGL olarak değiştirmeye ihtiyaç duyacaksınız.

@@ -30,11 +30,11 @@ Description = Joc de tip arcadă de vânătoare în spațiul cosmic.
 [Section.0419]
 Description = Свободная аркадная игра в жанре шутер.
 
+[Section.041f]
+Description = Bir arcade tarzı üstten kaydırmalı bir uzay nişancısıdır.
+
 [Section.0425]
 Description = Arkaadistiilis, üles keriv komoses tulistaja.
-
-[Section.041f]
-Description = Oyun konsolu salonu oyunu türünde, üstten kaydırmalı bir uzay atışçısıdır.
 
 [Section.0804]
 Description = 一款街机风格，纵向卷轴滚动的太空射击游戏。

@@ -67,7 +67,7 @@ SizeBytes = 53649576
 [Section.041f]
 Name = Microsoft Excel Görüntüleyici
 License = Bilinmiyor
-Description = Office biçimleri (*.xls) için ücretsiz elektronik çizelge görüntüleyicisi.
+Description = Office biçimleri (*.xls) için freeware elektronik tablo görüntüleyicisi.
 URLDownload = https://web.archive.org/web/20150817042152if_/http://download.microsoft.com/download/8/5/D/85DCDD24-8237-4334-866D-417F74F37C47/ExcelViewer.exe
 SHA1 = a62f68e8d7cae5ede773998a9ccf6a823753974a
 SizeBytes = 53586232

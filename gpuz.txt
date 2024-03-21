@@ -9,3 +9,6 @@ URLDownload = https://files.dog/OD%20Rips/oldversion.com/windows/utilities/gpu-z
 SHA1 = 36f95c8068dd2b20de1700973a973c9ccd16f364
 SizeBytes = 1299424
 Icon = cpuz.ico
+
+[Section.041f]
+Description = Sisteminizdeki GPU aygıtları üzerine bilgi toplayan freeware bir araç.

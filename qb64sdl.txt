@@ -37,8 +37,7 @@ Description = Компилятор языка BASIC для Microsoft Windows, Li
 
 [Section.041f]
 Name = QB64 (SDL sürümü)
-License = Ücretsiz
-Description = Microsoft Windows, Linux ve Mac OS X için, Microsoft QBasic ve Microsoft QuickBASIC ile uyumlu olacak biçimde tasarlanmış, kendi kendini derleyen bir BASIC derleyicisidir.
+Description = Microsoft Windows, Linux ve Mac OS X için, Microsoft QBasic ve Microsoft QuickBASIC ile uyumlu olacak biçimde tasarlanmış, kendi kendini derleyebilen bir BASIC derleyicisidir.
 
 [Section.0804]
 License = 免费软件

@@ -29,7 +29,8 @@ Description = Program de mesagerie instantă. Permite autentificarea simultană 
 Description = Программа обмена мгновенными сообщениями, которая позволит Вам войти в аккаунты нескольких чат-сетей одновременно.
 
 [Section.041f]
-Description = Aynı anda birden çok sohbet ağında bulunan hesaplarda oturum açmanızı sağlayan bir anlık yazışma programı.
+License = GPL sürüm 2
+Description = Aynı anda birden çok sohbet ağındaki hesaplarda oturum açmanıza olanak sağlayan bir anlık yazışma programı.
 
 [Section.0804]
 Description = 允许您同时登录多个聊天网络账号的即时通讯程序。

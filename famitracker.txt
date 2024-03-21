@@ -31,8 +31,7 @@ License = Бесплатно
 Description = Эмулятор звукового чипа NES и Famicom.
 
 [Section.041f]
-License = Ücretsiz
-Description = FamiTracker, NES ve Famicom dizgeleri için mûsikî üretmeye bir ücretsiz Windows programıdır.
+Description = NES ve Famicom sistemleri için müzik üretmeye bir ücretsiz Windows besteleyicisidir.
 
 [Section.0425]
 License = Vabavaraline

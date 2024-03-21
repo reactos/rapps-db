@@ -34,7 +34,6 @@ License = Условно бесплатно
 Description = Классический арканоид.
 
 [Section.041f]
-License = Paylaşımlı
 Description = Canlı ve renkli bir tuğla kırma oyunu.
 
 [Section.0804]

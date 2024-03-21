@@ -34,8 +34,7 @@ License = Бесплатно
 Description = Компактный универсальный графический редактор. Эта версия имеет некоторые ограничения. Русификатор: http://static.infomaniak.ch/photofiltre/utils/StudioRU.zip
 
 [Section.041f]
-License = Ücretsiz
-Description = Eksiksiz bir resim düzeltme yazılımı. Bu sürüm, katmanlarla gelmektedir ancak Studio X sürümünden daha kısıtlıdır.
+Description = Tam bir resim düzeltme yazılımı. Bu sürüm, katmanlarla gelmektedir ancak Studio X sürümünden daha kısıtlıdır.
 
 [Section.0804]
 License = 免费软件

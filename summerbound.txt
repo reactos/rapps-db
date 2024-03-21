@@ -35,7 +35,6 @@ License = Бесплатно
 Description = Игра, похожая на Frozen Fruits.
 
 [Section.041f]
-License = Ücretsiz
 Description = Frozen Fruits'e benzeyen bir oyun.
 
 [Section.0804]

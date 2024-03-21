@@ -8,3 +8,6 @@ URLSite = https://jotd.pagesperso-orange.fr/supercars3/
 URLDownload = https://jotd.pagesperso-orange.fr/supercars3/Supercars3_06.zip
 SHA1 = 6fd396624fb19064f4b89e3bdd964fa6fd048d61
 SizeBytes = 5888807
+
+[Section.041f]
+Description = Supercars 3, Atari ST ve Amiga'dan klasik Super Cars/Super Cars II oyunlarının, bu oyunlardan ve Supercars International'dan (MS-DOS) dahi ögeler aldığı bir Java/GTGE destekli yeniden yapılmışıdır.

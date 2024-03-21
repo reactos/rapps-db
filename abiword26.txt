@@ -37,7 +37,7 @@ Description = Procesor de text, rapid, cu surse deschise.
 Description = Текстовый процесор.
 
 [Section.041f]
-Description = Canlı ve açık kaynak sözcük işlemcisi.
+Description = Canlı ve açık kaynak kelime işlemcisi.
 
 [Section.0422]
 Description = Текстовий процесор.

@@ -20,3 +20,7 @@ Description = TWSYNTH 是 TiMidity++ 軟體合成器的延伸版本。它帶有 
 Name = Синтезатор TiMidity++ для Windows
 Description = TWSYNTH является расширенной версией программного синтезатора TiMidity++ с драйвером выхода MIDI.
 
+[Section.041f]
+Name = TiMidity++ Windows Sentezleyici
+License = GPL sürüm 2
+Description = TWSYNTH, MIDI çıkış aygıtlı TiMidity++ yazılım sentezleyicisinin genişletilmiş bir sürümüdür.

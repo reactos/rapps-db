@@ -31,9 +31,7 @@ License = Бесплатно
 Description = Цифровой секундомер.
 
 [Section.041f]
-Name = Ücretsiz Süreölçer
-License = Ücretsiz
-Description = Esnek bir sayısal süreölçer yazılımı.
+Description = Esnek bir sayısal kronometre yazılımı.
 
 [Section.0425]
 Name = Tasuta stopper

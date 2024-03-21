@@ -12,3 +12,6 @@ SizeBytes = 2261896
 [Section.0404]
 Description = Process Hacker 是一款免費、多用途、功能強大的工具程式，可幫助您監控系統資源、對軟體進行除錯和檢測惡意軟體。 
 
+[Section.041f]
+License = GPL sürüm 3
+Description =  Process Hacker; sistem kaynaklarını görüntülemeye, yazılım hata ayıklamaya ve kötücül yazılımları tespit etmeye yardımcı olan ücretsiz, güçlü, çok amaçlı bir araçtır.

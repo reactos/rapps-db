@@ -35,8 +35,7 @@ Description = Мощный и простой в использовании ин�
 URLSite = https://www.ccleaner.com/ru-ru/ccleaner
 
 [Section.041f]
-License = Ücretsiz
-Description = Geçici dosya temizleme ve genel bilgisayar yönetimi için çok iyi bir araç.
+Description = Geçici dosya temizleme ve genel bilgisayar bakımı için düzgün bir araç.
 
 [Section.0425]
 License = Vabavaraline

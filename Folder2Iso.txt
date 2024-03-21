@@ -9,3 +9,6 @@ URLDownload = https://ia802807.us.archive.org/27/items/folder2iso_202001/Folder2
 SHA1 = 07c1641ada57f31964eb4327d5753ab310fc5975
 SizeBytes = 2736100
 Icon = folder2iso.ico
+
+[Section.041f]
+Description = Folder2Iso, herhangi bir dizinden bir ISO oluşturan bir taşınabilir Windows ve Linux uygulamasıdır.

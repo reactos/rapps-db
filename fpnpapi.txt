@@ -19,6 +19,10 @@ Description = 適用於支援 NPAPI 的網頁瀏覽器的 Flash Player 插件（
 License = Darmowe
 Description = Wtyczka Flash Player do przeglądarek internetowych obsługujących NPAPI (np. Firefox, Opera 12).
 
+[Section.041f]
+Name = Adobe Flash Player 29 NPAPI Eklentisi
+Description = NPAPI destekli Web tarayıcıları (Firefox, Opera 12 gibi) için Flash Player eklentisi.
+
 [Section.0425]
 License = Vabavaraline
 Description = Flash Playeri plugin veebibrauseritele NPAPI toega (nt. Firefox, Opera 12).

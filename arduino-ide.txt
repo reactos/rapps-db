@@ -41,7 +41,7 @@ Description = Arduino IDE este un software open-source, care este utilizat pentr
 Description = Arduino IDE-это программное обеспечение с открытым исходным кодом, которое используется для написания и загрузки кода на платы Arduino.
 
 [Section.041f]
-Description = Arduino IDE, Arduino panolarina kod yazmak ve yüklemek için kullanilan açik kaynakli bir yazilimdir.
+Description = Arduino IDE, Arduino kartlarına, kod yazmak, kodu derlemek ve kodu yüklemek için kullanılan açık kaynaklı bir Java yazılımıdır.
 
 [Section.0422]
 Description = Arduino IDE-це програмне забезпечення з відкритим кодом, яке використовується для запису та завантаження коду в дошки Arduino.

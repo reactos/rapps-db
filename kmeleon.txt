@@ -18,9 +18,6 @@ Description = 基於 Gecko 布局引擎，速度快、可自訂卻仍舊輕量�
 [Section.0407]
 Description = Extrem schneller, erweiterbarer und dennoch kleiner Web Browser basierend auf der Gecko Layout Engine.
 
-[Section.041f]
-Description = Gecko düzen motoru tabanlı, aşırı hızlı, özelleştirilebilir ve şimdi bile hafif bir ağ tarayıcısı.
-
 [Section.0415]
 Description = Bardzo szybka, konfigurowalna i lekka przeglądarka internetowa oparta na silniku Gecko.
 
@@ -29,6 +26,9 @@ Description = Navigator web extrem de rapid, particularizabil, și totuși ușor
 
 [Section.0419]
 Description = Быстрый, настраиваемый, легкий веб-браузер, основанный на движке Gecko.
+
+[Section.041f]
+Description = Gecko sayfalama motoru tabanlı, çok hızlı, özelleştirilebilir ve hâlen hafif bir Web tarayıcı.
 
 [Section.0804]
 Description = 基于 Gecko 布局引擎，速度极快、可定制却仍旧轻量的网络浏览器。

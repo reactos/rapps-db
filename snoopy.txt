@@ -35,8 +35,7 @@ License = Бесплатно
 Description = Ремейк оригинальной игры C64 Snoopy.
 
 [Section.041f]
-License = Ücretsiz
-Description = Özgün C64 Snoopy'in yeniden yapılmışı.
+Description = Orijinal C64 Snoopy'in yeniden yapılmışı.
 
 [Section.0804]
 License = 免费软件

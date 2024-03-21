@@ -15,3 +15,5 @@ Description = PCSX es un emulador de la consola PlayStation 1.
 License = 免費軟體
 Description = PCSX 是一款 Playstation 1 的模擬器。
 
+[Section.041f]
+Description = PCSX, bir Playstation 1 emülatörüdür.

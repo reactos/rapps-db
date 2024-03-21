@@ -18,6 +18,10 @@ Description = 一款開源、快速的模擬器／虛擬機器。它可以模擬
 [Section.0415]
 Description = Otwartoźródłowy i bardzo szybki emulator/virtualizer maszyny. Potrafi emulować procesory bazujące na wielu różnych architekturach (np. x86, ARM, MIPS, PowerPC). Uruchom z opcją "-display sdl", aby zapobiec błędom w wyświetlaniu.
 
+[Section.041f]
+License = GPL sürüm 2
+Description = Açık kaynak ve çok hızlı bir makine emülatörü ve sanallaştırıcısı. Birçok çeşit mimari (ör: x86, ARM, MIPS, PowerPC) tabanlı işlemcileri emüle edebilir. Görünüm hatalarından kaçınmak için "-display sdl" parametresiyle çalıştırınız.
+
 [Section.0804]
 Description = 一款开源、快速的模拟器/虚拟机。它可以模拟基于多种架构的处理器（比如 x86、ARM、MIPS、PowerPC）。运行程序时加上 “-display sdl” 参数可避免显示错误。
 

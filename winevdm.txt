@@ -12,3 +12,5 @@ License = GPL
 [Section.0404]
 Description = 這款軟體將啟用對 WOW16 應用程式的支援。請將程式直接安裝至「Program Files」目錄。
 
+[Section.041f]
+Description = OTVDM olarak da bilinir. WOW16 uygulamaları desteğini etkinleştirir. "Program Files" dizinine kurulur.

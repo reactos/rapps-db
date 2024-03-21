@@ -8,3 +8,7 @@ URLSite = https://www.antp.be/software/renamer
 URLDownload = https://update.antp.be/renamer/antrenamer2_install.exe
 SHA1 = ae30eddaea71cf4a22f5e2d4cf17872f7f1b03b0
 SizeBytes = 1212478
+
+[Section.041f]
+License = GPL sürüm 2
+Description = Toplu dosya yeniden adlandırma aracı, birçok dosyayı bir kerede yeniden adlandırmaya olanak sağlar.

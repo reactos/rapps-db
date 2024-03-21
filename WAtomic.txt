@@ -8,3 +8,7 @@ URLSite = https://watomic.sourceforge.net/
 URLDownload = https://master.dl.sourceforge.net/project/watomic/watomic/1.2.3/WAtomic_1_2_3_257.msi
 SHA1 = 62e531f3bbfed7a9893ef49c20ff1826dffee09f
 SizeBytes = 964608
+
+[Section.041f]
+License = GPL sürüm 2
+Description = WAtomic, Delphi için GLScene OpenGL tabanlı kitaplık kullanılarak geliştirilen, Linux KATomic mantık oyununun bir Windows klonudur.

@@ -7,3 +7,6 @@ URLSite = https://github.com/lemon32767/ccleste
 URLDownload = https://github.com/lemon32767/ccleste/releases/download/v1.4.0/ccleste-win.zip
 SHA1 = 25daffeeb4445de62e6fc162ade04f65c16dd70c
 SizeBytes = 2972378
+
+[Section.041f]
+Description = 3DS ve PC için Celeste Classic C kaynak portu.

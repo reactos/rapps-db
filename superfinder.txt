@@ -40,7 +40,6 @@ License = Бесплатно
 Description = Быстрый и многофункциональный инструмент поиска.
 
 [Section.041f]
-License = Ücretsiz
 Description = Hızlı ve özellik zengini bir arama uygulaması.
 
 [Section.0422]

@@ -28,7 +28,7 @@ Description = Sistem complet de autorizare web care combină gestiunea fișierel
 Description = Визуальный HTML-редактор, основанный на Nvu. Одна из лучших бесплатных альтернатив Adobe CS3.
 
 [Section.041f]
-Description = Ağ kütük yönetimiyle kullanımı kolay WYSIWYG ağ sayfası düzenlemesini birleştiren eksiksiz bir ağ yazarlık dizgesidir.
+Description = Web dosya yönetimiyle kullanımı kolay WYSIWYG Web sayfası düzenlemesini birleştiren eksiksiz bir Web yazarlık sistemidir.
 
 [Section.0804]
 Description = 一套完整的结合网络文件管理和简单易用的所见即所得网页编辑的网络创作系统。

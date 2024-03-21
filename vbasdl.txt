@@ -33,7 +33,7 @@ Description = Эмулятор Gameboy и систем GameboyAdvance.
 
 [Section.041f]
 Name = VisualBoyAdvance (SDL sürümü)
-Description = Gameboy ve GameboyAdvance sistemleri için bir öykünücü.
+Description = Gameboy ve GameboyAdvance sistemleri için bir emülatör.
 
 [Section.0804]
 Description = 一个 Gameboy 和 GameboyAdvance 系统的模拟器。

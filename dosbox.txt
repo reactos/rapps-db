@@ -34,7 +34,7 @@ Description = Emulator DOS, cu surse deschise.
 Description = Эмулятор DOS.
 
 [Section.041f]
-Description = Açık kaynak bir DOS öykünücüsü.
+Description = Açık kaynak bir DOS emülatörü.
 
 [Section.0422]
 Description = DOSBox - емулятор DOSу.

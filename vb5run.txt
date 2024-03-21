@@ -46,8 +46,9 @@ License = Неизвестно
 Description = Необходим для приложений, написанных в Visual Basic 5. Содержит: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
 
 [Section.041f]
+Name = Microsoft Visual Basic 5 Çalışma Zamanı
 License = Bilinmiyor
-Description = Visual Basic 5'te yazılmış uygulamalar tarafından gereklidir. Şunları içerir: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
+Description = Visual Basic 5'te yazılmış uygulamalar tarafından ihtiyaç duyulur. Şunları içerir: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
 
 [Section.0422]
 License = Невідома

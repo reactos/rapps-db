@@ -25,6 +25,11 @@ Description = Zawiera biblioteki wymagane przez większość gier i aplikacji op
 License = Неизвестно
 Description = Предоставляет библиотеки, необходимые для большинства приложений и игр, основаных на DirectX. Вам нужно запустить установщик вручную после распаковки.
 
+[Section.041f]
+Name = DirectX Son Kullanıcı Çalışma Zamanı (Şubat 2010)
+License = Bilinmiyor
+Description = Çoğu DirectX tabanlı uygulamaların ve oyunların gerektirdiği çalışma zamanını sağlar. Paketten çıkardıktan sonra kurucuyu elle çalıştırmanız gerekir.
+
 [Section.0422]
 License = Невідома
 Description = Надає бібліотеки, необхідні для більшості програм та ігор, заснованих на DirectX. Вам потрібно власноруч запустити інсталятор після розпакування.

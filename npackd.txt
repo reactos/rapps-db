@@ -28,7 +28,8 @@ Description = Menedżer pakietów i instalator aplikacji dla systemów Windows.
 [Section.0419]
 
 [Section.041f]
-Description = Npackd (önceki adı "unpacked") Windows uygulamaları için bir GPL sürüm 3 lisanslı yükleyici, uygulama mağazası, paket yöneticisidir, ve pazar yeridir.
+License = GPL sürüm 3
+Description = Npackd (önceki adı "unpacked"), Windows uygulamaları için bir GPL sürüm 3 lisanslı yükleyici/uygulama mağazası/paket yöneticisi/pazar yeri.
 
 [Section.0804]
 Description = Npackd (读作 "unpacked") 是一款 Windows 平台的 GPLv3 许可的安装程序、应用商店、包管理和应用购买的应用程序。

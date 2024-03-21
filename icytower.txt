@@ -13,3 +13,5 @@ SHA1 = 8486c4f9e4bcd1adc4e5bcb6cd58ba4a917de359
 License = 免費軟體
 Description = Icy Tower 是一款好玩、簡短、而易令人上癮的遊戲。您需要做的就是儘可能取得最高的分數。
 
+[Section.041f]
+Description = Icy Tower, sadece olabildiğince en çok sayı kazanma hedefinizin olduğu, eğlenceli, kısa ve yine de bağımlılık yapan bir oyun.

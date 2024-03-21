@@ -30,7 +30,7 @@ Description = Scopul acestui joc este de a arunca globuri colorate în propriul 
 Description = Цель данной игры - стрелять цветными шариками в игровое поле, чтобы они образовывали группы из трех или более шариков.
 
 [Section.041f]
-Description = Bu oyunun amacı, oyun alanınızda üç ya da daha çok takımdan oluşan renkli küreleri vurmaktır.
+Description = Bu oyunun amacı, oyun alanınızda üç ya da daha çok gruptan oluşan renkli küreleri nişan alarak vurmaktır.
 
 [Section.0804]
 Description = 游戏的目的是将彩色弹珠发射到游戏台上，它们可以以三个或更多组成组。

@@ -8,3 +8,6 @@ URLSite = https://7kfans.com/
 URLDownload = https://github.com/the3dfxdude/7kaa/releases/download/v2.15.5/7kaa-install-win32-2.15.5.exe
 SHA1 = f802798bda5ede67c3ec72e3d699b5daa03583d3
 SizeBytes = 66934971
+
+[Section.041f]
+Description = Seven Kingdoms Ancient Adversaries, Trevor Chan tarafından tasarlanan bir gerçek zamanlı strateji oyunudur, şimdi özgür olarak kullanılabilir ve topluluk tarafından bakımı yapılmaktadır.

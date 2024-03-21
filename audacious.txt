@@ -17,6 +17,9 @@ Description = 一款以 Winamp/XMMS 為靈感的開源音訊播放器。
 [Section.0419]
 Description = Аудиопроигрыватель с открытым исходным кодом, вдохновлённый Winamp/XMMS.
 
+[Section.041f]
+Description = Winamp/XMMS'ten esinlenilmiş bir açık kaynak ses oynatıcısıdır.
+
 [Section.0422]
 Description = Аудіопрогравач з відкритим вихідним кодом, натхненний Winamp/XMMS.
 

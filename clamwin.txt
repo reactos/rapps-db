@@ -18,3 +18,6 @@ Description = ClamWin 是適用於 Microsoft Windows 10/8/7/Vista/XP/Me/2000/98 
 Name = ClamWin Antivirus Gratuito
 Description = ClamWin es un antivirus libre para Microsoft Windows 10/8/7/Vista/XP/Me/2000/98 y para Windows Server 2012, 2008 y 2003.
 
+[Section.041f]
+Description = ClamWin, Microsoft Windows 10/8/7/Vista/XP/Me/2000/98 ve Windows Server 2012, 2008 and 2003 için bir özgür antivirüs programıdır.
+

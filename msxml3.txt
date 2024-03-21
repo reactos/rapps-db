@@ -47,7 +47,7 @@ Description = Нужен для некоторых MSI установщиков.
 
 [Section.041f]
 License = Bilinmiyor
-Description = Birtakım Microsoft Installers için gereklidir. Şunları içerir: msxml3.dll, msxml3a.dll, msxml3r.dll.
+Description = Bazı Microsoft Yükleyici'ler için gereklidir. Şunları içerir: msxml3.dll, msxml3a.dll, msxml3r.dll.
 
 [Section.0422]
 License = Невідома

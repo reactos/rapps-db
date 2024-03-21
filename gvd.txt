@@ -8,3 +8,7 @@ URLSite = https://www.gburner.com/online-help/virtual-drive.htm
 URLDownload = https://www.gburner.com/gvd5.exe
 SHA1 = b9ac15b98d65459d79273d8f7fc863c2d11a70c4
 SizeBytes = 463288
+
+[Section.041f]
+Name = gBurner Sanal Disk
+Description = gBurner Sanal Disk, sanal CD/DVD sürücüleri oluşturmak ve yönetmek için ücretsiz bir araçtır.

@@ -30,8 +30,8 @@ Description = Adobe AIR oferă programatorilor posibilitatea de a încorpora în
 Description = Кроссплатформенная среда от компании Adobe для запуска приложений, позволяющая использовать HTML/CSS, AJAX, Adobe Flash и Apache Flex для переноса веб-приложений (в том числе Rich Internet Application) на ПК и мобильные устройства.
 
 [Section.041f]
-License = Adobe Yazılım Ruhsatlama Anlaşması
-Description = Adobe AIR yürütücüsü geliştiricilere aynı kodu özgün uygulamalara ve oyunlara paketlemeye olanak sağlar.
+License = Adobe Yazılım Lisanslama Anlaşması
+Description = Adobe AIR yürütücüsü, geliştiricilere aynı kodu native uygulamalar ve oyunlar içine paketlemeye olanak sağlar.
 
 [Section.0425]
 License = Adobe tarkvara litsentsi leping

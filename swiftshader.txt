@@ -18,3 +18,5 @@ Description = SwiftShader 是一款高效能的 Direct3D 9 裝置模擬器。當
 [Section.0415]
 Description = SwiftShader to szybki emulator urządzenia Direct3D 9, może być użyteczny przy uruchamianiu niektórych aplikacji i gier opartych na Direct3D 9, gdy sprzętowa akceleracja grafiki 3D nie jest dostępna.
 
+[Section.041f]
+Description = SwiftShader, 3D donanım grafik işleyicisinin olmadığı zaman bazı Direct3D 9 tabanlı uygulamaları ve oyunları çalıştırmak için kullanışlı olabilen bir yüksek perofrmanslı Direct3D 9 aygıt emülatörüdür.

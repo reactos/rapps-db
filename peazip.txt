@@ -32,7 +32,7 @@ Description = Свободный и бесплатный кроссплатфо�
 
 [Section.041f]
 License = LGPL sürüm 3, OpenCandy EULA
-Description = Ücretsiz, çapraz platform, açık kaynak bir kütük ve belgelik yöneticisidir. 150'den çok arşivleme biçimini destekler.
+Description = Ücretsiz, çapraz platform, açık kaynak bir dosya ve arşiv yöneticisidir. 150'den çok arşivleme biçimini destekler.
 
 [Section.0804]
 Description = 免费跨平台开源的文件和归档管理器。它支持超过 150 种归档格式。

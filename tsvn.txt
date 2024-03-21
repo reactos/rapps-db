@@ -28,7 +28,7 @@ Description = Client SVN cu interfață grafică pentru sincronizare/actualizare
 Description = Графический SVN клиент для обновления/синхронизации кода.
 
 [Section.041f]
-Description = Kod eş zamanlama ve güncelleme için grafik SVN istemcisi.
+Description = Kod eş zamanlama ve güncelleme için grafiksel SVN istemcisi.
 
 [Section.0804]
 Description = 用来做代码同步及更新的图形化 SVN 客户端。

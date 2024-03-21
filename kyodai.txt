@@ -34,7 +34,6 @@ License = Условно бесплатно
 Description = Одина из лучших игр Пасьянс Маджонг.
 
 [Section.041f]
-License = Paylaşımlı
 Description = Mahjong solitaire oyunları arasında en iyilerinden biri.
 
 [Section.0804]

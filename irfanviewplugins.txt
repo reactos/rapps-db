@@ -47,8 +47,8 @@ Description = Плагины для поддержки дополнительн�
 
 [Section.041f]
 Name = IrfanView Eklentileri
-License = Şahsî kullanım için ücretsiz.
-Description = Daha çok dosya türü desteklemek için eklentiler.
+License = Freeware (kişisel kullanım için)
+Description = Daha çok dosya türlerini desteklemek için ek eklentiler.
 
 [Section.0422]
 License = Freeware (для домашнього використання)

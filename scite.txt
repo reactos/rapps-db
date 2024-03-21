@@ -40,8 +40,7 @@ License = Бесплатно
 Description = Кроссплатформенный текстовый редактор.
 
 [Section.041f]
-License = Ücretsiz
-Description = Bir Scintilla tabanlı metin düzenleyicisidir. İlk başta Scintilla'yı göstermek için yapıldı; programları yapmak ve çalıştırmak yetenekleriyle, özellikle kullanışlı bir düzenleyici olmak için gelişti.
+Description = Scintilla tabanlı bir metin düzenleyicisidir. İlk başta Scintilla'yı göstermek için yapıldı; programları inşa etmek ve çalıştırmak yetenekleriyle, genellikle kullanışlı bir düzenleyici olmak için gelişti.
 
 [Section.0422]
 Description = Текстовий редактор на основі SCIntilla. Був зібраний як презентація Scintilla, але виріс до редактора загального користування з засобами збирання та запуску програм.

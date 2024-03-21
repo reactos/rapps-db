@@ -23,11 +23,6 @@ Name = NVidia Display Treiber
 License = Unbekannt
 Description = Display Treiber für RIVA TNT2, GeForce/Quadro 1/2/3/4 Karten von NVidia.
 
-[Section.041f]
-Name = NVidia Görüntü Sürücüleri
-License = Bilinmiyor
-Description = NVidia'dan RIVA TNT2, GeForce/Quadro 1/2/3/4 kartları için görüntü sürücüsü.
-
 [Section.0415]
 Name = Sterownik graficzny NVidia
 License = Nieznana
@@ -42,6 +37,11 @@ Description = Modúl-pilot video pentru plăcile grafice RIVA TNT2, GeForce/Quad
 Name = Драйверы видеокарт NVidia
 License = Неизвестно
 Description = Драйвера для видеокарт RIVA TNT2, GeForce/Quadro 1/2/3/4 от NVidia.
+
+[Section.041f]
+Name = NVidia Görüntü Sürücüleri
+License = Bilinmiyor
+Description = NVidia'dan RIVA TNT2, GeForce/Quadro 1/2/3/4 kartları için görüntü sürücüsü.
 
 [Section.0804]
 Name = NVidia 显示驱动程序

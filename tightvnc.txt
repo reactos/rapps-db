@@ -29,7 +29,7 @@ Description = Бесплатный пакет программного обес�
 
 [Section.041f]
 License = GPL sürüm 2
-Description = Ücretsiz bir uzaktan denetim yazılımı paketi.
+Description = Özgür bir uzaktan denetim yazılımı paketi.
 
 [Section.0804]
 Description = 一套免费的远程控制软件。

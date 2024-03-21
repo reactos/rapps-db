@@ -35,8 +35,7 @@ Description = DVD Write Now - бесплатная программа для п�
 URLSite = http://dwn.alter.org.ua/ru/
 
 [Section.041f]
-License = Ücretsiz
-Description = Ücretsiz bir doğrudan CD/DVD saklayıcı yazılımı. Kurulduktan sonra CD/DVD RW'lerinizi, USB Flash veyâ çıkarılabilir sâbit disk sürücüleri olarak kullanabilirsiniz. Bununla birlikte UDF dosya sistemiyle saklanmış CD/DVD RW'lere yazabilirsiniz. Ayrıca Microsoft DVD−ROM'ları, Ahead InCD ile saklanmış RW diskleri gibi başka yazılımlarla oluşturulmuş UDF diskleri okuyabilirsiniz. Kurmak için bir ZIP çıkartma programı gerekir.
+Description = Ücretsiz bir doğrudan CD/DVD kaydetme yazılımı. Bir kez kurulduktan sonra CD/DVD RW'lerinizi, USB Flash veya çıkarılabilir sabit disk sürücüleri olarak kullanabilirsiniz. Bununla birlikte UDF dosya sistemiyle kaydedilmiş CD/DVD RW'lere yazabilirsiniz. Ayrıca Microsoft DVD−ROM'ları, Ahead InCD ile kaydedilmiş RW diskleri gibi başka yazılımlarla oluşturulmuş UDF diskleri okuyabilirsiniz. Kurmak için bir ZIP çıkartma programı gerekir.
 
 [Section.0425]
 License = Vabavaraline

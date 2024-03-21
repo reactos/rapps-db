@@ -40,8 +40,7 @@ License = Условно бесплатно
 Description = Самый популярный клиент для IRC (Internet Relay Chat).
 
 [Section.041f]
-License = Paylaşımlı
-Description = İnternet Eş Zamanlı Söyleşi (IRC) için en çok tutulan istemci.
+Description = İnternet Aktarımlı Sohbet (IRC) için en popüler istemci.
 
 [Section.0422]
 Description = Найпопулярніший клієнт IRC (Internet Relay Chat).

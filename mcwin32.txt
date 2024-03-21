@@ -34,7 +34,7 @@ Description = Файловый менеджер с текстовым интер
 
 [Section.041f]
 License = GPL sürüm 3
-Description = GNU Midnight Commander'ın 32 bitlik Windows uyarlamasıdır.
+Description = GNU Midnight Commander'ın 32 bitlik Windows uyarlaması.
 
 [Section.0804]
 Description = GNU Midnight Commander 的 32 位 Windows 移植版。

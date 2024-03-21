@@ -9,3 +9,6 @@ URLDownload = https://www.ocenaudio.com/downloads/index.php/ocenaudio.exe
 SHA1 = 4811b71aa24611cae2b28b95aeab96a56a1577fd
 SizeBytes = 37183568
 Icon = ocenaudio.ico
+
+[Section.041f]
+Description = ocenaudio, çapraz platform, kolay kullanımlı, hızlı ve işlevli bir ses düzenleyicisidir.

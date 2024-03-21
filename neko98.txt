@@ -12,3 +12,5 @@ SizeBytes = 69538
 License = 免費軟體
 Description = Neko98 是一款以追逐游標的貓為主題的動畫 Screenmate 應用程式。
 
+[Section.041f]
+Description = Neko98, animasyonlu, imleç takipli bir kedili ekran arkadaşı uygulamasıdır.

@@ -10,3 +10,5 @@ SizeBytes = 170825
 [Section.0404]
 Description = 基於 Windows NT 3 的外觀的 Windows 主題。
 
+[Section.041f]
+Description = Windows NT 3 görünümü tabanlı bir Windows teması.

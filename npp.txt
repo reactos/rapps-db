@@ -47,7 +47,7 @@ Description = Текстовый редактор.
 Description = Textový editor.
 
 [Section.041f]
-Description = Birçok eklentilerle, tam özellikli ücretsiz bir metin düzenleyicisi.
+Description = Birçok eklentilerle, tam özellikli özgür bir metin düzenleyicisi.
 
 [Section.0422]
 Description = Текстовый редактор.

@@ -35,6 +35,7 @@ Description = Platformă .NET (cu surse deschise).
 Description = .NET Framework с открытым исходным кодом.
 
 [Section.041f]
+License = MIT, BSD (3 cümlecikli), Apache sürüm 2, MPL sürüm 1.1
 Description = Açık kaynak .NET Framework.
 
 [Section.0422]

@@ -31,8 +31,7 @@ License = Бесплатно
 Description = Утилита для просмотра свойств любого окна в системе.
 
 [Section.041f]
-License = Ücretsiz
-Description = Sistemdeki bir pencerenin özelliklerini görüntülemek ve seçmek için kullanılabilecek bir usta programının aracı.
+Description = Sistemdeki bir pencerenin özelliklerini görüntülemek ve seçmek için kullanılabilecek bir usta programcının aracı.
 
 [Section.0804]
 License = 免费软件

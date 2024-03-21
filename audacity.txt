@@ -28,7 +28,7 @@ Description = Program gratuit, multiplatformă, cu surse deschise pentru înregi
 Description = Программа для записи и редактирования звуковых файлов, ориентированная на работу с несколькими дорожками.
 
 [Section.041f]
-Description = Sesleri kaydetme ve düzenleme için özgür, açık kaynak ve çapraz platform yazılımdır.
+Description = Sesleri kaydetme ve düzenleme için ücretsiz, açık kaynak ve çapraz platform yazılım.
 
 [Section.0425]
 Description = Tasuta, avatud lähtekoodiga ja mitmikplatvormil tarkvara helisalvestamiseks ja redigeerimiseks.

@@ -10,3 +10,6 @@ SizeBytes = 581302
 [Section.0404]
 Description = 一款來自 Longhorn 5048 的 Windows 主題。
 
+[Section.041f]
+Name = Longhorn 5048 Aero Teması
+Description = Longhorn 5048'den bir Windows teması.

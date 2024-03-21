@@ -15,3 +15,7 @@ Languages = 0407|0809|0410|0413
 
 [Section.0407]
 Description = Ein anspruchsvolles Tower Conquest Brettspiel
+
+[Section.041f]
+License = GPL sürüm 3
+Description = Mücadeleli bir kule fethetmeli tahta oyunu.

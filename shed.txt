@@ -31,8 +31,7 @@ License = Бесплатно
 Description = Карточная игра для одного игрока.
 
 [Section.041f]
-License = Ücretsiz
-Description = Windows için bir tekli oyunculu kart oyunu. "Shit-head" tutulan öğrenci kart oyunu tabanlıdır.
+Description = Windows için bir tek oyunculu kart oyunu. "Shit-head" popüler öğrenci kart oyunu tabanlıdır.
 
 [Section.0804]
 License = 免费软件

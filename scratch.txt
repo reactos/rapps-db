@@ -28,7 +28,7 @@ Description = Mediu de programare orientat pe obiecte adresat copiilor.
 Description = Визуальная объектно-ориентированная среда программирования для детей.
 
 [Section.041f]
-Description = Çocuklar için görmelik nesneye yönelik programlama ortamı.
+Description = Çocuklar için görsel nesneye yönelik programlama ortamı.
 
 [Section.0804]
 Description = 面向儿童的可视化面向对象编程环境。

@@ -35,7 +35,7 @@ Description = Аудиоплеер Qmmp (Qt-based Multimedia Player).
 
 [Section.041f]
 Name = Qmmp (Qt Tabanlı Çoklu Ortam Oynatıcısı)
-Description = Qt kütüphaneleri tabanlı bir ses oynatıcısı. Kullanıcı arayüzü WinAMP'a ve XMMS'ye benzer. Başka kullanıcı arayüzleri de vardır.
+Description = Qt kütüphaneleri tabanlı bir ses oynatıcısı. Kullanıcı arayüzü WinAMP'a ve XMMS'ye benzerdir. Başka kullanıcı arayüzleri de kullanılabilir.
 
 [Section.0804]
 Description = 基于 Qt 库的音频播放器。用户界面是类似于 WinAMP 或 XMMS。备选用户界面也是可用的。

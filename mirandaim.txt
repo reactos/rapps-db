@@ -37,7 +37,7 @@ Description = Aplicație de mesagerie instant multiprotocol (cu surse deschise).
 Description = Мультипротокольное приложение для обмена мгновенными сообщениями с открытым исходным кодом.
 
 [Section.041f]
-Description = Açık kaynak, çoklu iletişim özellikli, anlık iletileşme uygulaması. Eksiksiz olarak çalışmayabilir.
+Description = Açık kaynak, çoklu protokollü, anlık imesajlaşma uygulaması. Tam olarak çalışmayabilir.
 
 [Section.0422]
 Description = Відкрита мультипротокольна програма миттєвих повідомлень - може не працювати повністю.

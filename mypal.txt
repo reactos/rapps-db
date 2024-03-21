@@ -18,3 +18,5 @@ Description = Mypal 是一款現代，但已放棄開發的 Windows XP 網頁瀏
 [Section.0407]
 Description = Mypal ist ein freier, moderner und quelloffener Webbrowser, der Kompatibilität zu Windows XP bewahrt.
 
+[Section.041f]
+Description = Mypal, bir güncel ama terkedilmiş Windows XP Web tarayıcısıdır.

@@ -30,7 +30,7 @@ Description = Программа для создания, редактирова
 
 [Section.041f]
 License = Deneme sürümü
-Description = CD/DVD kalıp dosyasını doğrudan düzenleyebilmekle ve ondan dosyaları ve dizinleri çıkartabilmekle birlikte CD/DVD-ROM diskinizden ya da sâbit diskinizden doğrudan ISO dosyaları oluşturabilen bir ISO CD/DVD kalıp dosyası oluşturma, düzenleme, dönüştürme uygulaması ve bir ön yüklenebilir CD/DVD oluşturucusudur.
+Description = CD/DVD kalıp dosyasını doğrudan düzenleyebilmekle ve ondan dosyaları ve klasörleri çıkartabilmekle birlikte CD/DVD-ROM diskinizden ya da sabit diskinizden doğrudan ISO dosyaları oluşturabilen bir ISO CD/DVD kalıp dosyası oluşturma, düzenleme, dönüştürme uygulaması ve bir önyüklenebilir CD/DVD oluşturucusudur.
 
 [Section.0804]
 License = 试用版本

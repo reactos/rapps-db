@@ -34,7 +34,7 @@ Description = Compilator (cu surse deschise) BASIC. Sintaxa BASIC este compatibi
 Description = Компилятор языка BASIC. Синтаксис BASIC совместим с QBASIC.
 
 [Section.041f]
-Description = Açık kaynak BASIC derleyicisi. Bu BASIC söz dizimi, QBASIC ile uyumludur.
+Description = Açık kaynak BASIC derleyicisi. BASIC söz dizimi QBasic ile uyumludur.
 
 [Section.0422]
 Description = Відкритий компілятор BASIC. Синтаксис сумісний з QBASIC.

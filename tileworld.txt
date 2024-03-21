@@ -37,7 +37,7 @@ Description = Clonă a jocului „Chip's Challenge”, creată inițial pentru A
 Description = Головоломка. GPL Клон Chip's Challenge
 
 [Section.041f]
-Description = Başlangıçta Atari Lynx için yapılan Chip's Challenge oyununun iyi bir taklidi. Ücretsiz CCLP2 Çizge Paketi'ni kapsar, bu yüzden telifli özgününe gereksinim duymazsınız.
+Description = Başlangıçta Atari Lynx için yapılan Chip's Challenge oyununun iyi bir klonu. Ücretsiz CCLP2 Grafik Paketi'ni kapsar, bu yüzden telifli özgününe gereksinim duymazsınız.
 
 [Section.0422]
 Description = Чудовий клон гри Chip's Challenge для Atari Lynx. Включено безплатний графічний пакет CCLP2, тому вам не потрібен оригінальний.

@@ -29,7 +29,7 @@ Description = Компьютерная игра-платформер, в кот�
 
 [Section.041f]
 License = GPL sürüm 2
-Description = Süre bitmeden önce bir engel gidişi boyunca bir topu yuvarlamak için odayı eğiniz. Neverball, tikelik bulmaca oyunu, tikelik devingen oyun ve büsbütün bir ustalık sınamasıdır.
+Description = Süre bitmeden önce bir engel gidişi boyunca bir topu yuvarlamak için odayı eğiniz. Neverball, kısmen bulmaca oyunu, kısmen hareketli oyun ve tamamen bir beceri testidir.
 
 [Section.0804]
 Description = 倾斜地板来使小球在规定时间内绕过障碍物。Neverball 一款是半解密半动作游戏，也是一种对技巧的考验。

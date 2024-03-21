@@ -33,7 +33,8 @@ Description = Acest pachet este compus din Mesa, Gallium, și LLVMpipe. Oferă u
 Description = Сборка графической библиотеки Mesa3D. Содержит Mesa, Gallium и llvmpipe. Обеспечивает прирост производительности систем без аппаратного ускорения OpenGL. Библиотека может заменить собой системный драйвер OpenGL.
 
 [Section.041f]
-Description = Mesa3D'nin bu yapısı Mesa, Gallium ve llvmpipe'tan oluşmaktadır. OpenGL donanım hızlandırması olmayan sistemler için önemli bir başarım artışı sağlar. Dizgenizde OGL sürücüsünün yerini alabilir, bunu kurulum sırasında ya da OpenGL Yapılandırma denetim masası ögesi yoluyla ayarlanabilir.
+Name = Mesa3D Grafik Kitaplığı
+Description = Mesa3D'nin bu yapısı Mesa, Gallium ve llvmpipe'tan oluşmaktadır. OpenGL donanım hızlandırması olmayan sistemler için önemli bir performans artışı sağlar. Sisteminizdeki OGL sürücüsünün yerini alabilir, bu kurulum sırasında ya da OpenGL Yapılandırma denetim masası ögesi yoluyla ayarlanabilir.
 
 [Section.0804]
 Name = Mesa3D 图形库

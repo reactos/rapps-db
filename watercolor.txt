@@ -31,7 +31,6 @@ License = Бесплатно
 Description = Windows тема, основанная на Windows Codename Whistler.
 
 [Section.041f]
-License = Ücretsiz
 Description = Windows Codename Whistler görünümü tabanlı bir Windows teması.
 
 [Section.0804]

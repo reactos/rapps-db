@@ -17,3 +17,7 @@ Description = RisohEditor 是一款免費的 Win32 資源編輯器，程式可�
 
 [Section.0411]
 Description = リソーエディタは、EXE/DLL/RC/RESファイルの中のリソースデータを編集できるフリーのWin32のリソースエディタです。
+
+[Section.041f]
+License = GPL sürüm 3
+Description = RisohEditor, EXE/DLL/RC/RES dosyalarındaki veriyi düzenleyebilen özgür bit Win32 kaynak düzenleyicisidir.

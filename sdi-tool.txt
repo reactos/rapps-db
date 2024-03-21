@@ -8,3 +8,6 @@ URLSite = https://sdi-tool.org
 URLDownload = https://sdi-tool.org/releases/SDI_R2201.zip
 SHA1 = bda8c7489d394b90395cca9772a8a0d6a932cb62
 SizeBytes = 5383404
+
+[Section.041f]
+Description = Sürücüleri kurmak için yardımcı bir araç.

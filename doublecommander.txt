@@ -34,7 +34,7 @@ Description = Gestionar (cu surse deschise) de fișiere după modelul paneluri-a
 Description = Double Commander - это открытый двухпанельный файловый менеджер.
 
 [Section.041f]
-Description = Yan yana iki bölmeli bir açık kaynak dosya yöneticisidir.
+Description = Yan yana iki bölmeli bir açık kaynak dosya yöneticisi.
 
 [Section.0422]
 Description = Double Commander - це відкритий двопанельний файловий менеджер.

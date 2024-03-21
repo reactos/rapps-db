@@ -35,8 +35,7 @@ License = Бесплатно
 Description = Пакет из более чем 180 утилит для Windows.
 
 [Section.041f]
-License = Ücretsiz
-Description = Windows için 180 araçtan daha çoğunun bir paketi.
+Description = Windows için 180 araçtan daha fazlasının bir paketi.
 
 [Section.0804]
 License = 免费软件

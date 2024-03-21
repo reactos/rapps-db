@@ -29,7 +29,8 @@ Description = Motorul Gecko, de redare a conținutului web, este în mod normal 
 Description = Требуется для приложений, использующих mshtml.dll. Gecko Engine, как правило, установливается на 2-ом этапе установки системы, но только если доступно подключение к интернету.
 
 [Section.041f]
-Description = Gecko Motoru düzgülü olarak birinci kurulum aşamasında yalnızca İnternet bağlantısı olduğunda kurulurdu. mshtml.dll'yi kullanan uygulamalar için gereklidir.
+Name = Wine Gecko Motoru
+Description = Gecko Motoru normal olarak birinci kurulum aşamasında yalnızca İnternet bağlantısı olduğunda kurulurdu. mshtml.dll'yi kullanan uygulamalar için gereklidir.
 
 [Section.0425]
 Description = Gecko Engine on tavaliselt installitud esimeses paigalduse etapis, aga ainult kui interneti ühendus oli sel ajal olemas. Vaja rakendustel, mis toetuvad mshtml.dll peal.

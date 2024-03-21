@@ -9,3 +9,6 @@
  SHA1 = 6929c3e906fb5b4e2627aba1079a6c5450a25483
  SizeBytes = 7706797
  
+ [Section.041f]
+ Name = Qemu Yöneticisi
+ Description = Qemu Yöneticisi, QEMU için bir grafik kullanıcı arayüzüdür.

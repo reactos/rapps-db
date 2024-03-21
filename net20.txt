@@ -38,6 +38,7 @@ License = Неизвестно
 Description = Компоненты, необходимые для запуска некоторых Windows приложений.
 
 [Section.041f]
+Name = Microsoft .NET Framework Sürüm 2.0 Yeniden Dağıtılabilir Paket
 License = Bilinmiyor
 Description = C# gibi orta düzey bir dilde derlenmiş, yönetilen Windows uygulamalarını çalıştırmak için gerekli bileşenler.
 

@@ -6,3 +6,6 @@ URLSite = https://jet.ro/dismount/
 URLDownload = https://jet.ro/dismount/files/SetupPorrast103.exe
 SHA1 = 0ea25f4bca59a030667daef45ffc17c8ba19701d
 SizeBytes = 2315038
+
+[Section.041f]
+Description = Hayalet, bazı merdivenlerin en üstüne yerleştirilmiştir ve itmek için vücut kısmını ve açıyı seçiniz. İnip çıkmalı kuvvet çubuğu istenen seviyeye ulaştığında itme düğmesini tıklamanızı zamanlayınız.

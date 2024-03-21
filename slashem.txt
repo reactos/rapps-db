@@ -8,3 +8,6 @@ URLSite = https://slashem.sourceforge.net/
 URLDownload = https://netcologne.dl.sourceforge.net/project/slashem/slashem-win32/0.0.7E7F3/SlashEM_0.0.7E7F3.exe
 SHA1 = 660b7c0248fc8ff54fe4e0fa9afb192307bc6549
 SizeBytes = 2386923
+
+[Section.041f]
+Description = Slash'EM (Super Lotsa Added Stuff Hack – Extended Magic), NetHack labirent tarzı oyunun ek özellikler, canavarlar ve nesneler sunan bir çeşididir.

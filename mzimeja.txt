@@ -12,3 +12,7 @@ SizeBytes = 1803341
 [Section.0411]
 License = フリーソフト
 Description = MZ-IME 日本語入力 (mzimeja) は、日本語 ReactOS で日本語入力を可能にする無料の IME (Input Method Editor) の一つです。注意：このパッケージは ReactOS JPN Package に統合されました。
+
+[Section.041f]
+Name = MZ-IME Japonca Giriş (mzimeja)
+Description = (Sadece Japonca için) MZ-IME Japonca Giriş (mzimeja), Japonca ReactOS için Japonca girişi etkinleşitren ücretsiz IME'lerden (Giriş Yöntemi Düzenleyicileri'nden) biridir.

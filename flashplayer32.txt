@@ -39,7 +39,7 @@ Description = Un player Flash pe 32 de biți care poate rula fișiere SWF.
 Description = 32-разрядный Flash-плеер, который может запускать SWF-файлы.
 
 [Section.041f]
-Description = SWF dosyalarını çalıştırabilen 32 bit Flash oynatıcı.
+Description = SWF dosyalarını çalıştırabilen bir 32 bitlik Flash oynatıcısı.
 
 [Section.0422]
 Description = 32-розрядний Flash-програвач, який може запускати файли SWF.

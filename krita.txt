@@ -17,3 +17,6 @@ SizeBytes = 100532224
 
 [Section.0a]
 Description = Krita es un programa de edición de imagen open source, que te permite dibujar, pintar y hacer animación 3D. Es parte de KDE.
+
+[Section.041f]
+Description = Krita, çizim, boyama ve 2D animasyon yapmaya olanak sağlayanaçık kaynak bir grafik düzenleyicidir. KDE'nin bir parçasıdır.

@@ -73,7 +73,7 @@ SHA1 = cc8ba70d1dfb4dcaf3a33aded269bd3ad04a4cca
 SizeBytes = 141396880
 
 [Section.041f]
-Description = Bir açık kaynak ofis paketi.
+Description = Açık kaynak ofis paketi.
 URLSite = https://www.openoffice.org/tr/
 URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.15/binaries/tr/Apache_OpenOffice_4.1.15_Win_x86_install_tr.exe
 SHA1 = e1b6077056e6fd73cb646ab4ebc10127a720fb39

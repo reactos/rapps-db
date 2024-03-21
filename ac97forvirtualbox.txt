@@ -61,7 +61,7 @@ Description = Pазархивируйте содержимое в папку "Re
 [Section.041f]
 Name = VirtualBox için AC'97 Sürücüsü
 License = Bilinmiyor
-Description = AC'97 uyumlu aygıtlar için ses sürücüsü. "ReactOS" dizinine çıkartınız ve bilgisayarı iki kez yeniden başlatınız.
+Description = AC'97 uyumlu aygıtlar için ses sürücüsü. "ReactOS" klasörüne çıkartınız ve bilgisayarı iki kez yeniden başlatınız.
 
 [Section.0422]
 Name = Драйвер AC97 для VirtualBox

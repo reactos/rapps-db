@@ -34,8 +34,7 @@ License = Условно бесплатно
 Description = Компьютерная игра в жанре пошаговвой стратегии. Два танка, принадлежащих двум разным игрокам, по очереди ведут перестрелку.
 
 [Section.041f]
-License = Paylaşımlı
-Description = Şimdiye dek oynayacağınız en hızlı topçuluk oyunu.
+Description = Şimdiye dek oynayacağınız en hızlı top atışı oyunu.
 
 [Section.0804]
 License = 免费软件

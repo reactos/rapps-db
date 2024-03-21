@@ -38,7 +38,7 @@ Description = Графическая шахматная доска для Window
 
 [Section.041f]
 License = GPL sürüm 3
-Description = İnternet satranç sunucularına ve postayla yazışmalı satranca GNU Chess, Crafty ve başka satranç motorlarını bir kullanıcı arayüzü olarak sunabilen, Windows/ReactOS için bir çizgelik satranç tahtasıdır.
+Description = İnternet satranç sunucuları ve e-postayla yazışmalı satranç için GNU Chess, Crafty ve başka satranç motorlarını bir kullanıcı arayüzü olarak sunabilen, Windows/ReactOS için bir grafik satranç tahtasıdır.
 
 [Section.0422]
 Description = Графічна шахматна дошка для Windows/ReactOS, що може слугувати графічним інтерфейсом для GNU Chess, Crafty, та інших шахматних двигунів, для серверів інтернет-шахмат та для шахматної переписки по е-мейл.

@@ -29,7 +29,7 @@ Description = Бесплатная среда для быстрой инжене
 
 [Section.041f]
 License = GPL sürüm 2
-Description = Hızlı mühendislik, bilimlik ilk örnekleme ve veri işleme için özgür bir ortam.
+Description = Hızlı mühendislik, bilimsel prototipleme ve veri işleme için özgür bir ortam.
 
 [Section.0425]
 Description = Tasuta keskkond kiire inseneri- ja teaduslik prototüüpimise ja andmetöötluse jaoks.

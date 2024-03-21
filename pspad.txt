@@ -49,7 +49,6 @@ Description = Textový editor.
 URLSite = http://www.pspad.com/sk/
 
 [Section.041f]
-License = Ücretsiz
 Description = Hafif bir metin düzenleyicisi.
 
 [Section.0422]

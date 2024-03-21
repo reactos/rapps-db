@@ -31,7 +31,7 @@ Description = Joc de acțiune de tip enigmă/arcadă, asemănător cu „Frozen 
 Description = Бесплатная аркадная компьютерная игра-головоломка. Наподобие Frozen Bubble.
 
 [Section.041f]
-Description = Ücretsiz, atari salonu oyunu türünde, dinamik bir bulmaca oyunudur, birazcık Frozen Bubble'a benzer.
+Description = Ücretsiz, arcade oyunu türünde, aksiyonlu bir bulmaca oyunudur, birazcık Frozen Bubble'a benzer.
 
 [Section.0804]
 Description = 一个免费街机动作益智电脑游戏，有点像 Frozen Bubble。

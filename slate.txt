@@ -10,3 +10,5 @@ SizeBytes = 1712682
 [Section.0404]
 Description = 來自 Windows Codename Longhorn 的 Slate 主題。
 
+[Section.041f]
+Description = Windows kod adı Longhorn'dan Slate teamsı.

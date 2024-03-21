@@ -8,3 +8,7 @@ URLSite = https://www.screen-record.com/screen2exe.htm
 URLDownload = https://www.screen-record.com/dl/SCRSWFSetup.exe
 SHA1 = 7ac65db6af7e2f28499b0ee324aef397a0091ad6
 SizeBytes = 4358392
+
+[Section.041f]
+License = GPL sürüm 3
+Description = Masaüstünüzü dosyalara derlemekle acilen dünyanın en yüksek sıkıştırma oranlı, gösterimler, öğreticiler ve sunumlar oluşturan hızlı ve kolay kullanımlı ekran kaydedicisi.

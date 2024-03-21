@@ -47,7 +47,7 @@ Description = Neznáma
 
 [Section.041f]
 License = Bilinmiyor
-Description = Windows Media biçimlerinde ses ve video dönüştürür ve yayımlar.
+Description = Windows Media biçimlerinde ses ve video dönüştürür ve yayınlar.
 
 [Section.0422]
 License = Невідома

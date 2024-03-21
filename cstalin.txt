@@ -29,7 +29,7 @@ Description = "Советская" стратегия реального вре�
 URLSite = http://commanderstalin.sourceforge.net/cstalin_rus_index.html
 
 [Section.041f]
-Description = Boswars tabanlı bir "Sovyet" gerçek zamanlı izlem (RTS) oyunu.
+Description = Boswars tabanlı bir Sovyet temalı gerçek zamanlı strateji (RTS) oyunu.
 
 [Section.0425]
 Description = Nõukogude teemaline RTS mäng Boswars põhjal.

@@ -11,4 +11,7 @@ SHA1 = fad269d650ae6dd31785e79622749505f4f4cd23
 SizeBytes = 38908861
 Languages=0409
 
-
+[Section.041f]
+Name = Bir kurucuyla paketlenmiş LZDoom ve Freedoom.
+License = GPL ve BSD
+Description =  Açık kaynak Doom motoruyla gelen açık kaynak Doom varlıkları.

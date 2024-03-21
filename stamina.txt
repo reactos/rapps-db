@@ -33,8 +33,7 @@ License = Бесплатно
 Description = Бесплатный клавиатурный тренажер.
 
 [Section.041f]
-License = Ücretsiz
-Description = Ücretsiz düğme takımında yazma öğreticisi.
+Description = Ücretsiz klavyeyle yazma öğreticisi.
 
 [Section.0804]
 License = 免费软件

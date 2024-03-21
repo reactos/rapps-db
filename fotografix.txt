@@ -9,3 +9,6 @@ URLDownload = https://download.informer.com/win-1192890760-93a4fa67-6c42a183-bc3
 SHA1 = 438ee0a517507396cdab6d814638d7313d0b99e0
 SizeBytes = 364219
 Icon = fotografix.ico
+
+[Section.041f]
+Description = Fotografix, katmanlarla çalışmanıza olanak sağlayan hafif bir taşınabilir resim düzenleyicisidir.

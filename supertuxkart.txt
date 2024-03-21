@@ -8,3 +8,7 @@ URLSite = https://supertuxkart.net/Main_Page
 URLDownload = https://master.dl.sourceforge.net/project/supertuxkart/SuperTuxKart/1.3/SuperTuxKart-1.3-installer-i686.exe
 SHA1 = b7ac890fcec9e51e9f2f55298354cc19d598a772
 SizeBytes = 638616712
+
+[Section.041f]
+License = GPL sürüm 3
+Description = Açık kaynak projelerden birçok maskot özellikli bir 3D yarış oyunudur.
