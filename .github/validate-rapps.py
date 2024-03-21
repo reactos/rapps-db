@@ -2,15 +2,28 @@
 PROJECT:     ReactOS rapps-db validator
 LICENSE:     MIT (https://spdx.org/licenses/MIT)
 PURPOSE:     Validate all rapps-db files
-COPYRIGHT:   Copyright 2020-2023 Mark Jansen <mark.jansen@reactos.org>
+COPYRIGHT:   Copyright 2020-2024 Mark Jansen <mark.jansen@reactos.org>
 '''
-import os
+from pathlib import Path
 import sys
 from enum import Enum, unique
+try:
+    from magic import Magic
+except ImportError as err:
+    problem = str(err)
+    if 'libmagic' in problem:
+        print('libmagic is missing, please install it:')
+        print('https://github.com/ahupp/python-magic?tab=readme-ov-file#installation')
+        sys.exit(1)
+    if 'magic' in problem:
+        print('python-magic is not installed, please install it:')
+        print('python -m pip install -r ./.github/validate-requirements.txt')
+        sys.exit(1)
+    sys.exit(err)
 
 # TODO: make this even nicer by using https://github.com/pytorch/add-annotations-github-action
 
-REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REPO_ROOT = Path(__file__).parents[1]
 
 ALL_KEYS = [
     b'Name',
@@ -77,6 +90,10 @@ class Reporter:
         print(line.text())
         idx = column - 1 + len("b'")    # Offset the b' prefix
         print(' ' * idx + '^')
+
+    def add_file(self, file, problem):
+        self._problems += 1
+        print('{file}: {problem}'.format(file=file, problem=problem))
 
     def problems(self):
         return self._problems > 0
@@ -203,11 +220,11 @@ class RappsLine:
 class RappsFile:
     def __init__(self, fullname):
         self.path = fullname
-        self.filename = os.path.basename(fullname)
+        self.filename = fullname.name
         self._sections = []
 
     def parse(self, reporter):
-        with open(self.path, 'rb') as f:
+        with open(str(self.path), 'rb') as f:
             lines = [RappsLine(self, idx + 1, line) for idx, line in enumerate(f.readlines())]
 
         # Create sections from all lines, and add keyvalue entries in their own section
@@ -274,13 +291,22 @@ def verify_unique(reporter, lines, line, name):
     else:
         lines[name] = line
 
+def validate_icons(ico_dir, reporter):
+    magic = Magic(mime=True)
+    for icon in ico_dir.glob('*.ico'):
+        detected = magic.from_file(str(icon))
+        if detected not in ('image/x-icon', 'image/vnd.microsoft.icon'):
+            reporter.add_file('icons/' + icon.name, 'This is not an icon ({})'.format(detected))
 
-def validate_repo(dirname):
+
+def validate_repo(check_dir):
     reporter = Reporter()
 
-    all_files = [RappsFile(filename) for filename in os.listdir(dirname) if filename.endswith('.txt')]
+    all_files = [RappsFile(file) for file in check_dir.glob('*.txt')]
     for entry in all_files:
         entry.parse(reporter)
+
+    validate_icons(check_dir / 'icons', reporter)
 
     if reporter.problems():
         print('Please check https://reactos.org/wiki/RAPPS for details on the file format.')
