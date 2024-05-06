@@ -8,6 +8,7 @@ URLSite = http://www.mozilla.org/en-US/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/28.0/win32/en-US/Firefox%20Setup%2028.0.exe
 SHA1 = 0154f7a38acad5c186c000533f992830e509abee
 SizeBytes = 25200168
+Icon = firefox_new.ico
 
 [Section.0a]
 Description = Navegador web popular, libre y gratuito.
