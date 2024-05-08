@@ -8,6 +8,7 @@ URLSite = http://www.opera.com/
 URLDownload = https://web.archive.org/web/20140327183619if_/http://arc.opera.com/pub/opera/win/964/int/Opera_964_int_Setup.exe
 SHA1 = e7354e79956acae6f76727a3c9bb3c25ea3a7b6f
 SizeBytes = 7562568
+RegName = {E1BBBAC5-2857-4155-82A6-54492CE88620}
 
 [Section.0a]
 Description = Popular navegador web con muchas características avanzadas, incluyendo un cliente de correo y BitTorrent.

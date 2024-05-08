@@ -1,0 +1,11 @@
+[Section]
+Name = Mozilla Firefox 52 ESR
+Version = 52.9.0
+License = MPL/GPL/LGPL
+Description = A popular Web browser. Free and open source, made by a global community.
+Category = 5
+URLSite = https://www.mozilla.org/en-US/
+URLDownload = https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US/Firefox%20Setup%2052.9.0esr.exe
+SHA1 = 705240c720a631c5b7c70ef41f5af0f272721ea9
+SizeBytes = 45470192
+Icon = firefox_new.ico

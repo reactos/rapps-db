@@ -1,0 +1,10 @@
+[Section]
+Name = FFmpeg-XP frei0r framework
+Version = 2.0.2-231-3f864cc
+License = GPLv2
+Description = Adds frei0r (a simple cross-platform framework for video effects) support for FFmpeg-XP. Copy the frei0r-1n folder to FFmpeg directory (containing ffmpeg.exe). Build by Reino.
+Category = 14
+URLSite = https://forum.doom9.org/showthread.php?t=181802
+URLDownload = https://rwijnsma.home.xs4all.nl/files/ffmpeg/frei0r/frei0r-plugins-2.3.1-win32-xpmod-sse.7z
+SHA1 = 9f7cf9f9257903d53a17b23d20c5347afdae6c00
+SizeBytes = 3477151

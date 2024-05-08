@@ -8,3 +8,4 @@ URLSite = https://github.com/Alex313031/chromium-xp
 URLDownload = https://github.com/Alex313031/chromium-xp/releases/download/M49.0.2623.113-2/mini_installer.exe
 SHA1 = 29fe5f8e02adfe44fe5bdbeb749fa93f97fc2aaf
 SizeBytes = 47201792
+Icon = chromium.ico
