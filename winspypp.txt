@@ -5,9 +5,14 @@ License = Freeware
 Description = A handy programmer's utility which can be used to select and view the properties of any window in the system.
 Category = 7
 URLSite = http://www.catch22.net/software/winspy
-URLDownload = http://www.catch22.net/assets/files/software/WinSpy17.zip
+URLDownload = https://web.archive.org/web/20191013133636/http://www.catch22.net/assets/files/software/WinSpy17.zip
 SHA1 = E1414E233267025E9B384C4B02A5DADA7CC8098E
 SizeBytes = 59355
+Installer = Generate
+
+[Generate]
+DelReg = HKCU\Software\Catch22\WinSpy++ 1.5
+DelRegEmpty = HKCU\Software\Catch22
 
 [Section.0a]
 Description = Una herramienta práctica para programadores que puede ser usada para seleccionar y ver las propiedades de cualquier ventana del sistema.
