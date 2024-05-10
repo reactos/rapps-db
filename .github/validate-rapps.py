@@ -67,8 +67,6 @@ LICENSE_TYPES = [
 ]
 
 def get_valid_keys(section_name):
-    #if section_name is None:
-    #    section_name = b'Section'
     return KEYS[section_name]
 
 all_names = {}
@@ -151,7 +149,7 @@ class RappsLine:
         global g_current_section
         g_current_section = section_name
 
-        if section_name != b'Section' and section_name != b'Generate':
+        if section_name not in KEYS:
             help = 'should always be "Section"'
             reporter.add(self, self._text.index(section_name) + 1,
                          'Invalid section name: "{sec}", {msg}'.format(sec = section_name, msg = help))
@@ -214,7 +212,7 @@ class RappsLine:
                 # reporter.add(self, 0, 'Invalid value: "{val}" in {key}'.format(val = v, key = textkey))
                 print('Warning: {key} is "{val}" ({file})'.format(val = v, key = textkey, file = self._file.filename))
 
-        if self.key in [b'For']:
+        if self.key in [b'Scope']:
             v = textval
             if v.casefold() not in ['user', 'machine']:
                 print('Warning: {key} is "{val}" ({file})'.format(val = v, key = textkey, file = self._file.filename))
