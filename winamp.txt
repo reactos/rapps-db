@@ -8,6 +8,7 @@ URLSite = http://www.winamp.com/
 URLDownload = http://winamp.meggamusic.co.uk/winamp5666_full_all_redux.exe
 SHA1 = 136314be0da42ed399b88a106cb1f43093e2c0c2
 SizeBytes = 15023516
+Icon = winamp.ico
 
 [Section.0a]
 Description = Un reproductor de media que soporta una gran cantidad de plugins, skins y presenta visualización musical, listas, librería media, con soporte de una gran comunidad online.

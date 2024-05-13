@@ -8,6 +8,7 @@ URLSite = http://xiph.org/dshow/
 URLDownload = http://downloads.xiph.org/releases/oggdsf/opencodecs_0.85.17777.exe
 SHA1 = 386cf7cd29ffcbf8705eff8c8233de448ecf33ab
 SizeBytes = 2653944
+Icon = opencodecs.ico
 
 [Section.0a]
 Description = Filtros DirectShow para los formatos de audio y vídeo Ogg Vorbis, Speex, Theora, FLAC y WebM.
