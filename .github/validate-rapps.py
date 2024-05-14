@@ -12,14 +12,17 @@ from enum import Enum, unique
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-ALL_KEYS = [
+REQUIRED_SECTION_KEYS = [
     b'Name',
+    b'Category',
+    b'URLDownload',
+]
+
+OPTIONAL_SECTION_KEYS = [
     b'Version',
     b'License',
     b'Description',
-    b'Category',
     b'URLSite',
-    b'URLDownload',
     b'SHA1',
     b'SizeBytes',
     b'Icon',
@@ -27,15 +30,26 @@ ALL_KEYS = [
     b'LicenseType',
     b'Languages',
     b'RegName',
+    b'Publisher',
+    b'Installer',
+    b'Scope',
 ]
 
 
-REQUIRED_KEYS = [
-    b'Name',
-    b'Category',
-    b'URLDownload',
-]
-
+KEYS = {
+    b'Section': REQUIRED_SECTION_KEYS + OPTIONAL_SECTION_KEYS,
+    b'Generate': [
+        b'Files',
+        b'Dir',
+        b'Lnk',
+        b'Icon',
+        b'DelFile',
+        b'DelDir',
+        b'DelDirEmpty',
+        b'DelReg',
+        b'DelRegEmpty',
+    ],
+}
 
 ALL_ARCH = [
     b'x86',
@@ -52,9 +66,12 @@ LICENSE_TYPES = [
     3, # Trial/Demo
 ]
 
+def get_valid_keys(section_name):
+    return KEYS[section_name]
 
 all_names = {}
 all_urls = {}
+g_current_section = None
 
 
 HEXDIGITS = b'0123456789abcdef'
@@ -129,8 +146,10 @@ class RappsLine:
             stripped = stripped + b']'  # Add it so we can continue
 
         section_name, locale, extra_locale, arch = self._extract_section_info(stripped, reporter)
+        global g_current_section
+        g_current_section = section_name
 
-        if section_name != b'Section':
+        if section_name not in KEYS:
             help = 'should always be "Section"'
             reporter.add(self, self._text.index(section_name) + 1,
                          'Invalid section name: "{sec}", {msg}'.format(sec = section_name, msg = help))
@@ -178,7 +197,7 @@ class RappsLine:
         textkey = self.key.decode()
         textval = self.val.decode()
 
-        if self.key not in ALL_KEYS:
+        if self.key not in get_valid_keys(g_current_section):
             reporter.add(self, 0, 'Unknown key: "{key}"'.format(key = textkey))
 
         if self.key in [b'LicenseType']:
@@ -191,6 +210,11 @@ class RappsLine:
             if v.casefold() == 'Unknown'.casefold():
                 # TODO: Reporter should be enabled when the existing DB entries are fixed:
                 # reporter.add(self, 0, 'Invalid value: "{val}" in {key}'.format(val = v, key = textkey))
+                print('Warning: {key} is "{val}" ({file})'.format(val = v, key = textkey, file = self._file.filename))
+
+        if self.key in [b'Scope']:
+            v = textval
+            if v.casefold() not in ['user', 'machine']:
                 print('Warning: {key} is "{val}" ({file})'.format(val = v, key = textkey, file = self._file.filename))
 
     def location(self, column):
@@ -237,7 +261,7 @@ class RappsFile:
                 all_sections.append(uniq_section)
             if not main_section and section.main_section:
                 main_section = section
-                for key in REQUIRED_KEYS:
+                for key in REQUIRED_SECTION_KEYS:
                     if not section[key]:
                         reporter.add(section, 0, 'Main section has no {key} key!'.format(key = key))
             if section[b'URLDownload'] and not section[b'SizeBytes']:
