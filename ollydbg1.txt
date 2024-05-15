@@ -2,7 +2,7 @@
 Name=OllyDbg
 Description=32-bit assembler level analysing debugger
 Category=7
-LicenseType=2
+License=Shareware
 URLSite=http://www.ollydbg.de/
 Version=1.10
 URLDownload=http://www.ollydbg.de/odbg110.zip

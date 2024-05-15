@@ -2,7 +2,8 @@
 Name=OllyDbg 2
 Description=OllyDbg 2 is a 32-bit assembler-level analyzing debugger with an intuitive interface.
 Category=7
-LicenseType=2
+LicenseType=1
+License=GPLv3
 URLSite=https://www.ollydbg.de/version2.html
 Version=2.01
 URLDownload=https://www.ollydbg.de/odbg201.zip
