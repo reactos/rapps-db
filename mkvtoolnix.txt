@@ -8,6 +8,7 @@ URLSite = https://www.bunkus.org/
 URLDownload = https://mkvtoolnix.download/windows/releases/10.0.0/mkvtoolnix-32bit-10.0.0-setup.exe
 SHA1 = 58828d5916bfc1c12eae58ace9b26c070fbd6356
 SizeBytes = 15467976
+Icon = mkvtoolnix.ico
 
 [Section.0a]
 Description = Set de herramientas para trabajar los archivos con formato MKV.
