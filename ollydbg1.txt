@@ -1,0 +1,15 @@
+[Section]
+Name=OllyDbg
+Description=32-bit assembler level analysing debugger
+Category=7
+License=Shareware
+URLSite=http://www.ollydbg.de/
+Version=1.10
+URLDownload=http://www.ollydbg.de/odbg110.zip
+SHA1=8403d8049a0841887c16cf64889596ad52b84da8
+SizeBytes=1333471
+Installer=Generate
+
+[Generate]
+Files=o*|*m*.dll|*.txt
+DelFile=ollydbg.ini
