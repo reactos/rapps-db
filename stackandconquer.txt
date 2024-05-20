@@ -1,14 +1,14 @@
 [Section]
 Name = StackAndConquer
-Version = 0.10.0
+Version = 0.10.1
 License = GPLv3
 LicenseType = 1
 Description = A challenging tower conquest board game
 Category = 4
 URLSite = https://github.com/ElTh0r0/stackandconquer
-URLDownload = https://github.com/ElTh0r0/stackandconquer/releases/download/v0.10.0/StackAndConquer-0.10.0-ReactOS_Installer.exe
-SHA1 = 27b3a64f37a0d0aff602e68f551602f532f503b3
-SizeBytes = 8718329
+URLDownload = https://github.com/ElTh0r0/stackandconquer/releases/download/v0.10.1/StackAndConquer-0.10.1-ReactOS_Installer.exe
+SHA1 = d78c532297648fc4c9aeca77865d1970c5d7b054
+SizeBytes = 8723175
 Icon = stackandconquer.ico
 Screenshot1 = https://user-images.githubusercontent.com/26674558/166152607-0998f184-c0c6-48ef-baea-73e89f9c9fdd.png
 Languages = 0407|0809|0410|0413
