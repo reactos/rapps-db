@@ -1,10 +1,16 @@
 [Section]
 Name = ReactOS Wallpaper Exposition
-Version = 5
+Version = 6
 License = CC BY
-Description = A wallpaper set (apple, leaves, sky etc.), by fastcom.
+Description = A wallpaper collection (apple, leaves, sky etc.), by fastcom.
 Category = 16
-URLSite = https://jira.reactos.org/browse/CORE-12639
-URLDownload = https://jira.reactos.org/secure/attachment/67625/RosWallpExpo-v5.exe
-SHA1 = 2b74fb974778aa51a8695464cb695bfd0252643f
-SizeBytes = 2211512
+URLSite = https://github.com/katahiromz/RosWallpExpo
+URLDownload = https://github.com/katahiromz/RosWallpExpo/releases/download/v6/RosWallpExpo-v6.zip
+Installer = Generate
+SHA1 = 7a493c8687c462ec9eb75daacfd6ca9e1233b08e
+SizeBytes = 1699194
+
+[Generate]
+Files=RosWallpExpo-v6\*
+Dir=%SystemRoot%\Web\Wallpaper
+Lnk=!
