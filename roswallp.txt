@@ -7,6 +7,7 @@ Category = 16
 URLSite = https://github.com/reactos/wallpapers/
 URLDownload = https://github.com/reactos/wallpapers/archive/refs/heads/main.zip
 Installer = Generate
+SizeBytes = 7479362
 
 [Generate]
 Files = wallpapers-main\data\*
