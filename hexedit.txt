@@ -8,6 +8,11 @@ URLSite = https://web.archive.org/web/20171109151219/http://www.catch22.net/soft
 URLDownload = https://web.archive.org/web/20170926130019/http://www.catch22.net/sites/default/files/HexEdit121.zip
 SHA1 = 0a9bec4835123f63c358163c13b5c74b2295dfb2
 SizeBytes = 149786
+Installer = Generate
+
+[Generate]
+DelReg = HKCU\Software\Catch22\HexEdit 1.0
+DelRegEmpty = HKCU\Software\Catch22
 
 [Section.0a]
 Description = Un buen editor hexadecimal para Windows.
