@@ -1,0 +1,19 @@
+[Section]
+Name = Dependency Walker
+Description = MsDepends is a free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules.
+LicenseType = 2
+Category = 7
+URLSite = https://dependencywalker.com
+Version = 2.2
+URLDownload = https://dependencywalker.com/depends22_x86.zip
+SHA1 = bfec714057e8449b0246051be99ba46a7760bab9
+SizeBytes = 610769
+Installer = Generate
+
+[Section.amd64]
+URLDownload = https://dependencywalker.com/depends22_x64.zip
+SHA1 = 4831d2a8376d64110ff9cd18799fe6c69509d3ea
+SizeBytes = 468618
+
+[Generate]
+DelReg = HKCU\Software\Microsoft\Dependency Walker
