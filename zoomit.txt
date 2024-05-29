@@ -21,5 +21,5 @@ DelDirEmpty = .|..\.
 [Generate.amd64]
 Files = *64.exe
 
-[Generate.arm64
-Files = *64a.exe]
+[Generate.arm64]
+Files = *64a.exe
