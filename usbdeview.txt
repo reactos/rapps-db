@@ -3,11 +3,16 @@ Name = USBDeview
 Version = 2.75
 License = Freeware
 Description = Small utility that lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used.
+Publisher = NirSoft
 Category = 12
 URLSite = https://www.nirsoft.net/utils/usb_devices_view.html
 URLDownload = https://web.archive.org/web/20180524095442if_/http://nirsoft.net/utils/usbdeview.zip
 SHA1 = 7d9c5ef40a4a0263cee45764e327fe3e6dd318cd
 SizeBytes = 94634
+Installer = Generate
+
+[Generate]
+DelFile = USBDeview.cfg
 
 [Section.0a]
 Description = Una pequeña utilidad que muestra todos los dispositivos USB que estén conectados en tu ordenador, así como todos los que hayas usado previamente.

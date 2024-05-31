@@ -3,11 +3,16 @@ Name = NirLauncher
 Version = 1.19.98
 License = Freeware
 Description = A package of more than 180 utilities for Windows.
+Publisher = NirSoft
 Category = 12
 URLSite = http://launcher.nirsoft.net/
 URLDownload = http://svn.reactos.org/packages/nirsoft_package_1.19.98.zip
 SHA1 = 003458ee09b034884c8d5d4753463985a1c16862
 SizeBytes = 24751955
+Installer = Generate
+
+[Generate]
+DelDir = NirSoft
 
 [Section.0a]
 License = Gratuita

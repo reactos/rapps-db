@@ -8,6 +8,7 @@ URLSite = https://github.com/ProgerXP/Notepad2e
 URLDownload = https://github.com/ProgerXP/Notepad2e/releases/download/R134/Notepad2e-R134-ac4b27c-x86.zip
 SHA1 = 1917ca27cb46bf7f65e153376105bcb7f379c1dd
 SizeBytes = 1001759
+Installer = Generate
 
 [Section.0404]
 Description = Notepad 2e 是 Notepad2 的分支版本，帶有高亮字詞、並行編輯、數學計算、正則匹配、Lua 解析和 DPI 適配等的功能。
