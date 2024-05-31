@@ -1,7 +1,8 @@
 [Section]
 Name = API Monitor
 Version = v2 (Alpha-r13)
-License = Freeware
+License = EULA
+LicenseType = 2
 Description = It is a software that monitors and displays API calls made by applications and services. Its a powerful tool for seeing how applications and services work or for tracking down problems that you have in your own applications.
 Category = 7
 URLSite = http://www.rohitab.com/apimonitor
