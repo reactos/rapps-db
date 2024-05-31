@@ -1,0 +1,40 @@
+[Section]
+Name = VisualBoyAdvance-m
+Version = 2.1.8
+License = GNU GPLv2
+Description = The latest emulator for Gameboy and GameboyAdvance systems.
+Category = 4
+URLSite = https://visualboyadvance.org/
+URLDownload = https://github.com/visualboyadvance-m/visualboyadvance-m/releases/download/v2.1.8/visualboyadvance-m-Win-x86_32.zip
+SHA1 = 9a11d39796016fcf3f3a080c4578c45bbfae4628
+SizeBytes = 11415976
+
+[Section.amd64]
+URLDownload = https://github.com/visualboyadvance-m/visualboyadvance-m/releases/download/v2.1.8/visualboyadvance-m-Win-x86_64.zip
+SHA1 = 36aecc1e9d8752d02609db0107d8c5c126ecc6ec
+SizeBytes = 14925433
+
+[Section.0a]
+Description = Un emulador para juegos de los sistemas GameBoy y GameBoy Advance.
+
+[Section.0404]
+Description = 一款 Gameboy 和 GameboyAdvance 系統的模擬器。
+
+[Section.0407]
+Description = Ein Gameboy und Gameboy Advance System Emulator.
+
+[Section.0415]
+Description = Emulator systemów Game Boy i Game Boy Advance.
+
+[Section.0418]
+Description = Un emulator pentru sistemele Gameboy și GameboyAdvance.
+
+[Section.0419]
+Description = Эмулятор Gameboy и систем GameboyAdvance.
+
+[Section.041f]
+Description = Gameboy ve GameboyAdvance sistemleri için bir öykünücü.
+
+[Section.0804]
+Description = 一个 Gameboy 和 GameboyAdvance 系统的模拟器。
+
