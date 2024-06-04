@@ -16,7 +16,7 @@ Files = *it.exe
 Dir = SysInternals\ZoomIt
 DelReg = HKCU\Software\SysInternals\ZoomIt
 DelRegEmpty = HKCU\Software\SysInternals
-DelDirEmpty = .|..\.
+DelDirEmpty = .|..
 
 [Generate.amd64]
 Files = *64.exe

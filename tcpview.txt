@@ -21,7 +21,7 @@ Files = *view.exe|tcp*
 Dir = SysInternals\TCPView
 DelReg = HKCU\Software\SysInternals\TCPView
 DelRegEmpty = HKCU\Software\SysInternals
-DelDirEmpty = .|..\.
+DelDirEmpty = .|..
 
 [Generate.amd64]
 Files = *w64.exe|*64.exe|*.chm

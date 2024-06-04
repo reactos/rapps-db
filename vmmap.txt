@@ -13,6 +13,6 @@ Installer = Generate
 [Generate]
 Files = *.exe|*.chm
 Dir = SysInternals\VMMap
-DelReg = HKCU\Software\SysInternals\VMMap
+DelReg = HKCU\Software\SysInternals\VMMap|HKCU\SOFTWARE\Classes\VMMap.Logfile.1
 DelRegEmpty = HKCU\Software\SysInternals
-DelDirEmpty = .|..\.
+DelDirEmpty = .|..

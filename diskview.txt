@@ -14,4 +14,4 @@ Installer = Generate
 Dir = SysInternals\DiskView
 DelReg = HKCU\Software\SysInternals\DiskView
 DelRegEmpty = HKCU\Software\SysInternals
-DelDirEmpty = .|..\.
+DelDirEmpty = .|..

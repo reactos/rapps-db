@@ -16,7 +16,7 @@ Files = procexp.exe|*.chm
 Dir = SysInternals\Process Explorer
 DelReg = HKCU\Software\SysInternals\Process Explorer
 DelRegEmpty = HKCU\Software\SysInternals
-DelDirEmpty = .|..\.
+DelDirEmpty = .|..
 
 [Generate.amd64]
 Files = *64.exe|*.chm

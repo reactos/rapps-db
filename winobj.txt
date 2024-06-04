@@ -14,4 +14,4 @@ Installer = Generate
 Dir = SysInternals\WinObj
 DelReg = HKCU\Software\SysInternals\WinObj
 DelRegEmpty = HKCU\Software\SysInternals
-DelDirEmpty = .|..\.
+DelDirEmpty = .|..

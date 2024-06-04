@@ -13,9 +13,9 @@ Installer = Generate
 [Generate]
 Files = *s.exe|*sc.exe|*.chm
 Dir = SysInternals\AutoRuns
-DelReg = HKCU\Software\SysInternals\AutoRuns
+DelReg = HKCU\Software\SysInternals\AutoRuns|HKCU\SOFTWARE\Classes\Autoruns.Logfile.1
 DelRegEmpty = HKCU\Software\SysInternals
-DelDirEmpty = .|..\.
+DelDirEmpty = .|..
 
 [Generate.amd64]
 Files = *s64.exe|*sc64.exe|*.chm

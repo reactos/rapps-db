@@ -14,4 +14,4 @@ Installer = Generate
 Dir = SysInternals\Filemon
 DelReg = HKCU\Software\SysInternals\Filemon
 DelRegEmpty = HKCU\Software\SysInternals
-DelDirEmpty = .|..\.
+DelDirEmpty = .|..
