@@ -1,0 +1,17 @@
+[Section]
+Name = DiskView
+Description = Shows you a graphical map of your disk, allowing you to determine where a file is located or, by clicking on a cluster, seeing which file occupies it.
+LicenseType = 2
+Category = 12
+Publisher = Microsoft
+Version = 2.21
+URLDownload = https://web.archive.org/web/20061123135029/http://download.sysinternals.com/Files/DiskView.zip
+SHA1 = a85a67f7884a8e71fb1ef641824fe7e748f14887
+SizeBytes = 86705
+Installer = Generate
+
+[Generate]
+Dir = SysInternals\DiskView
+DelReg = HKCU\Software\SysInternals\DiskView
+DelRegEmpty = HKCU\Software\SysInternals
+DelDirEmpty = .|..

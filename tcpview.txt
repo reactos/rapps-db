@@ -1,0 +1,30 @@
+[Section]
+Name = TCPView
+Description = A Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections.
+LicenseType = 2
+Category = 12
+Publisher = Microsoft
+Version = 4.17
+URLDownload = https://web.archive.org/web/20221116090816/https://download.sysinternals.com/files/TCPView.zip
+SHA1 = 94f605f83a4c08bf47d41cd74d14c2fca391cede
+SizeBytes = 2226419
+Installer = Generate
+
+[Section.x86]
+Version = 3.5
+URLDownload = https://web.archive.org/web/20210319143650/https://download.sysinternals.com/files/TCPView.zip
+SHA1 = 169cec73efc0edfcc0081f0a1ed09b70fe7a947b
+SizeBytes = 291606
+
+[Generate]
+Files = *view.exe|tcp*
+Dir = SysInternals\TCPView
+DelReg = HKCU\Software\SysInternals\TCPView
+DelRegEmpty = HKCU\Software\SysInternals
+DelDirEmpty = .|..
+
+[Generate.amd64]
+Files = *w64.exe|*64.exe|*.chm
+
+[Generate.arm64]
+Files = *w64a.exe|*64a.exe|*.chm

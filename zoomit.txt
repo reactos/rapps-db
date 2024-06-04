@@ -1,0 +1,25 @@
+[Section]
+Name = ZoomIt
+Description = A screen zoom, annotation, and recording tool for technical presentations and demos.
+LicenseType = 2
+Category = 12
+Publisher = Microsoft
+URLSite = https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit
+Version = 4.52
+URLDownload = https://web.archive.org/web/20210503071949/http://download.sysinternals.com/Files/ZoomIt.zip
+SHA1 = 231a7f6ee113f71f2f0e7a7cef0931c27f23501f
+SizeBytes = 939781
+Installer = Generate
+
+[Generate]
+Files = *it.exe
+Dir = SysInternals\ZoomIt
+DelReg = HKCU\Software\SysInternals\ZoomIt
+DelRegEmpty = HKCU\Software\SysInternals
+DelDirEmpty = .|..
+
+[Generate.amd64]
+Files = *64.exe
+
+[Generate.arm64]
+Files = *64a.exe
