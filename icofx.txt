@@ -1,0 +1,11 @@
+[Section]
+Name = IcoFX
+Category = 3
+Description = An all-in-one solution for icon creation, extraction and editing. Support for Vista icons with PNG compression and resolutions up to 256x256.
+LicenseType = 2
+Screenshot1 = https://web.archive.org/web/201101im_/http://icofx.ro/images/prev1small.png
+RegName = IcoFX_is1
+Version = 1.6
+SHA1 = c8982cbdf59653f72e92b7bdfd867bdcba7f68a5
+SizeBytes = 1541684
+URLDownload = https://web.archive.org/web/2010103/http://icofx.ro/files/icofxsetup.exe
