@@ -1,0 +1,21 @@
+[Section]
+Name = API Monitor
+Version = v2 (Alpha-r13)
+License = EULA
+LicenseType = 2
+Description = A software to monitor and display API calls made by applications and services. It's a powerful tool for seeing how applications and services work or for tracking down problems that you have in your own applications.
+Category = 7
+URLSite = http://www.rohitab.com/apimonitor
+URLDownload = http://www.rohitab.com/site/files/downloads/2013/03/api-monitor-v2r13-setup-x86.exe
+SHA1 = 4101c50740c5c1ac9da9c7db2a03ffe6d758e829
+SizeBytes = 5185408
+
+[Section.amd64]
+Version = v2 (Alpha-r13)
+URLDownload = http://www.rohitab.com/download/api-monitor-v2r12-setup-x64.exe
+SHA1 = 3d4d5bfded44a0bc3408ef9833a3c2d96bb23843
+SizeBytes = 7237968
+
+[Section.0a]
+Description = Es un software que te permite mostrar y monitorizar las llamadas API de las aplicaciones y servicios. Es una herramienta muy poderosa para rastrear problemas que tienes en las aplicaciones que desarrollas.
+
