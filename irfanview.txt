@@ -8,6 +8,7 @@ URLSite = http://www.irfanview.com/
 URLDownload = https://web.archive.org/web/20180518225728if_/http://www.tucows.com/download/windows/files/iview451_setup.exe
 SHA1 = ec492cad75a154a9ac9d6e356ac7c2b0dc62356f
 SizeBytes = 2466952
+Icon = irfanview.ico
 
 [Section.0a]
 License = Gratuito (para uso personal)

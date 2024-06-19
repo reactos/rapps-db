@@ -8,3 +8,4 @@ URLSite = https://www.interactionstudios.com/chickeninvaders.php
 URLDownload = https://archive.org/download/ChickenInvadersInstaller130/ChickenInvadersInstaller130.exe
 SHA1 = bc304efa49915e1f587b44c5c8894574b155cbf4
 SizeBytes = 3262255
+Icon = chickeninvaders.ico

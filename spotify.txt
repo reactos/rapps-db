@@ -8,6 +8,7 @@ URLSite = https://www.spotify.com/us/
 URLDownload = https://archive.org/download/SpotifyFullSetup1.0.29.92/SpotifyFullSetup1.0.29.92.exe
 SHA1 = 09fe3cedaa08e2bab0ceee01ec9c48b1d9ee414f
 SizeBytes = 50109784
+Icon = spotify.ico
 
 [Section.0a]
 Description = Spotify es uno de los servicios más populares de streaming de música, incluye planes gratuitos y de pago. El cliente de Spotify ha cesado del soporte para Windows XP, pero está archivada una versión que todavía lo soporta.

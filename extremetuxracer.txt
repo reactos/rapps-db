@@ -8,3 +8,4 @@ URLSite = https://sourceforge.net/projects/extremetuxracer/
 URLDownload = https://master.dl.sourceforge.net/project/extremetuxracer/releases/0.5beta/extremetuxracer-0.5beta.exe
 SHA1 = b63599ae6809421a0b8a5784d370534fd3bfd462
 SizeBytes = 43461310
+Icon = extremetuxracer.ico

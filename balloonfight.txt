@@ -7,3 +7,4 @@ URLSite = http://www.muppetlabs.com/~breadbox/software/tworld/
 URLDownload = https://github.com/MikeDX/balloon-fight/releases/download/v1-0.0/balloonfight-win32.zip
 SHA1 = 622b41b66059e4ef0a98ea5e4832f0d756e0c5db
 SizeBytes = 4605270
+Icon = balloonfight.txt
