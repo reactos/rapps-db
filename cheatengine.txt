@@ -1,7 +1,7 @@
 [Section]
 Name = Cheat Engine
 Version = 6.2
-License = Open source
+LicenseType = 1
 Description = Cheat Engine is an open-source tool for modifying game variables by scanning and altering memory addresses.
 Category = 7
 URLSite = https://cheatengine.org/
