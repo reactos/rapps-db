@@ -1,0 +1,10 @@
+[Section]
+Name = Amarok
+Version = 2.8.0
+License = GPL
+Description = Amarok is a free audio player initially developed for KDE, but currently also has a version for Windows. Is advisable previously install AC'97 for Virtualbox so that the sound plays fluently.
+Category = 1
+URLSite = https://amarok.kde.org/
+URLDownload = http://download.kde.org/stable/amarok/2.8.0/win32/amarok-x86-setup-2.8.0.exe
+SHA1 = 8793bdec09df896aa4c1038d2d17fa46a8749f7b
+SizeBytes = 77357375
