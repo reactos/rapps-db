@@ -47,7 +47,7 @@ Description = Multimediálny prehrávač.
 
 [Section.041f]
 Name = VLC Ortam Oynatıcısı
-Description = İçindeki kodeklerle tam özellikli bir FOSS ortam oynatıcısı.
+Description = İçindeki kodeklerle tam teşekküllü bir FOSS ortam oynatıcısı.
 
 [Section.0422]
 Description = Мультимедійний програвач.

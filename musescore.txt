@@ -26,6 +26,9 @@ Description = Profesjonalne oprogramowanie do zapisu nutowego o otwartym kodzie 
 [Section.0419]
 Description = Профессиональный open source нотный редактор.
 
+[Section.041f]
+Description = Profesyonel açık kaynak müzik gösterim yazılımı.
+
 [Section.0804]
 Description = 专业的开源乐谱软件。
 

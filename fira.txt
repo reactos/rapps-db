@@ -32,7 +32,9 @@ Description = Pachet care include fonturi Mono și Sans. Dezarhivați în dosaru
 Description = Набор шрифтов включает Mono и Sans шрифты. Распакуйте в папку ReactOS.
 
 [Section.041f]
-Description = Bir yazı tipi paketi, Mono ve Sans yazı tiplerini kapsar. ReactOS'un dizinine çıkartınız.
+Name = Mozilla Fira Yazı Tipi
+License = SIL Açık Yazı Tipi Lisansı v1.1
+Description = Mono ve Sans yazı tiplerini kapsayan bir yazı tipi paketi. ReactOS klasörüne çıkartınız.
 
 [Section.0425]
 Description = Fondipakend, mis sisaldab Mono ja Sans fonte. Paki lahti ReactOS kausta.

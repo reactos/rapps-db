@@ -43,7 +43,6 @@ Description = API для эмуляции 3dfx видеокарт с OpenGL. Н�
 
 [Section.041f]
 Name = Zeckensack tarafından Glide wrapper
-License = Ücretsiz
 Description = Bir Glide API dolgusu (OpenGL ile 3dfx kartlarını öykünen), ReactOS'ta Diablo 2'yi çalıştırmak için gereklidir.
 
 [Section.0422]

@@ -9,3 +9,6 @@ URLDownload = http://www.nemobar.com/nemobar_100.exe
 SHA1 = db697b8d7d05e5503285a7c0e0e630e9de438601
 SizeBytes = 531181
 Icon = nemobar.ico
+
+[Section.041f]
+Description = NemoBar (Network Monitoring Bar), İnternet trafiğini görüntülemek için kullanışlı bir araç.

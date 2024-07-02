@@ -15,3 +15,8 @@ Description = (For Japanese only) This package provides Japanese fonts and Japan
 [Section.0404]
 Name = ReactOS 日本組合包
 Description = (For Japanese only) This package provides Japanese fonts and Japanese IME for Japanese ReactOS.
+
+[Section.041f]
+Name = ReactOS JPN Paketi
+License = GPL sürüm 3
+Description = (Sadece Japonca için) Bu paket, Japonca ReactOS için Japonca yazı tipleri ve Japonca IME sağlar.

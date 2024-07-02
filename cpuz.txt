@@ -9,3 +9,6 @@ URLDownload = https://download.cpuid.com/cpu-z/cpu-z_2.02-en.exe
 SHA1 = a476e8b2ae9c645c1e1fc7ba6d9e39adffac0c70
 SizeBytes = 2127024
 Icon = cpuz.ico
+
+[Section.041f]
+Description = Sisteminizdeki bazı ana aygıtlar hakkında bilgi toplayan freeware bir araç.

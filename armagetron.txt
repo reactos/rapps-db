@@ -10,3 +10,6 @@ URLDownload = https://sourceforge.net/projects/armagetronad/files/stable/0.2.9.1
 SHA1 = 3ae988973689ddeadc137d2ed11bdb84525b938f
 SizeBytes = 2833664
 Languages=0409
+
+[Section.041f]
+Description =  3D olarak bir Tron klonu. Tam ekranda takılıyor, 640x480'de iyi çalışır.

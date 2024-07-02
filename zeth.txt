@@ -12,3 +12,5 @@ SizeBytes = 259681
 License = 免費軟體
 Description = 適用於 ReactOS 的 Zeth 視覺樣式。這是一個執行檔，您可以執行這個程式並將檔案提取至 C:\ReactOS\Resources\Themes\Zeth。
 
+[Section.041f]
+Description = ReactOS için Zeth Görsel Tarz. Bu, çalıştırılabilir dosyalardır, böylece bu dosyaları çalıştırmakla C:\ReactOS\Resources\Themes\Zeth konumuna çıkartabilirsiniz.

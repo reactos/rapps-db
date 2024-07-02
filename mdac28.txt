@@ -15,3 +15,7 @@ Description = MDAC 2.8 SP1 contiene el núcleo de componentes de Data Access com
 [Section.0404]
 License = 不明
 
+[Section.041f]
+Name =  Microsoft Veri Erişim Bileşenleri (MDAC) 2.8 SP1
+License = Bilinmiyor
+Description = MDAC 2.8 SP1, Microsoft SQL Server™ OLE DB sağlayıcısı ve ODBC sürücüsü gibi temel Veri Erişim bileşenlerini içerir.

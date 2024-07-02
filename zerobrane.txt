@@ -15,6 +15,9 @@ Description = Zerobrane Studio 是一款輕量級開源 Lua 整合開發環境�
 [Section.0415]
 Description = ZeroBrane Studio to lekki, otwartoźródłowy edytor tekstu IDE z wieloma funkcjami pozwalającymi na łatwe programowanie w Lua i tworzenie skryptów w tym języku.
 
+[Section.041f]
+Description = Zerobrane Studio, pek çok özellikle ve Lua kodlarını ve bu dilde yazılmış betikleri yazmayı kolaylaştıran gerçekleştirilmiş fonksiyonlarla hafif bir Lua IDE metin düzenleyicisidir.
+
 [Section.0804]
 Description = Zerobrane Studio 是一款轻量级开源 Lua 集成开发环境编辑器，它实现了很多能够使用户轻松编写 Lua 代码和脚本的特性与功能。
 

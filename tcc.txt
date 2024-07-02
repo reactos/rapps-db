@@ -29,8 +29,8 @@ Description = Compilator mic și foarte rapid de C.
 Description = Небольшой, но быстрый C компилятор.
 
 [Section.041f]
-Name = Minik C Derleyicisi
-Description = Küçük ancak aşırı hızlı bir C derleyicisi.
+Name = Tiny C Derleyicisi
+Description = Küçük ancak hiper hızlı bir C derleyicisi.
 
 [Section.0804]
 Description = 小而精的 C 语言编译器。

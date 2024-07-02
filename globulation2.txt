@@ -31,7 +31,7 @@ Description = Joc de strategie în timp real. Jocul minimizează microgestiunea 
 Description = Стратегия в реальном времени. В игре не нужно раздавать задания юнитам. Вместо этого вы указываете кол-во юнитов для задачи, а игра сама решит, каких юнитов направить на её выполнение.
 
 [Section.041f]
-Description = Gerçek zamanlı bir izlem oyunu. Bu oyun, birimlere kendiliğinden görevler atayarak oyun mikro yönetimini en aza indirir.
+Description = Gerçek zamanlı bir strateji oyunu. Bu oyun, birimlere kendiliğinden görevler atayarak oyun mikro yönetimini en aza indirir.
 
 [Section.0425]
 Description = Reaalajas strateegia mäng. Mäng minimeerib mikromajandust automaatselt määrates käske üksustele.

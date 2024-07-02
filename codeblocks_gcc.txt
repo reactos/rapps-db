@@ -32,7 +32,7 @@ Description = Свободная кроссплатформенная среда
 [Section.041f]
 Name = Code::Blocks TDM-GCC (sürüm 5.1.0, 32 bitlik)
 License = GPL sürüm 3
-Description = Açık kaynak, çapraz platform, güçlü bir tümleşik geliştirme ortamı. TDM-GCC (sürüm 5.1.0, 32 bitlik) derleyicisini içerir.
+Description = Açık kaynak, çapraz platform, güçlü bir IDE. TDM-GCC (sürüm 5.1.0, 32 bitlik) derleyicisini içerir.
 
 [Section.0425]
 Name = Code::Blocks TDM-GCC (versioon 5.1.0, 32 bitti)

@@ -31,12 +31,12 @@ Description = Versiune menținută a Dev-C++. Conține compilatorul TDM-GCC pe 6
 [Section.0419]
 Description = Свободная интегрированная среда разработки приложений для языков программирования C/C++. Содержит 64 битный TDM-GCC компилятор.
 
-[Section.0425]
-Description = Ülalpeetud versioon programmist Dev-C++. Sisaldab 64 bittist TDM-GCC kompileerijat.
-
 [Section.041f]
 License = GPL sürüm 2
 Description = Dev-C++'nın sürdürülen bir sürümü. 64 bitlik TDM-GCC derleyicisi içerir.
+
+[Section.0425]
+Description = Ülalpeetud versioon programmist Dev-C++. Sisaldab 64 bittist TDM-GCC kompileerijat.
 
 [Section.0804]
 Description = 尚在维护的 Dev-C++ 的版本。它包含 64 位 TDM-GCC 编译器。

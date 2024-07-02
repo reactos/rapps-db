@@ -32,7 +32,7 @@ Description = Программа эмуляции аппаратного обе�
 
 [Section.041f]
 License = LGPL sürüm 2
-Description = Çok taşınabilir, C++ ile yazılmış, en yaygın platformlarda çalışan, açık kaynak bir IA-32 (x86) PC öykünücüsüdür.
+Description = Çok taşınabilir, C++ ile yazılmış, en yaygın platformlarda çalışan, açık kaynak bir IA-32 (x86) PC emülatörüdür.
 
 [Section.0425]
 Description = Kõrgelt kaasaskantav avatud lähtekoodiga C++ keeles kirjutatud IA-32 (x86) personaalarvuti emulaator, mis töötab kõige populaarsematel platvormidel.

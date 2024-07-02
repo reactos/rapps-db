@@ -48,7 +48,8 @@ Description = Свободная программа, которая позвол
 Description = Bezplatná aplikácia, ktorá umožňuje čítanie Kindle kníh.
 
 [Section.041f]
-Description = Kindle kitaplarını okumanızı sağlayan ücretsiz bir uygulama.
+Name = Kindle (PC için)
+Description = Kindle kitaplarını okumanıza olanak sağlayan ücretsiz bir uygulama.
 
 [Section.0422]
 Description = Безкоштовна програма, яка дозволяє читати книги Kindle.

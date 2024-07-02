@@ -39,7 +39,6 @@ Description = Program de extragere conținuturi CD audio și de conversie a fiș
 Description = Программа, предназначенная для копирования аудиотреков в цифровой формат.
 
 [Section.041f]
-License = Ücretsiz
 Description = Çok iyi bir CD kaydedicisi ve ses dosyası dönüştürücüsü.
 
 [Section.0422]

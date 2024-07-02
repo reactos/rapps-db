@@ -34,8 +34,6 @@ License = Условно-бесплатно
 Description = Игра похожа на Frozen Fruits.
 
 [Section.041f]
-Name = Bound Around (Tanıtımlık)
-License = Paylaşımlı
 Description = Frozen Fruits benzeri bir oyun.
 
 [Section.0425]

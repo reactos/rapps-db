@@ -37,7 +37,7 @@ Description = Sistem client/server computațional de rețea virtuală (VNC) cu s
 Description = VNC клиент/сервер с открытым исходным кодом.
 
 [Section.041f]
-Description = Açık kaynak VNC istemcisi ve sunucusu.
+Description = Açık kaynak VNC istemcisi/sunucusu.
 
 [Section.0422]
 Description = Відкритий VNC клієнт/сервер.

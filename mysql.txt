@@ -21,6 +21,10 @@ Description = Najpopularniejsza otwartoźródłowa baza danych.
 [Section.0419]
 Description = Самая популярная open source база данных в мире.
 
+[Section.041f]
+Name = MySQL Topluluk Sunucusu
+Description = Dünyanın en popüler açık kaynak veri tabanı yazılımıdır.
+
 [Section.0804]
 Description = 世界上最流行的开源数据库。
 

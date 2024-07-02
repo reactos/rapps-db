@@ -46,8 +46,8 @@ License = Бесплатно (для личного пользования)
 Description = Программа для просмотра всевозможных графических, звуковых, видео файлов.
 
 [Section.041f]
-License = Şahsî kullanım için ücretsiz.
-Description = Çizgelerin, ses kütüklerinin, video kütüklerinin tüm türleri için görüntüleyici.
+License = Freeware (kişisel kullanım için)
+Description = Grafiklerin, ses dosyalarının, video dosyalarının bütün türleri için görüntüleyici.
 
 [Section.0422]
 License = Freeware (для домашнього використання)

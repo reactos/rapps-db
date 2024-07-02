@@ -9,3 +9,7 @@ URLDownload = https://github.com/finalburnneo/FBNeo/releases/download/v1.0.0.2/f
 SHA1 = 7d5107219c2f07d48433fed1cf68175da1dcf149
 SizeBytes = 9389433
 Icon = fbneo.ico
+
+[Section.041f]
+License = MAME sürüm 2
+Description = Arcade tarzı oyunlar için emülatör. Konsolları seçiniz.

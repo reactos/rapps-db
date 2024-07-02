@@ -46,8 +46,9 @@ License = Неизвестно
 Description = Необходим для приложений, написанных в Visual Basic 6. Содержит: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
 
 [Section.041f]
+Name = Microsoft Visual Basic 6 Çalışma Zamanı
 License = Bilinmiyor
-Description = Visual Basic 6'da yazılmış uygulamalar tarafından gereklidir. Şunları içerir: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
+Description = Visual Basic 6'da yazılmış uygulamalar tarafından ihtiyaç duyulur. Şunları içerir: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
 
 [Section.0422]
 License = Невідома

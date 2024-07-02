@@ -36,11 +36,11 @@ Description = Extensie a interfeței de utilizator a sistemului, cu posibilitate
 [Section.0419]
 Description = Расширение оболочки, которое позволяет открыть любую DOS программу в DOSBox. Эта версия содержит DOSBox  0.70, но её можно обновить, установив новую версию DOSBox в папку DosBlaster.
 
+[Section.041f]
+Description = Bir DOS uygulamasını DOSBox'ta sağ tıklamayla açtırılabilmesini olanaklı duruma getiren bir kabuk uzantısıdır. Bu sürüm DOSBox 0.70 içerir ancak daha yeni bir DOSBox DosBlaster klasörlerinin içine kurarak kolayca günceleştirilebilir.
+
 [Section.0425]
 Description = Kestalaiendus, mis lubab avada igat DOS rakendust DOSBoxis parema klõpsuga. See versioon sisaldab DOSBox 0.70-i, aga saab kergelt uuendada installeerides uuema DOSBoxi DosBlaster kaustadesse.
-
-[Section.041f]
-Description = Bir DOS uygulamasını DOSBox'ta sağ tıklamayla açtırılabilmesini olanaklı duruma getiren bir kabuk uzantısıdır. Bu sürüm DOSBox 0.70 içerir ancak daha yeni bir DOSBox'u DosBlaster dizinlerinin içine kurarak kolayca günceleştirilebilir.
 
 [Section.0422]
 Description = DosBlaster це розширення оболонки, яке дозволяє запустити будь-який виконавчий файл DOS в DOSBox через правий клік. Ця версія містить DOSBox 0.70, але може бути оновлена встановленням новішої версії DOSBox в теки DosBlaster.

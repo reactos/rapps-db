@@ -37,7 +37,7 @@ Description = Limbaj de programare dinamic și puternic.
 Description = Удивительно мощный динамический язык программирования.
 
 [Section.041f]
-Description = Dikkat çekici, güçlü ve dinamik bir programlama dili.
+Description = Dikkate değer, güçlü ve dinamik bir programlama dili.
 
 [Section.0422]
 Description = Дуже потужна динамічна мова програмування.

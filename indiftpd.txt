@@ -31,8 +31,7 @@ Description = Server FTP de sine stătător, într-un singur executabil. Este ad
 Description = Отдельный FTP-сервер, который работает как единый исполняемый файл. Он предназначен для ситуаций, когда пользователь не хочет устанавливать/настраивать сервер в системе (или не имеет прав, чтобы это сделать), но хочет быстро поднять сервер.
 
 [Section.041f]
-Version = 1.0.9 Beta
-Description = Bir tek çalıştırılabilir dosyadan oluşan tek başına bir FTP sunucusudur. Bir kullanıcının, çabucak, çalışan bir sunucuya sahip olmak istediği ve sisteminde bir sunucu kurmak/yapılandırmak istemediği (veyâ bunu yapmaya izni olmadığı) durumlar için tasarlanmıştır.
+Description = Bir tek çalıştırılabilir dosya olarak tek başına bir FTP sunucusu. Bir kullanıcının, çabucak, çalışan bir sunucuya sahip olmak istediği ve sisteminde bir sunucu kurmak/yapılandırmak istemediği (veya bunu yapmaya izni olmadığı) durumlar için tasarlanmıştır.
 
 [Section.0425]
 Version = 1.0.9 Beeta

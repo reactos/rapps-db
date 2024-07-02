@@ -10,3 +10,5 @@ SizeBytes = 364810
 [Section.0404]
 Description = 一款來自 Windows Codename Whistler 的 Luna 主題。
 
+[Section.041f]
+Description = Windows kod adı Whistler'den bir Luna teması.

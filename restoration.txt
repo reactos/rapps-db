@@ -7,3 +7,6 @@ URLDownload = https://files1.majorgeeks.com/10afebdbffcd4742c81a3cb0f6ce4092156b
 SHA1 = 34ae0bcecc5b54fb1a6675c75c08295871cf293e
 SizeBytes = 167773
 Icon = restoration.ico
+
+[Section.041f]
+Description = Restoration, geri dönüşüm kutusunda kazayla silinen dosyaları kurtarabilen bir freeware ve taşınabilir uygulamadır.

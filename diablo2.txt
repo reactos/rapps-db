@@ -40,8 +40,6 @@ License = Условно-бесплатно
 Description = Демо-версия игры. Для запуска необходимо наличие Zeckensacks Glide Wrapper.
 
 [Section.041f]
-Name = Diablo II (Paylaşımlı)
-License = Paylaşımlı
 Description = Oyunun tanıtım sürümü. Çalıştırmak için Zeckensack'ın Glide wrapper'ı gereklidir.
 
 [Section.0422]

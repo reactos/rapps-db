@@ -20,3 +20,7 @@ Description = XNA Framework Redistributable 向使用 Microsoft XNA Game Studio 
 License = Nieznana
 Description = Pakiet redystrybucyjny XNA zawiera niezbędne biblioteki do uruchomienia gier w systemie Windows, które zostały opracowane przy użyciu oprogramowania Microsoft XNA Game Studio 4.0.
 
+[Section.041f]
+Name = Microsoft XNA Çatısı Yeniden Dağıtılabilir 4.0 
+License = Bilinmiyor
+Description = The XNA Çatısı Yeniden Dağıtılabilir, Microsoft XNA Game Studio 4.0 kullanılarak geliştirilmiş bir oyunu Windows üzerinde çalıştırmak için gerekli çalışma zamanı bileşenlerini sağlar.

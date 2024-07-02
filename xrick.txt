@@ -9,3 +9,6 @@ URLDownload = http://www.bigorno.net/xrick/xrick-021212-win32.zip
 SHA1 = 0fdd9641003c8181670abd4edc7345c685dfbabd
 SizeBytes = 1645879
 Icon = xrick.ico
+
+[Section.041f]
+Description = xrick, bir Rick Dangerous klonudur.

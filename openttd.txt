@@ -38,7 +38,7 @@ Description = Клон игры Transport Tycoon Deluxe, с открытым и�
 
 [Section.041f]
 License = GPL sürüm 2
-Description = "Transport Tycoon Deluxe" oyun motorunun açık kaynak taklidi. Transport Tycoon'un bir kopyası gerekebilir.
+Description = "Transport Tycoon Deluxe" oyun motorunun açık kaynak klonu. Transport Tycoon'un bir kopyasına ihtiyaç duyabilirsiniz.
 
 [Section.0422]
 Description = Відкритий клон двигуна гри "Transport Tycoon Deluxe". Вам потрібна копія гри Transport Tycoon.

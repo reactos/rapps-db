@@ -33,8 +33,8 @@ License = Измененная LGPL, GPL
 Description = Открытая среда разработки программного обеспечения на языке Object Pascal для компилятора Free Pascal.
 
 [Section.041f]
-License = Değiştirilmiş LGPL, GPL
-Description = Object Pascal programları oluşturmanızı sağlayan çapraz platform bir IDE. Tasarılarınızı derlemek için Free Pascal derleyicisini kullanır.
+License = değiştirilmiş LGPL, GPL
+Description = Object Pascal programları oluşturmanızı sağlayan çapraz platform bir IDE. Projelerinizi derlemek için Free Pascal derleyicisini kullanır.
 
 [Section.0804]
 Description = 允许您创建 Object Pascal 程序的跨平台 IDE。它使用 Free Pascal 语言编译器来构造您的项目。

@@ -29,7 +29,7 @@ Description = Инструмент для сравнения и синхрони
 
 [Section.041f]
 License = GPL sürüm 2
-Description = Dosyalar ve dizinler için, görsel ayrım görüntüleme ve birleştirme için bir araç.
+Description = Dosyalar ve dizinler için, görsel fark görüntüleme ve birleştirme için bir araç.
 
 [Section.0804]
 Description = 一款可视化文件及目录差异显示及合并的工具。

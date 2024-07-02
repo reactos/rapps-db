@@ -31,7 +31,7 @@ Description = Joc-enigmă asemănător cu „Lemmings”.
 Description = Бесплатная игра-головоломка.
 
 [Section.041f]
-Description = Ücretsiz, Lemmings gibi bir bulmaca oyunudur.
+Description = Özgür, Lemmings gibi bir bulmaca oyunudur.
 
 [Section.0804]
 Description = 一个免费的类似 Lemmings 解谜游戏。
