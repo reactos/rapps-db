@@ -8,6 +8,7 @@ URLSite = https://www.gog.com/galaxy
 URLDownload = https://svn.reactos.org/packages/setup_galaxy_1.1.15.13.exe
 SHA1 = 93198e62d8e34034f8668479c92b106faacc850a
 SizeBytes = 146623848
+Icon = gog_galaxy.ico
 
 [Section.0a]
 Description = El cliente gaming diseñado para una conveniente venta, juego y actualización de juegos, así como para el juego online entre plataformas gamers, GOG Galaxy está construida con la opcionalidad en mente, y creyendo que deberías ser propietario de los juegos que compras. ¡Sin DRM!
