@@ -2,9 +2,9 @@
 Name = Safari
 Version = 5.1.7
 License = EULA
-Description = Apple Safari for Windows version 5.1.7
+LicenseType = 2
+Description = Apple Safari browser for Windows.
 Category = 5
 URLSite = https://archive.org/details/safari-5.1.7-windows
 URLDownload = https://archive.org/download/safari-5.1.7-windows/5.1.7_SafariSetup.exe
 SizeBytes = 38494576
-Icon = safari.ico
