@@ -8,3 +8,4 @@ Category = 5
 URLSite = https://archive.org/details/safari-5.1.7-windows
 URLDownload = https://archive.org/download/safari-5.1.7-windows/5.1.7_SafariSetup.exe
 SizeBytes = 38494576
+SHA1 = f601df0106987bfffc3f22b046ba835e4f8d29c6 
