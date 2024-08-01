@@ -4,6 +4,7 @@ Version = 2.6.12
 License = GPL
 Description = An acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.
 Category = 3
+RegName = WinGimp-2.0_is1
 URLSite = https://www.gimp.org/
 URLDownload = https://download.gimp.org/mirror/pub/gimp/v2.6/windows/gimp-2.6.12-i686-setup.exe
 SHA1 = 438ee0a517507396cdab6d814638d7313d0b99e0
