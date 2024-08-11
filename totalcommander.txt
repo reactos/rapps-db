@@ -5,7 +5,7 @@ License = Shareware
 Description = A file manager for power users with two panels side by side.
 Category = 12
 URLSite = http://www.ghisler.com/
-URLDownload = https://totalcommander.ch/win/tcmd912x32.exe
+URLDownload = https://web.archive.org/web/20240214230713/https://totalcommander.ch/win/tcmd912x32.exe
 SHA1 = edec52556aea94d2f5d895abf7bfacb12e00f991
 SizeBytes = 4366296
 
