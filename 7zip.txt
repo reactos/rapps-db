@@ -11,10 +11,10 @@ SizeBytes = 1331365
 Icon = 7zip.ico
 
 [Section.amd64]
-Version = 24.07 
-URLDownload = https://www.7-zip.org/a/7z2407-x64.exe
-SHA1 = c0fa3b83cf9f9ec5e584fbca4a0afa9a9faa13ed
-SizeBytes = 1620576
+Version = 24.07
+URLDownload = https://www.7-zip.org/a/7z2407-x64.msi
+SHA1 = 33610432a1288537b5afbd403dac55f040f05fbe
+SizeBytes = 1966592
 
 [Section.0001]
 Description = .برنامج لضغط وفك ضغط الملفات يدعم تنسيقات متعددة مثل زيب و 7زيب و رار و غيرها
