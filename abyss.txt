@@ -8,6 +8,7 @@ URLSite = https://aprelium.com/
 URLDownload = https://aprelium.com/data/abwsx1.exe
 SHA1 = cb14c9634fee2ae9842322176eec325be51068f6
 SizeBytes = 3262672
+Icon = abyss.ico
 
 [Section.0a]
 Description = Permite alojar sitios Web localmente en el equipo. Soporta conexiones seguras SSL / TLS (HTTPS) así como una gran cantidad de tecnologías web. También puede ejecutar aplicaciones web en PHP, Perl, Python, ASP, ASP.Net, Ruby y Ruby on Rails, que pueden ser asociadas con bases de datos tales como MySQL, SQLite, MS SQL Server, MS Access u Oracle.
