@@ -2,15 +2,17 @@
 PROJECT:     ReactOS rapps-db validator
 LICENSE:     MIT (https://spdx.org/licenses/MIT)
 PURPOSE:     Validate all rapps-db files
-COPYRIGHT:   Copyright 2020-2023 Mark Jansen <mark.jansen@reactos.org>
+COPYRIGHT:   Copyright 2020-2024 Mark Jansen <mark.jansen@reactos.org>
 '''
-import os
+from pathlib import Path
 import sys
 from enum import Enum, unique
+import struct;
+
 
 # TODO: make this even nicer by using https://github.com/pytorch/add-annotations-github-action
 
-REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REPO_ROOT = Path(__file__).parents[1]
 
 REQUIRED_SECTION_KEYS = [
     b'Name',
@@ -94,6 +96,10 @@ class Reporter:
         print(line.text())
         idx = column - 1 + len("b'")    # Offset the b' prefix
         print(' ' * idx + '^')
+
+    def add_file(self, file, problem):
+        self._problems += 1
+        print('{file}: {problem}'.format(file=file, problem=problem))
 
     def problems(self):
         return self._problems > 0
@@ -227,11 +233,11 @@ class RappsLine:
 class RappsFile:
     def __init__(self, fullname):
         self.path = fullname
-        self.filename = os.path.basename(fullname)
+        self.filename = fullname.name
         self._sections = []
 
     def parse(self, reporter):
-        with open(self.path, 'rb') as f:
+        with open(str(self.path), 'rb') as f:
             lines = [RappsLine(self, idx + 1, line) for idx, line in enumerate(f.readlines())]
 
         # Create sections from all lines, and add keyvalue entries in their own section
@@ -298,13 +304,37 @@ def verify_unique(reporter, lines, line, name):
     else:
         lines[name] = line
 
+def validate_single_icon(icon, reporter):
+    try:
+        with open(str(icon), 'rb') as f:
+            header = f.read(4)
+            # First we validate the header
+            if header != b'\x00\x00\x01\x00':
+                reporter.add_file('icons/' + icon.name, 'Bad icon header')
+                return
+            # Check that there is at least one icon
+            num_icons, = struct.unpack('<H', f.read(2))
+            if num_icons == 0:
+                reporter.add_file('icons/' + icon.name, 'Empty icon?')
+                return
+            # Should we validate / display individual icons?
+            # See https://en.wikipedia.org/wiki/ICO_(file_format)#Structure_of_image_directory
+    except Exception as e:
+        reporter.add_file('icons/' + icon.name, 'Exception while reading icon: ' + str(e))
 
-def validate_repo(dirname):
+def validate_icons(ico_dir, reporter):
+    for icon in ico_dir.glob('*.ico'):
+        validate_single_icon(icon, reporter)
+
+
+def validate_repo(check_dir):
     reporter = Reporter()
 
-    all_files = [RappsFile(filename) for filename in os.listdir(dirname) if filename.endswith('.txt')]
+    all_files = [RappsFile(file) for file in check_dir.glob('*.txt')]
     for entry in all_files:
         entry.parse(reporter)
+
+    validate_icons(check_dir / 'icons', reporter)
 
     if reporter.problems():
         print('Please check https://reactos.org/wiki/RAPPS for details on the file format.')
