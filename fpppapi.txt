@@ -19,6 +19,10 @@ Description = 適用於支援 PPAPI 的網頁瀏覽器的 Flash Player 插件（
 License = Darmowe
 Description = Wtyczka Flash Player do przeglądarek internetowych obsługujących PPAPI (np. Chrome, Vivaldi).
 
+[Section.041f]
+Name = Adobe Flash Player 29 PPAPI Eklentisi
+Description = PPAPI destekli (Chrome, Vivaldi gibi) Web tarayıcıları için Flash Player eklentisi.
+
 [Section.0425]
 License = Vabavaraline
 Description = Flash Playeri plugin veebibrauseritele PPAPI toega (nt. Chrome, Vivaldi).

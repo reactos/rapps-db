@@ -9,3 +9,7 @@ URLDownload = https://github.com/Alex313031/chromium-xp/releases/download/M49.0.
 SHA1 = 17204758da42ea5e30f463392ff37368a6f3929e
 SizeBytes = 44779008
 Icon = chromium.ico
+
+[Section.041f]
+License = BSD (3 cümlecikli)
+Description = Pepperflash 21.0.0.213 ile önceden paketlenmiştir. html5test.com sonucu 489/555. Çalıştırmak için şimdilik --no-sandbox komut satırı seçeneğine ihtiyaç duyar.

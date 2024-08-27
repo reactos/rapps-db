@@ -22,6 +22,10 @@ Description = Darmowy i otwartoźródłowy program do obróbki zdjęć.
 [Section.0419]
 Description = Свободный и open source фоторедактор.
 
+[Section.041f]
+License = GNU GPL sürüm 3
+Description = Ücretsiz ve açık kaynak fotoğraf işleyicisi.
+
 [Section.0804]
 Description = 免费开源的图片处理软件。
 

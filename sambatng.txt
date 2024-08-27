@@ -37,7 +37,7 @@ Description = Instrument care permite accesarea în ReactOS a dosarelor și impr
 Description = Позволяет получить доступ к общим папкам Windows и принтерам в ReactOS.
 
 [Section.041f]
-Description = Size, ReactOS'la Windows paylaşılan dizinlere ve paylaşılan yazıcılara erişime olanak sağlar.
+Description = ReactOS'la Windows paylaşılan dizinlere ve paylaşılan yazıcılara erişmenize olanak sağlar.
 
 [Section.0422]
 Description = Цей інструмент дозволяє отримати доступ до спільних тек/принтерів Windows з ReactOSа.

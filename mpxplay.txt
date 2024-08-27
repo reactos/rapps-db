@@ -31,7 +31,7 @@ Description = Lector audio de tip consolă, pe 32-biți pentru Windows.
 Description = Mpxplay - 32-разрядный консольный аудиоплеер для Windows.
 
 [Section.041f]
-Description = Windows için, 32 bitlik, konsolluk bir ses oynatıcısıdır.
+Description = Windows için, 32 bitlik, bir konsol ses oynatıcısıdır.
 
 [Section.0804]
 Description = Windows 32 位控制台音频播放器。

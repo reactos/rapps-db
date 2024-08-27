@@ -73,7 +73,7 @@ SHA1 = 56c5537bdba8743bca62868584ce622b5d862208
 SizeBytes = 35368808
 
 [Section.041f]
-Description = Tutulan ve açık kaynak posta istemcisi.
+Description = Popüler ve açık kaynak posta istemcisi.
 URLSite = https://www.mozilla.org/tr/thunderbird/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/45.8.0/win32/tr/Thunderbird%20Setup%2045.8.0.exe
 SHA1 = 9856b0a17444fb609343e25bc78b622313561192

@@ -1,0 +1,17 @@
+[Section]
+Name = Filemon
+Description = A GUI/device driver combination that monitors and displays all file system activity on a system
+LicenseType = 2
+Category = 12
+Publisher = Microsoft
+Version = 7.3
+URLDownload = https://web.archive.org/web/20070327060603/http://www.sysinternals.com/Files/FilemonNt.zip
+SHA1 = abd212d9334b787bed9ec047d319199bb17fc977
+SizeBytes = 192932
+Installer = Generate
+
+[Generate]
+Dir = SysInternals\Filemon
+DelReg = HKCU\Software\SysInternals\Filemon
+DelRegEmpty = HKCU\Software\SysInternals
+DelDirEmpty = .|..

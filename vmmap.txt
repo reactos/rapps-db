@@ -1,0 +1,18 @@
+[Section]
+Name = VMMap
+Description = A process virtual and physical memory analysis utility.
+LicenseType = 2
+Category = 7
+Publisher = Microsoft
+Version = 3.10
+URLDownload = https://web.archive.org/web/20110726163036/http://download.sysinternals.com/files/vmmap.zip
+SHA1 = 59b65ca253c3af2dc0f010da13827efb03c7a618
+SizeBytes = 561483
+Installer = Generate
+
+[Generate]
+Files = *.exe|*.chm
+Dir = SysInternals\VMMap
+DelReg = HKCU\Software\SysInternals\VMMap|HKCU\SOFTWARE\Classes\VMMap.Logfile.1
+DelRegEmpty = HKCU\Software\SysInternals
+DelDirEmpty = .|..

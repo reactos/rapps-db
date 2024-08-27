@@ -4,6 +4,7 @@ Version = 17.12
 License = GPLv3
 Description = An open source, cross-platform, powerful IDE. It contains TDM-GCC (version 5.1.0, 32 bit) compiler.
 Category = 7
+Icon = codeblocks.ico
 URLSite = http://www.codeblocks.org/
 URLDownload = https://download.sourceforge.net/project/codeblocks/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe
 SHA1 = d9159bdfa76762bf6ceade3485af4af13a6ecff7
@@ -32,7 +33,7 @@ Description = Свободная кроссплатформенная среда
 [Section.041f]
 Name = Code::Blocks TDM-GCC (sürüm 5.1.0, 32 bitlik)
 License = GPL sürüm 3
-Description = Açık kaynak, çapraz platform, güçlü bir tümleşik geliştirme ortamı. TDM-GCC (sürüm 5.1.0, 32 bitlik) derleyicisini içerir.
+Description = Açık kaynak, çapraz platform, güçlü bir IDE. TDM-GCC (sürüm 5.1.0, 32 bitlik) derleyicisini içerir.
 
 [Section.0425]
 Name = Code::Blocks TDM-GCC (versioon 5.1.0, 32 bitti)

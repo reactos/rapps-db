@@ -20,9 +20,9 @@ Description = 執行基於 Java 的程式時所需的平臺和函式庫。
 Description = Sie wollen Java Programme nutzen? Wenn ja, laden Sie die Java Runtime Environment herunter.
 
 [Section.041f]
-Name = Java SE Runtime Environment 7
-License = Oracle İkili Kod Ruhsatı
-Description = Java programlarını çalıştırmak ister misiniz? Öyleyse Java Runtime Environment'ı indiriniz.
+Name = Java SE Çalışma Zamanı Ortamı 7
+License = Oracle İkili Kod Lisansı
+Description = Java programlarını çalıştırmak için gerekli platform ve kitaplıklar.
 
 [Section.0415]
 Description = Platforma i biblioteki potrzebne do uruchamiania programów Java.

@@ -17,3 +17,5 @@ Description = Spotify es uno de los servicios más populares de streaming de mú
 License = 免費軟體
 Description = Spotify 是一款非常流行的音樂串流軟體。它同時有免費和收費計劃。現時的 Spotify 用戶端已不再支援 Windows XP，但舊有版本則仍然支援。
 
+[Section.041f]
+Description = Spotify, bir ücretsiz ve bir ücretli planları kapsayan, müzik akışı için en popüler hizmetlerden biridir. Spotify istemcisi XP için desteği kesmiştir ancak bu arşivlenmiş sürümü onu hâlâ desteklemektedir.

@@ -29,7 +29,7 @@ Description = Двухпанельный консольный менеджер �
 
 [Section.041f]
 Version = 3.0 yapı 4700
-Description = Yan yana iki bölmeli, açık kaynak konsol tabanlı bir dosya yöneticisi.
+Description = Yan yana iki bölmeli, bir açık kaynak konsol tabanlı dosya yöneticisi.
 
 [Section.0425]
 Version = 3.0 ehitis 5200

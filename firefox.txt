@@ -94,7 +94,7 @@ SHA1 = a94c7961288a247e2325b451a01dc2e3e8eb3efc
 SizeBytes = 45720240
 
 [Section.041f]
-Description = Tutulan bir ağ tarayıcısı. Ücretsiz ve açık kaynaktır, küresel bir topluluk tarafından yapılmıştır.
+Description = Popüler bir Web tarayıcısı. Ücretsiz ve açık kaynaktır, küresel bir topluluk tarafından yapılmıştır.
 URLSite = https://www.mozilla.org/tr/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/tr/Firefox%20Setup%2048.0.2.exe
 SHA1 = 5e43ff5442aa249818704099eb452655cf2ca127

@@ -11,3 +11,7 @@ SizeBytes = 375520600
 
 [Section.0419]
 Description = OnlyOffice (в прошлом TeamLab) — мощный офисный пакет с открытым исходным кодом, разработанный компанией Ascensio System SIA. Поддерживает открытие и сохранение документов в форматах Microsoft Office.
+
+[Section.041f]
+License = Sadece AGPL-3.0
+Description = OnlyOffice (önceden TeamLab), Ascensio System SIA tarafından geliştirilen güçlü ve özgür bir ofis takımıdır. Microsoft Office biçimlerini açmayı ve kaydetmeyi destekler.

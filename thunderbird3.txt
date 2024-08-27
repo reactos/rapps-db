@@ -4,6 +4,7 @@ Version = 3.1.20
 License = MPL/GPL/LGPL
 Description = Popular and open source e-mail client.
 Category = 5
+Icon = thunderbird.ico
 URLSite = http://www.mozilla.org/en-US/thunderbird/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/3.1.20/win32/en-US/Thunderbird%20Setup%203.1.20.exe
 SHA1 = c60318ae183d61cbdc76a570a3557d1b308b05f2
@@ -73,7 +74,7 @@ SHA1 = 0d2cb1b8d781c2e8c7be2f78ee7c7687f62dc360
 SizeBytes = 9741672
 
 [Section.041f]
-Description = Tutulan ve açık kaynak posta istemcisi.
+Description = Popüler ve açık kaynak posta istemcisi.
 URLSite = https://www.mozilla.org/tr/thunderbird/
 URLDownload = http://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/3.1.20/win32/tr/Thunderbird%20Setup%203.1.20.exe
 SHA1 = b5035f4979cb7783a4aa1c4e82ec343c1f635ca7

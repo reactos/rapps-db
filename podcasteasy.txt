@@ -29,7 +29,8 @@ Description = Aplicație pentru descărcarea de fișiere audio.
 Description = Приложение для загрузки подкастов.
 
 [Section.041f]
-Description = Ortam akışlarını indirmek için uygulama.
+License = Kamuya açık alan
+Description = Sesli blogları indirmek için uygulama.
 
 [Section.0804]
 License = 公有软件

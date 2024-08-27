@@ -9,3 +9,7 @@ URLDownload = https://master.dl.sourceforge.net/project/extremetuxracer/releases
 SHA1 = b63599ae6809421a0b8a5784d370534fd3bfd462
 SizeBytes = 43461310
 Icon = extremetuxracer.ico
+
+[Section.041f]
+License = GPL sürüm 2
+Description = Başrolde Linux pengueni olan Tux'un olduğu tepeden aşağı bir yarış oyunu.

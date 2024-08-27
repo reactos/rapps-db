@@ -10,3 +10,5 @@ SizeBytes = 1186139
 [Section.0404]
 Description = 一款來自 Windows XP 的 Luna 主題。
 
+[Section.041f]
+Description = Windows XP'den bir Luna teması.

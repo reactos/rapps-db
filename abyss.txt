@@ -39,9 +39,7 @@ Description = Program pentru găzduirea de situri web. Oferă conexiuni securiza
 Description = Позволит разместить веб-сайты на вашем компьютере. Он поддерживает защищенные SSL/TLS-соединения (протокол https), а также широкий спектр веб-технологий. Он также может запустить веб-приложения PHP, Perl, Python, ASP, ASP.NET и Ruby, которые, могут быть связаны с базами данных MySQL, SQLite, MS SQL Server, MS Access или Oracle.
 
 [Section.041f]
-Name = Abyss Umûmî Ağ Sunucusu X1
-License = Ücretsiz
-Description = Bilgisayarınızda ağ sitelerinizin barındırılmasına olanak sağlar. Ağ teknolojilerilerinin bir geniş yelpâzesiyle birlikte güvenli SSL/TLS bağlantılarını (HTTPS) destekler. Ayrıca MySQL, SQLite, MS SQL Server, MS Access ve Oracle gibi veri tabanlarıyla desteklenebilen gelişmiş PHP, Perl, Python, ASP, ASP.NET ve Rails üzerinde Ruby ağ uygulamalarını çalıştırabilir.
+Description = Bilgisayarınızda ağ sitelerinizin barındırılmasına olanak sağlar. Ağ teknolojilerilerinin geniş bir yelpazesiyle birlikte güvenli SSL/TLS bağlantılarını (HTTPS) destekler. Ayrıca MySQL, SQLite, MS SQL Server, MS Access ve Oracle gibi veri tabanlarıyla desteklenebilen gelişmiş PHP, Perl, Python, ASP, ASP.NET ve Rails üzerinde Ruby ağ uygulamalarını çalıştırabilir.
 
 [Section.0422]
 Description = Abyss Web Server дозволить вам утримувати веб-сайти на вашому комп'ютері. Від підтримує безпечні SSL/TLS з'єднання (HTTPS) та великий ряд веб-технологій. Він також запускає PHP, Perl, Python, ASP, ASP.NET, та Ruby on Rails веб-додатки, які можуть підтримуватись такими базами даних, як MySQL, SQLite, MS SQL Server, MS Access, чи Oracle.

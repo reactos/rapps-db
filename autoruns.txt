@@ -1,0 +1,21 @@
+[Section]
+Name = Autoruns
+Description = A utility, which has the most comprehensive knowledge of auto-starting locations of any startup monitor, shows you what programs are configured to run during system bootup or login, and when you start various built-in Windows applications.
+LicenseType = 2
+Category = 12
+Publisher = Microsoft
+Version = 13.71
+URLDownload = https://web.archive.org/web/20170803195021/https://download.sysinternals.com/files/Autoruns.zip
+SHA1 = 62c0af2d62d58aa51650f1bf23d0222d43bf9bb1
+SizeBytes = 1305367
+Installer = Generate
+
+[Generate]
+Files = *s.exe|*sc.exe|*.chm
+Dir = SysInternals\AutoRuns
+DelReg = HKCU\Software\SysInternals\AutoRuns|HKCU\SOFTWARE\Classes\Autoruns.Logfile.1
+DelRegEmpty = HKCU\Software\SysInternals
+DelDirEmpty = .|..
+
+[Generate.amd64]
+Files = *s64.exe|*sc64.exe|*.chm

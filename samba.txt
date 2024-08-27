@@ -29,7 +29,7 @@ Description = Содержит поставщиков проверки подл�
 
 [Section.041f]
 License = GPL sürüm 3
-Description = Çalışan uygulamaların gereksinim duyduğu secur32.dll (ör: NTLM ...) yetkilendirme sağlayıcılarını sağlar.
+Description = Çalışan uygulamaların gereksinim duyduğu secur32.dll (ör: NTLM ...) için yetkilendirme sağlayıcılarını sağlar.
 
 [Section.0804]
 Description = 为需要 secur32.dll (如 NTLM)运行的程序提供鉴权提供者

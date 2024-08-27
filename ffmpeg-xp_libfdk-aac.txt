@@ -1,10 +1,10 @@
 [Section]
 Name = FFmpeg-XP libfdk-aac
-Version = 2.0.2-231-3f864cc
+Version = 2.0.3
 License = Fraunhofer FDK AAC license. https://android.googlesource.com/platform/external/aac/+/master/NOTICE
 Description = Adds FDK AAC codec support for FFmpeg-XP. Copy the DLL to FFmpeg directory (containing ffmpeg.exe). Build by Reino.
 Category = 14
 URLSite = https://forum.doom9.org/showthread.php?t=181802
-URLDownload = https://rwijnsma.home.xs4all.nl/files/ffmpeg/libfdk-aac/libfdk-aac-2.0.2-231-3f864cc-win32-xpmod-sse.7z
-SHA1 = 648cf85020f380c2fda925cdf8bea13454a76584
-SizeBytes = 554425
+URLDownload = https://rwijnsma.home.xs4all.nl/files/ffmpeg/libfdk-aac/libfdk-aac-2.0.3-win32-xpmod-sse.7z
+SHA1 = 46b9cfa133e982465749609748ce3fe6098e28bb
+SizeBytes = 554578

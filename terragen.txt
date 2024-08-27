@@ -8,3 +8,6 @@ URLSite = http://www.planetside.co.uk/downloads/tg3/hdu3p9qej3m7x8jw/Terragen3-3
 URLDownload = http://www.planetside.co.uk/downloads/tg3/hdu3p9qej3m7x8jw/Terragen3-Win32-34000.msi
 SHA1 = 375ae214f8869068f4ebaa6742235fb95b758aa7
 SizeBytes = 14759424
+
+[Section.041f]
+Description = Terragen, görsel efekt profesyonlleri ve artistler için foto gerçekliğe sahip 3D peyzaj tasarımı ve grafik işleme yazılımıdır. (OpenGL GEREKLİDİR!)

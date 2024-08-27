@@ -21,6 +21,9 @@ Description = 基於 Cube 引擎的第一人稱 3D 射擊遊戲。
 License = Бесплатно
 Description = Трехмерный шутер от первого лица, основанный на движке Cube.
 
+[Section.041f]
+Description = Cube motoru tabanlı 3D birinci şahıs nişancılık oyunudur.
+
 [Section.0422]
 License = Безкоштовно
 Description = Трьохмірний шутер від першої особи, що базується на движку Cube.

@@ -16,3 +16,5 @@ Description = Un tema de Windows basado en el look del Windows Codename Whistler
 License = 免費軟體
 Description = 一款基於 Windows Codename Whistler 的外觀的 Windows 主題。這個 Watercolor 版本與 4.3 版本有一些區別。
 
+[Section.041f]
+Description = Windows Codename Whistler görünümü tabanlı bir Windows teması. Watercolor 4.3 temasının hafif çeşidi.

@@ -32,8 +32,7 @@ License = Бесплатно
 Description = Открытый дистрибутив TeX/LaTeX для платформы Windows.
 
 [Section.041f]
-License = Ücretsiz
-Description = Windows için, TeX'in, LaTeX'in ve ilişkili programların bir şimdiki uygulaması.
+Description = Windows için, TeX/LaTeX'in ve ilişkili programların güncel bir uygulaması.
 
 [Section.0804]
 License = 免费软件

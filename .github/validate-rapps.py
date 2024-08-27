@@ -2,24 +2,29 @@
 PROJECT:     ReactOS rapps-db validator
 LICENSE:     MIT (https://spdx.org/licenses/MIT)
 PURPOSE:     Validate all rapps-db files
-COPYRIGHT:   Copyright 2020-2023 Mark Jansen <mark.jansen@reactos.org>
+COPYRIGHT:   Copyright 2020-2024 Mark Jansen <mark.jansen@reactos.org>
 '''
-import os
+from pathlib import Path
 import sys
 from enum import Enum, unique
+import struct;
+
 
 # TODO: make this even nicer by using https://github.com/pytorch/add-annotations-github-action
 
-REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REPO_ROOT = Path(__file__).parents[1]
 
-ALL_KEYS = [
+REQUIRED_SECTION_KEYS = [
     b'Name',
+    b'Category',
+    b'URLDownload',
+]
+
+OPTIONAL_SECTION_KEYS = [
     b'Version',
     b'License',
     b'Description',
-    b'Category',
     b'URLSite',
-    b'URLDownload',
     b'SHA1',
     b'SizeBytes',
     b'Icon',
@@ -27,15 +32,26 @@ ALL_KEYS = [
     b'LicenseType',
     b'Languages',
     b'RegName',
+    b'Publisher',
+    b'Installer',
+    b'Scope',
 ]
 
 
-REQUIRED_KEYS = [
-    b'Name',
-    b'Category',
-    b'URLDownload',
-]
-
+KEYS = {
+    b'Section': REQUIRED_SECTION_KEYS + OPTIONAL_SECTION_KEYS,
+    b'Generate': [
+        b'Files',
+        b'Dir',
+        b'Lnk',
+        b'Icon',
+        b'DelFile',
+        b'DelDir',
+        b'DelDirEmpty',
+        b'DelReg',
+        b'DelRegEmpty',
+    ],
+}
 
 ALL_ARCH = [
     b'x86',
@@ -52,9 +68,12 @@ LICENSE_TYPES = [
     3, # Trial/Demo
 ]
 
+def get_valid_keys(section_name):
+    return KEYS[section_name]
 
 all_names = {}
 all_urls = {}
+g_current_section = None
 
 
 HEXDIGITS = b'0123456789abcdef'
@@ -77,6 +96,10 @@ class Reporter:
         print(line.text())
         idx = column - 1 + len("b'")    # Offset the b' prefix
         print(' ' * idx + '^')
+
+    def add_file(self, file, problem):
+        self._problems += 1
+        print('{file}: {problem}'.format(file=file, problem=problem))
 
     def problems(self):
         return self._problems > 0
@@ -129,8 +152,10 @@ class RappsLine:
             stripped = stripped + b']'  # Add it so we can continue
 
         section_name, locale, extra_locale, arch = self._extract_section_info(stripped, reporter)
+        global g_current_section
+        g_current_section = section_name
 
-        if section_name != b'Section':
+        if section_name not in KEYS:
             help = 'should always be "Section"'
             reporter.add(self, self._text.index(section_name) + 1,
                          'Invalid section name: "{sec}", {msg}'.format(sec = section_name, msg = help))
@@ -178,7 +203,7 @@ class RappsLine:
         textkey = self.key.decode()
         textval = self.val.decode()
 
-        if self.key not in ALL_KEYS:
+        if self.key not in get_valid_keys(g_current_section):
             reporter.add(self, 0, 'Unknown key: "{key}"'.format(key = textkey))
 
         if self.key in [b'LicenseType']:
@@ -193,6 +218,11 @@ class RappsLine:
                 # reporter.add(self, 0, 'Invalid value: "{val}" in {key}'.format(val = v, key = textkey))
                 print('Warning: {key} is "{val}" ({file})'.format(val = v, key = textkey, file = self._file.filename))
 
+        if self.key in [b'Scope']:
+            v = textval
+            if v.casefold() not in ['user', 'machine']:
+                print('Warning: {key} is "{val}" ({file})'.format(val = v, key = textkey, file = self._file.filename))
+
     def location(self, column):
         return '{file}({line}:{col})'.format(file = self._file.filename, line = self._lineno, col = column)
 
@@ -203,11 +233,11 @@ class RappsLine:
 class RappsFile:
     def __init__(self, fullname):
         self.path = fullname
-        self.filename = os.path.basename(fullname)
+        self.filename = fullname.name
         self._sections = []
 
     def parse(self, reporter):
-        with open(self.path, 'rb') as f:
+        with open(str(self.path), 'rb') as f:
             lines = [RappsLine(self, idx + 1, line) for idx, line in enumerate(f.readlines())]
 
         # Create sections from all lines, and add keyvalue entries in their own section
@@ -237,7 +267,7 @@ class RappsFile:
                 all_sections.append(uniq_section)
             if not main_section and section.main_section:
                 main_section = section
-                for key in REQUIRED_KEYS:
+                for key in REQUIRED_SECTION_KEYS:
                     if not section[key]:
                         reporter.add(section, 0, 'Main section has no {key} key!'.format(key = key))
             if section[b'URLDownload'] and not section[b'SizeBytes']:
@@ -274,13 +304,37 @@ def verify_unique(reporter, lines, line, name):
     else:
         lines[name] = line
 
+def validate_single_icon(icon, reporter):
+    try:
+        with open(str(icon), 'rb') as f:
+            header = f.read(4)
+            # First we validate the header
+            if header != b'\x00\x00\x01\x00':
+                reporter.add_file('icons/' + icon.name, 'Bad icon header')
+                return
+            # Check that there is at least one icon
+            num_icons, = struct.unpack('<H', f.read(2))
+            if num_icons == 0:
+                reporter.add_file('icons/' + icon.name, 'Empty icon?')
+                return
+            # Should we validate / display individual icons?
+            # See https://en.wikipedia.org/wiki/ICO_(file_format)#Structure_of_image_directory
+    except Exception as e:
+        reporter.add_file('icons/' + icon.name, 'Exception while reading icon: ' + str(e))
 
-def validate_repo(dirname):
+def validate_icons(ico_dir, reporter):
+    for icon in ico_dir.glob('*.ico'):
+        validate_single_icon(icon, reporter)
+
+
+def validate_repo(check_dir):
     reporter = Reporter()
 
-    all_files = [RappsFile(filename) for filename in os.listdir(dirname) if filename.endswith('.txt')]
+    all_files = [RappsFile(file) for file in check_dir.glob('*.txt')]
     for entry in all_files:
         entry.parse(reporter)
+
+    validate_icons(check_dir / 'icons', reporter)
 
     if reporter.problems():
         print('Please check https://reactos.org/wiki/RAPPS for details on the file format.')

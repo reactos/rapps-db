@@ -29,7 +29,7 @@ Description = Grup de instrumente pentru formatul de fișiere MKV.
 Description = Набор инструментов для работы с файлами формата mkv.
 
 [Section.041f]
-Description = MKV biçiminde dosyalarla çalışma için araç takımı.
+Description = MKV biçiminde dosyalarla çalışma için araçlar takımı.
 
 [Section.0804]
 Description = 处理 MKV 格式文件的套件。

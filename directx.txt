@@ -21,6 +21,11 @@ Description = 為多數基於 DirectX 的應用程式和遊戲提供必須的執
 License = Nieznana
 Description = Zawiera biblioteki wymagane przez większość gier i aplikacji opartych na DirectX. Należy uruchomić instalator po wypakowaniu plików.
 
+[Section.041f]
+Name = DirectX Son Kullanıcı Çalışma Zamanı (Haziran 2010)
+License = Bilinmiyor
+Description = Çoğu DirectX tabanlı uygulamaların ve oyunların gerektirdiği çalışma zamanını sağlar. Paketten çıkardıktan sonra kurucuyu elle çalıştırmanız gerekir.
+
 [Section.0425]
 License = Tundmatu
 Description = Annab enamus DirectX põhinevate rakenduste ja mängude jaoks sobivad runtimed. Peate installeri käivitama käsitisi pärast lahti pakkimist.

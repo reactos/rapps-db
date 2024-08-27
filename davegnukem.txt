@@ -10,3 +10,6 @@ URLDownload = https://sourceforge.net/projects/gnukem/files/gnukem/Dave_Gnukem_S
 SHA1 = f76044ac6b8d98e1039a860a820337dced01a8d1
 SizeBytes = 21527672
 Languages=0409
+
+[Section.041f]
+Description = Dave Gnukem, bir retro tarzında 2D kaydırmalı platform nişancılık oyunudur. Duke Nukem 1'den esinlenilmiştir ve ona benzer.

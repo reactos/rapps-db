@@ -1,0 +1,13 @@
+[Section]
+Name = TinySnake
+Version = 1.0
+License = MIT
+Description = A simple console game of "Snake". Play with English keyboard!
+Category = 4
+URLSite = https://github.com/DosX-dev/TinySnake-game
+URLDownload = https://github.com/DosX-dev/TinySnake-game/releases/download/Builds/TinySnake.x32.exe
+SizeBytes=3584
+
+[Section.0419]
+Description = Простая консольная игра в "Змейку". Играть с английской раскладки!
+

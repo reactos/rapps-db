@@ -1,0 +1,17 @@
+[Section]
+Name = WinObj
+Description = A must-have tool if you are a system administrator concerned about security, a developer tracking down object-related problems, or just curious about the Object Manager namespace.
+LicenseType = 2
+Category = 7
+Publisher = Microsoft
+Version = 2.22
+URLDownload = https://web.archive.org/web/20200222045401/https://download.sysinternals.com/files/WinObj.zip
+SHA1 = c5de57a34bf059aed5774bc6af4514c28dbb467d
+SizeBytes = 458395
+Installer = Generate
+
+[Generate]
+Dir = SysInternals\WinObj
+DelReg = HKCU\Software\SysInternals\WinObj
+DelRegEmpty = HKCU\Software\SysInternals
+DelDirEmpty = .|..

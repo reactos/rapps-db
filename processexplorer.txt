@@ -1,0 +1,22 @@
+[Section]
+Name = Process Explorer
+Description = A freeware task manager and system monitor for Microsoft Windows.
+LicenseType = 2
+Category = 12
+Publisher = Microsoft
+URLSite = https://technet.microsoft.com/sysinternals/bb896653.aspx
+Version = 16.30
+URLDownload = https://web.archive.org/web/20190913041012/https://download.sysinternals.com/files/ProcessExplorer.zip
+SHA1 = 6c0237823163ba0e7b525e2f68c881d983a554af
+SizeBytes = 2004933
+Installer = Generate
+
+[Generate]
+Files = procexp.exe|*.chm
+Dir = SysInternals\Process Explorer
+DelReg = HKCU\Software\SysInternals\Process Explorer
+DelRegEmpty = HKCU\Software\SysInternals
+DelDirEmpty = .|..
+
+[Generate.amd64]
+Files = *64.exe|*.chm
