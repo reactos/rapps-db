@@ -8,7 +8,6 @@ URLSite = http://grafx2.chez.com/
 URLDownload = https://gitlab.com/GrafX2/grafX2/-/jobs/3140386057/artifacts/raw/install/grafx2-win32-2.8.3137.win32.exe
 SHA1 = df7ec1ee27dd509c484a277aa33546adc3616817
 SizeBytes = 2198528
-Icon = GrafX2.ico
 
 [Section.041f]
 License = GPL sürüm 2
