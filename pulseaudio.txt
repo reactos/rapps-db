@@ -8,7 +8,6 @@ URLSite = https://www.freedesktop.org/wiki/Software/PulseAudio/Ports/Windows/Sup
 URLDownload = http://bosmans.ch/pulseaudio/pulseaudio-1.1.zip
 SHA1 = e4b0e79220ca16c30a782514a40c303e93ae688c
 SizeBytes = 5003556
-Icon = pulseaudio.ico
 
 [Section.041f]
 Description = PulseAudio, ağ yeteneklerine sahip bir ses sunucusu programıdır.

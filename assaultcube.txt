@@ -8,7 +8,6 @@ URLSite = https://assault.cubers.net/
 URLDownload = https://web.archive.org/web/20210404184218/https://github.com/assaultcube/AC/releases/download/v1.2.0.2/AssaultCube_v1.2.0.2.exe
 SHA1 = 91de3526daa12a139f051dee9f865f84be79aeed
 SizeBytes = 45464090
-Icon = assaultcube.ico
 
 [Section.0a]
 Description = Shooter 3D en primera persona basado en el motor gráfico Cube.

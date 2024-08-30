@@ -8,7 +8,6 @@ URLSite = http://tuxpaint.org/
 URLDownload = http://download.sourceforge.net/project/tuxpaint/tuxpaint/0.9.22/tuxpaint-0.9.22-win32-installer.exe
 SHA1 = 1ceeb1cba00d939f41e9b1e6d5aa82d071b010d5
 SizeBytes = 14161131
-Icon = tuxpaint.ico
 
 [Section.0a]
 Description = Editor gráfico de imágenes de código abierto, pensado para niños pequeños.

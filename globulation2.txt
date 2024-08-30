@@ -8,7 +8,6 @@ URLSite = http://www.globulation2.org
 URLDownload = http://dl.sv.nongnu.org/releases/glob2/0.9.4/glob2-0.9.4.4.exe
 SHA1 = 030490b12518719388986c571b88efe2192981fa
 SizeBytes = 14079010
-Icon = globulation2.ico
 
 [Section.0a]
 Description = Un juego de estrategia en tiempo real. El juego minimiza la supervisión excesiva asignando tareas a las unidades de forma automática.

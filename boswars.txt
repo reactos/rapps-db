@@ -8,7 +8,6 @@ URLSite = http://www.boswars.org
 URLDownload = http://www.boswars.org/dist/releases/BosWars-2.6.1.exe
 SHA1 = d3f12d5f8529edfb924dca789f779f6b593a2221
 SizeBytes = 65299934
-Icon = boswars.ico
 
 [Section.0a]
 Description = Un juego de estrategia futurista en tiempo real. Para ejecutar el juego es necesario instalar Microsoft Visual C++ 2008 runtime.

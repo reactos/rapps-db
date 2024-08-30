@@ -8,7 +8,6 @@ URLSite = http://www.scribus.net/
 URLDownload = https://download.sourceforge.net/project/scribus/scribus/1.4.7/scribus-1.4.7-windows.exe
 SHA1 = 644694da09557b30d019f09949c6809db768b2e2
 SizeBytes = 84314878
-Icon = scribus.ico
 
 [Section.0a]
 Description = Un programa de código abierto que brinda diseño de página profesional a ReactOS.

@@ -7,7 +7,6 @@ Category = 4
 URLDownload = http://svn.reactos.org/packages/Hover.exe
 SHA1 = 2e9220901494175df906e6bb8d16fa4c6b730921
 SizeBytes = 6456517
-Icon = hover.ico
 
 [Section.0a]
 Description = El clásico juego Hover CTF (captura la bandera) incluido en el CD de Windows 95.

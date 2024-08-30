@@ -8,7 +8,6 @@ URLSite = http://photivo.org
 URLDownload = https://bitbucket.org/Photivo/photivo/downloads/photivo-setup-2014-05-25-win32.exe
 SHA1 = a3c4b6e2daa5be7f372ccd7d97a95a850c9e1a27
 SizeBytes = 12370635
-Icon = photivo.ico
 
 [Section.0a]
 Description = Un procesador fotográfico gratuito y de código abierto.
