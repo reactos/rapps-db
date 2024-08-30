@@ -8,6 +8,7 @@ URLSite = http://commanderstalin.sourceforge.net/
 URLDownload = http://download.sourceforge.net/project/commanderstalin/commander%20stalin%20version%203/version3/cstalin-0.9.5-win.zip
 SHA1 = 736b89d96c025bdf0b17116b4b8f26424e219669
 SizeBytes = 273683958
+
 [Section.0a]
 Description = Un juego de estrategia en tiempo real con tintes soviéticos.
 

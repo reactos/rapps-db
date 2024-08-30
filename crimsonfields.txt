@@ -11,4 +11,3 @@ SizeBytes = 1380280
 
 [Section.041f]
 Description = Bir turlamalı taktiksel savaş oyunu.
-
