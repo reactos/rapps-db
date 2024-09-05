@@ -8,7 +8,6 @@ URLSite = https://www.alcpu.com/CoreTemp/
 URLDownload = https://www.alcpu.com/CoreTemp/Core-Temp-setup-v1.18.1.0.exe
 SHA1 = f4329a1afc37f143ba1d39d9670ca4b1acd61c23
 SizeBytes = 1294336
-Icon = coretemp.ico
 
 [Section.041f]
 Description = Core Temp, işlemci sıcaklığını ve diğer hayati bilgileri izlemek için kompakt, zahmetsiz, az yer kaplayan, ancak güçlü bir programdır.
