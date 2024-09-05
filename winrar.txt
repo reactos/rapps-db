@@ -5,12 +5,12 @@ License = EULA
 Description = WinRAR is a popular archive manager to compress or decompress files, it has its own format for compression without much loss (.rar).
 Category = 12
 URLSite = https://www.winrar.es/
-URLDownload = https://d.winrar.es/d/37z1698371810/RFzd3_5bGHP3zappyENuyQ/winrar-x32-624.exe
+URLDownload = https://www.rarlab.com/rar/winrar-x32-624.exe
 SHA1 = 25026a74b8349ffff4246791be60c37ec02ef631
 SizeBytes = 3317040
 
 [Section.amd64]
-URLDownload = https://d.winrar.es/d/101z1698782528/sEM6qGk6vq0hkzBNNL4Mxw/winrar-x64-624.exe
+URLDownload = https://www.rarlab.com/rar/winrar-x64-624.exe
 SHA1 = aa5e8d9fd7d613a163acebcccefdfd33bb18c8cd
 SizeBytes = 3589048
 
