@@ -1,0 +1,13 @@
+[Section]
+Name = HWMonitor
+Version = 1.52.0
+License = Freeware
+Description = HWMonitor is a hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, powers, currents, fans speed, utilizations, clock speeds...
+Category = 12
+URLSite = https://www.cpuid.com/softwares/hwmonitor.html
+URLDownload = https://download.cpuid.com/hwmonitor/hwmonitor_1.52.exe
+SHA1 = 1ff6a10902d3fd343aad94243c82db3afb9b8e04
+SizeBytes = 1515520
+
+[Section.041f]
+Description = HWMonitor, Bilgisayarınızın ana sağlık sensörlerini okuyan bir donanım izleme programıdır: voltajlar, sıcaklıklar, güçler, akımlar, fan hızı, kullanımlar, saat hızları ...
