@@ -5,7 +5,7 @@ License = GPL
 Description = Free, open source, cross-platform software for recording and editing sounds.
 Category = 1
 URLSite = http://audacityteam.org/
-URLDownload = https://dreimer.eu/reactos/audacity-win-2.2.2.exe
+URLDownload = https://web.archive.org/web/20240905191907/https://www.videohelp.com/download-QLwRZLDtcw/audacity-win-2.2.2.exe
 SHA1 = 39d00d43e72a7944f433d3f61855a487b5797328
 SizeBytes = 20248056
 
