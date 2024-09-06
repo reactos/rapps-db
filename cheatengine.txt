@@ -8,3 +8,6 @@ URLSite = https://cheatengine.org/
 URLDownload = https://web.archive.org/web/20211225142624if_/https://cheatengine.org/download/CheatEngine62.exe
 SHA1 = 5042d797d7fa03425d3ad7e333f5435626ca6534
 SizeBytes = 780088
+
+[Section.041f]
+Description = Cheat Engine, bellek adreslerini tarayarak ve değiştirerek oyun değişkenlerini değiştirmeye yarayan açık kaynaklı bir araçtır.
