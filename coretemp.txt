@@ -1,0 +1,19 @@
+[Section]
+Name = Core Temp
+Version = 1.18.1
+License = EULA
+Description = Core Temp is a compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information.
+Category = 12
+URLSite = https://www.alcpu.com/CoreTemp/
+URLDownload = https://www.alcpu.com/CoreTemp/Core-Temp-setup-v1.18.1.0.exe
+SHA1 = f4329a1afc37f143ba1d39d9670ca4b1acd61c23
+SizeBytes = 1294336
+
+[Section.amd64]
+Version = 1.18.1 Portable
+URLDownload = https://www.alcpu.com/CoreTemp/CoreTemp64.zip
+SHA1 = f588216efeebfd7e4012ce5346f15cd4c0c81dbc
+SizeBytes = 458752 
+
+[Section.041f]
+Description = Core Temp, işlemci sıcaklığını ve diğer hayati bilgileri izlemek için kompakt, zahmetsiz, az yer kaplayan, ancak güçlü bir programdır.
