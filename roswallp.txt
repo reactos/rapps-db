@@ -13,3 +13,7 @@ SizeBytes = 7474167
 Files = *
 Dir = %SystemRoot%\Web\Wallpaper
 Lnk = !
+
+[Section.041f]
+Name = ReactOS Standart Duvar Kağıtları
+Description = ReactOS için standart duvar kağıdı koleksiyonu.
