@@ -1,11 +1,11 @@
-[Section]
+﻿[Section]
 Name = Shed
 Version = 1.0
-License = Freeware
+LicenseType = 1
 Description = A single player card game for Windows. It is based on the popular student card-game of "Shit-head".
 Category = 4
 URLSite = https://www.catch22.net/software/shed
-URLDownload = https://www.catch22.net/assets/files/software/shedsetup1.exe
+URLDownload = https://web.archive.org/web/20170925173020if_/http://www.catch22.net/sites/default/files/shedsetup1.exe
 SHA1 = beb2f027c2955205a6c520be112b9b43ea5e6fae
 SizeBytes = 67371
 
@@ -13,7 +13,6 @@ SizeBytes = 67371
 Description = Un juego de cartas de un jugador hecho para Windows. Está basado en el popular juego de estudiantes "Shit-head".
 
 [Section.0404]
-License = 免費軟體
 Description = Windows 上的單人卡牌遊戲。它基於一款名為「Shit-head」的學生卡牌遊戲。
 
 [Section.0407]
@@ -23,17 +22,14 @@ Description = Ein Single-Player-Kartenspiel für Windows. Es basiert auf dem bel
 Description = Jednoosobowa gra w karty dla systemów Windows. Opiera się na popularnej grze studenckiej "Shit-head".
 
 [Section.0418]
-License = Gratuită
 Description = Joc de cărți pentru Windows. Este bazat pe popularul joc de cărți studențesc „Shit-head”.
 
 [Section.0419]
-License = Бесплатно
 Description = Карточная игра для одного игрока.
 
 [Section.041f]
 Description = Windows için bir tek oyunculu kart oyunu. "Shit-head" popüler öğrenci kart oyunu tabanlıdır.
 
 [Section.0804]
-License = 免费软件
 Description = Windows 上的单人卡牌游戏。它基于一款叫做 "Shit-head" 的流行的学生卡牌游戏。
 
