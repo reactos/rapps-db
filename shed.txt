@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Shed
 Version = 1.0
 LicenseType = 1
