@@ -1,0 +1,17 @@
+[Section]
+Name = Realtek HD Audio Drivers R2.74 (WDM)
+Version = R2.74 (5.10.0.7111)
+License = Propietary
+Description = Realtek HD Audio codec and drivers, suitable for multiple soundcards/chipsets and devices as workstation, laptops, minipc, etc. 
+Category = 13
+URLSite = https://www.realtek.com/
+URLDownload = https://drivers.tec.br/pc/motherboard/1_POR_CHIPSET/INTEL%20915%20945%20965%20G31%20G41%20H55%20H61%20B75/INTEL%20915%20945%20965%20G31%20G41%20H55%20H61%20B75_19072022/SOUND/0001-WDM_R274%20%5bDRIVERS.TEC.BR%5d.exe
+SHA1 = 1a7835cedecab8c1e25789d73a696925184d54f2 
+SizeBytes = 31983612
+Icon = realtek.ico
+
+[Section.amd64]
+URLDownload = https://drivers.tec.br/pc/motherboard/1_POR_CHIPSET/INTEL%20915%20945%20965%20G31%20G41%20H55%20H61%20B75/INTEL%20915%20945%20965%20G31%20G41%20H55%20H61%20B75_19072022/SOUND/0001-WDM_R274%20%5bDRIVERS.TEC.BR%5d.exe
+SHA1 = 1a7835cedecab8c1e25789d73a696925184d54f2 
+SizeBytes = 31983612
+
