@@ -1,0 +1,18 @@
+[Section]
+Name = Realtek Audio Drivers for AC97 A4.06
+Version = A4.06 (5.10.0.6300)
+License = Propietary
+Description = Audio driver for Win2000/WinME/WinXP (WDM driver) for multiple AC97 cards like ALC850, ALC655 or ALC250. Suitable for multiple old workstation systems with VIA or C-media chipsets.
+Category = 13
+URLSite = https://www.realtek.com/
+URLDownload = https://akacc.net/win98/0001-WDM_A406.exe
+SHA1 = edca75940e8a30fb87c19278aaa36c3fbea02f00
+SizeBytes = 18734784
+Icon = realtek.ico
+
+[Section.amd64]
+URLDownload = https://akacc.net/win98/0001-WDM_A406.exe
+SHA1 = edca75940e8a30fb87c19278aaa36c3fbea02f00
+SizeBytes = 18734784
+
+
