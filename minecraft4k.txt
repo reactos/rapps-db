@@ -2,7 +2,7 @@
 Name = Minecraft 4K
 Version = v2
 License = Apache
-Description = Minecraft 4k was an edition of Minecraft developed for the 2010 Java 4K contest.
+Description = Minecraft 4k was an edition of Minecraft developed for the 2010 Java 4K contest. Needs the Java framework 8 to run.
 Category = 4
 URLSite = https://maverk-corporation.itch.io/minecraft4k
 URLDownload = https://github.com/fiatcoupe16vturbo/Minecraft-4K-Mirror/raw/refs/heads/main/Minecraft4K.jar
@@ -11,4 +11,4 @@ SizeBytes = 9852
 Screenshot1 = https://github.com/user-attachments/assets/56244875-6573-4d6b-b94c-96984798e76a
 
 [Section.041f]
-Description = Minecraft 4k, 2010 Java 4K yarışması için geliştirilmiş bir Minecraft sürümüdür.
+Description = Minecraft 4k, 2010 Java 4K yarışması için geliştirilen bir Minecraft sürümüdür. Çalıştırmak için Java framework 8'e ihtiyaç duyar.
