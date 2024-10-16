@@ -14,4 +14,3 @@ Icon = realtek.ico
 URLDownload = https://ftp.nluug.nl/pub/games/PC/guru3d/realtek/WDM_R274-[Guru3D.com].exe
 SHA1 = 1a7835cedecab8c1e25789d73a696925184d54f2
 SizeBytes = 31983612
-

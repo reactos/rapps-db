@@ -14,5 +14,3 @@ Icon = realtek.ico
 URLDownload = https://akacc.net/win98/0001-WDM_A406.exe
 SHA1 = edca75940e8a30fb87c19278aaa36c3fbea02f00
 SizeBytes = 18734784
-
-
