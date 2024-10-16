@@ -1,0 +1,17 @@
+[Section]
+Name = Realtek HD Audio Drivers R2.74 (WDM)
+Version = R2.74 (5.10.0.7111)
+License = Propietary
+LicenseType = 2
+Description = Realtek HD Audio codec and drivers, suitable for multiple soundcards/chipsets and devices as workstation, laptops, minipc, etc.
+Category = 13
+URLSite = https://www.realtek.com/
+URLDownload = https://ftp.nluug.nl/pub/games/PC/guru3d/realtek/WDM_R274-[Guru3D.com].exe
+SHA1 = 1a7835cedecab8c1e25789d73a696925184d54f2
+SizeBytes = 31983612
+Icon = realtek.ico
+
+[Section.amd64]
+URLDownload = https://ftp.nluug.nl/pub/games/PC/guru3d/realtek/WDM_R274-[Guru3D.com].exe
+SHA1 = 1a7835cedecab8c1e25789d73a696925184d54f2
+SizeBytes = 31983612
