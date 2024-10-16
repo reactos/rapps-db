@@ -1,7 +1,7 @@
 [Section]
 Name = NVIDIA Forceware driver WHQL
 Version = 181.22
-License = Unknown
+LicenseType = 2
 Description = Driver for GeForce 6, 7, 8, 9, and 200-series NVIDIA GPUs.
 Category = 13
 URLDownload = https://us.download.nvidia.com/Windows/181.22/181.22_geforce_winxp_32bit_english_whql.exe
