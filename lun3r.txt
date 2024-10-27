@@ -8,7 +8,7 @@ URLSite = https://eclipse.cx/projects/lun3r
 URLDownload = https://github.com/Eclipse-Community/UXP/releases/download/v2024-07-14/lun3r-33.3.3a1.win32.installer.exe
 SHA1 = 43cbdb61a7e619452a333f62fd70437fc4898912
 SizeBytes = 37486614
-Screenshot1 = i will replace it later!
+Screenshot1 = https://private-user-images.githubusercontent.com/173210839/380523231-b32961cc-526b-4e3b-a64b-9a72c189852e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAwNTU1MjgsIm5iZiI6MTczMDA1NTIyOCwicGF0aCI6Ii8xNzMyMTA4MzkvMzgwNTIzMjMxLWIzMjk2MWNjLTUyNmItNGUzYi1hNjRiLTlhNzJjMTg5ODUyZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyN1QxODUzNDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03OTY2YjNhMzhmMDMwYzE4NzMyZDc5ZGJhODE4MDE3NDcxNDU5ZjlkY2ZlY2ZkMzlkN2RlM2EzMDM3M2RkOTU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.DxR0w9XDq6ffEyM0O7F3QR1dIbXmNS0t593lupDzlN0
 
 [Section.041f]
 Description = Eclipse Lun3r, Windows XP için yapılmış Pale Moon'un bir çatalıdır. Upstream ve roytam1'in New Moon'una göre bazı avantajları daha fazla optimizasyon ve upstream ile daha iyi birlikte çalışabilirliktir. (DBM yerine SQL depolama alanı kullanıyor)
