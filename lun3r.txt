@@ -1,0 +1,14 @@
+[Section]
+Name = Eclipse Lun3r
+Version = v2024-07-14
+License = MPL 2.0
+Description = Eclipse Lun3r is a fork of Pale Moon made for Windows XP. Some advantages over upstream and roytam1's New Moon are more optimzations and better interoperability with upstream. (using SQL storage intead of DBM)
+Category = 5
+URLSite = https://eclipse.cx/projects/lun3r
+URLDownload = https://github.com/Eclipse-Community/UXP/releases/download/v2024-07-14/lun3r-33.3.3a1.win32.installer.exe
+SHA1 = 43cbdb61a7e619452a333f62fd70437fc4898912
+SizeBytes = 37486614
+Screenshot1 = i will replace it later!
+
+[Section.041f]
+Description = Eclipse Lun3r, Windows XP için yapılmış Pale Moon'un bir çatalıdır. Upstream ve roytam1'in New Moon'una göre bazı avantajları daha fazla optimizasyon ve upstream ile daha iyi birlikte çalışabilirliktir. (DBM yerine SQL depolama alanı kullanıyor)
