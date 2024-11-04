@@ -5,7 +5,7 @@ License = GPL
 Description = Visual object-oriented programming enviroment for children.
 Category = 8
 URLSite = http://scratch.mit.edu/
-URLDownload = https://download.scratch.mit.edu/ScratchInstaller1.4.exe
+URLDownload = https://archive.org/download/scratchinstaller1.4/ScratchInstaller1.4.exe
 SHA1 = fc48f579616cab2c2986c018745852e6c8817460
 SizeBytes = 34637975
 
