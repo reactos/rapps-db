@@ -1,7 +1,8 @@
 [Section]
 Name = WinSCP
 Version = 5.7.7
-License = Freeware
+License = GPLv3
+LicenseType = 1
 Description = WinSCP is a free SCP, SFTP and FTP client for Windows.
 Category = 5
 URLSite = https://winscp.net/
