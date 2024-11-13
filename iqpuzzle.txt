@@ -1,14 +1,14 @@
 [Section]
 Name = iQPuzzle
-Version = 1.4.0
+Version = 1.4.1
 License = GPLv3
 LicenseType = 1
 Description = A diverting I.Q. challenging pentomino puzzle
 Category = 4
 URLSite = https://elth0r0.github.io/iqpuzzle/
-URLDownload = https://github.com/ElTh0r0/iqpuzzle/releases/download/v1.4.0/iQPuzzle-1.4.0-ReactOS_Installer.exe
-SHA1 = 40c9442461226ae26f1170b07f4ebe73dc507720
-SizeBytes = 7714852
+URLDownload = https://github.com/ElTh0r0/iqpuzzle/releases/download/v1.4.1/iQPuzzle-1.4.1-ReactOS_Installer.exe
+SHA1 = 8ebff94a5cd0f6747d2160807bdb98376bf3f471
+SizeBytes = 7718068
 Icon = iqpuzzle.ico
 Screenshot1 = https://user-images.githubusercontent.com/26674558/166152612-90f722f6-e937-4b11-8c4c-160c3568e267.png
 Languages = 0407|0809|040C|0410|0413|0412|0414|0402|0804|0408|0404|0016|0416|0019
