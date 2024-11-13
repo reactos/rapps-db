@@ -35,7 +35,7 @@ Description = MSXML4 is nodig voor bepaalde MSI installaties. Bevat: msxml4.dll,
 
 [Section.0415]
 License = Nieznana
-Description = Niektóre spośród plików instalacyjnych MSI potrzebują parsera MSXML3. Zawiera: msxml4.dll, msxml4r.dll.
+Description = Niektóre spośród plików instalacyjnych MSI potrzebują parsera MSXML4. Zawiera: msxml4.dll, msxml4r.dll.
 
 [Section.0418]
 License = Nespecificată
