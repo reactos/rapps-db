@@ -1,0 +1,11 @@
+[Section]
+Name = TDM-GCC
+Version = 10.3.0-tdm-1
+License = GPLv3
+Description = A Windows-friendly GCC compiler suite, with easy-to-use installer and updater. It consists of command-line tools only.
+Category = 7
+URLSite = https://jmeubank.github.io/tdm-gcc/
+URLDownload = https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm-1/tdm-gcc-10.3.0.exe
+SHA1 = 70d28bbd6a9b91037896b410c7f0c6b0aa8fa59c
+SizeBytes = 63125895
+Icon = tdm-gcc.ico
