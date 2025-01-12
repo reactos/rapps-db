@@ -1,0 +1,18 @@
+[Section]
+Name = WinDBG
+Version = 6.12.0002.633
+LicenseType = 2
+Description = WinDbg is a multipurpose debugger for the Microsoft Windows computer operating system, distributed by Microsoft.
+Category = 12
+Publisher = Microsoft
+URLSite = https://web.archive.org/web/20110221133326/https://www.microsoft.com/whdc/devtools/debugging/installx86.mspx
+URLDownload = https://download.microsoft.com/download/A/6/A/A6AC035D-DA3F-4F0C-ADA4-37C8E5D34E3D/setup/WinSDKDebuggingTools/dbg_x86.msi
+SHA1 = 117814c255f19dc67e769c668bc97e547c05a55b
+SizeBytes = 19269120
+
+[Section.Amd64]
+URLSite = https://web.archive.org/web/20110214012715/https://www.microsoft.com/whdc/devtools/debugging/install64bit.mspx
+URLDownload = https://download.microsoft.com/download/A/6/A/A6AC035D-DA3F-4F0C-ADA4-37C8E5D34E3D/setup/WinSDKDebuggingTools_amd64/dbg_amd64.msi
+SHA1 = 257978e5dc64ae8f8e2b591bd9c147178117d235
+SizeBytes = 17529856
+
