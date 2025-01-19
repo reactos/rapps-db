@@ -1,0 +1,16 @@
+[Section]
+Name = pmfow (Package Manager for Old Windows)
+Version = 0.4.0
+Category = 12
+License = GPL v3
+URLSite = https://masterjayanx.github.io/pmfow/
+URLDownload = https://github.com/MasterJayanX/pmfow/releases/download/0.4.0/pmfow_0.4.0_win32.exe
+SizeBytes = 4170184
+Description = Command-line package manager for old versions of Windows.
+
+[Section.amd64]
+URLDownload = https://github.com/MasterJayanX/pmfow/releases/download/0.4.0/pmfow_0.4.0_win64.exe
+SizeBytes = 4244687
+
+[Section.0a]
+Description = Gestor de paquetes en línea de comandos para versiones antiguas de Windows.

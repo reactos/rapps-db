@@ -11,7 +11,7 @@ SizeBytes = 45172688
 Icon = firefox_new.ico
 
 [Section.0a]
-Description = Navegador web popular, libre y gratuito.
+Description = Firefox es un navegador web popular. Es gratis, de código abierto y creado por una comunidad global.
 URLSite = https://www.mozilla.org/es-ES/
 URLDownload = https://ftp.mozilla.org/pub/firefox/releases/48.0.2/win32/es-ES/Firefox%20Setup%2048.0.2.exe
 SHA1 = f49bc1d402f5bcb7a63c0cae6313045fadf6fd01

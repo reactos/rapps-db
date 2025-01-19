@@ -1,13 +1,16 @@
 [Section]
 Name = Everything Search Engine
-Version = 1.4.1.928
+Version = 1.4.1.1026
 License = Freeware
 Description = Locate files and folders by name instantly.
 Category = 12
 URLSite = https://www.voidtools.com/
-URLDownload = https://www.voidtools.com/Everything-1.4.1.928.x86-Setup.exe
+URLDownload = https://www.voidtools.com/Everything-1.4.1.1026.x86-Setup.exe
 SHA1 = b13cfdac10dd85737d94e7fc3b02a074a184137a
 SizeBytes = 1481176
+
+[Section.amd64]
+URLDownload = https://www.voidtools.com/Everything-1.4.1.1026.x64-Setup.exe
 
 [Section.0a]
 Description = Localiza archivos y carpetas por el nombre al instante.
