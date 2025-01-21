@@ -5,7 +5,7 @@ License = GPLv2
 Description = An open source webserver with a focus on security.
 Category = 5
 URLSite = https://www.hiawatha-webserver.org/
-URLDownload = https://www.hiawatha-webserver.org/files/hiawatha-9/hiawatha-9.15.zip
+URLDownload = https://web.archive.org/web/2024if_/https://www.hiawatha-webserver.org/files/hiawatha-9/hiawatha-9.15.zip
 SHA1 = 6ada69afdeb3f75ceda0c19c67d562a5052a9949
 SizeBytes = 3560500
 

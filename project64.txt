@@ -8,8 +8,12 @@ URLSite = https://www.pj64-emu.com/
 URLDownload = https://archive.org/download/project-64-3.0.1-5664-2df-3434-1/Project64-3.0.1-5664-2df3434.zip
 SHA1 = 86324809cd0ecf4b3f76dc59dfb24f76100a3326
 SizeBytes = 4496865
+Installer = Generate
+
+[Generate]
+DelDir = Logs|Textures|Config
+DelDirEmpty = Save|Screenshots
+DelReg = HKCU\Software\Project64
 
 [Section.0a]
 Description = Project64 es un emulador muy conocido de Nintendo 64. Necesita aceleración 3D.
-
-

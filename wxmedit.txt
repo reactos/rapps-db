@@ -10,6 +10,12 @@ SizeBytes = 16495754
 SHA1 = 316550af63f6f2eed217c602818ba89092b378a8
 Icon = wxmedit.ico
 Screenshot1 = https://github.com/reactos/rapps-db/assets/3896345/a7cb984d-1dcc-4db1-8e8d-2e390599bfe1
+Installer = Generate
+
+[Generate]
+Files = wxMEdit\*.exe|wxMEdit\*
+DelFile = wxmedit.cfg|FontWidth.dat|portable_test
+DelReg = HKCU\Software\wxMEdit
 
 [Section.04]
 Description = 用 C++ 与 wxWidgets 编写的跨平台文本/十六进制编辑器，即使在十六进制模式下也支持各种编码。

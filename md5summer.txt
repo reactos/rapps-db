@@ -8,6 +8,11 @@ URLSite = http://www.md5summer.org/
 URLDownload = http://www.md5summer.org/md5v12011.zip
 SHA1 = 3d21df6f587bf187dad9a300b6ae3a2b479e8329
 SizeBytes = 463330
+Installer = Generate
+
+[Generate]
+DelReg = HKCU\Software\Luke Pascoe Software\md5summer
+DelRegEmpty = HKCU\Software\Luke Pascoe Software
 
 [Section.0a]
 Description = Una aplicación que genera y comprueba las sumas de verificación md5.
