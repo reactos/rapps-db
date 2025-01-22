@@ -8,6 +8,7 @@ URLSite = https://web.archive.org/web/20190820014045if_/http://xcallono.cf/
 URLDownload = https://web.archive.org/web/20221016174911if_/https://chat.reactos.org/files/1rxc6869z7rfdqdoiyq1wdqjoe/public?h=nWi06_4V2YHASeWtzUt_rWQMKKcOESXXMud7xwwHJVM&f=/Mario%2064%20Backgrounds.zip
 SHA1 = 13385B2AD4794855CCC4AED0189FE8E943BE23C8
 SizeBytes = 7721027
+Icon = wallpaper.ico
 Installer = Generate
 
 [Generate]
