@@ -1,0 +1,17 @@
+[Section]
+Name = Fluid Textures 4K Wallpapers
+Version = 1
+Description = Gradients of blue, purple, and teal by Microsoft design.
+Category = 16
+Publisher = Microsoft
+URLSite = https://microsoft.design/wallpapers/
+URLDownload = https://microsoft.design/wp-content/uploads/2025/01/Fluid-Textures.zip
+SizeBytes = 94320711
+Icon = wallpaper.ico
+Installer = Generate
+
+[Generate]
+Dir = %SystemRoot%\Web\Wallpaper
+Icon = ..\..\system32\desk.cpl
+Files = *
+Lnk = !
