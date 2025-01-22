@@ -6,12 +6,14 @@ Description = The standard wallpaper collection for ReactOS
 Category = 16
 URLSite = https://github.com/reactos/wallpapers/
 URLDownload = https://github.com/reactos/wallpapers/releases/download/v3/wallpapers.zip
-Installer = Generate
 SizeBytes = 7474167
+Icon = wallpaper.ico
+Installer = Generate
 
 [Generate]
 Files = *
 Dir = %SystemRoot%\Web\Wallpaper
+Icon = ..\..\system32\desk.cpl
 Lnk = !
 
 [Section.041f]
