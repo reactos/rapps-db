@@ -8,6 +8,12 @@ URLSite = https://github.com/snes9xgit/snes9x/
 URLDownload = https://github.com/snes9xgit/snes9x/releases/download/1.62.3/snes9x-1.62.3-win32.zip
 SHA1 = 5c18dfca2d5512d0c14c6ce23b193cf5f09b42a3
 SizeBytes = 2914318
+Installer = Generate
+
+[Generate]
+DelFile = snes9x.conf|stdout.txt|stderr.txt
+DelDirEmpty = Saves
+DelReg = HKCU\Software\Snes9x
 
 [Section.amd64]
 URLDownload = https://github.com/snes9xgit/snes9x/releases/download/1.62.3/snes9x-1.62.3-win32-x64.zip

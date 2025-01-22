@@ -9,6 +9,11 @@ URLSite = https://visualboyadvance.org/
 URLDownload = https://github.com/visualboyadvance-m/visualboyadvance-m/releases/download/v2.1.8/visualboyadvance-m-Win-x86_32.zip
 SHA1 = 9a11d39796016fcf3f3a080c4578c45bbfae4628
 SizeBytes = 11415976
+Installer = Generate
+
+[Generate]
+DelFile = vbam.ini
+DelReg = HKCU\Software\VisualBoyAdvance-m
 
 [Section.amd64]
 URLDownload = https://github.com/visualboyadvance-m/visualboyadvance-m/releases/download/v2.1.8/visualboyadvance-m-Win-x86_64.zip

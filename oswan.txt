@@ -8,6 +8,10 @@ URLDownload = https://dl.emulator-zone.com/files/emulators/wonderswan/oswan/Oswa
 SHA1 = 8cecc6bd3b07dd3905cf0f72dc9a0c5ee028995c
 SizeBytes = 119621
 Icon = oswan.ico
+Installer = Generate
+
+[Generate]
+DelFile = Oswan.ini|Oswan.log
 
 [Section.041f]
 Description = Oswan, açık kaynak bir Wonderswan emülatorüdür. 

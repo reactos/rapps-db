@@ -7,6 +7,12 @@ Category = 4
 URLDownload = https://archive.org/download/neko98/neko98_4.zip
 SHA1 = 0213288fd85ce90b72279c05bcfabeb8d044b8d9
 SizeBytes = 69538
+Installer = Generate
+
+[Generate]
+Files = Neko98*.exe|*
+DelReg = HKCU\Software\DHSoft\Neko95
+DelRegEmpty = HKCU\Software\DHSoft
 
 [Section.0404]
 License = 免費軟體

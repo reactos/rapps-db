@@ -3,10 +3,12 @@ Name = Restoration
 Version = 3.2.13
 Description = Restoration is a freeware, portable app that can restore files accidentally deleted from the recycle bin.
 Category = 12
-URLDownload = https://files1.majorgeeks.com/10afebdbffcd4742c81a3cb0f6ce4092156b4375/drives/Restoration.zip
+LicenseType = 2
+URLDownload = https://web.archive.org/web/20210328174143/www3.telus.net/mikebike/Restoration.zip
 SHA1 = 34ae0bcecc5b54fb1a6675c75c08295871cf293e
 SizeBytes = 167773
 Icon = restoration.ico
+Installer = Generate
 
 [Section.041f]
 Description = Restoration, geri dönüşüm kutusunda kazayla silinen dosyaları kurtarabilen bir freeware ve taşınabilir uygulamadır.

@@ -8,6 +8,12 @@ URLSite = https://otter-browser.org
 URLDownload = https://downloads.sourceforge.net/project/otter-browser/otter-browser-1.0.01/otter-browser-win32-1.0.01-xp.zip
 SHA1 = 33333aa188bbdd430e7ca62e9fbb5a464c0bd087
 SizeBytes = 70390771
+Installer = Generate
+
+[Generate]
+Files = otter-browser-win32-1.0.01-xp\o*.exe|otter-browser-win32-1.0.01-xp\*
+DelDir = .\..\Otter\cache|.\..\Otter\Otter
+DelDirEmpty = .\..\Otter
 
 [Section.0a]
 Name = Navegador Otter

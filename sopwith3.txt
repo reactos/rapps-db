@@ -8,6 +8,7 @@ URLSite = https://www.wingkong.net/sopwith2b/sopwith3.html
 URLDownload = https://download.sourceforge.net/sopwith3/sopwith-3.0.0-win32.zip
 SHA1 = cbe3893d340678f4e22e7967b1e5c7f557724c2a
 SizeBytes = 526387
+Installer = Generate
 
 [Section.041f]
 Description = Sopwith, bir çift kanatlı uçak (Sopwith Camel adlı) uçurduğunuz ve rakiplerinizin üslerini, kara ve hava kuvvetlerini mahvetmeye çalıştığınız bir yandan kaydırmalı, arcade nişancılık oyunudur.
