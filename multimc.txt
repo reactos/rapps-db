@@ -1,6 +1,6 @@
 [Section]
 Name = MultiMC
-Version = 0.7.0-3813
+Version = 0.7.0-4200
 License = Apache 2.0 and MS-PL
 Description = MultiMC is a custom launcher for Minecraft that allows you to have multiple, cleanly separated instances of Minecraft with a simple and powerful interface.
 Category = 4
