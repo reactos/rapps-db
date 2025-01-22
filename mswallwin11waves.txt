@@ -1,0 +1,18 @@
+[Section]
+Name = Color Waves 4K Wallpapers
+Version = 1
+Description = Windows 11 Color Waves by Microsoft design; abstract shapes resembles flowing, layered fabric or a wave.
+Category = 16
+Publisher = Microsoft
+URLSite = https://microsoft.design/wallpapers/
+URLDownload = https://msdesign.blob.core.windows.net/wallpapers/windows-color-waves.zip
+SizeBytes = 60949121
+Screenshot1 = https://web.archive.org/web/2024im_/https://microsoft.design/wp-content/uploads/2024/06/feature-17-375x250.jpg
+Icon = wallpaper.ico
+Installer = Generate
+
+[Generate]
+Dir = %SystemRoot%\Web\Wallpaper
+Icon = ..\..\system32\desk.cpl
+Files = *
+Lnk = !
