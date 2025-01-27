@@ -2,8 +2,9 @@
 Name = Innotek Virtual Box
 Version = 1.4.0
 License = GPL v2
+LicenseType = 1
 Description = Innotek VirtualBox is a family of powerful x86 virtualization products for enterprise as well as home use.
-Category = 16
+Category = 12
 URLSite = https://web.archive.org/web/20071016051259/http://www.virtualbox.org/wiki/Changelog
 URLDownload = https://web.archive.org/web/20070702111907/http://www.virtualbox.org/download/1.4.0/VirtualBox_1.4.0_Win_x86.msi
 SHA1 = 075dbdd7bca9fc34a70267332fff1ca83b03e45f
