@@ -1,5 +1,5 @@
 [Section]
-Name = WinDBG
+Name = WinDbg
 Version = 6.12.0002.633
 LicenseType = 2
 Description = WinDbg is a multipurpose debugger for the Microsoft Windows computer operating system, distributed by Microsoft.
