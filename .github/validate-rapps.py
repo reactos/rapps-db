@@ -34,6 +34,7 @@ OPTIONAL_SECTION_KEYS = [
     b'RegName',
     b'Publisher',
     b'Installer',
+    b'SaveAs',
     b'Scope',
 ]
 
