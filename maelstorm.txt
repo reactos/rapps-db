@@ -9,6 +9,11 @@ URLDownload = http://slouken.libsdl.org/projects/Maelstrom/bin/Maelstrom-3.0.6-W
 SHA1 = b47b44f1767bf7ed375ad60cb6376d3178f1824d
 SizeBytes = 906220
 Icon = maelstorm.ico
+Installer = Generate
+
+[Generate]
+Files = Maelstrom-3.0.6\*.exe|Maelstrom-3.0.6\*
+DelFile = .Maelstrom-data
 
 [Section.041f]
 Description = Maelstrom, Macintosh için orijinal shareware oyunun GPL'leştirilmiş bir uyarlamasıdır. Ayrıntılı grafikleri ve özgün sesleriyle hızlı eylemli ve yüksek çözünürlüklü (640x480) Astreoids benzeri bir oyundur.

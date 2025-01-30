@@ -9,6 +9,10 @@ URLDownload = https://altushost-swe.dl.sourceforge.net/project/fbide/fbide%200.4
 SHA1 = 326327c7082adae0af1df0281cde4af990b1e273
 SizeBytes = 3132022
 Icon = fbide.ico
+Installer = Generate
+
+[Generate]
+Files = FBIde0.4.6r4\*.exe|FBIde0.4.6r4\*
 
 [Section.041f]
 License = GPL sürüm 3

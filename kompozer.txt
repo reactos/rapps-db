@@ -8,6 +8,12 @@ URLSite = http://www.kompozer.net/
 URLDownload = http://download.sourceforge.net/project/kompozer/current/0.7.10/kompozer-0.7.10-win32.zip
 SHA1 = cb0fbb2f9d4a547131176158e9e7185ee525a8a3
 SizeBytes = 7949158
+Installer = Generate
+
+[Generate]
+Files = KompoZer 0.7.10\k*.exe|KompoZer 0.7.10\*
+DelFile = components.ini|defaults.ini
+DelDir = chrome|components|extensions
 
 [Section.0a]
 Description = Un completo sistema de autoría web que combina la gestión de archivos web y una interfaz WYSIWYG fácil de usar en la edición web.
