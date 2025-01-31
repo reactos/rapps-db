@@ -1,0 +1,14 @@
+[Section]
+Name = Death Rally
+Version = 1.0
+License = Freeware
+LicenseType = 2
+Description = A vehicular combat racing video game.
+Category = 4
+Publisher = Remedy Entertainment
+URLSite = https://web.archive.org/web/2009if_/http://www.death-rally.com/
+URLDownload = https://web.archive.org/web/201502im_/http://gamedaily.newaol.com/pub/DeathRallyWin_10.exe?ru=19&h=00db2285da8ff31c25a7628be58182a5
+SHA1 = bda2a2230c01580ac779f3cf0f5954d234c8c78e
+SizeBytes = 43574432
+SaveAs = DeathRallyWin_10.exe
+Screenshot1 = http://upload.wikimedia.org/wikipedia/en/5/5b/Death_Rally_cover.jpg
