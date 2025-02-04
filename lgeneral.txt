@@ -8,6 +8,11 @@ URLSite = http://lgames.sourceforge.net/index.php?project=LGeneral
 URLDownload = https://sourceforge.net/projects/lgeneral/files/lgeneral/lgeneral-1.4.4-win32.zip
 SHA1 = 85925fbee97d0fbd3af7ee09639e68c7d7667dde
 SizeBytes = 6161244
+Installer = Generate
+
+[Generate]
+Files = lgeneral-1.4.4-win32\lgen*.exe|lgeneral-1.4.4-win32\*
+DelFile = lgeneral.conf|stderr.txt|stdout.txt
 
 [Section.0a]
 Description = Clon de Panzer General usando las librerias SDL.

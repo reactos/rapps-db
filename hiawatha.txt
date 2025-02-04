@@ -8,6 +8,14 @@ URLSite = https://www.hiawatha-webserver.org/
 URLDownload = https://web.archive.org/web/2024if_/https://www.hiawatha-webserver.org/files/hiawatha-9/hiawatha-9.15.zip
 SHA1 = 6ada69afdeb3f75ceda0c19c67d562a5052a9949
 SizeBytes = 3560500
+Installer = Generate
+
+[Generate]
+Files = Hiawatha\Hiawatha.bat|*.txt|Hiawatha\*
+DelFile = work\hiawatha.pid
+DelDir = logfiles
+DelDirEmpty = work\upload|work
+DelRegEmpty = HKCU\Software\Cygwin\Program Options|HKCU\Software\Cygwin
 
 [Section.0a]
 Description = Un webserver de licencia abierta centrado en la seguridad.

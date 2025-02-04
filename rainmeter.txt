@@ -7,7 +7,7 @@ Category = 12
 URLSite = https://www.rainmeter.net/
 URLDownload = https://github.com/rainmeter/rainmeter/releases/download/v3.3.3.2744/Rainmeter-3.3.3.exe
 Icon=rainmeter.ico
-Screenshot1 = https://i.imgur.com/oj6yqE2.png
+Screenshot1 = https://web.archive.org/web/2023im_/https://i.imgur.com/oj6yqE2.png
 SHA1 = eac2d350cac138c9ece86fe9ccd823e380601b1c
 SizeBytes = 2404088
 
