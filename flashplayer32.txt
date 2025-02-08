@@ -2,7 +2,7 @@
 Name = Adobe Flash Player 32
 Version = 32.0.0.101
 License = Freeware
-Description = A 32 bits Flash player that can run SWF files.
+Description = A 32-bit Flash player that can run SWF files.
 Category = 12
 URLSite = https://www.adobe.com/
 URLDownload = https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe
