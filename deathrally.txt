@@ -11,4 +11,4 @@ URLDownload = https://web.archive.org/web/201502im_/http://gamedaily.newaol.com/
 SHA1 = bda2a2230c01580ac779f3cf0f5954d234c8c78e
 SizeBytes = 43574432
 SaveAs = DeathRallyWin_10.exe
-Screenshot1 = http://upload.wikimedia.org/wikipedia/en/5/5b/Death_Rally_cover.jpg
+Screenshot1 = https://web.archive.org/web/2024im_/https://upload.wikimedia.org/wikipedia/en/5/5b/Death_Rally_cover.jpg
