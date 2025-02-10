@@ -1,7 +1,8 @@
 [Section]
 Name = Winspy++
 Version = 1.7
-License = Freeware
+License = MIT
+LicenseType = 1
 Description = A handy programmer's utility which can be used to select and view the properties of any window in the system.
 Category = 7
 URLSite = http://www.catch22.net/software/winspy
@@ -13,6 +14,12 @@ Installer = Generate
 [Generate]
 DelReg = HKCU\Software\Catch22\WinSpy++ 1.5
 DelRegEmpty = HKCU\Software\Catch22
+
+[Section.amd64]
+Version = 1.8.4
+URLDownload = https://github.com/strobejb/winspy/releases/download/v1.8.4/WinSpy_Release_x64.zip
+SHA1 = 8A1D6AA8F231FD73B284B3776F8036BFA6373F7E
+SizeBytes = 106821
 
 [Section.0a]
 Description = Una herramienta práctica para programadores que puede ser usada para seleccionar y ver las propiedades de cualquier ventana del sistema.
@@ -41,4 +48,3 @@ Description = Sistemdeki bir pencerenin özelliklerini görüntülemek ve seçme
 [Section.0804]
 License = 免费软件
 Description = 一款能够用来选择和查看系统中任意窗口属性的面向高级程序员的实用工具。
-

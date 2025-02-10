@@ -1,7 +1,8 @@
 [Section]
 Name = ZoomIt
 Description = A screen zoom, annotation, and recording tool for technical presentations and demos.
-LicenseType = 2
+License = MIT
+LicenseType = 1
 Category = 12
 Publisher = Microsoft
 URLSite = https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit
