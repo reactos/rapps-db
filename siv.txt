@@ -1,0 +1,19 @@
+[Section]
+Name = System Information Viewer (SIV)
+Version = 5.80
+License = Freeware
+Description = A freeware tool that gathers information about your computer and the hardware.
+Category = 12
+URLSite = http://rh-software.com/
+URLDownload = https://delivery2.filecroco.com/kits_6/siv_v5.80.zip
+SHA1 = 3ce44d98e8db724a2f0c6c12cc571a7dbc489e2c
+SizeBytes = 23685583
+Screenshot1 = https://github.com/user-attachments/assets/a9b348da-2ce0-4afd-9bc1-a8f6ce5278f8
+Installer = Generate
+
+[Generate]
+Files = SIV32X.exe|*
+DelReg = HKCU\Software\SIV|HKLM\Software\SIV
+
+[Generate.amd64]
+Files = SIV64X.exe|*
