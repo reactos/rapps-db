@@ -1,0 +1,11 @@
+[Section]
+Name = Zune
+Publisher = Microsoft
+License = Freeware
+LicenseType = 2
+Description = The official Zune desktop theme. Note: You must set the compatibility on the .msi to Windows XP SP3 before installing.
+Category = 15
+URLSite = https://web.archive.org/web/20061128062226if_/http://www.zune.net:80/en-us/meetzune/device.htm
+URLDownload = https://web.archive.org/web/20130224083838im_/http://download.microsoft.com/download/e/a/9/ea9af5ae-b48e-473e-85fe-dcde7472e644/ZuneDesktopTheme.msi
+SHA1 = 67fa6461855488ab4fd3907d91b229e5124d0843
+SizeBytes = 1722880
