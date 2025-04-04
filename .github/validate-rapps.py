@@ -7,7 +7,7 @@ COPYRIGHT:   Copyright 2020-2024 Mark Jansen <mark.jansen@reactos.org>
 from pathlib import Path
 import sys
 from enum import Enum, unique
-import struct;
+import struct
 
 
 # TODO: make this even nicer by using https://github.com/pytorch/add-annotations-github-action
@@ -64,13 +64,15 @@ ALL_ARCH = [
 ]
 
 LICENSE_TYPES = [
-    1, # Open source
-    2, # Freeware
-    3, # Trial/Demo
+    1,  # Open source
+    2,  # Freeware
+    3,  # Trial/Demo
 ]
+
 
 def get_valid_keys(section_name):
     return KEYS[section_name]
+
 
 all_names = {}
 all_urls = {}
@@ -93,7 +95,7 @@ class Reporter:
 
     def add(self, line, column, problem):
         self._problems += 1
-        print('{col}: {msg}'.format(col = line.location(column), msg = problem))
+        print("{col}: {msg}".format(col=line.location(column), msg=problem))
         print(line.text())
         idx = column - 1 + len("b'")    # Offset the b' prefix
         print(' ' * idx + '^')
@@ -158,15 +160,25 @@ class RappsLine:
 
         if section_name not in KEYS:
             help = 'should always be "Section"'
-            reporter.add(self, self._text.index(section_name) + 1,
-                         'Invalid section name: "{sec}", {msg}'.format(sec = section_name, msg = help))
+            reporter.add(
+                self,
+                self._text.index(section_name) + 1,
+                'Invalid section name: "{sec}", {msg}'.format(
+                    sec=section_name, msg=help
+                ),
+            )
         elif not locale:
             self.main_section = True
 
         if locale:
             if len(locale) not in (2, 4) or not all(c in HEXDIGITS for c in locale):
-                reporter.add(self, self._text.index(locale) + 1,
-                             'Invalid locale{extra}: "{loc}"'.format(extra = extra_locale, loc = locale))
+                reporter.add(
+                    self,
+                    self._text.index(locale) + 1,
+                    'Invalid locale{extra}: "{loc}"'.format(
+                        extra=extra_locale, loc=locale
+                    ),
+                )
 
         if arch:
             if arch not in ALL_ARCH:
@@ -205,30 +217,62 @@ class RappsLine:
         textval = self.val.decode()
 
         if self.key not in get_valid_keys(g_current_section):
-            reporter.add(self, 0, 'Unknown key: "{key}"'.format(key = textkey))
+            reporter.add(self, 0, 'Unknown key: "{key}"'.format(key=textkey))
 
         if self.key in [b'LicenseType']:
             v = int(textval, base=10)
             if v not in LICENSE_TYPES:
-                reporter.add(self, 0, 'Invalid value: "{val}" in {key}'.format(val = v, key = textkey))
+                reporter.add(self, 0, 'Invalid value: "{val}" in {key}'.format(val=v, key=textkey))
 
         if self.key in [b'License']:
             v = textval
             if v.casefold() == 'Unknown'.casefold():
                 # TODO: Reporter should be enabled when the existing DB entries are fixed:
                 # reporter.add(self, 0, 'Invalid value: "{val}" in {key}'.format(val = v, key = textkey))
-                print('Warning: {key} is "{val}" ({file})'.format(val = v, key = textkey, file = self._file.filename))
+                print(
+                    'Warning: {key} is "{val}" ({file})'.format(
+                        val=v, key=textkey, file=self._file.filename
+                    )
+                )
 
         if self.key in [b'Scope']:
             v = textval
             if v.casefold() not in ['user', 'machine']:
-                print('Warning: {key} is "{val}" ({file})'.format(val = v, key = textkey, file = self._file.filename))
+                print(
+                    'Warning: {key} is "{val}" ({file})'.format(
+                        val=v, key=textkey, file=self._file.filename
+                    )
+                )
 
     def location(self, column):
-        return '{file}({line}:{col})'.format(file = self._file.filename, line = self._lineno, col = column)
+        return "{file}({line}:{col})".format(
+            file=self._file.filename, line=self._lineno, col=column
+        )
 
     def text(self):
         return self._text
+
+
+def verify_unique(reporter, lines, line, name):
+    first = lines.get(name, None)
+    if first:
+        reporter.add(line, 0, "Duplicate value found: {name}".format(name=name))
+        reporter.add(first, 0, 'First occurence:')
+    else:
+        lines[name] = line
+
+
+def verify_uniqueness(name, ver, url, reporter):
+    # Verify that the application name and version is unique
+    if name:
+        if ver:
+            verify_unique(reporter, all_names, name, name.val + b', version ' + ver.val)
+        else:
+            verify_unique(reporter, all_names, name, name.val)
+
+    # Verify that the download URL is unique
+    if url:
+        verify_unique(reporter, all_urls, url, url.val)
 
 
 class RappsFile:
@@ -237,11 +281,7 @@ class RappsFile:
         self.filename = fullname.name
         self._sections = []
 
-    def parse(self, reporter):
-        with open(str(self.path), 'rb') as f:
-            lines = [RappsLine(self, idx + 1, line) for idx, line in enumerate(f.readlines())]
-
-        # Create sections from all lines, and add keyvalue entries in their own section
+    def _parse_lines(self, lines, reporter):
         section = None
         for line in lines:
             linetype = line.parse(reporter)
@@ -253,6 +293,13 @@ class RappsFile:
             elif linetype == LineType.KeyValue:
                 assert section, "Got no section yet?"
                 section.add(line)
+
+    def parse(self, reporter):
+        with open(str(self.path), 'rb') as f:
+            lines = [RappsLine(self, idx + 1, line) for idx, line in enumerate(f.readlines())]
+
+        # Create sections from all lines, and add keyvalue entries in their own section
+        self._parse_lines(lines, reporter)
 
         all_sections = []
         main_section = None
@@ -270,40 +317,18 @@ class RappsFile:
                 main_section = section
                 for key in REQUIRED_SECTION_KEYS:
                     if not section[key]:
-                        reporter.add(section, 0, 'Main section has no {key} key!'.format(key = key))
+                        reporter.add(section, 0, 'Main section has no {key} key!'.format(key=key))
             if section[b'URLDownload'] and not section[b'SizeBytes']:
                 # We allow this, if the main section has a SizeBytes (alternate mirror without duplicating the info)
                 if section == main_section or main_section and not main_section[b'SizeBytes']:
                     reporter.add(section, 0, 'Section has URLDownload but no SizeBytes!')
 
-            if section[b'Name'] and not name:
-                name = section[b'Name']
-            if section[b'Version'] and not ver:
-                ver = section[b'Version']
-            if section[b'URLDownload'] and not url:
-                url = section[b'URLDownload']
+            name = name if name else section[b'Name']
+            ver = ver if ver else section[b'Version']
+            url = url if url else section[b'URLDownload']
 
-        # Verify that the application name and version is unique
-        if name:
-            global all_names
-            if ver:
-                verify_unique(reporter, all_names, name, name.val + b', version ' + ver.val)
-            else:
-                verify_unique(reporter, all_names, name, name.val)
+        verify_uniqueness(name, ver, url, reporter)
 
-        # Verify that the download URL is unique
-        if url:
-            global all_urls
-            verify_unique(reporter, all_urls, url, url.val)
-
-
-def verify_unique(reporter, lines, line, name):
-    first = lines.get(name, None)
-    if first:
-        reporter.add(line, 0, 'Duplicate value found: {name}'.format(name = name))
-        reporter.add(first, 0, 'First occurence:')
-    else:
-        lines[name] = line
 
 def validate_single_icon(icon, reporter):
     try:
@@ -322,6 +347,7 @@ def validate_single_icon(icon, reporter):
             # See https://en.wikipedia.org/wiki/ICO_(file_format)#Structure_of_image_directory
     except Exception as e:
         reporter.add_file('icons/' + icon.name, 'Exception while reading icon: ' + str(e))
+
 
 def validate_icons(ico_dir, reporter):
     for icon in ico_dir.glob('*.ico'):
