@@ -1,0 +1,16 @@
+[Section]
+Name = Royale Noir
+License = Freeware
+LicenseType = 2
+Description = Royale Noir is an almost exact copy of Royale except with a dark purplish tint.
+Category = 15
+URLSite = https://istartedsomething.com/20061029/royale-noir/
+URLDownload = https://web.archive.org/web/20250404212305im_/https://fs12n3.sendspace.com/dl/ad1b2bb86900f5dea662d4064bd6c56d/67f04d93416101f6/ouby5o/royale_noir.zip
+SHA1 = b3b97d7a145808dc17b4699ca9a6f96ca9d2beca
+SizeBytes = 385099
+Installer = Generate
+
+[Generate]
+Dir = %systemroot%\Resources\Themes\RoyaleNoir
+Lnk = !
+Icon = ..\..\..\system32\desk.cpl

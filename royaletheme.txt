@@ -1,0 +1,11 @@
+[Section]
+Name = Royale
+Publisher = Microsoft
+License = Freeware
+LicenseType = 2
+Description = Royale (also known as Energy Blue and Media Center style) is a visual style designed for Windows XP Media Center Edition 2005. Also includes the New Bliss wallpaper.
+Category = 15
+URLSite = https://web.archive.org/web/20051028063258if_/http://www.microsoft.com/nz/windowsxp/downloads/nzbliss.aspx
+URLDownload = https://web.archive.org/web/20051128025233im_/http://download.microsoft.com/download/a/c/4/ac407ba2-30d2-447b-8c93-83967a92dd9f/royale.zip
+SHA1 = 08d5face1bbe9cde6944b8b5ae453fe2a117faec
+SizeBytes = 688390

@@ -1,0 +1,18 @@
+[Section]
+Name = TweakUI
+Version = 1.33
+Publisher = Microsoft
+License = Freeware
+LicenseType = 2
+Description = Adjust your Windows User Interface, including menu speed, window animation, and Microsoft Internet Explorer.
+Category = 12
+URLSite = https://web.archive.org/web/20040405071854if_/http://www.microsoft.com/ntworkstation/downloads/powertoys/networking/NTTweakUI.asp
+URLDownload = https://archive.org/download/ms_tweakui/TweakUI.zip
+SHA1 = aa0b0c24c3ebd486bfc5d2751815c6fc01b35ea2
+SizeBytes = 83283
+Installer = Generate
+
+[Generate]
+Files = TweakUI\t*.cpl|TweakUI\t*
+Dir = %SystemRoot%\system32
+Lnk = !
