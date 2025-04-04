@@ -10,7 +10,6 @@ SHA1 = 3ce44d98e8db724a2f0c6c12cc571a7dbc489e2c
 SizeBytes = 23685583
 Icon = siv.ico
 Screenshot1 = https://github.com/user-attachments/assets/a9b348da-2ce0-4afd-9bc1-a8f6ce5278f8
-Screenshot2 = https://github.com/user-attachments/assets/90cf523b-a7eb-4e2f-be7e-833bbd06476e
 Installer = Generate
 
 [Generate]
