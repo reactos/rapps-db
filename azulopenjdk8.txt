@@ -1,5 +1,5 @@
 [Section]
-Name = Java SE 8. Compiler and Runtime Environment.
+Name = Azul Zulu OpenJDK 8
 Version = 8.48.0.53
 License = GPLv2
 LicenseType = 1
@@ -15,10 +15,8 @@ Languages=0409|040A
 Description = 一款由 Zulu 建構，基於 OpenJDK 的開源 Java 編譯器和執行環境。
 
 [Section.040a]
-Name = Java SE 8. Compilador y entorno de ejecución.
 Description = Un compilador Java de código abierto y un entorno de ejecución creado por Zulu basado en OpenJDK.
 
 [Section.041f]
-Name = Java SE 8. Derleyici ve Çalışma Zamanı.
 License = GPL sürüm 2
 Description =  OpenJDK tabanlı Zulu tarafından inşa edilen açık kaynak bir Java derleyicisi ve çalışma zamanı ortamı.
