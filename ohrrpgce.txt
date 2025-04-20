@@ -1,0 +1,11 @@
+[Section]
+Name = O.H.R.RPG.C.E.
+Version = jocoserious+1
+License = Dual GPLv2 & MIT
+Description = An open-source video game engine for creating old school JRPGs.
+Category = 7
+URLSite = https://rpg.hamsterrepublic.com/ohrrpgce/Main_Page
+URLDownload = https://hamsterrepublic.com/ohrrpgce/archive/ohrrpgce-win-installer-2025-03-26-jocoserious+1.exe
+SHA1 = 7c057a16126d3211d2bfc55e7087bfcdf3dd5d0e
+SizeBytes = 33554432
+Icon = ohrrpgce.ico
