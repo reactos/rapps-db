@@ -9,3 +9,8 @@ URLSite = https://web.archive.org/web/20051028063258if_/http://www.microsoft.com
 URLDownload = https://web.archive.org/web/20051128025233im_/http://download.microsoft.com/download/a/c/4/ac407ba2-30d2-447b-8c93-83967a92dd9f/royale.zip
 SHA1 = 08d5face1bbe9cde6944b8b5ae453fe2a117faec
 SizeBytes = 688390
+Scope = Machine
+Installer = ExeInZip
+
+[ExeInZip]
+Exe = Royale Theme for Win XP (2)\Royale Theme for Win XP.exe

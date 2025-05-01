@@ -9,3 +9,4 @@ URLSite = https://web.archive.org/web/20061128062226if_/http://www.zune.net:80/e
 URLDownload = https://web.archive.org/web/20130224083838im_/http://download.microsoft.com/download/e/a/9/ea9af5ae-b48e-473e-85fe-dcde7472e644/ZuneDesktopTheme.msi
 SHA1 = 67fa6461855488ab4fd3907d91b229e5124d0843
 SizeBytes = 1722880
+Scope = Machine

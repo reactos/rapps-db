@@ -10,6 +10,7 @@ URLSite = https://web.archive.org/web/20040405071854if_/http://www.microsoft.com
 URLDownload = https://archive.org/download/ms_tweakui/TweakUI.zip
 SHA1 = aa0b0c24c3ebd486bfc5d2751815c6fc01b35ea2
 SizeBytes = 83283
+Scope = Machine
 Installer = Generate
 
 [Generate]

@@ -52,6 +52,9 @@ KEYS = {
         b'DelReg',
         b'DelRegEmpty',
     ],
+    b'ExeInZip': [
+        b'Exe',
+    ],
 }
 
 ALL_ARCH = [
