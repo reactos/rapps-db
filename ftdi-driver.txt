@@ -1,0 +1,13 @@
+[Section]
+Name = FTDI WHQL Certified Drivers
+Version = 2.06.00
+License = 2
+LicenseType = Propietary
+Description = Virtual COM Port (VCP) drivers and direct (D2XX) drivers. 
+Category = 13
+URLSite = https://ftdichip.com/drivers/
+URLDownload = https://ftdichip.com/Driver/CDM/Win2k/CDM20600.exe
+SHA1 = aff6653a6467417b0f6eabcc6b052788bdf110bc
+SizeBytes = 2345187
+
+
