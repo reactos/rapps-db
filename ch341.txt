@@ -1,7 +1,7 @@
 [Section]
 Name = Driver for CH340 and CH341 - USB Serial
 Version = V3.8
-License = EULA
+License = Propietary
 LicenseType = 2
 Description = Driver for the Anet A8, and more boards, like Chinese Arduino Clones.
 Category = 13
