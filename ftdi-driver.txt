@@ -1,8 +1,8 @@
 [Section]
 Name = FTDI WHQL Certified Drivers
 Version = 2.06.00
-License = 2
-LicenseType = Propietary
+License = Propietary
+LicenseType = 2
 Description = Virtual COM Port (VCP) drivers and direct (D2XX) drivers. 
 Category = 13
 URLSite = https://ftdichip.com/drivers/
