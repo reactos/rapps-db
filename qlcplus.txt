@@ -1,0 +1,25 @@
+[Section]
+Name = QLC+
+Version = 4.11.2
+License = Apache 2.0 License
+LicenseType = 1
+Description = Q Light Controller Plus (QLC+) is a free and cross-platform software to control DMX or analog lighting systems like moving heads, dimmers, scanners etc. 
+Category = 16
+URLSite = https://www.qlcplus.org/
+URLDownload = https://www.qlcplus.org/downloads/4.11.2/QLC+_4.11.2.exe
+SHA1 = 681131e8d0bb875c84bb969965b5aaadbd1a5ff1
+SizeBytes = 19220248
+
+[Section.0a]
+Description = Q Light Controller Plus (QLC+) es un software libre y gratuito de control de iluminación DMX, MIDI y analógico que puede controlar focos, cabezas móviles, máquinas de humo, etc. 
+
+[Section.0404]
+Description = Q Light Controller Plus (QLC+) 是一款免费开源的 DMX、MIDI 和模拟照明控制软件，可以控制聚光灯、摇头灯、烟雾机等。
+
+[Section.0804]
+Description = Q Light Controller Plus (QLC+) は、スポットライト、ムービング ヘッド、スモーク マシンなどを制御できる、無料のオープン ソース DMX、MIDI、アナログ照明制御ソフトウェアです。
+
+[Section.0419]
+Description = Q Light Controller Plus (QLC+) — это бесплатное программное обеспечение с открытым исходным кодом для управления DMX, MIDI и аналоговым освещением, которое может управлять прожекторами, вращающимися головами, дымовыми машинами и т. д.
+
+
