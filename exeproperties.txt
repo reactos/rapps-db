@@ -1,13 +1,13 @@
 [Section]
-Name = 
-Version = 
-License = 
-LicenseType = 
-Description =  
-Category = 
-URLSite = 
-URLDownload = 
-SHA1 = 
-SizeBytes = 
+Name = ExeProperties
+Version = 1.1.1.0
+License = Propietary
+LicenseType = 2
+Description = ExeProperties is a Shell32 extension that shows the architecture, min. Windows version, the compiler, and more for .exe, .dll, .cpl and other executables. 
+Category = 12
+URLSite = https://www.extrabit.com/exeproperties
+URLDownload = https://www.extrabit.com/downloads/exeproperties11.exe
+SHA1 = a0fdad4a1c995ea03ba98762e594f745daa7e268
+SizeBytes = 655128
 
 
