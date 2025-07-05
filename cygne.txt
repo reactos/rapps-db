@@ -8,7 +8,6 @@ URLSite = http://cygne.emuunlim.com/
 URLDownload = http://cygne.emuunlim.com/files/cygne21a-win.zip
 SHA1 = 4119a3b1f8cba6c663e04d6f4eb60116485a112a
 SizeBytes = 100197
-Icon = cygne.ico
 Installer = Generate
 
 [Generate]

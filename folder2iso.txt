@@ -8,7 +8,6 @@ URLSite = https://www.trustfm.net/software/utilities/Folder2Iso.php
 URLDownload = https://web.archive.org/web/2024im_/https://drive.usercontent.google.com/download?id=0B7nKMWPhyfl-UlYyV1NzclVET00&confirm=t&_/Folder2Iso31.exe
 SHA1 = 93662ee7417ad23e3a4e5cb3bd3091f805dcb075
 SizeBytes = 2749292
-Icon = folder2iso.ico
 
 [Section.amd64]
 URLDownload = https://ia802807.us.archive.org/27/items/folder2iso_202001/Folder2Iso.zip
