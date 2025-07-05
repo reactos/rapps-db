@@ -9,5 +9,6 @@ URLSite = https://www.wch-ic.com/downloads/CH341SER_EXE.html
 URLDownload = https://archive.org/download/ch-341-ser-exe/CH341SER.EXE
 SHA1 = 59089b4e112664dc7ae0049544b2afafd6d2cffe
 SizeBytes = 825280
+Icon = genericdriver.ico
 
 

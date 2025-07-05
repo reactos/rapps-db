@@ -8,3 +8,4 @@ URLSite = https://forum.doom9.org/showthread.php?t=181802
 URLDownload = https://rwijnsma.home.xs4all.nl/files/ffmpeg/libfdk-aac/libfdk-aac-2.0.3-win32-xpmod-sse.7z
 SHA1 = 46b9cfa133e982465749609748ce3fe6098e28bb
 SizeBytes = 554578
+Icon = ffmpeg.ico
