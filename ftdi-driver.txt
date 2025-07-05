@@ -9,5 +9,6 @@ URLSite = https://ftdichip.com/drivers/
 URLDownload = https://ftdichip.com/Driver/CDM/Win2k/CDM20600.exe
 SHA1 = aff6653a6467417b0f6eabcc6b052788bdf110bc
 SizeBytes = 2345187
+Icon = genericdriver.ico
 
 

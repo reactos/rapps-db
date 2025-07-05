@@ -8,6 +8,7 @@ URLSite = https://www.adobe.com/products/flashplayer.html
 URLDownload = https://web.archive.org/web/20180516032306if_/http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ppapi.exe
 SHA1 = e0ddb0f3c4bc9a48ebbe164ee5a068b133c7e156
 SizeBytes = 20846592
+Icon = flash.ico
 
 [Section.0a]
 Description = Plugin de Flash Player para los navegadores web con soporte PPAPI (p.e. Chrome, Vivaldi).

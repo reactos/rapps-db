@@ -1,7 +1,7 @@
 [Section]
 Name = HashCheck
 Version = 2.1.11
-License = Open Source
+License = BSD-style license
 LicenseType = 1
 Description = The HashCheck Shell Extension makes it easy for anyone to calculate and verify checksums and hashes from Windows Explorer. 
 Category = 12
