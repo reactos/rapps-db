@@ -8,6 +8,7 @@ URLSite = https://web.archive.org/web/20160306135607/https://www.microsoft.com/e
 URLDownload = https://web.archive.org/web/20200803205618if_/https://download.microsoft.com/download/4/a/a/4aafff19-9d21-4d35-ae81-02c48dcbbbff/MDAC_TYP.EXE
 SHA1 = 4fbc272c79da59e38818924d8575accb0af776fb
 SizeBytes = 6100504
+Icon = oldwinsetup.ico
 
 [Section.0a]
 Description = MDAC 2.8 SP1 contiene el núcleo de componentes de Data Access como el Microsoft SQL Server™ OLE DB proveedor y driver ODBC.
