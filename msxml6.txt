@@ -8,6 +8,7 @@ URLSite = https://web.archive.org/web/20160326075411/https://www.microsoft.com/e
 URLDownload = https://web.archive.org/web/20160328192524/https://download.microsoft.com/download/2/e/0/2e01308a-e17f-4bf9-bf48-161356cf9c81/msxml6.msi
 SHA1 = 2308743ddb4cb56ae910e461eeb3eab0a9e58058
 SizeBytes = 1528320
+Icon = newwinsetup.ico
 
 [Section.0a]
 License = Desconocida

@@ -8,6 +8,7 @@ URLSite = http://www.microsoft.com/downloads/details.aspx?FamilyID=28494391-052B
 URLDownload = http://svn.reactos.org/packages/msxml3.msi
 SHA1 = d4c2178dfb807e1a0267fce0fd06b8d51106d913
 SizeBytes = 1070592
+Icon = oldwinsetup.ico
 
 [Section.0a]
 License = Desconocida

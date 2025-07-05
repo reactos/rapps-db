@@ -8,6 +8,7 @@ URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=26999
 URLDownload = https://web.archive.org/web/20200810231845/http://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe
 SHA1 = 28c54491be70c38c97849c3d8cfbfdd0d3c515cb
 SizeBytes = 8990552
+Icon = newwinsetup.ico
 
 [Section.0a]
 Description = Necesario para aplicaciones compiladas con Visual Studio 2010. Incluye: atl100.dll, mfc100.dll, mfc100u.dll, mfcm100.dll, mfcm100u.dll, msdia100.dll, msvcm100.dll, msvcp100.dll, msvcr100.dll, vcomp100.dll.

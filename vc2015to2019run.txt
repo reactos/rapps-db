@@ -7,3 +7,4 @@ Category = 14
 URLDownload = https://aka.ms/vs/16/release/14.29.30133/VC_Redist.x86.exe
 SHA1 = 2c1ae47103e7f8d6072df4a8d9ceb382724ac59b
 SizeBytes = 13782872
+Icon = newwinsetup.ico
