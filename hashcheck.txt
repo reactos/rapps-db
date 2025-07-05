@@ -1,0 +1,13 @@
+[Section]
+Name = HashCheck
+Version = 2.1.11
+License = Open Source
+LicenseType = 1
+Description = The HashCheck Shell Extension makes it easy for anyone to calculate and verify checksums and hashes from Windows Explorer. 
+Category = 12
+URLSite = https://code.kliu.org/hashcheck/
+URLDownload = https://code.kliu.org/hashcheck/downloads/HashCheckInstall-latest.exe
+SHA1 = d3cb884c8fc3f04720d176777508c4f5dd2df40c
+SizeBytes = 86528
+
+

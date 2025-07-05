@@ -1,0 +1,13 @@
+[Section]
+Name = VMPK
+Version = 0.5.1
+License = GLP v3
+LicenseType = 1
+Description = Virtual MIDI Piano Keyboard is a MIDI events generator and receiver. It doesn't produce any sound by itself, but can be used to drive a MIDI synthesizer (either hardware or software, internal or external). 
+Category = 1
+URLSite = https://vmpk.sourceforge.io/index.es.shtml
+URLDownload = https://master.dl.sourceforge.net/project/vmpk/OldFiles/0.5.1/vmpk-0.5.1-win32-setup.exe
+SHA1 = 0dac273e9125eb567661802e593464f64e18b43f
+SizeBytes = 5509335
+
+
