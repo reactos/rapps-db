@@ -6,6 +6,7 @@ Category = 15
 URLDownload = https://web.archive.org/web/20211005193602/https://raw.githubusercontent.com/petr-akhlamov/ros-repo/master/luna.exe
 SHA1 = 584cb4bc31f6c1a252a13f925fac6e1ade049bd5
 SizeBytes = 1186139
+Icon = wallpaper.ico
 
 [Section.0404]
 Description = 一款來自 Windows XP 的 Luna 主題。

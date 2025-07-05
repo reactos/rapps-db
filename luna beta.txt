@@ -6,6 +6,7 @@ Category = 15
 URLDownload = https://web.archive.org/web/20211005194155/https://raw.githubusercontent.com/petr-akhlamov/ros-repo/master/lunabeta.exe
 SHA1 = abeef21ededa6fc178aef54256768b64cb26f5f5
 SizeBytes = 364810
+Icon = wallpaper.ico
 
 [Section.0404]
 Description = 一款來自 Windows Codename Whistler 的 Luna 主題。
