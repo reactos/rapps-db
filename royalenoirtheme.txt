@@ -10,6 +10,7 @@ SHA1 = b3b97d7a145808dc17b4699ca9a6f96ca9d2beca
 SizeBytes = 385099
 Scope = Machine
 Installer = Generate
+Icon = wallpaper.ico
 
 [Generate]
 Dir = %systemroot%\Resources\Themes\RoyaleNoir

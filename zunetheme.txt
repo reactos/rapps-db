@@ -10,3 +10,4 @@ URLDownload = https://web.archive.org/web/20130224083838im_/http://download.micr
 SHA1 = 67fa6461855488ab4fd3907d91b229e5124d0843
 SizeBytes = 1722880
 Scope = Machine
+Icon = wallpaper.ico

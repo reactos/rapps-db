@@ -9,6 +9,7 @@ URLDownload = https://uploads.s.zeid.me/Watercolor/Watercolor43.exe
 SHA1 = 069be12175d80a0f3c76daa5b90eeca8f547dd28
 SizeBytes = 881783
 Scope = Machine
+Icon = wallpaper.ico
 
 [Section.0a]
 Description = Un tema de Windows basado en el look del Windows Codename Whistler.
