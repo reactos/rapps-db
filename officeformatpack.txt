@@ -8,6 +8,7 @@ URLSite = https://web.archive.org/web/20161014203343if_/http://www.microsoft.com
 URLDownload = https://web.archive.org/web/20180403110858if_/http://download.microsoft.com/download/9/2/2/9222D67F-7630-4F49-BD26-476B51517FC1/FileFormatConverters.exe
 SHA1 = 455b076bc8c805225f65c8935378d2c3906c4ec2
 SizeBytes = 38808920
+Icon = office.ico
 
 [Section.0a]
 Name = Paquete de compatibilidad de Microsoft Office de Word, Excel y Powerpoint

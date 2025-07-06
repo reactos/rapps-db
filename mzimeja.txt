@@ -8,6 +8,7 @@ URLSite = https://github.com/katahiromz/mzimeja
 URLDownload = https://github.com/katahiromz/mzimeja/releases/download/v0.9.9.1/mzimeja-0.9.9.1-setup.exe
 SHA1 = c9ec99c25b649528688816db5cdaa8cbba1943e1
 SizeBytes = 1774502
+Icon = lang.ico
 
 [Section.0411]
 License = フリーソフト

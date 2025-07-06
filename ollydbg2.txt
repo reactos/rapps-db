@@ -10,6 +10,7 @@ URLDownload=https://www.ollydbg.de/odbg201.zip
 SHA1=d41fe77a2801d38476f20468ab61ddce14c3abb8
 SizeBytes=6965278
 Installer=Generate
+Icon = ollydbg.ico
 
 [Generate]
 Files=o*.exe|*.exe|help*
