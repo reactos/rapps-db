@@ -8,6 +8,7 @@ URLSite = https://gitee.com/njlyf2011/ttf-arphic-uming-reactos
 URLDownload = https://gitee.com/njlyf2011/ttf-arphic-uming-reactos/attach_files/1133634/download/uming-package-x86-32.exe
 SHA1 = 12acaa59129c9024d3a868b68d65b21e4c2fd3c9
 SizeBytes = 8720872
+Icon = lang.ico
 
 [Section.0404]
 Description = AR PL UMing 字型是由臺灣文鼎科技開發股份有限公司開發的一款開源字型。目前只支持中文環境。
