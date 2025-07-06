@@ -3,11 +3,16 @@ Name = MySQL Community Server
 Version = 5.5.60
 License = GPL
 Description = The world's most popular open source database.
-Category = 16
+Category = 7
 URLSite = https://dev.mysql.com/
 URLDownload = https://dev.mysql.com/get/Downloads/MySQL-5.5/mysql-5.5.60-win32.msi
 SHA1 = d23aad8c75ed3b0b0dd2131c9b679542d3890004
 SizeBytes = 37466112
+
+[Section.amd64]
+URLDownload = https://dev.mysql.com/get/Downloads/MySQL-5.5/mysql-5.5.60-winx64.msi
+SHA1 = 5bbea50a7e0df9545ded9c4a030181fae95fc132
+SizeBytes = 39477248
 
 [Section.0a]
 Description = El gestor de bases de datos de código abierto más popular del mundo.
