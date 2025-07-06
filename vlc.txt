@@ -1,18 +1,18 @@
 [Section]
 Name = VLC media player
-Version = 3.0.20
+Version = 3.0.21
 License = GPL
 Description = A fully featured FOSS media player with built-in codecs.
 Category = 2
 URLSite = http://www.videolan.org/vlc/
-URLDownload = http://download.videolan.org/pub/videolan/vlc/3.0.20/win32/vlc-3.0.20-win32.exe
-SHA1 = 512092bbadfadd550f5bb5bcbe95eb107b342d29
-SizeBytes = 42860784
+URLDownload = http://download.videolan.org/pub/videolan/vlc/3.0.21/win32/vlc-3.0.21-win32.exe
+SHA1 = fcf52ef953005a4b04d8eba9356920e234312408
+SizeBytes = 43123136
 
 [Section.amd64]
-URLDownload = http://download.videolan.org/pub/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.msi
-SHA1 = 744c04d096e3bb86da39c6490ff0c193b88fedd6
-SizeBytes = 58949632
+URLDownload = http://download.videolan.org/pub/videolan/vlc/3.0.21/win64/vlc-3.0.21-win64.exe
+SHA1 = 80d994fb95087efce34aeb4a98c8f4d7d2a035a6
+SizeBytes = 44943296
 
 [Section.0a]
 Description = Completo reproductor multimedia, de código abierto y con códecs propios.
