@@ -1,19 +1,19 @@
 [Section]
 Name = 7-Zip
-Version = 24.09
+Version = 25.00
 License = LGPL
 Description = A file archiving utility with support for 7zip, zip, tar, rar and many other archive formats.
 Category = 12
 URLSite = https://www.7-zip.org/
-URLDownload = https://www.7-zip.org/a/7z2409.exe
-SHA1 = 2135a90a9f6c3202c32a87b1c5cf805ce294a497
-SizeBytes = 1348869
+URLDownload = https://www.7-zip.org/a/7z2500.exe
+SHA1 = be42a1295f5be0ef7cce0c8a9ed74338925679ec
+SizeBytes = 1352297
 
 [Section.amd64]
-Version = 24.09
-URLDownload = https://www.7-zip.org/a/7z2409-x64.msi
-SHA1 = 2951c45df76b27033eddb73e120d1b6d0536cc08
-SizeBytes = 1987584
+Version = 25.00
+URLDownload = https://www.7-zip.org/a/7z2500-x64.msi
+SHA1 = c91f8902666cde80c6bde09395b0a53fd6ae2ac8
+SizeBytes = 1991680
 
 [Section.0001]
 Description = .برنامج لضغط وفك ضغط الملفات يدعم تنسيقات متعددة مثل زيب و 7زيب و رار و غيرها
