@@ -1,13 +1,18 @@
 [Section]
 Name = SMPlayer
-Version = 18.5.0
+Version = 25.6.0
 License = GPL
 Description = Graphical Frontend for MPlayer.
 Category = 2
 URLSite = http://smplayer.sourceforge.net/en/
-URLDownload = https://download.sourceforge.net/project/smplayer/SMPlayer/18.5.0/smplayer-18.5.0-win32.exe
-SHA1 = 42ee24828cec18cb33b3f8ce54d96342118f399c
-SizeBytes = 40892832
+URLDownload = https://github.com/smplayer-dev/smplayer/releases/download/v25.6.0/smplayer-25.6.0-win32-qt5.6-unsigned.exe
+SHA1 = 90510337cccab8e6ff7283136014df41d143a52a
+SizeBytes = 47760894
+
+[Section.amd64]
+URLDownload = https://github.com/smplayer-dev/smplayer/releases/download/v25.6.0/smplayer-25.6.0-x64-qt5.6-unsigned.exe
+SHA1 = f6035c7bf39b3a60af93bca89f840f72409c463f
+SizeBytes = 61388074
 
 [Section.0a]
 Description = Interfaz gráfica para Mplayer, el reproductor multimedia.
