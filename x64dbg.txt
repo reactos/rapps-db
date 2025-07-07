@@ -1,0 +1,21 @@
+[Section]
+Name = x64dbg
+Description = An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+Category = 7
+URLSite = https://x64dbg.com
+License = GPLv3
+LicenseType = 1
+Version = 0.2025.03.15
+URLDownload = https://github.com/x64dbg/x64dbg/releases/download/snapshot/snapshot_2025-03-15_15-57.zip
+SHA1 = c3945b745b62d29069e0087f6e52373789a3e468
+SizeBytes = 34992033
+Installer = Generate
+
+[Section.amd64]
+URLDownload = https://github.com/x64dbg/x64dbg/releases/download/snapshot/snapshot_2025-03-15_15-57.zip
+
+[Generate]
+Files = release\*.exe|release\*
+DelFile = x96dbg.ini|x32\x32dbg.ini|x64\x64dbg.ini
+DelDirEmpty = x32\db|x32\memdumps|x32\plugins|x32|x64\db|x64\memdumps|x64\plugins|x64
+DelReg = HKCR\dllfile\shell\Debug with x64dbg|HKCR\exefile\shell\Debug with x64dbg
