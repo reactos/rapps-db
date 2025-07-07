@@ -1,0 +1,17 @@
+[Section]
+Name = ROM Properties
+Version = 2.5.1
+License = GPL v2
+LicenseType = 1
+Description = ROM Properties Page shell extension. You must have installed the VC 2017 included in rapps-db. 
+Category = 12
+URLSite = https://github.com/GerbilSoft/rom-properties
+URLDownload = https://github.com/GerbilSoft/rom-properties/releases/download/v2.5.1/rom-properties_2.5.1-windows.zip
+SHA1 = c7febbe88becbe493916739edc0f173f88882ac1
+SizeBytes = 7313084
+Installer = ExeInZip
+
+[ExeInZip]
+Exe = install.exe
+
+
