@@ -1,0 +1,13 @@
+[Section]
+Name = Anti Twin
+Version = 1.8d
+License = Freeware
+LicenseType = 2
+Description = It's a software that helps do detect, delete and clean duplicated files. 
+Category = 12
+URLSite = https://www.aidex.de/software/antitwin/
+URLDownload = https://www.aidex.de/software/antitwin/AntiTwin_Setup.exe
+SHA1 = 13c6e182a7a81de2bfa29747d558cc516a765b35
+SizeBytes = 921232
+
+
