@@ -1,0 +1,18 @@
+[Section]
+Name = Anki
+Version = 2.0.52
+License = AGPL and BSD
+LicenseType = 1
+Description = 
+Category = 8
+URLSite = https://apps.ankiweb.net/
+URLDownload = https://github.com/ankitects/anki/releases/download/2.0.52/anki-2.0.52-alternate.exe
+SHA1 = 6382901c060998d01539a8806289fdbc62b9979e
+SizeBytes = 28105214
+
+[Section.amd64]
+URLDownload = https://github.com/ankitects/anki/releases/download/2.0.52/anki-2.0.52.exe
+SHA1 = 3f66647e91b8633262574b95f741c94820b06d2f
+SizeBytes = 29621181
+
+
