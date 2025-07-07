@@ -1,0 +1,13 @@
+[Section]
+Name = NVDA
+Version = 2017.3
+License = GPL 2
+LicenseType = 1
+Description =  
+Category = 12
+URLSite = https://nvaccess.org/download/
+URLDownload = https://www.nvaccess.org/files/nvda/releases/2017.3/nvda_2017.3.exe
+SHA1 = 386e7acb8cc3ecaabc8005894cf783b51a8ac7f6
+SizeBytes = 21216304
+
+
