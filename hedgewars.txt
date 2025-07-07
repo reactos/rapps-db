@@ -1,12 +1,12 @@
 [Section]
 Name = Hedgewars
-Version = 0.9.25
+Version = 0.9.23
 License = GNU GPL v2
 LicenseType = 1
 Description = Hedgewars is a turn-based strategy, artillery, action and comedy game, featuring the antics of pink hedgehogs with attitude as they battle from the depths of hell to the depths of space. 
 Category = 4
 URLSite = https://hedgewars.org/
-URLDownload = https://hedgewars.org/download/releases/Hedgewars-0.9.25.exe
+URLDownload = https://hedgewars.org/download/releases/Hedgewars-0.9.23.exe
 SHA1 = 083e1571c8724f8c2d6f5c4b570fa4910b5f2492
 SizeBytes = 167941748
 
