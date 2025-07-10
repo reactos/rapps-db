@@ -20,6 +20,6 @@ Installer = Generate
 Description = Google Chrome es el popular navegador web de código cerrado​ desarrollado por Google, derivado del proyecto Chromium.
 
 [Generate]
-File = *.exe|*.*
+Files = *.exe|*.*
 Dir = %ProgramFiles%\Google\Chrome
 Lnk = "Google Chrome.lnk"
