@@ -14,7 +14,7 @@ Version = 3.2.1
 URLDownload = https://download.kde.org/Attic/krita/3.2.1/krita-3.2.1-x64.zip
 SHA1 = cb85d630a8efdbc816296d757e05b1dc3d77943d
 SizeBytes = 100532224
-Generate = Installer
+Installer = Generate
 
 [Generate]
 Files = *.exe|*.*

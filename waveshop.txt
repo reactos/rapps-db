@@ -9,7 +9,7 @@ URLDownload = https://netix.dl.sourceforge.net/project/waveshop/waveshop-1.0.14/
 SHA1 = 793e2762086e77364802fa94e9c2b8003e4f85d1
 SizeBytes = 3317069
 Icon = waveshop.ico
-Generate = Installer
+Installer = Generate
 
 [Generate]
 DelFile = WaveShop.ini
