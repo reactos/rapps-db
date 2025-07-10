@@ -11,7 +11,7 @@ SHA1 = 08d5face1bbe9cde6944b8b5ae453fe2a117faec
 SizeBytes = 688390
 Scope = Machine
 Installer = ExeInZip
-Icon = wallpaper.ico
+Icon = themes.ico
 
 [ExeInZip]
 Exe = Royale Theme for Win XP (2)\Royale Theme for Win XP.exe
