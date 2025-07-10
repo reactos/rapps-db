@@ -14,6 +14,12 @@ Version = 3.2.1
 URLDownload = https://download.kde.org/Attic/krita/3.2.1/krita-3.2.1-x64.zip
 SHA1 = cb85d630a8efdbc816296d757e05b1dc3d77943d
 SizeBytes = 100532224
+Generate = Installer
+
+[Generate]
+Files = *.exe|*.*
+Dir = %ProgramFiles%\Krita
+Lnk = "Krita.lnk"
 
 [Section.0a]
 Description = Krita es un programa de edición de imagen open source, que te permite dibujar, pintar y hacer animación 3D. Es parte de KDE.
