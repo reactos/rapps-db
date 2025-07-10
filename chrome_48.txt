@@ -14,6 +14,12 @@ Icon = chrome.ico
 URLDownload = https://archive.org/download/48.0.2564.109-chrome-installer/chrome48_x64.zip
 SHA1 = 18a47a2285f05665e3ad19446186cfbcc30e5ba3
 SizeBytes = 80979795
+Installer = Generate
 
 [Section.0a]
 Description = Google Chrome es el popular navegador web de código cerrado​ desarrollado por Google, derivado del proyecto Chromium.
+
+[Generate]
+*.exe|*.*
+Dir = %ProgramFiles%\Google\Chrome
+Lnk = "Google Chrome.lnk"
