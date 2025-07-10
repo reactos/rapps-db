@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft XML 3
 Version = 3.0
-License = Unknown
+License = EULA
 Description = Needed for some Microsoft Installers. Contains: msxml3.dll, msxml3a.dll, msxml3r.dll.
 Category = 14
 URLSite = http://www.microsoft.com/downloads/details.aspx?FamilyID=28494391-052B-42FF-9674-F752BDCA9582&displaylang=en

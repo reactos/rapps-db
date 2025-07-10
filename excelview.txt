@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft Excel Viewer
 Version = 2007
-License = Unknown
+License = EULA
 Description = Freeware spreadsheet viewer for Office formats (*.xls).
 Category = 6
 URLSite = http://support.microsoft.com/

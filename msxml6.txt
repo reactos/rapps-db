@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft XML 6
 Version = 6.0
-License = Unknown
+License = EULA
 Description = Needed for some Microsoft Installers. Contains: msxml6.dll, msxml6r.dll.
 Category = 14
 URLSite = https://web.archive.org/web/20160326075411/https://www.microsoft.com/en-us/download/details.aspx?id=3988

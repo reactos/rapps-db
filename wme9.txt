@@ -1,7 +1,7 @@
 [Section]
 Name = Windows Media Encoder 9
 Version = 9.0
-License = Unknown
+License = EULA
 Description = Convert and broadcast audio and video in Windows Media formats.
 Category = 14
 URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=17792

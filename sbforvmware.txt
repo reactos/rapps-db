@@ -1,7 +1,7 @@
 [Section]
 Name = SoundBlaster Driver for VMWare
 Version = 5.12.1.5017
-License = Unknown
+License = CREATIVE EULA v2.5
 Description = Audio driver for SoundBlaster-compatible devices. Unzip in the ReactOS folder and restart twice.
 Category = 13
 URLDownload = http://svn.reactos.org/packages/sb_vmware.exe

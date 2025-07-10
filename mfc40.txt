@@ -1,7 +1,7 @@
 [Section]
 Name = OLE Viewer and Microsoft Foundation Classes version 4
 Version = 4.0
-License = Unknown
+License = EULA
 Description = MFC 4 is needed by some applications. Contains: mfc40.dll, msvcrt40.dll.
 Category = 14
 URLSite = http://support.microsoft.com/kb/122244/

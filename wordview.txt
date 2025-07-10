@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft Word Viewer
 Version = 2003
-License = Unknown
+License = EULA
 Description = Freeware document viewing application for Office formats (*.doc)
 Category = 6
 URLSite = http://support.microsoft.com/kb/180071/

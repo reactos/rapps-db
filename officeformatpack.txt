@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft Office Compatibility Pack for Word, Excel, and PowerPoint File Formats
 Version = 4
-License = Unknown
+License = EULA
 Description = Needed to open *.docx, *.xlsx, etc on Word/Excel Viewer and Office 2003.
 Category = 6
 URLSite = https://web.archive.org/web/20161014203343if_/http://www.microsoft.com/en-us/download/details.aspx?id=3
