@@ -15,7 +15,7 @@ Installer = Generate
 DelFile = WaveShop.ini
 
 [Section.amd64]
-URLDownload = https://nav.dl.sourceforge.net/project/waveshop/waveshop-1.0.14/waveshop-1.0.14.001-portable-x64.zip
+URLDownload = https://altushost-swe.dl.sourceforge.net/project/waveshop/waveshop-1.0.14/waveshop-1.0.14.001-portable-x64.zip?viasf=1&_=waveshop-1.0.14.001-portable-x64.zip
 SHA1 = 14b3dab7254ab854f68fa27d7c2e1547f5086973
 SizeBytes = 3355511
 
