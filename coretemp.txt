@@ -19,5 +19,4 @@ Installer = Generate
 [Section.041f]
 Description = Core Temp, işlemci sıcaklığını ve diğer hayati bilgileri izlemek için kompakt, zahmetsiz, az yer kaplayan, ancak güçlü bir programdır.
 
-[Generate]
 
