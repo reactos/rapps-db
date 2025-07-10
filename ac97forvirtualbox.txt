@@ -1,7 +1,7 @@
 [Section]
 Name = AC'97 Driver for VirtualBox
 Version = 5.10.00.3610
-License = Propietary
+License = Proprietary
 Description = Audio driver for AC'97-compatible devices. Unzip in the ReactOS folder and restart twice.
 Category = 13
 URLDownload = http://svn.reactos.org/packages/ac97_vbox.exe
