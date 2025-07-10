@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft Visual Basic 6 Runtime
 Version = 6.0
-License = Unknown
+License = EULA
 Description = Needed by applications written in Visual Basic 6. Contains: advpack.dll, asycfilt.dll, comcat.dll, msvbvm60.dll, oleaut32.dll, olepro32.dll.
 Category = 14
 URLSite = http://support.microsoft.com/kb/192461/

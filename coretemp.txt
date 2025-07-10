@@ -13,7 +13,10 @@ SizeBytes = 1294336
 Version = 1.18.1 Portable
 URLDownload = https://www.alcpu.com/CoreTemp/CoreTemp64.zip
 SHA1 = f588216efeebfd7e4012ce5346f15cd4c0c81dbc
-SizeBytes = 458752 
+SizeBytes = 458752
+Installer = Generate
 
 [Section.041f]
 Description = Core Temp, işlemci sıcaklığını ve diğer hayati bilgileri izlemek için kompakt, zahmetsiz, az yer kaplayan, ancak güçlü bir programdır.
+
+

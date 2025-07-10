@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft XNA Framework Redistributable 4.0 
 Version = 4.0
-License = Unknown
+License = EULA
 Description = The XNA Framework Redistributable provides the necessary runtime components to execute a game on Windows that was developed using Microsoft XNA Game Studio 4.0.
 Category = 14
 URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=20914

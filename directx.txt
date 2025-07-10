@@ -1,7 +1,7 @@
 [Section]
 Name = DirectX End-User Runtimes (June 2010)
 Version = 9.29
-License = Unknown
+License = EULA
 Description = Provides the runtimes required by most DirectX based applications and games. You have to manually run the installer after unpacking.
 Category = 14
 URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=8109

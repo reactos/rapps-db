@@ -14,6 +14,7 @@ Version = 7
 URLDownload = https://notepad-plus-plus.org/repository/7.x/7.0/npp.7.bin.x64.zip
 SHA1 = 27d48af6a28f4c8cb71257bed97dd57310537958
 SizeBytes = 2983747
+Installer = Generate
 
 [Section.0a]
 Description = Un editor de texto completo, libre y con gran cantidad de extensiones.

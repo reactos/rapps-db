@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft .NET Framework Version 1.1 Redistributable Package
 Version = 1.1
-License = Unknown
+License = EULA
 Description = Components needed to run managed Windows applications compiled in an Intermediate language like C#.
 Category = 14
 URLSite = http://www.microsoft.com/en-US/download/details.aspx?id=26

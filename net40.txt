@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft .NET Framework Version 4.0
 Version = 4.0
-License = Unknown
+License = EULA
 Description = Components needed to run managed Windows applications compiled in an Intermediate language like C#.
 Category = 14
 URLSite = http://www.microsoft.com/en-US/download/details.aspx?id=17718

@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft Powerpoint Viewer
 Version = 2010
-License = Unknown
+License = EULA
 Description = Freeware presentation viewer for Office formats (*.ppt).
 Category = 6
 URLSite = http://support.microsoft.com/

@@ -1,7 +1,7 @@
 [Section]
 Name = Jet 4.0 Service Pack 8 (SP8) (KB829558) for 9x/NT
 Version = 4.0.7328
-License = Unknown
+License = EULA
 Description = This installation includes Microsoft products that incorporate Microsoft Jet database engine version 4.0.
 Category = 14
 URLSite = https://www.microsoft.com/en-US/download/details.aspx?id=7151

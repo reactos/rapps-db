@@ -1,7 +1,7 @@
 [Section]
 Name = Microsoft Visual Basic 5 Runtime
 Version = 5.0
-License = Unknown
+License = EULA
 Description = Needed by applications written in Visual Basic 5. Contains: advpack.dll, asycfilt.dll, comcat.dll, msvbvm50.dll, oleaut32.dll, olepro32.dll.
 Category = 14
 URLSite = http://support.microsoft.com/kb/180071/

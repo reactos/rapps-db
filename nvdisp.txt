@@ -1,7 +1,7 @@
 [Section]
 Name = NVidia Display drivers
 Version = 52.16
-License = Unknown
+License = NVIDIA LICENSE EULA
 Description = Display driver for RIVA TNT2, GeForce/Quadro 1/2/3/4 cards from NVidia.
 Category = 13
 URLSite = http://www.nvidia.com/
