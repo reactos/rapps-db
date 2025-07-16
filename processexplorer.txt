@@ -11,6 +11,9 @@ SHA1 = 6c0237823163ba0e7b525e2f68c881d983a554af
 SizeBytes = 2004933
 Installer = Generate
 
+[Section.amd64]
+URLDownload = https://web.archive.org/web/20190913041012/https://download.sysinternals.com/files/ProcessExplorer.zip
+
 [Generate]
 Files = procexp.exe|*.chm
 Dir = SysInternals\Process Explorer

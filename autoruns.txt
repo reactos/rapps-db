@@ -10,6 +10,9 @@ SHA1 = 62c0af2d62d58aa51650f1bf23d0222d43bf9bb1
 SizeBytes = 1305367
 Installer = Generate
 
+[Section.amd64]
+URLDownload = https://web.archive.org/web/20170803195021/https://download.sysinternals.com/files/Autoruns.zip
+
 [Generate]
 Files = *s.exe|*sc.exe|*.chm
 Dir = SysInternals\AutoRuns
