@@ -6,7 +6,7 @@ Description = Flash Player plugin for web browsers with NPAPI support (eg. Firef
 Category = 6
 URLSite = https://www.adobe.com/products/flashplayer.html
 URLDownload = https://web.archive.org/web/20200524055912if_/https://fpdownload.macromedia.com/pub/flashplayer/pdc/32.0.0.371/install_flash_player.exe
-SHA1 =  b34cea5363db3d5b9223912e4218c66a2fa2d823
+SHA1 = b34cea5363db3d5b9223912e4218c66a2fa2d823
 SizeBytes = 21332024
 Icon = flash.ico
 
