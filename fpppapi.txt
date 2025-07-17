@@ -1,13 +1,13 @@
 [Section]
-Name = Adobe Flash Player 29 PPAPI Plugin
-Version = 29.0.0.171
+Name = Adobe Flash Player 32 PPAPI Plugin
+Version = 32.0.0.371
 License = Freeware
 Description = Flash Player plugin for web browsers with PPAPI support (eg. Chrome, Vivaldi).
 Category = 6
 URLSite = https://www.adobe.com/products/flashplayer.html
-URLDownload = https://web.archive.org/web/20180516032306if_/http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ppapi.exe
-SHA1 = e0ddb0f3c4bc9a48ebbe164ee5a068b133c7e156
-SizeBytes = 20846592
+URLDownload = https://web.archive.org/web/20200524060003if_/https://fpdownload.macromedia.com/pub/flashplayer/pdc/32.0.0.371/install_flash_player_ppapi.exe
+SHA1 =  b6bebe4d0a89070deb3b15c0b6095ddf4f51ad99
+SizeBytes = 21132344
 Icon = flash.ico
 
 [Section.0a]
@@ -21,7 +21,7 @@ License = Darmowe
 Description = Wtyczka Flash Player do przeglądarek internetowych obsługujących PPAPI (np. Chrome, Vivaldi).
 
 [Section.041f]
-Name = Adobe Flash Player 29 PPAPI Eklentisi
+Name = Adobe Flash Player 32 PPAPI Eklentisi
 Description = PPAPI destekli (Chrome, Vivaldi gibi) Web tarayıcıları için Flash Player eklentisi.
 
 [Section.0425]
