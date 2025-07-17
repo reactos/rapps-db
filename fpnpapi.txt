@@ -1,13 +1,13 @@
 [Section]
-Name = Adobe Flash Player 29 NPAPI Plugin
-Version = 29.0.0.171
+Name = Adobe Flash Player 32 NPAPI Plugin
+Version = 32.0.0.371
 License = Freeware
 Description = Flash Player plugin for web browsers with NPAPI support (eg. Firefox, Opera 12).
 Category = 6
 URLSite = https://www.adobe.com/products/flashplayer.html
-URLDownload = https://web.archive.org/web/20180518145318if_/http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe
-SHA1 = 4f81e6c440331bc6a12bc1365ecbc6e227443fc1
-SizeBytes = 20872192
+URLDownload = https://web.archive.org/web/20200524055912if_/https://fpdownload.macromedia.com/pub/flashplayer/pdc/32.0.0.371/install_flash_player.exe
+SHA1 =  b34cea5363db3d5b9223912e4218c66a2fa2d823
+SizeBytes = 21332024
 Icon = flash.ico
 
 [Section.0a]
@@ -21,7 +21,7 @@ License = Darmowe
 Description = Wtyczka Flash Player do przeglądarek internetowych obsługujących NPAPI (np. Firefox, Opera 12).
 
 [Section.041f]
-Name = Adobe Flash Player 29 NPAPI Eklentisi
+Name = Adobe Flash Player 32 NPAPI Eklentisi
 Description = NPAPI destekli Web tarayıcıları (Firefox, Opera 12 gibi) için Flash Player eklentisi.
 
 [Section.0425]
