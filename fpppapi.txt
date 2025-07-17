@@ -6,7 +6,7 @@ Description = Flash Player plugin for web browsers with PPAPI support (eg. Chrom
 Category = 6
 URLSite = https://www.adobe.com/products/flashplayer.html
 URLDownload = https://web.archive.org/web/20200524060003if_/https://fpdownload.macromedia.com/pub/flashplayer/pdc/32.0.0.371/install_flash_player_ppapi.exe
-SHA1 =  b6bebe4d0a89070deb3b15c0b6095ddf4f51ad99
+SHA1 = b6bebe4d0a89070deb3b15c0b6095ddf4f51ad99
 SizeBytes = 21132344
 Icon = flash.ico
 
