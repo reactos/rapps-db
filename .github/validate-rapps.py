@@ -45,6 +45,7 @@ KEYS = {
         b'Files',
         b'Dir',
         b'Lnk',
+        b'LnkParameters',
         b'Icon',
         b'DelFile',
         b'DelDir',

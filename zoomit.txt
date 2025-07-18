@@ -12,6 +12,12 @@ SHA1 = 231a7f6ee113f71f2f0e7a7cef0931c27f23501f
 SizeBytes = 939781
 Installer = Generate
 
+[Section.amd64]
+URLDownload = https://web.archive.org/web/20210503071949/http://download.sysinternals.com/Files/ZoomIt.zip
+
+[Section.arm64]
+URLDownload = https://web.archive.org/web/20210503071949/http://download.sysinternals.com/Files/ZoomIt.zip
+
 [Generate]
 Files = *it.exe
 Dir = SysInternals\ZoomIt
