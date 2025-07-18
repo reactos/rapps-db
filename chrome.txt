@@ -1,13 +1,13 @@
 [Section]
-Name = Chrome 48
-Version = 48.0.2564.109
+Name = Chrome
+Version = 49.0.2623.112
 License = Freeware
 Description = Google Chrome is a cross-platform web browser developed by Google, based on the open source base of Chromium.
 Category = 5
 URLSite = https://www.google.com/chrome/
-URLDownload = https://archive.org/download/48.0.2564.109-chrome-installer/48.0.2564.109_chrome_installer_win32.exe
-SHA1 = c25853c0fdad898c9f455375ec56821005eb3432
-SizeBytes = 44335696
+URLDownload = https://archive.org/download/49.0.2623.112ChromeInstaller/49.0.2623.112_chrome_installer.exe
+SHA1 = 75e1b8f2a36b5027a1073f3bebab0216a62ff087
+SizeBytes = 45001120
 Icon = chrome.ico
 
 [Section.amd64]
