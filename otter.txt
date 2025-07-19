@@ -1,17 +1,17 @@
 [Section]
 Name = Otter Browser
-Version = win32-1.0.01-xp
+Version = win32-1.0.03-xp
 License = GPLv3
 Description = Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
 Category = 5
 URLSite = https://otter-browser.org
-URLDownload = https://downloads.sourceforge.net/project/otter-browser/otter-browser-1.0.01/otter-browser-win32-1.0.01-xp.zip
-SHA1 = 33333aa188bbdd430e7ca62e9fbb5a464c0bd087
-SizeBytes = 70390771
+URLDownload = https://download.sourceforge.net/project/otter-browser/otter-browser-1.0.03/otter-browser-win32-1.0.03-xp.zip
+SHA1 = 5c37425065c4be5ab8c071102f944080abeeba11
+SizeBytes = 70558446
 Installer = Generate
 
 [Generate]
-Files = otter-browser-win32-1.0.01-xp\o*.exe|otter-browser-win32-1.0.01-xp\*
+Files = otter-browser-win32-1.0.03-xp\o*.exe|otter-browser-win32-1.0.03-xp\*
 DelDir = .\..\Otter\cache|.\..\Otter\Otter
 DelDirEmpty = .\..\Otter
 
