@@ -1,13 +1,14 @@
 [Section]
 Name = Pidgin
-Version = 2.14.1
+Version = 2.14.14
 License = GPLv2
 Description = An instant messaging program which lets you log in to accounts on multiple chat networks simultaneously.
 Category = 5
 URLSite = https://pidgin.im/
-URLDownload = https://jztkft.dl.sourceforge.net/project/pidgin/Pidgin/2.14.1/pidgin-2.14.1.exe
-SHA1 = 6cabba4a6afebd7b9c5ce74fa12c655cafd5b445
-SizeBytes = 8697184
+URLDownload = https://sourceforge.net/projects/pidgin/files/Pidgin/2.14.14/pidgin-2.14.14-offline.exe/download
+SaveAs = pidgin-2.14.14-offline.exe
+SHA1 = 3006715193f8dc542d6cb147057ce00d6db321a5
+SizeBytes = 32351744
 Icon = pidgin.ico
 
 [Section.0a]
