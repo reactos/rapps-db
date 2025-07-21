@@ -1,13 +1,13 @@
 [Section]
 Name = MultiMC
-Version = 0.7.0-4200
+Version = 0.7.0-4235
 License = Apache 2.0 and MS-PL
 Description = MultiMC is a custom launcher for Minecraft that allows you to have multiple, cleanly separated instances of Minecraft with a simple and powerful interface.
 Category = 4
 URLSite = https://multimc.org/
-URLDownload = https://files.multimc.org/downloads/mmc-develop-win32.zip
-SHA1 = 1096e20d0c8f1abe61d00596ed166843833c84d9
-SizeBytes = 14255069
+URLDownload = https://web.archive.org/web/20250719104356/https://files.multimc.org/downloads/mmc-develop-win32.zip
+SHA1 = 25187077ce02be97cedebbed2dbc323e9657c962
+SizeBytes = 14255064
 Icon = multimc.ico
 Screenshot1 = https://user-images.githubusercontent.com/54766538/276584135-c27902a2-aa45-4cdd-a2f7-fdb6fb327cd5.png
 Installer = Generate
