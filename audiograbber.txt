@@ -1,0 +1,57 @@
+[Section]
+Name = Audio Grabber
+Version = 1.83 SE
+License = Freeware
+Description = A very good CD Ripper/Audio File Converter.
+Category = 1
+URLSite = http://www.audiograbber.de/
+URLDownload = https://www.audiograbber.de/files/agsetup.exe
+SHA1 = ca6182ab7fc182cc47bcc22ed849fa2740fc213c
+SizeBytes = 2674531
+
+[Section.0a]
+Description = Un buen extractor de pistas de CDs de música y conversor de archivos de audio.
+
+[Section.0404]
+License = 免費軟體
+Description = 一款非常好用的 CD 分割和音訊檔案轉換工具。
+
+[Section.0407]
+Description = Sehr guter CD-Ripper/Audio-Datei-Konverter.
+
+[Section.0410]
+Description = Un buon CD Ripper/Convertitore di file Audio.
+
+[Section.040c]
+Description = Un très bon extracteur de CD/convertisseur de fichier audio.
+
+[Section.0413]
+Description = Een goede CD Ripper/Audio-bestandsomzetter.
+
+[Section.0415]
+Description = Bardzo dobry CD Ripper/konwerter plików audio.
+
+[Section.0418]
+License = Gratuită
+Description = Program de extragere conținuturi CD audio și de conversie a fișierelor de sunet.
+
+[Section.0419]
+Description = Программа, предназначенная для копирования аудиотреков в цифровой формат.
+
+[Section.041f]
+Description = Çok iyi bir CD kaydedicisi ve ses dosyası dönüştürücüsü.
+
+[Section.0422]
+Description = Чудовий CD Ріппер/Конвертер аудіо файлів.
+
+[Section.0425]
+Description = Väga hea CD rippija/helifaili muundur.
+License = Vabavara
+
+[Section.0804]
+License = 免费软件
+Description = 一个非常好用的 CD 分割和音频文件转换工具。
+
+[Section.0813]
+Description = Een goede CD Ripper/Audio-bestandsomzetter.
+
