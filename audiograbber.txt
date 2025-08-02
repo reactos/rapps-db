@@ -1,6 +1,6 @@
 [Section]
 Name = Audio Grabber
-Version = 1.83 SE
+Version = 1.83 2020 edition
 License = Freeware
 Description = A very good CD Ripper/Audio File Converter.
 Category = 1
