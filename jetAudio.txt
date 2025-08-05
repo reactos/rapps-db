@@ -1,12 +1,12 @@
 [Section]
-Name = jetAudio Basic
-Version = 8.1.9
+Name = jetAudio Plus
+Version = 8.1.11
 Description = jetAudio is a multimedia player software that offers a playback option and multimedia file editor and burning capabilities.
 Category = 1
 URLSite = http://www.jetaudio.com/
-URLDownload = http://www.jetaudio.com/download/5fc01426-741d-41b8-a120-d890330ec672/jetAudio/JAD8109_BASIC.exe
-SHA1 = 1f8fc3a118e78cf378a87fc720dd5e6e477396f5
-SizeBytes = 35129277
+URLDownload = https://www.jetaudio.com/download/5fc01426-741d-41b8-a120-d890330ec672/jetAudio/JAD8111_PLUS.exe
+SHA1 = c2d0479bc1a19f3cfd362f6a5cfd02ba830da62c
+SizeBytes = 36881584
 
 [Section.041f]
 Description = jetAudio, bir yeniden oynatma, çoklu ortam dosya düzenleyicisi ve yakma yetenekleri sunan bir çoklu ortam oynatıcı yazılımıdır.

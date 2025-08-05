@@ -1,13 +1,13 @@
 [Section]
 Name = Audio Grabber
-Version = 1.83 SE
+Version = 1.83 2020 edition
 License = Freeware
 Description = A very good CD Ripper/Audio File Converter.
 Category = 1
 URLSite = http://www.audiograbber.de/
-URLDownload = http://rsteinbu.myonlineportal.org/downloads/freeware/Multimedia/Audiograbber%201.8x/agsetup183se.exe
-SHA1 = c53224ad4f0e381af5c8cd146d7c90539c6d6489
-SizeBytes = 3349460
+URLDownload = https://www.audiograbber.de/files/agsetup.exe
+SHA1 = ca6182ab7fc182cc47bcc22ed849fa2740fc213c
+SizeBytes = 2674531
 
 [Section.0a]
 Description = Un buen extractor de pistas de CDs de música y conversor de archivos de audio.
