@@ -9,6 +9,27 @@ URLDownload = https://web.archive.org/web/20240905191907/https://www.videohelp.c
 SHA1 = 39d00d43e72a7944f433d3f61855a487b5797328
 SizeBytes = 20248056
 
+[Section.amd64]
+Version = 2.4.2
+URLDownload = https://github.com/henricj/audacity/releases/download/latest-x64/MSI-Audacity-x64-Audacity-2.4.2-84-gfc46c01f3.zip
+SHA1 = 1313a0bfe4d4fd6e4617ec37fc128a1c582b0f6d
+SizeBytes = 23463502
+Installer = ExeInZip
+
+[Section.arm64]
+Version = 2.4.2
+URLDownload = https://github.com/henricj/audacity/releases/download/latest-arm64/MSI-Audacity-arm64-Audacity-2.4.2-84-gfc46c01f3.zip
+SHA1 = 4a28e28ae58a9b5d562fc44abcec6b42fd4927b9
+SizeBytes = 23110953
+Installer = ExeInZip
+
+[Section.arm]
+Version = 2.0.2
+URLDownload = https://files.open-rt.party/Software/Audacity.zip
+SHA1 = 4a28e28ae58a9b5d562fc44abcec6b42fd4927b9
+SizeBytes = 23110953
+Installer = Generate
+
 [Section.0a]
 Description = Programa libre, gratuito y multiplataforma para grabar y editar audio y música.
 

@@ -9,6 +9,18 @@ URLDownload = https://qemu.weilnetz.de/w32/2013/qemu-w32-setup-20130627.exe
 SHA1 = d5c45b5220951a2abbb3340d368c36d3140da83f
 SizeBytes = 13938504
 
+[Section.amd64]
+URLDownload = https://qemu.weilnetz.de/w64/2013/qemu-w64-setup-20130619.exe
+SHA1 = cfc87ee81c5943761182260ebb07afe60d32804a
+SizeBytes = 16281897
+
+[Section.arm]
+Version = 6
+URLDownload = https://archive.org/download/qemu-6-arm-32-build-5/QEMU6-ARM32-BUILD5.zip
+SHA1 = 4caca5e982037622cf9c36a13620878040cac719
+SizeBytes = 448659265
+Installer = Generate
+
 [Section.0a]
 Description = Un emulador o virtualizador de máquinas muy ligero y de código abierto. Puede emular procesadores basados en muchas arquitecturas (p.e. x86, ARM, MIPS, PowerPC). Utilizar con la línea "-display sdl" para evitar los gliches en pantalla. 
 

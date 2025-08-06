@@ -9,6 +9,23 @@ URLDownload = https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi
 SHA1 = 70830dd027e250a17b2265e24440785b1e2f3a16
 SizeBytes = 19304448
 
+[Section.amd64]
+URLDownload = https://www.python.org/ftp/python/2.7.15/python-2.7.15.amd64.msi
+SHA1 = c097d38d29a894110db278bef3912a2a8f231214
+SizeBytes = 20246528
+
+[Section.arm]
+URLDownload = https://files.open-rt.party/Software/dev/python2.7.15-winarm32.zip
+SHA1 = 5c3c3df40f4aef26545e7ea34d9eda61d9faff5d
+SizeBytes = 14085824
+Installer = Generate
+
+[Section.arm64]
+URLDownload = https://archive.org/download/Arm64-Compiled-set/Python27-arm64.zip
+SHA1 = 9a8eea9a73fcf0c2bdcfece848e08211f38d7f57
+SizeBytes = 23551177
+Installer = Generate
+
 [Section.0a]
 Description = Un lenguaje de programación dinámico sumamente potente.
 

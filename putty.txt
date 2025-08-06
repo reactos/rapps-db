@@ -1,19 +1,28 @@
 [Section]
 Name = PuTTY
-Version = 0.80
+Version = 0.83
 License = MIT
 Description = A free SSH, Telnet, rlogin, and raw TCP client.
 Category = 5
 URLSite = http://www.chiark.greenend.org.uk/~sgtatham/putty/
-URLDownload = https://the.earth.li/~sgtatham/putty/0.80/w32/putty-0.80-installer.msi
-SHA1 = 84b295c34fb91f073331795f9db69c6465ded064
-SizeBytes = 3419136
+URLDownload = https://the.earth.li/~sgtatham/putty/0.83/w32/putty-0.83-installer.msii
+SHA1 = e5fc81d1f33a3054f7bf54bde779f5049190286a
+SizeBytes = 3508736
 
 [Section.amd64]
-Version = 0.80
-URLDownload = https://the.earth.li/~sgtatham/putty/0.80/w64/putty-64bit-0.80-installer.msi
-SHA1 = 9da4e411e0ca62fc452cb91a3b33c7c1621f746d
-SizeBytes = 3709440
+URLDownload = https://the.earth.li/~sgtatham/putty/0.83/w64/putty-64bit-0.83-installer.msi
+SHA1 = fcc43a90f7d73a1ba2431e2d44911d7c635795ed
+SizeBytes = 3831808
+
+[Section.arm]
+URLDownload = https://the.earth.li/~sgtatham/putty/0.83/wa32/putty-arm32-0.83-installer.msi
+SHA1 = f859290b6462cc401f0b6c18ecaaa9fa5dd0da8a
+SizeBytes = 3082240
+
+[Section.arm64]
+URLDownload = https://the.earth.li/~sgtatham/putty/0.83/wa64/putty-arm64-0.83-installer.msi
+SHA1 = ed5f3c670b687e30fd39d7b991a073cf1f95d010
+SizeBytes = 3292672
 
 [Section.0a]
 Description = Un cliente SSH, Telnet, rlogin y TCP libre y gratuito.
