@@ -10,10 +10,9 @@ SHA1 = 46c89a6eebfb5f2e8f9b7edbe5409e314366a66a
 SizeBytes = 24932352
 
 [Section.amd64]
-Version = 3.4.4
-URLDownload = https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi
-SHA1 = 46c89a6eebfb5f2e8f9b7edbe5409e314366a66a
-SizeBytes = 24932352
+URLDownload = https://www.python.org/ftp/python/3.4.4/python-3.4.4.amd64.msi
+SHA1 = 9955ce67a5ae1c051ac795ff5c5b7b9ec055e7b7
+SizeBytes = 26054656
 
 [Section.arm]
 Version = 3.12.4
