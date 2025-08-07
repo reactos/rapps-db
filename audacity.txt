@@ -21,8 +21,8 @@ Installer = ExeInZip
 [Section.arm]
 Version = 2.0.2
 URLDownload = https://files.open-rt.party/Software/Audacity.zip
-SHA1 = 4a28e28ae58a9b5d562fc44abcec6b42fd4927b9
-SizeBytes = 23110953
+SHA1 = 6cded0e7f2c50c87aa6fb5e0385ffef6f16d093e
+SizeBytes = 4725083
 Installer = Generate
 
 [Section.arm64]
