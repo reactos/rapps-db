@@ -14,7 +14,7 @@ URLDownload = https://github.com/LMMS/lmms/releases/download/v1.2.2/lmms-1.2.2-w
 SHA1 = f26b1be68206eaa0b36f1ee057bda45b45070a30
 SizeBytes = 36829951
 
-[Section.arm64]
+[Section.arm]
 Version = 1.3.0-Alpha-March-2019
 URLDownload = https://download.fryelum.dev/Rakko/Applications/LMMS/Downloads/2023/March/LMMS%20v1.3.0-alpha%20%28March%2019th%29%20%28Minimal%20Plugins%29.zip
 SHA1 = 411b6bb3eb809d9cb0feecb52c8388a6f98a5749

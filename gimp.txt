@@ -15,6 +15,12 @@ URLDownload = https://web.archive.org/web/20140625183541if_/http://partha.com/do
 SHA1 = 2bbe8b37468e61be1a72f1d53ec9c2dde0db8e41
 SizeBytes = 121149747
 
+[Section.arm]
+Version = 2
+URLDownload = https://download.fryelum.dev/Rakko/Applications/GIMP/Downloads/2022/May/BETA%20GIMP%20%28May%2029th%29.tar.gz
+SHA1 = 919a5d351542a426d435de47496049afd7fa7628
+SizeBytes = 1247694269
+
 [Section.arm64]
 URLDownload = https://download.gimp.org/gimp/v3.0/windows/gimp-3.0.4-setup.exe
 SHA1 = 2f7c0b96b67b09177fb0e8ebb2a9842a980b824a
