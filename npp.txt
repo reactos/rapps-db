@@ -10,11 +10,24 @@ SHA1 = 99d3507a8eab110b7471bf2a8e63e88ecfb4e831
 SizeBytes = 4206592
 
 [Section.amd64]
-Version = 7
+Version = 7.0
 URLDownload = https://notepad-plus-plus.org/repository/7.x/7.0/npp.7.bin.x64.zip
 SHA1 = 27d48af6a28f4c8cb71257bed97dd57310537958
 SizeBytes = 2983747
 Installer = Generate
+
+[Section.arm]
+Version = 6.5.1a
+URLDownload = https://files.open-rt.party/Software/Notepad%2B%2B%206.5.1a.zip
+SHA1 = 74b9b47c8582018354380a9a62cfa48a21c54005
+SizeBytes = 3433703
+Installer = Generate
+
+[Section.arm64]
+Version = 8.1.4
+URLDownload = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.arm64.exe
+SHA1 = e5bbe8b1a775160795053544ede6fad2688b5656
+SizeBytes = 3936136
 
 [Section.0a]
 Description = Un editor de texto completo, libre y con gran cantidad de extensiones.

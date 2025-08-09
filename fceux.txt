@@ -16,7 +16,12 @@ DelFile = fceux.cfg
 DelDirEmpty = cheats|fcs|movies|sav|snaps
 
 [Section.amd64]
-Version = 2.6.6
 URLDownload = https://github.com/TASEmulators/fceux/releases/download/v2.6.6/fceux-2.6.6-win64.zip
 SHA1 = b5fdc79aacf8d794655e3413d81fd4525413375d
 SizeBytes = 4745197
+
+[Section.arm64]
+URLDownload = https://github.com/tordona/fceux/releases/download/2.6.6/fceux-2.6.6-qt-win-arm64.7z
+SHA1 = aac83aee594c2482de038b6e3129ddd5799b6a9a
+SizeBytes = 11082343
+

@@ -9,3 +9,15 @@ URLDownload = https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/en-US
 SHA1 = 705240c720a631c5b7c70ef41f5af0f272721ea9
 SizeBytes = 45470192
 Icon = firefox_new.ico
+
+[Section.amd64]
+URLDownload = https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win64/en-US/Firefox%20Setup%2052.9.0esr.exe
+SHA1 = 6c454afa9ce98591ae45d10c1f0dce005411f66f
+SizeBytes = 47729632
+
+[Section.arm64]
+Name = Mozilla Firefox 140.1 ESR
+Version = 140.1.0
+URLDownload = https://ftp.mozilla.org/pub/firefox/releases/140.1.0esr/win64-aarch64/en-US/Firefox%20Setup%20140.1.0esr.exe
+SHA1 = 410ead6b90b44f3900f67d8bc6d676712193b016
+SizeBytes = 68016840

@@ -15,5 +15,11 @@ URLDownload = https://download.blender.org/release/Blender2.76/blender-2.76b-win
 SHA1 = 9d983a9015daaede0434eaa1e5c63b88328b7873
 SizeBytes = 83674076
 
+[Section.arm64]
+Version = 4.5.1
+URLDownload = https://ftp.nluug.nl/pub/graphics/blender/release/Blender4.5/blender-4.5.1-windows-arm64.msi
+SHA1 = 32880a2d6bc901eb1f07233d180b884d64cc9aca
+SizeBytes = 334983168
+
 [Section.0a]
 Description = Blender es un programa informático multiplataforma, dedicado especialmente al modelado, iluminación, renderizado, la animación y creación de gráficos tridimensionales.

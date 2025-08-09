@@ -15,6 +15,11 @@ Files = otter-browser-win32-1.0.03-xp\o*.exe|otter-browser-win32-1.0.03-xp\*
 DelDir = .\..\Otter\cache|.\..\Otter\Otter
 DelDirEmpty = .\..\Otter
 
+[Section.arm64]
+URLDownload = https://download.fryelum.dev/Rakko/Applications/OtterBrowser/Downloads/2025/July/ALPHA%20Otter%20Browser%20%28July%2031st%29%20%28WebGL%2C%20WebKit2%29.zip
+SHA1 = 3215f4e5e364017e5ee46fc84188dcb9107a57ce
+SizeBytes = 55861791
+
 [Section.0a]
 Name = Navegador Otter
 Description = El navegador Otter tiene el objetivo de recrear el buen aspecto del Opera clásico (12.x) usando Qt5.

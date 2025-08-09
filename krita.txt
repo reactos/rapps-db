@@ -16,6 +16,13 @@ SHA1 = cb85d630a8efdbc816296d757e05b1dc3d77943d
 SizeBytes = 100532224
 Installer = Generate
 
+[Section.arm64]
+Version = 5.2.10
+URLDownload = https://github.com/NAP64/Krita-WoA-Port/releases/download/v5.2.10/Krita-5.2.10-AARCH64.zip
+SHA1 = 6ad16c9c0c20cd404480e18d9d3ab293262c03c4
+SizeBytes = 181780714
+Installer = Generate
+
 [Section.0a]
 Description = Krita es un programa de edición de imagen open source, que te permite dibujar, pintar y hacer animación 3D. Es parte de KDE.
 
