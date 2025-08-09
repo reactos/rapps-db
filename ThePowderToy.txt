@@ -9,8 +9,9 @@ URLDownload = https://powdertoy.co.uk/Download/Builds/Build-340/powder-win32.zip
 SHA1 = 1084204510fb229d39f568bc1ea1474bb62d9f41
 SizeBytes = 1800176
 Installer = Generate
-
+Icon = thepowdertoy.ico
 [Generate]
 Files = *.exe|*.*
 Dir = /thepowdertoy/
+
 Lnk = The Powder Toy.lnk
