@@ -10,9 +10,8 @@ SHA1 = 1084204510fb229d39f568bc1ea1474bb62d9f41
 SizeBytes = 1800176
 Installer = Generate
 Icon = ThePowderToy.ico
+
 [Generate]
 Files = *.exe|*.*
 Dir = /thepowdertoy/
-
 Lnk = The Powder Toy.lnk
-
