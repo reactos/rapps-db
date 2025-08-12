@@ -16,7 +16,7 @@ SHA1 = 1313a0bfe4d4fd6e4617ec37fc128a1c582b0f6d
 SizeBytes = 23463502
 Installer = ExeInZip
 
-[ExeInZip]
+[ExeInZip.amd64]
 Exe = Audacity-x64-Audacity-2.4.2-84-gfc46c01f3.msi
 
 [Section.arm]
@@ -40,7 +40,7 @@ SHA1 = 4a28e28ae58a9b5d562fc44abcec6b42fd4927b9
 SizeBytes = 23110953
 Installer = ExeInZip
 
-[ExeInZip]
+[ExeInZip.arm64]
 Exe = Audacity-arm64-Audacity-2.4.2-84-gfc46c01f3.msi
 
 [Section.0a]
