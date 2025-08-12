@@ -24,8 +24,8 @@ SizeBytes = 3433703
 Installer = Generate
 
 [Generate.arm]
-Files = Notepad++\notepad++.exe|notepad++\*.*|Notepad++\plugins\*.dll
-Icon = Notepad++.exe,4
+Files = Notepad++\notepad++.exe|Notepad++\*.*|Notepad++\plugins\*.dll
+Icon = notepad++.exe,4
 Lnk = Notepad++.lnk
 
 [Section.arm64]
