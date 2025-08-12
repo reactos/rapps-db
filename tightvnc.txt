@@ -1,13 +1,33 @@
 [Section]
 Name = TightVNC
-Version = 2.8.11
+Version = 2.8.85
 License = GPLv2
 Description = A free remote control software package.
 Category = 5
 URLSite = http://www.tightvnc.com/
-URLDownload = https://www.tightvnc.com/download/2.8.11/tightvnc-2.8.11-gpl-setup-32bit.msi
-SHA1 = 3ac08623e2158e532933af3af5941e3caeadebf8
-SizeBytes = 2080768
+URLDownload = https://www.tightvnc.com/download/2.8.85/tightvnc-2.8.85-gpl-setup-32bit.msi
+SHA1 = a01dde1e1ebc3b9f73502ad78f7487aa23b2d10a
+SizeBytes = 2101248
+
+[Section.amd64]
+Version = 2.8.85
+URLDownload = https://www.tightvnc.com/download/2.8.85/tightvnc-2.8.85-gpl-setup-64bit.msi
+SHA1 = e58fecb081dca069ede9f0e6dafadf9e50fe2b80
+SizeBytes = 2531328
+
+[Section.arm]
+Version = 2.8.11
+URLDownload = https://github.com/driver1998/tightvnc-gpl-woa/releases/download/v2.8.11/tightvnc-2.8.11-gpl-win-arm32.zip
+SHA1 = 0635b5b8bf3f6e4ab02ac113233d1e9d7c08289b
+SizeBytes = 1220069
+Installer = Generate
+
+[Section.arm64]
+Version = 2.8.11
+URLDownload = https://github.com/driver1998/tightvnc-gpl-woa/releases/download/v2.8.11/tightvnc-2.8.11-gpl-win-arm64.zip
+SHA1 = c47e5ef06535c502ef2646ca4e598cae67edaccd
+SizeBytes = 1299846
+Installer = Generate
 
 [Section.0a]
 Description = Paquete de software que sirve para el control remoto del equipo vía VNC.

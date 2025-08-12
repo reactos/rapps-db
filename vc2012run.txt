@@ -10,6 +10,16 @@ SHA1 = 96b377a27ac5445328cbaae210fc4f0aaa750d3f
 SizeBytes = 6554576
 Icon = newwinsetup.ico
 
+[Section.amd64]
+URLDownload = https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU_4/vcredist_x64.exe
+SHA1 = 1a5d93dddbc431ab27b1da711cd3370891542797
+SizeBytes = 7186992
+
+[Section.arm]
+URLDownload = https://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU4/vcredist_arm.exe
+SHA1 = dc9850bb24ca10160e33fc37590a2dc689827acf
+SizeBytes = 1453976
+
 [Section.0a]
 Description = Necesario para aplicaciones compiladas con Visual Studio 2012. Incluye: atl110.dll, mfc110.dll, mfc110u.dll, mfcm110.dll, mfcm110u.dll, msdia110.dll, msvcm110.dll, msvcp110.dll, msvcr110.dll, vcomp110.dll.
 

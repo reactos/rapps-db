@@ -15,3 +15,16 @@ Version = 3.13.5
 URLDownload = https://github.com/Kitware/CMake/releases/download/v3.13.5/cmake-3.13.5-win64-x64.msi
 SHA1 = 22b703d1c7849bffa3f6521f468d9fcf7ca3995d
 SizeBytes = 21868679
+
+[Section.arm]
+Version = 3.30.3
+URLDownload = https://files.open-rt.party/Software/dev/cmake-3.30.3-winarm32.zip
+SHA1 = a5b4e1ac1f6be4ba5877d7980ad1d24bb0991b2d
+SizeBytes = 33276036
+
+[Section.arm64]
+Version = 3.30.3
+URLDownload = https://github.com/Kitware/CMake/releases/download/v3.30.3/cmake-3.30.3-windows-arm64.msi
+SHA1 = 58ac190e4f2a02e92d3c90062b9615e7bd8a9a99
+SizeBytes = 31858688
+

@@ -9,6 +9,24 @@ URLDownload = https://master.dl.sourceforge.net/project/supertuxkart/SuperTuxKar
 SHA1 = b7ac890fcec9e51e9f2f55298354cc19d598a772
 SizeBytes = 638616712
 
+[Section.amd64]
+URLDownload = https://master.dl.sourceforge.net/project/supertuxkart/SuperTuxKart/1.3/SuperTuxKart-1.3-installer-i686.exe
+SHA1 = b7ac890fcec9e51e9f2f55298354cc19d598a772
+SizeBytes = 638616712
+
+[Section.arm]
+Version = 1.3
+URLDownload = https://download.fryelum.dev/Rakko/Games/SuperTuxKart/Downloads/2022/August/SuperTuxKart%20%28August%2025th%29.zip
+SHA1 = 1ed992dd4a54c5ee12480cda987db4721035022c
+SizeBytes = 697107824
+Installer = Generate
+
+[Section.arm64]
+Version = 1.4
+URLDownload = https://github.com/supertuxkart/stk-code/releases/download/1.4/SuperTuxKart-1.4-installer-aarch64.exe
+SHA1 = 95fc5b0148c3460cc8800309151a4df998c7a3f7
+SizeBytes = 703238170
+
 [Section.041f]
 License = GPL sürüm 3
 Description = Açık kaynak projelerden birçok maskot özellikli bir 3D yarış oyunudur.

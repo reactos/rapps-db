@@ -10,6 +10,17 @@ SHA1 = 89f20df555625e1796a60bba0fbd2f6bbc627370
 SizeBytes = 14456872
 Icon = newwinsetup.ico
 
+[Section.amd64]
+URLDownload = https://download.microsoft.com/download/6/D/F/6DF3FF94-F7F9-4F0B-838C-A328D1A7D0EE/vc_redist.x64.exe
+SHA1 = cd2fce1bf61637b2536b66ee52a9662473bbdc82
+SizeBytes = 15302984
+
+[Section.arm]
+Version = 14.0.24245.0
+URLDownload = https://files.open-rt.party/Software/Redistributables/VCRedist/vcredist_arm_vs2015.exe
+SHA1 = ce7ca4a44e784b7a2501f99b774389aa97e4d975
+SizeBytes = 2695072
+
 [Section.0a]
 Description = Necesario para aplicaciones compiladas con Visual Studio 2015. Incluye: atl140.dll, concrt140.dll, mfc140.dll, mfc140u.dll, mfcm140.dll, mfcm140u.dll, msvcp140.dll, vcamp140.dll, vccorlib140.dll, vcomp140.dll, vcruntime140.dll.
 

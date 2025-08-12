@@ -1,13 +1,13 @@
 [Section]
 Name = SNES9x
-Version = 1.62.3
+Version = 1.63
 License = GPL
 Description = A portable, freeware Super Nintendo Entertainment System (SNES) emulator. You'll need to change the video renderer to OpenGL in the video settings or in the ini file.
 Category = 4
 URLSite = https://github.com/snes9xgit/snes9x/
-URLDownload = https://github.com/snes9xgit/snes9x/releases/download/1.62.3/snes9x-1.62.3-win32.zip
-SHA1 = 5c18dfca2d5512d0c14c6ce23b193cf5f09b42a3
-SizeBytes = 2914318
+URLDownload = https://github.com/snes9xgit/snes9x/releases/download/1.63/snes9x-1.63-win32.zip
+SHA1 = b8c76a3588447233ffe28e47204783a850338736
+SizeBytes = 3413047
 Installer = Generate
 
 [Generate]
@@ -16,9 +16,20 @@ DelDirEmpty = Saves
 DelReg = HKCU\Software\Snes9x
 
 [Section.amd64]
-URLDownload = https://github.com/snes9xgit/snes9x/releases/download/1.62.3/snes9x-1.62.3-win32-x64.zip
-SHA1 = 705c7a3a550ca416f5c78d4e19259366a428d920
-SizeBytes = 4485201
+URLDownload = https://github.com/snes9xgit/snes9x/releases/download/1.63/snes9x-1.63-win32-x64.zip
+SHA1 = d3ff17c202b3571a18f6b0a3ba72c9b1d0a44bee
+SizeBytes = 5328695
+
+[Section.arm]
+Version = 1.53
+URLDownload = https://archive.org/download/snes9x_1.53_arm/snes9x_1.53_arm.zip
+SHA1 = 1263b69b1fa41df679e57fbc3882e5c695bc3166
+SizeBytes = 6658563
+
+[Section.arm64]
+URLDownload = https://github.com/tordona/snes9x/releases/download/1.63/snes9x-1.63-win32-arm64.zip
+SHA1 = 6819dc40e9ba6b4aa015f5481cc5122123e3f947
+SizeBytes = 5067573
 
 [Section.0a]
 Description = Un emulador de Super Nintendo Entertainment System (SNES) portátil y gratuito. Deberá cambiar el renderizador de video a OpenGL en la configuración de video o en el archivo ini.

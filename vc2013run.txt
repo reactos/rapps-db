@@ -1,6 +1,6 @@
 [Section]
 Name = Microsoft Visual C++ 2013 Redistributable
-Version = 12.0
+Version = 12.0.30501.0
 License = EULA
 Description = Needed by applications compiled with Visual Studio 2013. Contains: atl120.dll, mfc120.dll, mfc120u.dll, mfcm120.dll, mfcm120u.dll, msdia120.dll, msvcm120.dll, msvcp120.dll, msvcr120.dll, vcomp120.dll.
 Category = 14
@@ -9,6 +9,16 @@ URLDownload = http://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91
 SHA1 = df7f0a73bfa077e483e51bfb97f5e2eceedfb6a3
 SizeBytes = 6503984
 Icon = newwinsetup.ico
+
+[Section.amd64]
+URLDownload = https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe
+SHA1 = 8bf41ba9eef02d30635a10433817dbb6886da5a2
+SizeBytes = 7194312
+
+[Section.arm]
+URLDownload = https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_arm.exe
+SHA1 = 25786706a58490884623842b0bbc886ac86e2cad
+SizeBytes = 1420840
 
 [Section.0a]
 Description = Necesario para aplicaciones compiladas con Visual Studio 2013. Incluye: atl120.dll, mfc120.dll, mfc120u.dll, mfcm120.dll, mfcm120u.dll, msdia120.dll, msvcm120.dll, msvcp120.dll, msvcr120.dll, vcomp120.dll.

@@ -1,13 +1,20 @@
 [Section]
 Name = DOSBox
-Version = 0.74-2
+Version = 0.74-3
 License = GPL
 Description = An open-source DOS emulator.
 Category = 16
 URLSite = http://www.dosbox.com/
-URLDownload = http://download.sourceforge.net/project/dosbox/dosbox/0.74-2/DOSBox0.74-2-win32-installer.exe
-SHA1 = 06f23be4ceba35c8c547a98f1b327da20082b483
-SizeBytes = 1453151
+URLDownload = http://download.sourceforge.net/project/dosbox/dosbox/0.74-3/DOSBox0.74-3-win32-installer.exe
+SHA1 = c8c1f5a5d17336607c886444518e74e3d1a4e041
+SizeBytes = 1493703
+
+[Section.arm]
+Version = 0.74
+URLDownload = https://files.open-rt.party/Software/dosbox2.zip
+SHA1 = 5ed23f0e4f783e9a5ae60ad140cfc3026d65ac70
+SizeBytes = 782762
+Installer = Generate
 
 [Section.0a]
 Description = Un emulador de DOS de código abierto.

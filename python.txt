@@ -9,6 +9,23 @@ URLDownload = https://www.python.org/ftp/python/3.4.4/python-3.4.4.msi
 SHA1 = 46c89a6eebfb5f2e8f9b7edbe5409e314366a66a
 SizeBytes = 24932352
 
+[Section.amd64]
+URLDownload = https://www.python.org/ftp/python/3.4.4/python-3.4.4.amd64.msi
+SHA1 = 9955ce67a5ae1c051ac795ff5c5b7b9ec055e7b7
+SizeBytes = 26054656
+
+[Section.arm]
+Version = 3.12.4
+URLDownload = https://files.open-rt.party/Software/python-3.12.4-arm.exe
+SHA1 = efe0b1264cb1cde0e7b7efc66fe9175d460918f7
+SizeBytes = 25855540
+
+[Section.arm64]
+Version = 3.13.5
+URLDownload = https://www.python.org/ftp/python/3.13.5/python-3.13.5-arm64.exe
+SHA1 = 5f994961dfa0b62d912722e769f631eaedbf5dd5
+SizeBytes = 28090072
+
 [Section.0a]
 Description = Un lenguaje de programación dinámico sumamente potente.
 
