@@ -29,8 +29,6 @@ Installer = Generate
 [Generate]
 Files = Audacity\Audacity.exe|Audacity\*.dll|Audacity\license\*.txt
 Icon = Audacity.exe,4
-DelReg = HKCU\Software\ExampleSoft\SillyGame
-DelRegEmpty = HKCU\Software\ExampleSoft
 Lnk = Audacity.lnk
 
 [Section.arm64]

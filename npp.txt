@@ -23,6 +23,11 @@ SHA1 = 74b9b47c8582018354380a9a62cfa48a21c54005
 SizeBytes = 3433703
 Installer = Generate
 
+[Generate.arm]
+Files = Notepad++\notepad++.exe|notepad++\*.*|Notepad++\plugins\*.dll
+Icon = Notepad++.exe,4
+Lnk = Notepad++.lnk
+
 [Section.arm64]
 Version = 8.1.4
 URLDownload = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.arm64.exe
