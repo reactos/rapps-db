@@ -26,12 +26,22 @@ SHA1 = 6cded0e7f2c50c87aa6fb5e0385ffef6f16d093e
 SizeBytes = 4725083
 Installer = Generate
 
+[Generate]
+Files = Audacity\Audacity.exe|Audacity\*.dll|Audacity\license\*.txt
+Icon = Audacity.exe,4
+DelReg = HKCU\Software\ExampleSoft\SillyGame
+DelRegEmpty = HKCU\Software\ExampleSoft
+Lnk = Audacity.lnk
+
 [Section.arm64]
 Version = 2.4.2
 URLDownload = https://github.com/henricj/audacity/releases/download/latest-arm64/MSI-Audacity-arm64-Audacity-2.4.2-84-gfc46c01f3.zip
 SHA1 = 4a28e28ae58a9b5d562fc44abcec6b42fd4927b9
 SizeBytes = 23110953
 Installer = ExeInZip
+
+[ExeInZip]
+Exe = Audacity-arm64-Audacity-2.4.2-84-gfc46c01f3.msi
 
 [Section.0a]
 Description = Programa libre, gratuito y multiplataforma para grabar y editar audio y música.
