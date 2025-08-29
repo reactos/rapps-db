@@ -8,12 +8,14 @@ URLSite = https://www.7-zip.org/
 URLDownload = https://www.7-zip.org/a/7z2501.exe
 SHA1 = ea3ec24366975e8baae14441019066277ec28fb8
 SizeBytes = 1354330
+SilentParameters = /S
 
 [Section.amd64]
 Version = 25.01
 URLDownload = https://www.7-zip.org/a/7z2501-x64.msi
 SHA1 = 15e3c8accdd5f7631a460be8283a53740dd94de6
 SizeBytes = 1996800
+SilentParameters =
 
 [Section.arm]
 Version = 25.01
