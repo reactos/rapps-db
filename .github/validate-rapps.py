@@ -36,6 +36,7 @@ OPTIONAL_SECTION_KEYS = [
     b'Installer',
     b'SaveAs',
     b'Scope',
+    b'SilentParameters',
 ]
 
 
