@@ -9,6 +9,9 @@ URLDownload = https://download.sourceforge.net/project/bochs/bochs/2.6.9/Bochs-2
 SHA1 = ad2d245b9f7d0492ec800df4b38b8893d8bb0642
 SizeBytes = 5335913
 
+[Section.x86]
+RegName = Bochs 2.6.9
+
 [Section.arm]
 URLDownload = https://files.open-rt.party/Software/bochs.zip
 SHA1 = 0692472b36d9c7f3f72933fb050975020d883039

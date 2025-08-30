@@ -8,6 +8,7 @@ URLSite = http://doublecmd.sourceforge.net/
 URLDownload = https://sourceforge.net/projects/doublecmd/files/DC%20for%20Windows%2032%20bit/Double%20Commander%200.8.2%20beta/doublecmd-0.8.2.i386-win32.exe
 SHA1 = 3fa65b99368bbd4d20aee2743e346b3e914e3315
 SizeBytes = 6566228
+RegName = Double Commander_is1
 
 [Section.0a]
 Description = Un explorador de archivos multipanel de código abierto.
@@ -47,4 +48,3 @@ Description = 含有两个面板并排的开放源码文件管理器。
 
 [Section.0813]
 Description = Double Commander is een open-bron file-manager met twee panelen zij-aan-zij.
-

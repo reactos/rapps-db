@@ -1,14 +1,15 @@
- [Section]
- Name = Qemu Manager
- Version = 7.0
- License = Freeware
- Description = Qemu Manager is a graphical user interface for QEMU.
- Category = 16
- URLSite = https://web.archive.org/web/20130211102503/http://www.davereyn.co.uk/
- URLDownload = https://archive.org/download/qemumanager7.0/setupqemuk70.exe
- SHA1 = 6929c3e906fb5b4e2627aba1079a6c5450a25483
- SizeBytes = 7706797
- 
- [Section.041f]
- Name = Qemu Yöneticisi
- Description = Qemu Yöneticisi, QEMU için bir grafik kullanıcı arayüzüdür.
+[Section]
+Name = Qemu Manager
+Version = 7.0
+License = Freeware
+Description = Qemu Manager is a graphical user interface for QEMU.
+Category = 16
+URLSite = https://web.archive.org/web/20130211102503/http://www.davereyn.co.uk/
+URLDownload = https://archive.org/download/qemumanager7.0/setupqemuk70.exe
+SHA1 = 6929c3e906fb5b4e2627aba1079a6c5450a25483
+SizeBytes = 7706797
+RegName = Qemu Manager 7.0 - Qemu 0.11.1_is1
+
+[Section.041f]
+Name = Qemu Yöneticisi
+Description = Qemu Yöneticisi, QEMU için bir grafik kullanıcı arayüzüdür.

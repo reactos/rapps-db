@@ -8,6 +8,7 @@ URLSite = https://www.antp.be/software/renamer
 URLDownload = https://update.antp.be/renamer/antrenamer2_install.exe
 SHA1 = 4f6af3f72d4bbe6319e8ead90f0aa4c22f012fe2
 SizeBytes = 1294446
+RegName = Ant Renamer 2_is1
 
 [Section.041f]
 License = GPL sürüm 2

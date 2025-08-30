@@ -8,6 +8,7 @@ URLSite =
 URLDownload = https://svn.reactos.org/amine/wine_gecko-2.40-x86.msi
 SHA1 = 8a3adedf3707973d1ed4ac3b2e791486abf814bd
 SizeBytes = 27959808
+RegName = {43E91AE4-1065-4255-B035-3035D5287CF8}
 
 [Section.0a]
 Name = Motor de renderizado Wine Gecko
@@ -37,4 +38,3 @@ Description = Gecko Engine on tavaliselt installitud esimeses paigalduse etapis,
 
 [Section.0804]
 Description = Gecko Engine 通常在系统安装第一阶段安装，除非当时网络不可用。使用 mshtml.dll 的应用程序需要它。
-

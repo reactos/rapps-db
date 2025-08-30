@@ -9,4 +9,4 @@ URLSite = http://www.opera.com/
 URLDownload = https://get.opera.com/ftp/pub/opera/desktop/36.0.2130.65/win/Opera_36.0.2130.65_Setup.exe
 SHA1 = ef934f5a75428632020beb7a2ded637f34db9590
 SizeBytes = 37687944
-
+RegName = Opera 36.0.2130.65

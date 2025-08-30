@@ -8,6 +8,7 @@ URLSite = https://github.com/katahiromz/ReactOS-JPN-Package
 URLDownload = https://github.com/katahiromz/ReactOS-JPN-Package/releases/download/0.9.9.0/reactos-jpn-setup-0.9.9.0.exe
 SHA1 = a3f50d828342a5db11e98fb41666845c23e5edc2
 SizeBytes = 7144368
+RegName = {80F03D6E-0549-4202-BE81-FF583F56A7A8}_is1
 Icon = lang.ico
 
 [Section.0a]

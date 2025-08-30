@@ -8,6 +8,7 @@ URLSite = http://www.audiograbber.de/
 URLDownload = https://www.audiograbber.de/files/agsetup.exe
 SHA1 = ca6182ab7fc182cc47bcc22ed849fa2740fc213c
 SizeBytes = 2674531
+RegName = Audiograbber
 
 [Section.0a]
 Description = Un buen extractor de pistas de CDs de música y conversor de archivos de audio.
