@@ -8,6 +8,7 @@ URLSite = https://www.cpuid.com/softwares/hwmonitor.html
 URLDownload = https://download.cpuid.com/hwmonitor/hwmonitor_1.52.exe
 SHA1 = 1ff6a10902d3fd343aad94243c82db3afb9b8e04
 SizeBytes = 1515520
+RegName = CPUID HWMonitor_is1
 
 [Section.041f]
 Description = HWMonitor, Bilgisayarınızın ana sağlık sensörlerini okuyan bir donanım izleme programıdır: voltajlar, sıcaklıklar, güçler, akımlar, fan hızı, kullanımlar, saat hızları ...

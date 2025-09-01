@@ -9,6 +9,9 @@ URLDownload = https://www.tightvnc.com/download/2.8.85/tightvnc-2.8.85-gpl-setup
 SHA1 = a01dde1e1ebc3b9f73502ad78f7487aa23b2d10a
 SizeBytes = 2101248
 
+[Section.x86]
+RegName = {AD4F638B-9866-4191-850A-5C2C562B2F3B}
+
 [Section.amd64]
 Version = 2.8.85
 URLDownload = https://www.tightvnc.com/download/2.8.85/tightvnc-2.8.85-gpl-setup-64bit.msi

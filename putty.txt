@@ -9,6 +9,9 @@ URLDownload = https://the.earth.li/~sgtatham/putty/0.83/w32/putty-0.83-installer
 SHA1 = e5fc81d1f33a3054f7bf54bde779f5049190286a
 SizeBytes = 3508736
 
+[Section.x86]
+RegName = {D646F222-8190-4787-92A3-A1C9C699F7A2}
+
 [Section.amd64]
 URLDownload = https://the.earth.li/~sgtatham/putty/0.83/w64/putty-64bit-0.83-installer.msi
 SHA1 = fcc43a90f7d73a1ba2431e2d44911d7c635795ed
@@ -62,4 +65,3 @@ Description = 免费的 SSH、Telnet、rlogin 及裸 TCP 客户端。
 
 [Section.0813]
 Description = Een gratis SSH, Telnet, rlogin en pure TCP afnemer.
-

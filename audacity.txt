@@ -9,6 +9,9 @@ URLDownload = https://web.archive.org/web/20240905191907/https://www.videohelp.c
 SHA1 = 39d00d43e72a7944f433d3f61855a487b5797328
 SizeBytes = 20248056
 
+[Section.x86]
+RegName = Audacity_is1
+
 [Section.amd64]
 Version = 2.4.2
 URLDownload = https://github.com/henricj/audacity/releases/download/latest-x64/MSI-Audacity-x64-Audacity-2.4.2-84-gfc46c01f3.zip

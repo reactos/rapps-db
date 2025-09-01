@@ -10,6 +10,7 @@ URLDownload = https://github.com/qbancoffee/winfile/releases/download/v1.0/winfi
 SHA1 = b920cddbc6a46c97d46aec194638d4c2709c7f0e
 SizeBytes = 1079185
 Languages=0409
+RegName = Microsoft WinFile
 
 [Section.041f]
 Description =  Windows Dosya Yöneticisi, Windows 10 dahil Windows'un tüm şu anlık desteklenen sürümleri üzerinde bir doğal x86 ve x64 masaüstü uygulaması olarak yeniden yaşar ve çalışır.

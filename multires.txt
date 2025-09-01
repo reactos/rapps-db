@@ -8,6 +8,7 @@ URLSite = https://www.entechtaiwan.com/util/multires.shtm
 URLDownload = https://www.entechtaiwan.com/files/multires.exe
 SHA1 = b189418c89b15ae28bb20d10787c5348c0efc55f
 SizeBytes = 102771
+RegName = MultiRes (remove only)
 
 [Section.041f]
 Description = MultiRes, kullanıcıların kolayca ekran çözünürlüğünü değiştirmeye yarayan bir Sistem Tepsisi simgesi yerleştiren çok basit bir Windows yazılım çözümü olan Windows 95 için Microsoft QuickRes 16-bit uygulamacığının 32 bitlik bir sürümü gibi çalışır.

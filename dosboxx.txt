@@ -8,6 +8,7 @@ URLSite = https://dosbox-x.com/
 URLDownload = https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v2025.05.03/dosbox-x-winXP-2025.05.03-setup.exe
 SHA1 = 6c12a4f3bc91cb26bc500026adfebfec4942a129
 SizeBytes = 52287242
+RegName = {63E5D76D-0092-415C-B97C-E0D2F4F6D2EC}_is1
 
 [Section.040c]
 Description = DOSBox-X est un émulateur pour DOS, il y a plus d'options avancées comparé à DOSBox.

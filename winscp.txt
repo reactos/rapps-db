@@ -9,6 +9,7 @@ URLSite = https://winscp.net/
 URLDownload = https://sourceforge.net/projects/winscp/files/WinSCP/5.7.7/winscp577setup.exe
 SHA1 = 3BD86664777F958E326EC155878239F905A923E0
 SizeBytes = 5915464
+RegName = winscp3_is1
 
 [Section.041f]
 Description = WinSCP, Windows için ücretsiz bir SCP, SFTP ve FTP istemcisidir.

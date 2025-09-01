@@ -9,5 +9,4 @@ URLSite = https://www.aidex.de/software/antitwin/
 URLDownload = https://www.aidex.de/software/antitwin/AntiTwin_Setup.exe
 SHA1 = 13c6e182a7a81de2bfa29747d558cc516a765b35
 SizeBytes = 921232
-
-
+RegName = Anti-Twin 2025-08-30 20.43.45

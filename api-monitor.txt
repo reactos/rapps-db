@@ -10,6 +10,9 @@ URLDownload = http://www.rohitab.com/site/files/downloads/2013/03/api-monitor-v2
 SHA1 = 4101c50740c5c1ac9da9c7db2a03ffe6d758e829
 SizeBytes = 5185408
 
+[Section.x86]
+RegName = {13BE68B1-7498-48AB-9D22-AD3AB6532531}
+
 [Section.amd64]
 Version = v2 (Alpha-r13)
 URLDownload = http://www.rohitab.com/download/api-monitor-v2r12-setup-x64.exe
