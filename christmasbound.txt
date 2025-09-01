@@ -4,8 +4,8 @@ Version = 1.4
 License = Freeware
 Description = A game similar to Frozen Fruits.
 Category = 4
-URLSite = http://www.blueskied.com/xmas/christmas_main.htm
-URLDownload = http://www.blueskied.com/xmas/ChristmasBound_setup.exe
+URLSite = https://www.blueskied.com/xmas/christmas_main.htm
+URLDownload = https://www.blueskied.com/xmas/ChristmasBound_setup.exe
 SHA1 = cc8bef8e9060b1838f63af2864dc1f91abe60ea0
 SizeBytes = 913751
 

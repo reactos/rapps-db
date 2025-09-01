@@ -4,8 +4,8 @@ Version = 4.8.0
 License = GPLv3
 Description = A graphical chessboard for the Windows/ReactOS that can serve as a user interface for GNU Chess, Crafty, and other chess engines, for the Internet chess servers, and for electronic mail correspondence chess.
 Category = 4
-URLSite = http://hgm.nubati.net
-URLDownload = http://hgm.nubati.net/WinBoard-4.8.0.exe
+URLSite = https://hgm.nubati.net
+URLDownload = https://hgm.nubati.net/WinBoard-4.8.0.exe
 SHA1 = a242194b7582c196612f78b397bac892bb6908e0
 SizeBytes = 2551668
 

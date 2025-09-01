@@ -4,8 +4,8 @@ Version = 1.95
 License = Freeware
 Description = Helps to uninstall software and remove unwanted programs installed easily.
 Category = 12
-URLSite = http://www.revouninstaller.com/
-URLDownload = http://9d4da85dff3fdd198886-459beec849893df302ec58f8a71b3ad1.r61.cf1.rackcdn.com/revosetup.exe
+URLSite = https://www.revouninstaller.com/
+URLDownload = https://9d4da85dff3fdd198886-459beec849893df302ec58f8a71b3ad1.r61.cf1.rackcdn.com/revosetup.exe
 SHA1 = 7fc81fb6cee0ba858b3801162c231a5f43c94a02
 SizeBytes = 2623656
 

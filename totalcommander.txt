@@ -4,7 +4,7 @@ Version = 9.12
 License = Shareware
 Description = A file manager for power users with two panels side by side.
 Category = 12
-URLSite = http://www.ghisler.com/
+URLSite = https://www.ghisler.com/
 URLDownload = https://web.archive.org/web/20240214230713/https://totalcommander.ch/win/tcmd912x32.exe
 SHA1 = edec52556aea94d2f5d895abf7bfacb12e00f991
 SizeBytes = 4366296
@@ -19,7 +19,7 @@ Description = 為使用者提供並排視窗的檔案管理器。
 
 [Section.0407]
 Description = Dateimanager für Power User mit zwei nebeneinander liegenden Panels.
-URLSite = http://www.ghisler.com/deutsch.htm
+URLSite = https://www.ghisler.com/deutsch.htm
 
 [Section.0410]
 Description = Total Commander è un file manager con due pannelli affiancati.

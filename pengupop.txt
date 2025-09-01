@@ -4,7 +4,7 @@ Version = 2.2.3
 License = GPL
 Description = The purpose of this game is to shoot colored orbs into your playfield, so they form groups of three or more.
 Category = 4
-URLDownload = http://svn.reactos.org/packages/Pengupop.exe
+URLDownload = https://svn.reactos.org/packages/Pengupop.exe
 SHA1 = 59b87b20244cf13136f59c31b962a0521486a359
 SizeBytes = 1780574
 

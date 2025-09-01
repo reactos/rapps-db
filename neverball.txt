@@ -4,8 +4,8 @@ Version = 1.6.0
 License = GPLv2
 Description = Tilt the floor to roll a ball through an obstacle course before time runs out. Neverball is part puzzle game, part action game, and entirely a test of skill.
 Category = 4
-URLSite = http://neverball.org/
-URLDownload = http://neverball.org/neverball-1.6.0.zip
+URLSite = https://neverball.org/
+URLDownload = https://neverball.org/neverball-1.6.0.zip
 SHA1 = 51b744f87ee8c435959da1fa0b35472fe02c719b
 SizeBytes = 75802818
 

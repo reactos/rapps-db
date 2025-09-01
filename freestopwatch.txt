@@ -4,8 +4,8 @@ Version = 4.0
 License = Freeware
 Description = A flexible digital stopwatch software.
 Category = 12
-URLSite = http://free-stopwatch.com/
-URLDownload = http://web.archive.org/web/20161018075018/http://free-stopwatch.com/FreeStopwatchSetup.exe
+URLSite = https://free-stopwatch.com/
+URLDownload = https://web.archive.org/web/20161018075018/http://free-stopwatch.com/FreeStopwatchSetup.exe
 SHA1 = 17df516838698e717925b2d58a5e76ad14f795c9
 SizeBytes = 1527424
 

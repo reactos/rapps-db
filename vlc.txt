@@ -4,13 +4,13 @@ Version = 3.0.20
 License = GPL
 Description = A fully featured FOSS media player with built-in codecs.
 Category = 2
-URLSite = http://www.videolan.org/vlc/
-URLDownload = http://download.videolan.org/pub/videolan/vlc/3.0.20/win32/vlc-3.0.20-win32.exe
+URLSite = https://www.videolan.org/vlc/
+URLDownload = https://download.videolan.org/pub/videolan/vlc/3.0.20/win32/vlc-3.0.20-win32.exe
 SHA1 = 512092bbadfadd550f5bb5bcbe95eb107b342d29
 SizeBytes = 42860784
 
 [Section.amd64]
-URLDownload = http://download.videolan.org/pub/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.msi
+URLDownload = https://download.videolan.org/pub/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.msi
 SHA1 = 744c04d096e3bb86da39c6490ff0c193b88fedd6
 SizeBytes = 58949632
 
@@ -31,7 +31,7 @@ Description = Completo reproductor multimedia, de código abierto y con códecs 
 
 [Section.0404]
 Description = 功能完善的自由開源媒體播放器。程式內置了編解碼器。
-URLSite = http://www.videolan.org/vlc/index.zh_TW.html
+URLSite = https://www.videolan.org/vlc/index.zh_TW.html
 
 [Section.0407]
 Description = Voll funktionsfähiger FOSS Media-Player mit eingebauten Codecs.
@@ -66,7 +66,7 @@ Description = Мультимедійний програвач.
 
 [Section.0804]
 Description = 功能完善的包含内置编码解码器的自由开源媒体播放器。
-URLSite = http://www.videolan.org/vlc/index.zh_CN.html
+URLSite = https://www.videolan.org/vlc/index.zh_CN.html
 
 [Section.0813]
 Description = Een mediaspeler.

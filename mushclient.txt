@@ -4,8 +4,8 @@ Version = 5.06
 License = Freeware
 Description = FreeWare MUD client.
 Category = 4
-URLSite = http://www.gammon.com.au/mushclient/mushclient.htm
-URLDownload = http://www.gammon.com.au/files/mushclient/mushclient506.exe
+URLSite = https://www.gammon.com.au/mushclient/mushclient.htm
+URLDownload = https://www.gammon.com.au/files/mushclient/mushclient506.exe
 SHA1 = 39b59559117278c5c75bdd2b60804845b73c43ee
 SizeBytes = 4112710
 

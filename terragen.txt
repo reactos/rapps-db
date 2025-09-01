@@ -4,8 +4,8 @@ Version = 3.4.0.0
 License = EULA
 Description = Terragen is the premier photorealistic 3D landscape design and rendering software for visual effects professionals and artists (OPENGL REQUIRED!)
 Category = 9
-URLSite = http://www.planetside.co.uk/downloads/tg3/hdu3p9qej3m7x8jw/Terragen3-34000-Update.shtml
-URLDownload = http://www.planetside.co.uk/downloads/tg3/hdu3p9qej3m7x8jw/Terragen3-Win32-34000.msi
+URLSite = https://www.planetside.co.uk/downloads/tg3/hdu3p9qej3m7x8jw/Terragen3-34000-Update.shtml
+URLDownload = https://www.planetside.co.uk/downloads/tg3/hdu3p9qej3m7x8jw/Terragen3-Win32-34000.msi
 SHA1 = 375ae214f8869068f4ebaa6742235fb95b758aa7
 SizeBytes = 14759424
 

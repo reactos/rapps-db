@@ -4,11 +4,10 @@ Version = 2.14.0
 License = GPLv2
 Description = A tool for visual difference display and merging, for both files and directories.
 Category = 12
-URLSite = http://winmerge.org/
-URLDownload = http://download.sourceforge.net/project/winmerge/stable/2.14.0/WinMerge-2.14.0-Setup.exe
+URLSite = https://winmerge.org/
+URLDownload = https://download.sourceforge.net/project/winmerge/stable/2.14.0/WinMerge-2.14.0-Setup.exe
 SHA1 = 4006203d4fc3542e765212e1a78f115fb3f946d2
 SizeBytes = 6433055
-RegName = WinMerge_is1
 
 [Section.0a]
 Description = Una herramienta para la comparación, combinación de archivos y versionado, para tanto archivos como directorios.
@@ -34,3 +33,4 @@ Description = Dosyalar ve dizinler için, görsel fark görüntüleme ve birleş
 
 [Section.0804]
 Description = 一款可视化文件及目录差异显示及合并的工具。
+

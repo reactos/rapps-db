@@ -4,8 +4,8 @@ Version = 5.5.2
 License = CeCILL
 Description = A software for numerical computation in engineering and scientific applications.
 Category = 9
-URLSite = http://www.scilab.org/
-URLDownload = http://www.scilab.org/download/5.5.2/scilab-5.5.2.exe
+URLSite = https://www.scilab.org/
+URLDownload = https://www.scilab.org/download/5.5.2/scilab-5.5.2.exe
 SHA1 = 9f6eeabe4a90a4a3c84889eed1a82c866b02a1de
 SizeBytes = 134667168
 
@@ -20,7 +20,7 @@ Description = Eine Software für die numerische Berechnung in technischen und wi
 
 [Section.040c]
 Description = Un logiciel de calcul numérique dans l'ingénierie et les applications scientifiques.
-URLSite = http://www.scilab.org/fr
+URLSite = https://www.scilab.org/fr
 
 [Section.0410]
 Description = Un software per il calcolo numerico in applicazioni tecniche e scientifiche.

@@ -4,8 +4,8 @@ Version = 5.4.7.2
 License = GPLv3
 Description = Offline help content of LibreOffice.
 Category = 6
-URLSite = http://www.documentfoundation.org/
-URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_en-US.msi
+URLSite = https://www.documentfoundation.org/
+URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_en-US.msi
 SHA1 = cd700f10c88c6807c44b074b3362ca94f19eff36
 SizeBytes = 5357568
 Icon = libreoffice.ico
@@ -13,28 +13,28 @@ Icon = libreoffice.ico
 [Section.0a]
 Name = LibreOffice — Paquete de ayuda
 Description = Páginas de ayuda para LibreOffice.
-URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_es.msi
+URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_es.msi
 SHA1 = 8ff7155f132d0bd9d090668ac6fedce1adbd9734
 SizeBytes = 7487488
 
 [Section.0404]
 Name = LibreOffice 說明包
 Description = LibreOffice 的離線說明内容。
-URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_zh-TW.msi
+URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_zh-TW.msi
 SHA1 = f526097efc2bd8230263197dbb4386b93bd6ace0
 SizeBytes = 10072064
 
 [Section.0407]
 Name = LibreOffice Help Pack
 Description = Offline Hilfe für LibreOffice.
-URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_de.msi
+URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_de.msi
 SHA1 = 9c56290ca13590a05a7610e1beb5412b8dc85e34
 SizeBytes = 7507968
 
 [Section.0415]
 Name = LibreOffice Help Pack
 Description = Zawartość pomocy offline dla LibreOffice.
-URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_pl.msi
+URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_pl.msi
 SHA1 = f0e7ec2f05da4f2d7e3df4b2db1ee75c5ea93798
 SizeBytes = 7471104
 
@@ -44,7 +44,7 @@ Description = Conținut de asistență și ajutor (în limba engleză) pentru Li
 [Section.0419]
 Name = LibreOffice Справочный пакет
 Description = Оффлайн справка для LibreOffice.
-URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_ru.msi
+URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_ru.msi
 SHA1 = 8aebe4dc2e265c2b5d24bd8e94ac44414f345ab4
 SizeBytes = 7639040
 
@@ -52,14 +52,14 @@ SizeBytes = 7639040
 Name = LibreOffice Yardım Paketi
 License = GPL sürüm 3
 Description = LibreOffice'in çevrim dışı yardım içeriği.
-URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_tr.msi
+URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_tr.msi
 SHA1 = 53c5ff0a0444b80df740e7632ca77f42a7ea4964
 SizeBytes = 7368704
 
 [Section.0804]
 Name = LibreOffice 帮助包
 Description = LibreOffice 的脱机帮助内容。
-URLDownload = http://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_zh-CN.msi
+URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86_helppack_zh-CN.msi
 SHA1 = ee59f3e5e06167b840bbd250a087d56e56887d3b
 SizeBytes = 10067968
 
