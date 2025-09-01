@@ -11,9 +11,10 @@ SizeBytes = 6510136
 Icon = newwinsetup.ico
 
 [Section.amd64]
-URLDownload = https://download.visualstudio.microsoft.com/download/pr/10912041/cee5d6bca2ddbcd039da727bf4acb48a/vcredist_x64.exe
-SHA1 = 1194e6bf4153fa88f20b2a70ac15bc359ada4ee2
-SizeBytes = 7200744
+Version = 12.0.30501.0
+URLDownload = https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe
+SHA1 = 8bf41ba9eef02d30635a10433817dbb6886da5a2
+SizeBytes = 7194312
 
 [Section.arm]
 Version = 12.0.30501.0
