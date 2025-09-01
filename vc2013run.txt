@@ -7,13 +7,13 @@ Category = 14
 URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=40784
 URLDownload = https://download.visualstudio.microsoft.com/download/pr/10912113/5da66ddebb0ad32ebd4b922fd82e8e25/vcredist_x86.exe
 SHA1 = 0f5d66bcaf120f2d3f340e448a268fe4bbf7709d
-SizeBytes = 7200744
+SizeBytes = 6510136
 Icon = newwinsetup.ico
 
 [Section.amd64]
 URLDownload = https://download.visualstudio.microsoft.com/download/pr/10912041/cee5d6bca2ddbcd039da727bf4acb48a/vcredist_x64.exe
 SHA1 = 1194e6bf4153fa88f20b2a70ac15bc359ada4ee2
-SizeBytes = 7194312
+SizeBytes = 7200744
 
 [Section.arm]
 Version = 12.0.30501.0
