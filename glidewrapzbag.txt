@@ -5,7 +5,7 @@ License = Freeware
 Description = A Glide API shim (emulating 3dfx cards with OpenGL) needed to run Diablo II on ReactOS.
 Category = 14
 URLSite = http://www.zeckensack.de/glide/
-URLDownload = http://www.zeckensack.de/glide/archive/GlideWrapper084c.exe
+URLDownload = https://web.archive.org/web/20250804053035/https://www.zeckensack.de/glide/archive/GlideWrapper084c.exe
 SHA1 = 7a9d60a18b660473742b476465e9aea7bd5ab6f8
 SizeBytes = 254995
 
