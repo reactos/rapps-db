@@ -1,13 +1,14 @@
 [Section]
 Name = GrafX2
-Version = 2.8.3137
+Version = 2.9.0.3245
 License = GPL v2
+LicenseType = 1
 Description = GrafX2 is a bitmap paint program inspired by the Amiga programs Deluxe Paint and Brilliance. Specialized in 256-color drawing, it includes a very large number of tools and effects that make it particularly suitable for pixel art, game graphics, and generally any detailed graphics painted with a mouse.
 Category = 3
-URLSite = https://grafx2.chez.com/
-URLDownload = https://gitlab.com/GrafX2/grafX2/-/jobs/3140386057/artifacts/raw/install/grafx2-win32-2.8.3137.win32.exe
-SHA1 = df7ec1ee27dd509c484a277aa33546adc3616817
-SizeBytes = 2198528
+URLSite = http://grafx2.chez.com/
+URLDownload = https://web.archive.org/web/20250907192029im_/https://pulkomandy.tk/projects/GrafX2/downloads/78?_=/grafx2-sdl-2.9.3217.win32.exe
+SHA1 = 818711cc429145b4fa118e2c7042034933ada1e7
+SizeBytes = 2736082
 
 [Section.041f]
 License = GPL sürüm 2

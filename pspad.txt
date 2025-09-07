@@ -5,7 +5,7 @@ License = Freeware
 Description = A lightweight text editor.
 Category = 6
 URLSite = https://www.pspad.com
-URLDownload = https://www.pspad.com/files/pspad/pspad500_setup.exe
+URLDownload = https://web.archive.org/web/20211210105813/https://pspad.poradna.net/release/pspad500_setup.exe
 SHA1 = 92dfe2d3a8b999e2f85f9d3e66bd54ff1ec658e6
 SizeBytes = 6582336
 
