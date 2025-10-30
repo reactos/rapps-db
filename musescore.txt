@@ -1,7 +1,8 @@
 [Section]
 Name = MuseScore
 Version = 2.2.1
-License = GNU GPLv2
+License = GPL v2
+LicenseType = 1
 Description = Professional open source music notation software.
 Category = 1
 URLSite = https://musescore.org/
