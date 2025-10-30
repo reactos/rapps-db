@@ -23,3 +23,6 @@ Installer = Generate
 
 [Section.0a]
 Description = LMMS es un software libre y de código abierto, multiplataforma para crear música, es una alternativa a programas como FL Studio.
+
+[Section.041f]
+Description = LMMS, müzik oluşturmak için kullanılan ücretsiz ve açık kaynaklı, çapraz platform bir yazılımdır. FL Studio gibi programlara alternatif bir yazılımdır.
