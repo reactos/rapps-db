@@ -1,7 +1,7 @@
 [Section]
 Name = Podcast Easy
 Version = 0.9.1
-License = Public domain
+License = Freeware
 Description = Application for downloading podcasts.
 Category = 1
 URLSite = https://r57zone.github.io
@@ -13,7 +13,6 @@ SizeBytes = 712140
 Description = Programa para descargar podcasts.
 
 [Section.0404]
-License = 公用軟體
 Description = 一款下載 Podcast 的程式。
 
 [Section.0407]
@@ -29,10 +28,8 @@ Description = Aplicație pentru descărcarea de fișiere audio.
 Description = Приложение для загрузки подкастов.
 
 [Section.041f]
-License = Kamuya açık alan
 Description = Sesli blogları indirmek için uygulama.
 
 [Section.0804]
-License = 公有软件
 Description = 下载播客的程序。
 
