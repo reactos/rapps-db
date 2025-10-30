@@ -2,6 +2,7 @@
 Name = Waveshop (Portable)
 Version = 1.0.14
 License = GPL v2
+LicenseType = 1
 Description = WaveShop is a free, open-source audio editor.
 Category = 1
 URLSite = https://waveshop.sourceforge.net/
@@ -21,5 +22,4 @@ SizeBytes = 3355511
 
 [Section.041f]
 Name = Waveshop (Taşınabilir)
-License = GPL sürüm 2
 Description = WaveShop bir ücretsiz ve açık kaynak ses düzenleyicisidir.
