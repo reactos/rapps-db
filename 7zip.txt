@@ -1,7 +1,8 @@
 [Section]
 Name = 7-Zip
 Version = 25.01
-License = LGPL
+License = LGPL v2.1
+LicenseType = 1
 Description = A file archiving utility with support for 7zip, zip, tar, rar and many other archive formats.
 Category = 12
 URLSite = https://www.7-zip.org/
