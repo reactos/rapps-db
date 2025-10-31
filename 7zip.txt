@@ -23,12 +23,14 @@ Version = 25.01
 URLDownload = https://www.7-zip.org/a/7z2501-arm.exe
 SHA1 = 76a24ec6845dc81288f0b9d7368cb26973a388ca
 SizeBytes = 1658315
+SilentParameters = /S
 
 [Section.arm64]
 Version = 25.01
 URLDownload = https://www.7-zip.org/a/7z2501-arm64.exe
 SHA1 = 17fe72d57ef65d49a8734e11e084150bb75bf152
 SizeBytes = 1588203
+SilentParameters = /S
 
 [Section.0001]
 Description = .برنامج لضغط وفك ضغط الملفات يدعم تنسيقات متعددة مثل زيب و 7زيب و رار و غيرها
