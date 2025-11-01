@@ -1,7 +1,8 @@
 [Section]
 Name = Pulseaudio
 Version = 1.1
-License = LGPL
+License = LGPL v2.1
+LicenseType = 1
 Description = PulseAudio is a network-capable sound server program.
 Category = 1
 URLSite = https://www.freedesktop.org/wiki/Software/PulseAudio/Ports/Windows/Support/

@@ -1,7 +1,8 @@
 [Section]
 Name = Fox Audio Player
 Version = 0.10.2
-License = GPL
+License = GPL v2
+LicenseType = 1
 Description = Simple and lightweight audio player.
 Category = 1
 URLSite = https://foxaudioplayer.sourceforge.net/

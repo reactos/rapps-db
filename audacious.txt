@@ -1,7 +1,8 @@
 [Section]
 Name = Audacious
 Version = 3.10.1
-License = BSD
+License = BSD-2-Clause
+LicenseType = 1
 Description = An open source audio player inspired by Winamp/XMMS.
 Category = 1
 URLSite = https://audacious-media-player.org/

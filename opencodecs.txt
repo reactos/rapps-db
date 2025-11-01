@@ -2,6 +2,7 @@
 Name = xiph.org OpenCodecs
 Version = 0.85.17777
 License = BSD
+LicenseType = 1
 Description = DirectShow filters for the Ogg Vorbis, Speex, Theora, FLAC, and WebM audio/video file formats.
 Category = 1
 URLSite = https://xiph.org/dshow/
