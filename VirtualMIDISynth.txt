@@ -1,7 +1,7 @@
 [Section]
 Name = VirtualMIDISynth
 Version = 2.9.3
-License = Freeware
+License = Proprietary
 LicenseType = 2
 Description = VirtualMIDISynth is a software MIDI synthesizer implemented as a Windows multimedia user driver, accessible as a standard MIDI Out device. Needs SoundFont sf files.
 Category = 1
