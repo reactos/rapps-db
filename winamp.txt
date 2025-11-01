@@ -1,7 +1,8 @@
 [Section]
 Name = Winamp
 Version = 5.666
-License = Freeware
+License = Proprietary
+LicenseType = 2
 Description = A media player that supports extensibility with plug-ins and skins, and features music visualization, playlist and a media library, supported by a large online community.
 Category = 1
 URLSite = https://www.winamp.com/
