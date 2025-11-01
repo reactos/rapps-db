@@ -1,7 +1,8 @@
 [Section]
 Name = ocenaudio
 Version = 3.13.8
-License = Freeware
+License = Proprietary
+LicenseType = 2
 Description = ocenaudio is a cross-platform, easy to use, fast and functional audio editor.
 Category = 1
 URLSite = https://www.ocenaudio.com
