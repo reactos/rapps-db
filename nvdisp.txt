@@ -4,8 +4,8 @@ Version = 52.16
 License = NVIDIA LICENSE EULA
 Description = Display driver for RIVA TNT2, GeForce/Quadro 1/2/3/4 cards from NVidia.
 Category = 13
-URLSite = http://www.nvidia.com/
-URLDownload = http://download.nvidia.com/Windows/52.16/52.16_win2kxp_international_whql.exe
+URLSite = https://www.nvidia.com/
+URLDownload = https://download.nvidia.com/Windows/52.16/52.16_win2kxp_international_whql.exe
 SHA1 = 1efee6ebcf98ea4f00783e00921fc2116be78dcf
 SizeBytes = 19433601
 

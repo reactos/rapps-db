@@ -2,10 +2,11 @@
 Name = AbiWord
 Version = 2.6.8
 License = GPL
+LicenseType = 1
 Description = Snappy and open source word processor.
 Category = 6
 Icon = abiword.ico
-URLSite = https://www.abisource.com/
+URLSite = https://web.archive.org/web/202508if_/https://www.abisource.com/
 URLDownload = https://web.archive.org/web/20210925210302/http://www.abisource.com/downloads/abiword/2.6.8/Windows/abiword-setup-2.6.8.exe
 SHA1 = 50d9d952cd159b7e7f7aa19c57d448ebc9cb422f
 SizeBytes = 5912280

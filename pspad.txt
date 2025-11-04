@@ -4,14 +4,14 @@ Version = 5.0.0
 License = Freeware
 Description = A lightweight text editor.
 Category = 6
-URLSite = http://www.pspad.com
-URLDownload = https://www.pspad.com/files/pspad/pspad500_setup.exe
+URLSite = https://www.pspad.com
+URLDownload = https://web.archive.org/web/20211210105813/https://pspad.poradna.net/release/pspad500_setup.exe
 SHA1 = 92dfe2d3a8b999e2f85f9d3e66bd54ff1ec658e6
 SizeBytes = 6582336
 
 [Section.0a]
 Description = Un pequeño editor de texto.
-URLSite = http://www.pspad.com/es/
+URLSite = https://www.pspad.com/es/
 
 [Section.0404]
 License = 免費軟體
@@ -19,15 +19,15 @@ Description = 一個輕量級的文字編輯器。
 
 [Section.0407]
 Description = Leichtgewichtiger Texteditor.
-URLSite = http://www.pspad.com/de/
+URLSite = https://www.pspad.com/de/
 
 [Section.040c]
 Description = Un éditeur de texte.
-URLSite = http://www.pspad.com/fr/
+URLSite = https://www.pspad.com/fr/
 
 [Section.0410]
 Description = Un editor di testo.
-URLSite = http://www.pspad.com/it/
+URLSite = https://www.pspad.com/it/
 
 [Section.0413]
 Description = Een teksteditor.
@@ -42,11 +42,11 @@ Description = Editor ușor de text.
 [Section.0419]
 License = Бесплатно
 Description = Текстовый редактор.
-URLSite = http://www.pspad.com/ru/
+URLSite = https://www.pspad.com/ru/
 
 [Section.041b]
 Description = Textový editor.
-URLSite = http://www.pspad.com/sk/
+URLSite = https://www.pspad.com/sk/
 
 [Section.041f]
 Description = Hafif bir metin düzenleyicisi.

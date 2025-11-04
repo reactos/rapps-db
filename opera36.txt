@@ -5,8 +5,8 @@ License = Freeware
 Description = Opera 36 is a web browser based on Chromium.
 Icon = opera.ico
 Category = 5
-URLSite = http://www.opera.com/
+URLSite = https://www.opera.com/
 URLDownload = https://get.opera.com/ftp/pub/opera/desktop/36.0.2130.65/win/Opera_36.0.2130.65_Setup.exe
 SHA1 = ef934f5a75428632020beb7a2ded637f34db9590
 SizeBytes = 37687944
-
+RegName = Opera 36.0.2130.65

@@ -4,10 +4,13 @@ Version = 0.83
 License = MIT
 Description = A free SSH, Telnet, rlogin, and raw TCP client.
 Category = 5
-URLSite = http://www.chiark.greenend.org.uk/~sgtatham/putty/
+URLSite = https://www.chiark.greenend.org.uk/~sgtatham/putty/
 URLDownload = https://the.earth.li/~sgtatham/putty/0.83/w32/putty-0.83-installer.msi
 SHA1 = e5fc81d1f33a3054f7bf54bde779f5049190286a
 SizeBytes = 3508736
+
+[Section.x86]
+RegName = {D646F222-8190-4787-92A3-A1C9C699F7A2}
 
 [Section.amd64]
 URLDownload = https://the.earth.li/~sgtatham/putty/0.83/w64/putty-64bit-0.83-installer.msi
@@ -62,4 +65,3 @@ Description = 免费的 SSH、Telnet、rlogin 及裸 TCP 客户端。
 
 [Section.0813]
 Description = Een gratis SSH, Telnet, rlogin en pure TCP afnemer.
-

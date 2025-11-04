@@ -4,8 +4,8 @@ Version = 1.42
 License = Shareware
 Description = One of the best Mahjongg Solitaire games out there.
 Category = 4
-URLSite = http://cynagames.com/
-URLDownload = http://files.cynagames.com/kyo2006.exe
+URLSite = https://cynagames.com/
+URLDownload = https://files.cynagames.com/kyo2006.exe
 SHA1 = 2f877cd6f01cfd25a8fc5e48715602bea03f05f3
 SizeBytes = 14520461
 

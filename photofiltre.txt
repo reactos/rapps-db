@@ -4,8 +4,8 @@ Version = 7.2.1
 License = Freeware
 Description = A complete image retouching program. This version comes with layers but is more limited than the Studio X version.
 Category = 3
-URLSite = http://www.photofiltre-studio.com/pf7-en.htm
-URLDownload = http://202.129.240.234/Software/PhotoFiltre-7.2.1/pf7-setup-en-7.2.1.exe
+URLSite = https://www.photofiltre-studio.com/pf7-en.htm
+URLDownload = https://202.129.240.234/Software/PhotoFiltre-7.2.1/pf7-setup-en-7.2.1.exe
 SHA1 = d4f9a0b0d7bdd82e21aa9f16a0728e7787f4eb0e
 SizeBytes = 5239812
 
@@ -31,7 +31,7 @@ Description = Aplicație completă de retușare a imaginilor.
 
 [Section.0419]
 License = Бесплатно
-Description = Компактный универсальный графический редактор. Эта версия имеет некоторые ограничения. Русификатор: http://static.infomaniak.ch/photofiltre/utils/StudioRU.zip
+Description = Компактный универсальный графический редактор. Эта версия имеет некоторые ограничения. Русификатор: https://static.infomaniak.ch/photofiltre/utils/StudioRU.zip
 
 [Section.041f]
 Description = Tam bir resim düzeltme yazılımı. Bu sürüm, katmanlarla gelmektedir ancak Studio X sürümünden daha kısıtlıdır.

@@ -4,7 +4,7 @@ Version = 3.1.2
 License = GPLv3
 Description = A slim, free, open-source PDF reader. Portable out of the box.
 Category = 6
-URLSite = http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html
+URLSite = https://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html
 URLDownload = https://kjkpub.nyc3.digitaloceanspaces.com/software/sumatrapdf/rel/SumatraPDF-3.1.2-install.exe
 SHA1 = b750eec0f91a5cf2e43259c935c5473c82d27d72
 SizeBytes = 4860560
@@ -29,18 +29,18 @@ SizeBytes = 7598552
 
 [Section.0a]
 Description = Un lector PDF ligero, libre y de código abierto que no necesita instalación.
-URLSite = http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-es.html
+URLSite = https://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-es.html
 
 [Section.0404]
 Description = 一个輕巧便攜、免費、開源的 PDF 閱讀器。
 
 [Section.0407]
 Description = Freies, schlankes, quelloffenes PDF-Anzeigeprogramm.
-URLSite = http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-de.html
+URLSite = https://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-de.html
 
 [Section.040c]
 Description = Sumatra PDF est un lecteur PDF lÃ©ger, libre et open-source.
-URLSite = http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-fr.html
+URLSite = https://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-fr.html
 
 [Section.0410]
 Description = Sumatra PDF è un visualizzatore di file PDF, leggero e open source.
@@ -53,11 +53,11 @@ Description = Sumatra PDF to mały, darmowy, otwarty czytnik PDF.
 
 [Section.0418]
 Description = Lector PDF ușor, gratuit (cu surse deschise), și portabil.
-URLSite = http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-ro.html
+URLSite = https://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-ro.html
 
 [Section.0419]
 Description = Тонкий, свободный, с открытым исходным кодом программа для чтения PDF.
-URLSite = http://www.sumatrapdfreader.org/free-pdf-reader-ru.html
+URLSite = https://www.sumatrapdfreader.org/free-pdf-reader-ru.html
 
 [Section.041f]
 License = GPL sürüm 3
@@ -65,7 +65,7 @@ Description = Hafif, ücretsiz ve açık kaynak bir PDF okuyucusu. Kutunun dış
 
 [Section.0804]
 Description = 一个轻巧、 免费、 开源的 PDF 阅读器。开箱即用。
-URLSite = http://www.sumatrapdfreader.org/free-pdf-reader-cn.html
+URLSite = https://www.sumatrapdfreader.org/free-pdf-reader-cn.html
 
 [Section.0813]
 Description = Sumatra PDF is een slanke, gratis, open-bron PDF lezer.

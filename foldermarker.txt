@@ -5,9 +5,8 @@ License = Freeware
 LicenseType = 2
 Description = Folder Marker can change the icons of all folders in your system, labeling or changing them the color.
 Category = 12
-URLSite = http://web.archive.org/web/20250523033724/https://foldermarker.com/en
-URLDownload = http://web.archive.org/web/20120410050724/http://www.foldermarker.com:80/FolderMarkerFree.exe
+URLSite = https://web.archive.org/web/20250523033724/https://foldermarker.com/en
+URLDownload = https://web.archive.org/web/20120410050724/http://www.foldermarker.com:80/FolderMarkerFree.exe
 SHA1 = 5c5d55545fccf16f8cce6253c562bfe55466feca
 SizeBytes = 1009340
-
-
+RegName = Folder Marker_is1

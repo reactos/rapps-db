@@ -8,6 +8,7 @@ URLSite = https://www.screen-record.com/screen2exe.htm
 URLDownload = https://www.screen-record.com/dl/SCRSWFSetup.exe
 SHA1 = 6769273dc3a38fce61d23ff2d693c85836db4e0d
 SizeBytes = 4367424
+RegName = SCREEN2SWF [FREE]_is1
 
 [Section.041f]
 License = GPL sürüm 3

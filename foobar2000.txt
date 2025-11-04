@@ -1,0 +1,11 @@
+[Section]
+Name = foobar2000
+URLSite = https://www.foobar2000.org
+Category = 1
+Description = foobar2000 is an advanced freeware audio player.
+License = Freeware
+LicenseType = 2
+Version = 1.5.12
+URLDownload = https://www.foobar2000.org/downloads/foobar2000_v1.5.12.exe
+SHA1 = 0b5823bd1ebf50614eeebfd977a418879e458c1e
+SizeBytes = 4410246

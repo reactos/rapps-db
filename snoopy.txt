@@ -4,8 +4,8 @@ Version = 1.0
 License = Freeware
 Description = The original C64 Snoopy remake.
 Category = 4
-URLSite = http://www.blueskied.com/snoopinfo.htm
-URLDownload = http://www.blueskied.com/snoop/Snoop_install.exe
+URLSite = https://www.blueskied.com/snoopinfo.htm
+URLDownload = https://www.blueskied.com/snoop/Snoop_install.exe
 SHA1 = 51417f07cec3771513c70b718a87dac6fa41d1f1
 SizeBytes = 721152
 
@@ -18,7 +18,7 @@ Description = 原版 C64 Snoppy 的復刻。
 
 [Section.0407]
 Description = Das Original C64 Snoopy Remake.
-URLSite = http://www.blueskied.com/spiele-spielen/snoopy.htm
+URLSite = https://www.blueskied.com/spiele-spielen/snoopy.htm
 
 [Section.0410]
 Description = Il remake del gioco Snoopy per Commodore 64.

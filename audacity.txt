@@ -4,10 +4,13 @@ Version = 2.2.2
 License = GPL
 Description = Free, open source, cross-platform software for recording and editing sounds.
 Category = 1
-URLSite = http://audacityteam.org/
+URLSite = https://audacityteam.org/
 URLDownload = https://web.archive.org/web/20240905191907/https://www.videohelp.com/download-QLwRZLDtcw/audacity-win-2.2.2.exe
 SHA1 = 39d00d43e72a7944f433d3f61855a487b5797328
 SizeBytes = 20248056
+
+[Section.x86]
+RegName = Audacity_is1
 
 [Section.amd64]
 Version = 2.4.2

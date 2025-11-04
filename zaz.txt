@@ -4,8 +4,8 @@ Version = 1.0.0
 License = GPL
 Description = A free arcade action puzzle computer game, a little bit like Frozen Bubble.
 Category = 4
-URLSite = http://zaz.sourceforge.net
-URLDownload = http://download.sourceforge.net/project/zaz/Zaz-1.0.0-Setup.exe
+URLSite = https://zaz.sourceforge.net
+URLDownload = https://download.sourceforge.net/project/zaz/Zaz-1.0.0-Setup.exe
 SHA1 = e4f40943dbdc71bfbeca2dfaecf7747dda3ec27a
 SizeBytes = 21934236
 

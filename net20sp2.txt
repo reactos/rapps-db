@@ -4,7 +4,7 @@ Version = 2.0SP2
 License = EULA
 Description = Components needed to run managed Windows applications compiled in an Intermediate language like C#.
 Category = 14
-URLSite = http://www.microsoft.com/en-US/download/details.aspx?id=1639
+URLSite = https://www.microsoft.com/en-US/download/details.aspx?id=1639
 URLDownload = https://web.archive.org/web/20190523030127if_/http://download.microsoft.com/download/c/6/e/c6e88215-0178-4c6c-b5f3-158ff77b1f38/NetFx20SP2_x86.exe
 SHA1 = 22d776d4d204863105a5db99e8b8888be23c61a7
 SizeBytes = 25001480
@@ -12,7 +12,7 @@ Icon = oldwinsetup.ico
 
 [Section.0a]
 Description = Componentes necesarios para ejecutar programas escritos en lenguajes intermedios como C#.
-URLSite = http://www.microsoft.com/es-ES/download/details.aspx?id=1639
+URLSite = https://www.microsoft.com/es-ES/download/details.aspx?id=1639
 
 [Section.0404]
 License = 不明
@@ -20,19 +20,19 @@ Description = 執行由 C# 之類的中間語言所編譯的 Windows 應用程�
 
 [Section.0407]
 Description = Runtime für C# Windows Anwendungen.
-URLSite = http://www.microsoft.com/de-DE/download/details.aspx?id=1639
+URLSite = https://www.microsoft.com/de-DE/download/details.aspx?id=1639
 
 [Section.040c]
 Description = Microsoft .NET Framework version 2.0 Service Pack 2.
-URLSite = http://www.microsoft.com/fr-FR/download/details.aspx?id=1639
+URLSite = https://www.microsoft.com/fr-FR/download/details.aspx?id=1639
 
 [Section.0410]
 Description = Microsoft .NET Framework Version 2.0 - Redistributable Package.
-URLSite = http://www.microsoft.com/it-IT/download/details.aspx?id=1639
+URLSite = https://www.microsoft.com/it-IT/download/details.aspx?id=1639
 
 [Section.0415]
 Description = Microsoft .NET Framework Wersja 2.0 Service Pack 2.
-URLSite = http://www.microsoft.com/pl-PL/download/details.aspx?id=1639
+URLSite = https://www.microsoft.com/pl-PL/download/details.aspx?id=1639
 
 [Section.0418]
 License = Nespecificată
@@ -47,7 +47,7 @@ URLSite = https://www.microsoft.com/ru-RU/download/details.aspx?id=1639
 Name = Microsoft .NET Framework Sürüm 2.0 Hizmet Paketi 2
 License = Bilinmiyor
 Description = C# gibi orta düzey bir dilde derlenmiş, yönetilen Windows uygulamalarını çalıştırmak için gerekli bileşenler.
-URLSite = http://www.microsoft.com/tr-TR/download/details.aspx?id=1639
+URLSite = https://www.microsoft.com/tr-TR/download/details.aspx?id=1639
 
 [Section.0804]
 License = 未知

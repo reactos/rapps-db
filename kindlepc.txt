@@ -5,7 +5,7 @@ License = Freeware
 Description = A free application that lets you read Kindle books.
 Category = 6
 URLSite = www.amazon.com/kindleforpc
-URLDownload = http://kindleforpc.amazon.com/44025/KindleForPC-installer-1.16.44025.exe
+URLDownload = https://kindleforpc.amazon.com/44025/KindleForPC-installer-1.16.44025.exe
 SHA1 = c57d0a7d8cd5f1c3020536edf336c3187f3e051f
 SizeBytes = 65292192
 

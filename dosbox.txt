@@ -4,8 +4,8 @@ Version = 0.74-3
 License = GPL
 Description = An open-source DOS emulator.
 Category = 16
-URLSite = http://www.dosbox.com/
-URLDownload = http://download.sourceforge.net/project/dosbox/dosbox/0.74-3/DOSBox0.74-3-win32-installer.exe
+URLSite = https://www.dosbox.com/
+URLDownload = https://download.sourceforge.net/project/dosbox/dosbox/0.74-3/DOSBox0.74-3-win32-installer.exe
 SHA1 = c8c1f5a5d17336607c886444518e74e3d1a4e041
 SizeBytes = 1493703
 

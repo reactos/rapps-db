@@ -4,7 +4,7 @@ Version = 5.4.7.2
 License = LGPL
 Description = A powerful and open source office suite. It has been forked from OpenOffice.
 Category = 6
-URLSite = http://www.documentfoundation.org/
+URLSite = https://www.documentfoundation.org/
 URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86.msi
 SHA1 = be0769418eed84391f9cbcb3702b5e7d344cdfa0
 SizeBytes = 225308672
@@ -16,7 +16,7 @@ Description = La suite de ofimática de código abierto. Descendiente de OpenOff
 Description = 功能強大的開源辦公套件。它是 OpenOffice 的分支。
 
 [Section.0407]
-Description = Vorher bekannt als OpenOffice. Quelloffene Office Suite.
+Description = Fork von OpenOffice. Quelloffene Office Suite.
 
 [Section.040c]
 Description = Précédemment appelé OpenOffice. Suite bureautique open source.

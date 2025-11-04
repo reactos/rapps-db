@@ -8,6 +8,7 @@ URLSite = https://www.ezbsystems.com/ultraiso/
 URLDownload = https://web.archive.org/web/20180413051731if_/http://dw.ezbsys.net/uiso9_pe.exe
 SHA1 = 2ea6f41e99886667a185608328c9adb03e6aa9ed
 SizeBytes = 4536880
+RegName = UltraISO_is1
 
 [Section.0a]
 Description = Una herramienta para crear, convertir y editar imágenes ISO, y un creador de CD/DVD, que puede editar directamente las imágenes de CD/DVD para extraer archivos o carpetas. Crea imágenes de disco duro y CD/DVD.

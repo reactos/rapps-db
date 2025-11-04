@@ -4,8 +4,8 @@ Version = 75.1
 License = GPL
 Description = An extremely fast, customizable and still lightweight web browser based on the Gecko layout engine.
 Category = 5
-URLSite = http://kmeleon.sourceforge.net
-URLDownload = http://download.sourceforge.net/project/kmeleon/k-meleon/75.1/K-Meleon75.1.exe
+URLSite = https://kmeleon.sourceforge.net
+URLDownload = https://download.sourceforge.net/project/kmeleon/k-meleon/75.1/K-Meleon75.1.exe
 SHA1 = a46ead69a6d18609b1f2e8ae60a3a5883e2e061e
 SizeBytes = 26570888
 

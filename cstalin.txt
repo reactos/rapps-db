@@ -4,8 +4,8 @@ Version = 0.9.5
 License = GPL
 Description = A Soviet-themed real time strategy (RTS) game based on Boswars.
 Category = 4
-URLSite = http://commanderstalin.sourceforge.net/
-URLDownload = http://download.sourceforge.net/project/commanderstalin/commander%20stalin%20version%203/version3/cstalin-0.9.5-win.zip
+URLSite = https://commanderstalin.sourceforge.net/
+URLDownload = https://download.sourceforge.net/project/commanderstalin/commander%20stalin%20version%203/version3/cstalin-0.9.5-win.zip
 SHA1 = 736b89d96c025bdf0b17116b4b8f26424e219669
 SizeBytes = 273683958
 Installer = Generate
@@ -31,7 +31,7 @@ Description = Joc de strategie în timp real, cu tematică sovietică bazată pe
 
 [Section.0419]
 Description = "Советская" стратегия реального времени основанная на Boswars.
-URLSite = http://commanderstalin.sourceforge.net/cstalin_rus_index.html
+URLSite = https://commanderstalin.sourceforge.net/cstalin_rus_index.html
 
 [Section.041f]
 Description = Boswars tabanlı bir Sovyet temalı gerçek zamanlı strateji (RTS) oyunu.

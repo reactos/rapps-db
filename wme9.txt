@@ -4,7 +4,7 @@ Version = 9.0
 License = EULA
 Description = Convert and broadcast audio and video in Windows Media formats.
 Category = 14
-URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=17792
+URLSite = https://web.archive.org/web/20130304220007/http://www.microsoft.com/en-us/download/details.aspx?id=17792
 URLDownload = https://v1support.s3.amazonaws.com/WMEncoder.exe
 SHA1 = 7a3f8781f3e5705651992ef0150ee30bc1295116
 SizeBytes = 9918872

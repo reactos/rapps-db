@@ -4,7 +4,7 @@ Version = 1.4.4
 License = GPL
 Description = Panzer General Clone using SDL libs.
 Category = 4
-URLSite = http://lgames.sourceforge.net/index.php?project=LGeneral
+URLSite = https://lgames.sourceforge.net/index.php?project=LGeneral
 URLDownload = https://sourceforge.net/projects/lgeneral/files/lgeneral/lgeneral-1.4.4-win32.zip
 SHA1 = 85925fbee97d0fbd3af7ee09639e68c7d7667dde
 SizeBytes = 6161244

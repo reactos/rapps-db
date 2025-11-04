@@ -4,8 +4,8 @@ Version = 0.85.17777
 License = BSD
 Description = DirectShow filters for the Ogg Vorbis, Speex, Theora, FLAC, and WebM audio/video file formats.
 Category = 1
-URLSite = http://xiph.org/dshow/
-URLDownload = http://downloads.xiph.org/releases/oggdsf/opencodecs_0.85.17777.exe
+URLSite = https://xiph.org/dshow/
+URLDownload = https://downloads.xiph.org/releases/oggdsf/opencodecs_0.85.17777.exe
 SHA1 = 386cf7cd29ffcbf8705eff8c8233de448ecf33ab
 SizeBytes = 2653944
 

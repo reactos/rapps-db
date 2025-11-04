@@ -1,19 +1,24 @@
 [Section]
 Name = SciTE
-Version = 4.0.5
-License = Freeware
+Version = 5.4.1
+License = HPND
+LicenseType = 1
 Description = A SCIntilla based text editor. Originally built to demonstrate Scintilla, it has grown to be a generally useful editor with facilities for building and running programs.
 Category = 7
 URLSite = http://www.scintilla.org/
-URLDownload = https://www.ebswift.com/uploads/7/0/4/0/70403747/scite-4.0.5x86.msi
-SHA1 = bb2fc084824157912b1709352e8e3b6e3c6e4b25
-SizeBytes = 3448832
+URLDownload = https://web.archive.org/web/20240204145945/https://www.ebswift.com/uploads/7/0/4/0/70403747/scite-5.4.1x86.msi
+SHA1 = 958477c2eaba91620a050523f350ed6232151282
+SizeBytes = 4571136
+
+[Section.amd64]
+URLDownload = https://web.archive.org/web/20240204145948/https://www.ebswift.com/uploads/7/0/4/0/70403747/scite-5.4.1x64.msi
+SHA1 = 5e0080c8db52c246ad77686eba4afa4d108f995b
+SizeBytes = 4902912
 
 [Section.0a]
 Description = Editor de texto basado en SCIntilla. Originalmente creado para demostrar Scintilla, ha terminado siendo un gran editor con capacidad para crear y ejecutar programas.
 
 [Section.0404]
-License = 免費軟體
 Description = 一款基於 SCIntilla 的文字編輯器。最初的構建用於模擬 Scintilla，現在已發展成能夠構建並執行程式的編輯器。
 
 [Section.0407]
@@ -32,11 +37,9 @@ Description = SciTE is een tekstbewerker gebaseerd op SCIntilla. Origineel bedoe
 Description = SciTE to edytor tekstu bazowany na SCIntilla. Oryginalnie stworzony aby pokazać Scintille, stał sie ogólnie przydatnym edytorem z infrastrukturą potrzebną do tworzenia i uruchamiania programów.
 
 [Section.0418]
-License = Gratuită
 Description = Editor de text bazat pe SCIntilla. Construit inițial pentru a demonstra Scintilla, a crescut ulterior într-un editor de uz general cu funcționalități de compilare și execuție a programelor.
 
 [Section.0419]
-License = Бесплатно
 Description = Кроссплатформенный текстовый редактор.
 
 [Section.041f]
@@ -46,7 +49,6 @@ Description = Scintilla tabanlı bir metin düzenleyicisidir. İlk başta Scinti
 Description = Текстовий редактор на основі SCIntilla. Був зібраний як презентація Scintilla, але виріс до редактора загального користування з засобами збирання та запуску програм.
 
 [Section.0804]
-License = 免费软件
 Description = 一个基于 SCIntilla 的文本编辑器。最初构建用于证明 Scintilla，现在已经发展成能够构造并运行程序的可用的编辑器。
 
 [Section.0813]

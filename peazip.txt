@@ -4,10 +4,11 @@ Version = 6.6.0
 License = LGPL v3, OpenCandy EULA
 Description = A free, cross-platform, open source file and archive manager. It supports over 150 archive formats.
 Category = 12
-URLSite = http://peazip.sourceforge.net/
+URLSite = https://peazip.sourceforge.net/
 URLDownload = https://download.sourceforge.net/project/peazip/6.6.0/peazip-6.6.0.WINDOWS.exe
 SHA1 = a1aefe8e06f14c16e5516c797fc4a81afde3c1b5
 SizeBytes = 7138401
+RegName = {5A2BC38A-406C-4A5B-BF45-6991F9A05325}_is1
 
 [Section.0a]
 Description = Un administrador de archivos y compresor de código abierto y multiplataforma. Soporta más de 150 formatos de archivo.

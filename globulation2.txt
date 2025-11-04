@@ -4,8 +4,8 @@ Version = 0.9.4.4
 License = GPL
 Description = A real-time strategy game. The game minimizes gaming micromanagement by automatically assigning tasks to units.
 Category = 4
-URLSite = http://www.globulation2.org
-URLDownload = http://dl.sv.nongnu.org/releases/glob2/0.9.4/glob2-0.9.4.4.exe
+URLSite = https://www.globulation2.org
+URLDownload = https://dl.sv.nongnu.org/releases/glob2/0.9.4/glob2-0.9.4.4.exe
 SHA1 = 030490b12518719388986c571b88efe2192981fa
 SizeBytes = 14079010
 

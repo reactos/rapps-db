@@ -4,10 +4,11 @@ Version = 7.52
 License = Shareware
 Description = The most popular client for the Internet Relay Chat (IRC).
 Category = 5
-URLSite = http://www.mirc.com/
+URLSite = https://www.mirc.com/
 URLDownload = https://web.archive.org/web/20180526000951if_/https://www.mirc.com/downloads/mirc/21/mirc752.exe
 SHA1 = d3d3a071c5e1fb8dad532a061404e1b3426e63c0
 SizeBytes = 2764904
+RegName = mIRC
 
 [Section.0a]
 Description = El cliente más popular para Internet Relay Chat (IRC).

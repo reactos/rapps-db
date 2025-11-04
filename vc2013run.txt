@@ -4,7 +4,7 @@ Version = 12.0.40664.0
 License = EULA
 Description = Needed by applications compiled with Visual Studio 2013. Contains: atl120.dll, mfc120.dll, mfc120u.dll, mfcm120.dll, mfcm120u.dll, msdia120.dll, msvcm120.dll, msvcp120.dll, msvcr120.dll, vcomp120.dll.
 Category = 14
-URLSite = http://www.microsoft.com/en-us/download/details.aspx?id=40784
+URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=40784
 URLDownload = https://download.visualstudio.microsoft.com/download/pr/10912113/5da66ddebb0ad32ebd4b922fd82e8e25/vcredist_x86.exe
 SHA1 = 0f5d66bcaf120f2d3f340e448a268fe4bbf7709d
 SizeBytes = 6510136

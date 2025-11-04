@@ -4,8 +4,8 @@ Version = 1.1
 License = Shareware
 Description = A vibrant and colorful brick-breaking game.
 Category = 4
-URLSite = http://www.classic.blitwise.com/superdxb.html
-URLDownload = http://www.classic.blitwise.com/superdxb.exe
+URLSite = https://www.classic.blitwise.com/superdxb.html
+URLDownload = https://www.classic.blitwise.com/superdxb.exe
 SHA1 = c8b6992e6879d4b607f248eb05d630cb44eb553f
 SizeBytes = 3995248
 

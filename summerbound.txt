@@ -4,8 +4,8 @@ Version = 1.4
 License = Freeware
 Description = A game similar to Frozen Fruits.
 Category = 4
-URLSite = http://www.blueskied.com/summer_bound.htm
-URLDownload = http://www.blueskied.com/summer/SummerBound_setup.exe
+URLSite = https://www.blueskied.com/summer_bound.htm
+URLDownload = https://www.blueskied.com/summer/SummerBound_setup.exe
 SHA1 = 5ac90ccde964a6ad51b35bae0a405b7bb6e4b311
 SizeBytes = 782870
 
@@ -18,7 +18,7 @@ Description = 一款類似 Frozen Fruits 的遊戲。
 
 [Section.0407]
 Description = Spiel ähnlich zu Frozen Fruits.
-URLSite = http://www.blueskied.com/freeware-spiele/runterladen.htm
+URLSite = https://www.blueskied.com/freeware-spiele/runterladen.htm
 
 [Section.0410]
 Description = Un gioco simile a Frozen Fruits.

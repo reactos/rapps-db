@@ -4,8 +4,8 @@ Version = 0.5-RC1
 License = GPL
 Description = Allows you to access Windows shared folders/printers with ReactOS.
 Category = 5
-URLSite = http://samba-tng.org/
-URLDownload = http://svn.reactos.org/packages/samba-tng.exe
+URLSite = https://samba-tng.org/
+URLDownload = https://svn.reactos.org/packages/samba-tng.exe
 SHA1 = 23daea49ec9fb08cbee044fa49dfbcc195073c62
 SizeBytes = 2238545
 

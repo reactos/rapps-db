@@ -4,7 +4,7 @@ Version = 5.12.1.5017
 License = CREATIVE EULA v2.5
 Description = Audio driver for SoundBlaster-compatible devices. Unzip in the ReactOS folder and restart twice.
 Category = 13
-URLDownload = http://svn.reactos.org/packages/sb_vmware.exe
+URLDownload = https://svn.reactos.org/packages/sb_vmware.exe
 SHA1 = d731e7490e5d287fff41d1cc19598fad48b743cd
 SizeBytes = 2332019
 

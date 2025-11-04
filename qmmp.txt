@@ -4,8 +4,8 @@ Version = 0.11.1
 License = GPL
 Description = An audio-player based on the Qt libraries. The user interface is similar to WinAMP or XMMS. Alternative user interfaces are also available.
 Category = 1
-URLSite = http://qmmp.ylsoftware.com/
-URLDownload = http://qmmp.ylsoftware.com/files/windows/0.11/qmmp-0.11.1-win32.exe
+URLSite = https://qmmp.ylsoftware.com/
+URLDownload = https://qmmp.ylsoftware.com/files/windows/0.11/qmmp-0.11.1-win32.exe
 SHA1 = ffe410a53b46a7905a7b80863aba4a37249c5250
 SizeBytes = 14754797
 

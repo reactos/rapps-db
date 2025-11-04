@@ -2,7 +2,7 @@
 Name = AlReader
 Version = 2.5.110502
 Description = A FB2 eBook Reader. Supported read formats: fb2, fbz, txt, epub, html, doc, docx, odt, rtf, mobi, prc (PalmDoc), tcr. Supported ZIP and GZ archives.
-URLSite = http://www.alreader.com
+URLSite = https://www.alreader.com
 Category = 6
 URLDownload = https://svn.reactos.org/packages/AlReader2Setup.exe
 SHA1 = 84093c0a4af21e733357c20b649d2cec20ea67bb

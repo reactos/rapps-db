@@ -8,6 +8,7 @@ URLSite = https://www.winrar.es/
 URLDownload = https://www.rarlab.com/rar/wrar602.exe
 SHA1 = c8d40528be200571e86649fa57a18ea53e90684e
 SizeBytes = 3113040
+RegName = WinRAR archiver
 
 [Section.amd64]
 URLDownload = https://www.rarlab.com/rar/winrar-x64-602.exe
