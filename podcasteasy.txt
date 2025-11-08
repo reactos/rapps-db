@@ -1,8 +1,8 @@
 [Section]
 Name = Podcast Easy
 Version = 0.9.1
-License = Proprietary
-LicenseType = 2
+License = Public Domain
+LicenseType = 1
 Description = Application for downloading podcasts.
 Category = 1
 URLSite = https://r57zone.github.io
