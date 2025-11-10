@@ -1,7 +1,8 @@
 [Section]
 Name = Winamp
-Version = 5.666 Full
-License = Freemium
+Version = 5.666
+License = Proprietary
+LicenseType = 2
 Description = A media player that supports extensibility with plug-ins and skins, and features music visualization, playlist and a media library, supported by a large online community.
 Category = 1
 URLSite = https://www.winamp.com/
@@ -13,7 +14,6 @@ SizeBytes = 15023516
 Description = Un reproductor de media que soporta una gran cantidad de plugins, skins y presenta visualización musical, listas, librería media, con soporte de una gran comunidad online.
 
 [Section.0404]
-License = 免費增值軟體
 Description = 一款由一個大型的在線社群提供支援的媒體播放器，支援插件、外觀、可視化音樂功能、播放列表和媒體庫。
 
 [Section.0407]
@@ -23,18 +23,14 @@ Description = Media Player welcher Erweiterbarkeit mit Plug-Ins und Skins ermög
 Description = Odtwarzacz multimedialny ze wsparciem dla rozszerzeń i skórek, oferujący takie funkcje jak wizualizacja muzyki, playlista i biblioteka, wspierany przez dużą społeczność internetową.
 
 [Section.0418]
-License = Gratuită, cu funcționalități opționale negratuite
 Description = Lector media cu diverse extensii, având o largă comunitate de utilizatori.
 
 [Section.0419]
-License = Условно бесплатно
 Description = Поддерживает расширяемость с помощью плагинов и скинов. Имеет возможность визуализировать музыку. Есть списки воспроизведения и медиа-библиотека.
 
 [Section.041f]
-Version = 5.666 Tam
 Description = Winamp, eklentilerle ve dış görünümlerle genişletilebilirliği destekleyen, müzik görselleştirmeyi, oynatma listesi ve büyük bir çevrim içi topluluk tarafından desteklenen bir ortam kitaplığı özellikli bir ortam oynatıcısıdır.
 
 [Section.0804]
-License = 免费商业软件
 Description = 一个支持插件、皮肤、音乐可视化功能、播放列表和媒体库媒体播放器，由一个大型的在线社区提供支持。
 

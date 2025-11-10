@@ -1,7 +1,8 @@
 [Section]
 Name = Mpxplay
 Version = 1.60b
-License = GPL
+License = Custom Open Source
+LicenseType = 1
 Description = A 32-bit console audio player for Windows.
 Category = 1
 URLSite = https://mpxplay.sourceforge.net/

@@ -1,7 +1,8 @@
 [Section]
 Name = Audacity
 Version = 2.2.2
-License = GPL
+License = GPL v2
+LicenseType = 1
 Description = Free, open source, cross-platform software for recording and editing sounds.
 Category = 1
 URLSite = https://audacityteam.org/

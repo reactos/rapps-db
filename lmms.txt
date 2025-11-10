@@ -2,6 +2,7 @@
 Name = LMMS
 Version = 1.2.2
 License = GPL v2
+LicenseType = 1
 Description = LMMS is free and open source, cross-platform software for creating music, it is an alternative to programs like FL Studio.
 Category = 1
 URLSite = https://lmms.io/
@@ -23,3 +24,6 @@ Installer = Generate
 
 [Section.0a]
 Description = LMMS es un software libre y de código abierto, multiplataforma para crear música, es una alternativa a programas como FL Studio.
+
+[Section.041f]
+Description = LMMS, müzik oluşturmak için kullanılan ücretsiz ve açık kaynaklı, çapraz platform bir yazılımdır. FL Studio gibi programlara alternatif bir yazılımdır.
