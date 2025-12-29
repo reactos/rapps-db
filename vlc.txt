@@ -5,7 +5,7 @@ License = GPL
 Description = A fully featured FOSS media player with built-in codecs.
 Category = 2
 URLSite = https://www.videolan.org/vlc/
-URLDownload = http://ftp.videolan.org/vlc/3.0.22/win32/vlc-3.0.22-win32.exe
+URLDownload = https://download.videolan.org/pub/videolan/vlc/3.0.22/win32/vlc-3.0.22-win32.exe
 SHA1 = f7c51a029c03adbc5f4db25c193954007a47b81b
 SizeBytes = 44206128
 
