@@ -12,3 +12,4 @@ Screenshot1 = https://gist.github.com/user-attachments/assets/29ddcdb6-ac13-48c1
 
 [Section.041f]
 Description = Eclipse Lun3r, Windows XP için yapılmış Pale Moon'un bir çatalıdır. Upstream ve roytam1'in New Moon'una göre bazı avantajları daha fazla optimizasyon ve upstream ile daha iyi birlikte çalışabilirliktir. (DBM yerine SQL depolama alanı kullanıyor)
+test
