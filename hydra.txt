@@ -1,5 +1,5 @@
 [Section]
-Name = Eclipse Lun3r
+Name = Eclipse Hydra
 Version = v2025.09.28
 License = MPL 2.0
 Description = Eclipse Hydra is a fork of Basilisk made for Windows XP. Some advantages over upstream and roytam1's Serpent are more optimzations and better interoperability with upstream. (using SQL storage intead of DBM)
