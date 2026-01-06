@@ -1,0 +1,10 @@
+[Section]
+Name = Eclipse Hydra
+Version = v2025.09.28
+License = MPL 2.0
+Description = Eclipse Hydra is a fork of Basilisk made for Windows XP. Some advantages over upstream and roytam1's Serpent are more optimzations and better interoperability with upstream. (using SQL storage intead of DBM)
+Category = 5
+URLSite = https://eclipse.cx/projects/hydra
+URLDownload = https://github.com/Eclipse-Community/UXP/releases/download/v2025.09.28/hydra-2025.09.28.win32.installer.exe
+SHA1 = f7abfacaac94309b669e6c591e438704ac5444fd
+SizeBytes = 41374992

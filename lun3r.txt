@@ -1,13 +1,13 @@
 [Section]
 Name = Eclipse Lun3r
-Version = v2025.04.28
+Version = v2025.09.28
 License = MPL 2.0
 Description = Eclipse Lun3r is a fork of Pale Moon made for Windows XP. Some advantages over upstream and roytam1's New Moon are more optimzations and better interoperability with upstream. (using SQL storage intead of DBM)
 Category = 5
 URLSite = https://eclipse.cx/projects/lun3r
-URLDownload = https://github.com/Eclipse-Community/UXP/releases/download/v2025.04.28/lun3r-2025.04.28.win32.installer.exe
-SHA1 = 5b8fb5843f67c1be39a636ffdf710f62619be275
-SizeBytes = 35481504
+URLDownload = https://github.com/Eclipse-Community/UXP/releases/download/v2025.09.28/lun3r-2025.09.28.win32.installer.exe
+SHA1 = e6f63cb3bd0b635784933abcc02e04408fd2bfc8
+SizeBytes = 36757537
 Screenshot1 = https://gist.github.com/user-attachments/assets/29ddcdb6-ac13-48c1-8afb-bad1869b472b
 
 [Section.041f]
