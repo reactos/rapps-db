@@ -1,18 +1,18 @@
 [Section]
 Name = VLC media player
-Version = 3.0.20
+Version = 3.0.23
 License = GPL
 Description = A fully featured FOSS media player with built-in codecs.
 Category = 2
 URLSite = https://www.videolan.org/vlc/
-URLDownload = https://download.videolan.org/pub/videolan/vlc/3.0.20/win32/vlc-3.0.20-win32.exe
-SHA1 = 512092bbadfadd550f5bb5bcbe95eb107b342d29
-SizeBytes = 42860784
+URLDownload = https://download.videolan.org/pub/videolan/vlc/3.0.23/win32/vlc-3.0.23-win32.exe
+SHA1 = 71bef44c4fd4ab2ffa3c11d893ae8e467d312654
+SizeBytes = 44568024
 
 [Section.amd64]
-URLDownload = https://download.videolan.org/pub/videolan/vlc/3.0.20/win64/vlc-3.0.20-win64.msi
-SHA1 = 744c04d096e3bb86da39c6490ff0c193b88fedd6
-SizeBytes = 58949632
+URLDownload = https://download.videolan.org/pub/videolan/vlc/3.0.23/win64/vlc-3.0.23-win64.msi
+SHA1 = d6bac39bdec1ea0102ee1e1f04dcad9febc3e92a
+SizeBytes = 60608512
 
 [Section.arm]
 Version = 3.0.20-win11
@@ -21,10 +21,9 @@ SHA1 = 7327aed1e8ad81d82623d66251e3d31ae830b5de
 SizeBytes = 48581802
 
 [Section.arm64]
-Version = vlc-4.0.0 nightly-231f5d40
-URLDownload = https://artifacts.videolan.org/vlc/nightly-win64-arm-llvm/20250806-0448/vlc-4.0.0-dev-win64-231f5d40.msi
-SHA1 = bb87ccc1d0a10b10f15e81539c9f5145ba93a4e9
-SizeBytes = 61856768
+URLDownload = https://download.videolan.org/pub/videolan/vlc/3.0.23/winarm64/vlc-3.0.23-winarm64.msi
+SHA1 = ce111c82adaf3405e63aa90bec3527e513f5e151
+SizeBytes = 51630080
 
 [Section.0a]
 Description = Completo reproductor multimedia, de código abierto y con códecs propios.
