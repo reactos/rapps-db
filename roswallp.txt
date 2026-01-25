@@ -1,12 +1,12 @@
 [Section]
 Name = ReactOS Standard Wallpapers
-Version = 6
+Version = 7
 License = CC BY
 Description = The standard wallpaper collection for ReactOS
 Category = 15
 URLSite = https://github.com/reactos/wallpapers/
-URLDownload = https://github.com/reactos/wallpapers/releases/download/v6/wallpapers.zip
-SizeBytes = 5961911
+URLDownload = https://github.com/reactos/wallpapers/releases/download/v7/wallpapers.zip
+SizeBytes = 6168481
 Icon = wallpaper.ico
 Installer = Generate
 
