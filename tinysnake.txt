@@ -11,3 +11,5 @@ SizeBytes=3584
 [Section.0419]
 Description = Простая консольная игра в "Змейку". Играть с английской раскладки!
 
+[Section.0407]
+Description = Ein einfaches Konsolenspiel namens „Snake“. Mit englischer Tastatur spielen!
