@@ -1,0 +1,22 @@
+[Section]
+Name = BusyBox
+Version = 1.38.0
+License = GPLv2
+LicenseType = 1
+Description = WIN32 port of BusyBox, a single executable that provides many common Unix tools including a POSIX shell
+Category = 12
+URLSite = https://frippery.org/busybox/
+URLDownload = https://frippery.org/files/busybox/busybox-w32-FRP-5857-g3681e397f.exe
+SHA1 = c334d28b74740b3fe85863e240910671d3c82337
+SizeBytes = 632334
+
+[Section.amd64]
+URLDownload = https://frippery.org/files/busybox/busybox-w64-FRP-5857-g3681e397f.exe
+SHA1 = 43332c88c8abb023313ac65e7c8f67ea9383caa6
+SizeBytes = 717824
+
+[Section.arm64]
+URLDownload = https://frippery.org/files/busybox/busybox-w64a-FRP-5857-g3681e397f.exe
+SHA1 = d9d7fa5dbd38bc5a11135cbf43c621c2adeab35b
+SizeBytes = 663040
+
