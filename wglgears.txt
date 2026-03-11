@@ -1,0 +1,16 @@
+[Section]
+Name = Windows OpenGL Gears Demo
+Version = 1.3v (25-10-2004)
+License = MIT
+Description = This little demo tests the 3D OpenGL acceleration.
+Category = 12
+URLSite = https://web.archive.org/web/20221007133524/http://www2.cs.uidaho.edu/~jeffery/win32/
+URLDownload = https://web.archive.org/web/20230316233927/https://www2.cs.uidaho.edu/~jeffery/win32/wglgears.exe
+SHA1 = d65d2098bc11af76cb614946342913b1af62924d
+SizeBytes = 34057
+
+[Section.amd64]
+Description = This little demo tests the 3D OpenGL acceleration. Needs Visual C Redist 2012.
+URLDownload = https://github.com/the-r3dacted/windows-glxgears-built/releases/download/1.0/glxgears.x64.exe
+SHA1 = 27be0fd90baed25b150cae1db121746df11bdffa
+SizeBytes = 15872
