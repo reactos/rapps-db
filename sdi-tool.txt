@@ -10,8 +10,6 @@ SHA1 = 5bde3a22243a9d6fa3740aaa5477727e4af7dcb9
 SizeBytes = 8183800
 Installer = Generate
 
-[Section.amd64]
-
 [Generate]
 Files = SDI_auto.bat|*
 DelFile = sdi.cfg
