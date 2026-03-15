@@ -1,0 +1,16 @@
+[Section]
+Name = qBittorrent
+Version = 4.1.9.1
+License = GNU GPL v2
+Description = The qBittorrent project aims to provide an open-source P2P software alternative to µTorrent.
+Category = 5
+URLSite = https://www.qbittorrent.org/
+URLDownload = https://master.dl.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.1.9.1/qbittorrent_4.1.9.1_setup.exe
+SHA1 = a456f3b9b68e7cd7447334cc14f00806ed214a73
+SizeBytes = 20236343
+
+[Section.amd64]
+Version = 3.3.10
+URLDownload = https://master.dl.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-3.3.10/qbittorrent_3.3.10_x64_setup.exe
+SHA1 = 1a1a101a575af62c2d2c8b7ada23fc998b99d091
+SizeBytes = 19446350
