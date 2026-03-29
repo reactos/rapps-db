@@ -1,0 +1,15 @@
+[Section]
+Name = Tixati
+Version = 3.42-1
+License = Freeware
+Description = Tixati is a powerful and light P2P Torrent client.
+Category = 5
+URLSite = https://tixati.com
+URLDownload = https://download.tixati.com/tixati-3.42-1.win32-install.exe
+SHA1 = 22b744b96bafc3b738f8e4715eb56f75b8000909
+SizeBytes = 21486888
+
+[Section.amd64]
+URLDownload = https://download.tixati.com/tixati-3.42-1.win64-install.exe
+SHA1 = d6704cd98ac518fd0089d172747b0ab2a4e26f84
+SizeBytes = 21642536

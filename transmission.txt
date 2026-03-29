@@ -1,0 +1,10 @@
+[Section]
+Name = Transmission
+Version = 2.84.9
+License = GNU GPL v2
+Description = Transmission is a fast, easy, and free BitTorrent client.
+Category = 5
+URLSite = https://transmissionbt.com/
+URLDownload = https://master.dl.sourceforge.net/project/transmissiondaemon/Transmission-Qt-2.84.9-x86/QT-2.84.9-x86-installer/Transmission-Qt-2.84.9-x86_32-installer.exe
+SHA1 = f5f440d4d64d8b6189ef13ffe11145bc520b0fc9
+SizeBytes = 18228176
