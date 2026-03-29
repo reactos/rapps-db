@@ -10,7 +10,7 @@ SHA1 = d65d2098bc11af76cb614946342913b1af62924d
 SizeBytes = 34057
 
 [Section.amd64]
-Description = This little demo tests the 3D OpenGL acceleration. Needs Visual C Redist 2012.
-URLDownload = https://github.com/the-r3dacted/windows-glxgears-built/releases/download/1.0/glxgears.x64.exe
-SHA1 = 27be0fd90baed25b150cae1db121746df11bdffa
-SizeBytes = 15872
+Description = This little demo tests the 3D OpenGL acceleration.
+URLDownload = https://archive.org/download/wglgears/wglgears.exe
+SHA1 = df01e7914bf104cbb7403ce2b31e4160e642a426
+SizeBytes = 67920
