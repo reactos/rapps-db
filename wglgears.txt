@@ -1,0 +1,28 @@
+[Section]
+Name = Windows OpenGL Gears Demo
+Version = 1.3v (25-10-2004)
+License = MIT
+Description = This little demo tests the 3D OpenGL acceleration.
+Category = 12
+URLSite = https://web.archive.org/web/20221007133524/http://www2.cs.uidaho.edu/~jeffery/win32/
+URLDownload = https://web.archive.org/web/20230316233927/https://www2.cs.uidaho.edu/~jeffery/win32/wglgears.exe
+SHA1 = d65d2098bc11af76cb614946342913b1af62924d
+SizeBytes = 34057
+
+[Section.amd64]
+Description = This little demo tests the 3D OpenGL acceleration. Compiled with RosBE x64.
+URLDownload = https://archive.org/download/wglgears/wglgears_x64.exe
+SHA1 = df01e7914bf104cbb7403ce2b31e4160e642a426
+SizeBytes = 67920
+
+[Section.arm]
+Description = This little demo tests the 3D OpenGL acceleration. Compiled with LLVM-Clang.
+URLDownload = https://archive.org/download/wglgears/wglgears_arm32.exe
+SHA1 = cb6344a93571ced9844d4bda08913b3fc04ee0ab
+SizeBytes = 182272
+
+[Section.arm64]
+Description = This little demo tests the 3D OpenGL acceleration. Compiled with LLVM-Clang.
+URLDownload = https://archive.org/download/wglgears/wglgears_arm64.exe
+SHA1 = 4ddd75da45a537c70785b2365b7eb5c45a407e49
+SizeBytes = 233984
