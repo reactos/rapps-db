@@ -6,7 +6,7 @@ LicenseType = 2
 Description = A media player that supports extensibility with plug-ins and skins, and features music visualization, playlist and a media library, supported by a large online community.
 Category = 1
 URLSite = https://www.winamp.com/
-URLDownload = https://winamp.meggamusic.co.uk/winamp5666_full_all_redux.exe
+URLDownload = https://meggamusic.co.uk/winamp/winamp5666_full_all_redux.exe
 SHA1 = 136314be0da42ed399b88a106cb1f43093e2c0c2
 SizeBytes = 15023516
 
