@@ -1,0 +1,18 @@
+[Section]
+Name = Application Verifier
+Version = 4.0.665
+License = EULA
+LicenseType = 2
+Description = Application Verifier (AppVerifier) is a runtime verification tool for unmanaged code that assists in finding subtle programming errors, security issues and limited user account privilege problems that can be difficult to identify with normal application testing techniques.
+Category = 7
+URLSite = https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/application-verifier
+URLDownload = https://web.archive.org/web/20200811010749if_/http://download.microsoft.com/download/B/6/D/B6D4DF81-0C26-4BA5-BD57-50B7C0935421/ApplicationVerifier.x86.msi
+SHA1 = 92b93f5c0b23fab244deaeb1f3d3fc4b3e0d8b2e
+SizeBytes = 7940608
+
+[Section.amd64]
+Version = 4.0.665
+URLDownload = https://web.archive.org/web/20200803205552if_/http://download.microsoft.com/download/B/6/D/B6D4DF81-0C26-4BA5-BD57-50B7C0935421/ApplicationVerifier.amd64.msi
+SHA1 = d547289530150afe6b8334721df8adc9dfb41b8b
+SizeBytes = 15562240
+
