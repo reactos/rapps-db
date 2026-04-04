@@ -6,8 +6,8 @@ Description = The XNA Framework Redistributable provides the necessary runtime c
 Category = 14
 URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=20914
 URLDownload = https://download.microsoft.com/download/A/C/2/AC2C903B-E6E8-42C2-9FD7-BEBAC362A930/xnafx40_redist.msi
-SHA1 = 49efdc29f65fc8263c196338552c7009fc96c5de
-SizeBytes = 7054336
+SHA1 = 5fc95a9ad87a38e71a953af116fd1f1cbe46a3e7
+SizeBytes = 7054848
 Icon = newwinsetup.ico
 
 [Section.0a]
