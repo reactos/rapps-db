@@ -11,7 +11,7 @@ SizeBytes = 4206592
 
 [Section.amd64]
 Version = 7.0
-URLDownload = https://notepad-plus-plus.org/repository/7.x/7.0/npp.7.bin.x64.zip
+URLDownload = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7/npp.7.bin.x64.zip
 SHA1 = 27d48af6a28f4c8cb71257bed97dd57310537958
 SizeBytes = 2983747
 Installer = Generate
