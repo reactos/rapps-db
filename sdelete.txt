@@ -1,13 +1,13 @@
 [Section]
 Name = SDelete
-Version = 2.04
+Version = 2.06
 License = Sysinternals Software License Terms
 Description = SDelete is a free command line tool that you can use to delete files securely so that they cannot be recovered anymore.
 Category = 12
 URLSite = https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete
 URLDownload = https://download.sysinternals.com/files/SDelete.zip
-SHA1 = e08182dcce77c122f7bc18c01e380ecf066aad2e
-SizeBytes = 531364
+SHA1 = 19e3ed558421ebfe7c5434859d4a403d2f3c21f9
+SizeBytes = 336182
 
 [Section.0404]
 Description = SDelete 是一款讓您用於安全地永久刪除檔案並使檔案無法復原的免費命令列工具。
