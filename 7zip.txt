@@ -26,7 +26,7 @@ SizeBytes = 1659567
 SilentParameters = /S
 
 [Section.arm64]
-Version = 25.01
+Version = 26.00
 URLDownload = https://github.com/ip7z/7zip/releases/download/26.00/7z2600-arm64.exe
 SHA1 = f8c2aa3c8f98a11215cddb11340a12c166d67468
 SizeBytes = 1588342
