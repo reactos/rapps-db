@@ -1,13 +1,13 @@
 [Section]
 Name = EverEdit
-Version = 4.3.1.4480
+Version = 4.5.0
 License = Shareware
 Description = The modern, most powerful, value priced text editor.
 Category = 7
 URLSite = https://www.everedit.net/
-URLDownload = https://web.archive.org/web/20220721204211/https://download.everedit.cn/everedit_win32_4480_setup.exe
-SHA1 = 74ef1e92d2337a8beabdd8ac1d387c7674009009
-SizeBytes = 4380855
+URLDownload = https://files.everedit.cn/everedit_win32_4500_setup.exe
+SHA1 = 7f26232a4d7b170e62d9c19e4553819b09024c24
+SizeBytes = 4398310
 
 [Section.0404]
 License = 共享軟體
