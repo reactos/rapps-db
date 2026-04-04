@@ -10,9 +10,6 @@ SHA1 = 58b01a9ea4056c6544ac4d437ec306969f494274
 SizeBytes = 4266968
 
 [Section.amd64]
-URLDownload = https://github.com/irwir/eMule/releases/download/eMule_v0.72a-community/emule072a_x64_beta2.zip
-SHA1 = ca1e256357e3e714c55870f51841fa575a692e82
-SizeBytes = 3994543
-
-[Generate]
-Files = *.exe
+https://github.com/irwir/eMule/releases/download/eMule_v0.70b-community/eMule0.70b-Installer64.exe
+SHA1 = 4e7bdd464b7e29698fa12f35d80a95ade5d650b9
+SizeBytes = 4658799
