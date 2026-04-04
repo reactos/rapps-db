@@ -5,7 +5,7 @@ License = Shareware
 Description = The modern, most powerful, value priced text editor.
 Category = 7
 URLSite = https://www.everedit.net/
-URLDownload = https://download.everedit.cn/everedit_win32_4480_setup.exe
+URLDownload = https://web.archive.org/web/20220721204211/https://download.everedit.cn/everedit_win32_4480_setup.exe
 SHA1 = 74ef1e92d2337a8beabdd8ac1d387c7674009009
 SizeBytes = 4380855
 
