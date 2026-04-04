@@ -5,13 +5,13 @@ License = GPL
 Description = A full featured, free text editor with many plug-ins.
 Category = 6
 URLSite = https://notepad-plus-plus.org/
-URLDownload = https://notepad-plus-plus.org/repository/6.x/6.9/npp.6.9.Installer.exe
+URLDownload = https://github.com/notepad-plus-plus/old-releases/releases/download/v6x-7/npp.6.9.Installer.exe
 SHA1 = 99d3507a8eab110b7471bf2a8e63e88ecfb4e831
 SizeBytes = 4206592
 
 [Section.amd64]
 Version = 7.0
-URLDownload = https://notepad-plus-plus.org/repository/7.x/7.0/npp.7.bin.x64.zip
+URLDownload = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7/npp.7.bin.x64.zip
 SHA1 = 27d48af6a28f4c8cb71257bed97dd57310537958
 SizeBytes = 2983747
 Installer = Generate
