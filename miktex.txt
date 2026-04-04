@@ -5,7 +5,7 @@ License = Freeware
 Description = An up-to-date implementation of TeX/LaTeX and related programs for Windows.
 Category = 6
 URLSite = https://www.miktex.org/
-URLDownload = https://ftp.lyx.org/pub/TeX/CTAN/systems/win32/miktex/setup/basic-miktex-2.9.5105.exe
+URLDownload = https://github.com/tim-lebedkov/packages/releases/download/2019_Q1/org.miktex.MiKTeX-2.9.5105-org.miktex.MiKTeX-2.9.5105.exe
 SHA1 = 8a0797f119d796ff80adfab99945e76e6883609f
 SizeBytes = 171108104
 
