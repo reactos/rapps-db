@@ -10,5 +10,10 @@ SHA1 = 9a8645b04c115b65c84bc5d6af4e72cabe0715d8
 SizeBytes = 1026952
 Icon = slickrun.ico
 
+[Section.amd64]
+URLDownload = https://bayden.com/dl/sr-setup64.exe
+SHA1 = c2dc732bcecc94c5ee64c1069dc7f37f71df2665
+SizeBytes = 1228656
+
 [Section.041f]
 Description = SlickRun, Windows için ücretsiz bir kayan komut satırı aracıdır. SlickRun, size, herhangi bir programa veya herhangi bir ağ sitesine hemen hemen acil erişim verir.
