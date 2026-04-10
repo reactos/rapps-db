@@ -1,10 +1,10 @@
 [Section]
-Name = Tixati
+Name = Fopnu
 Version = 1.68
 License = Freeware
 Description = Fopnu is a new and powerful P2P file sharing system of the same creator of Tixati.
 Category = 5
-URLSite = https://tixati.com/
+URLSite = https://fopnu.com/
 URLDownload = https://download1.fopnu.com/download/fopnu-1.68-1.win32-install.exe
 SHA1 = 8d372e9f0b06dae123082b1d2803d36b585ba310 
 SizeBytes = 14105840
