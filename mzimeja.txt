@@ -6,8 +6,8 @@ Description = (For Japanese only) MZ-IME Japanese Input (mzimeja) is one of the 
 Category = 12
 URLSite = https://katahiromz.fc2.page/mzimeja/
 URLDownload = https://github.com/katahiromz/mzimeja/releases/download/v1.0.0.8/mzimeja-1.0.0.8-setup.exe
-SHA1 = 32b85ba35ee6e8a27c7d7981c0b10dd2aab7c385
-SizeBytes = 2074672
+SHA1 = 4505811c56ce06e1bec6963d1104b824f2c66bb0
+SizeBytes = 2062216
 Icon = lang.ico
 
 [Section.0411]
