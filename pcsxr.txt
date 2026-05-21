@@ -9,6 +9,7 @@ URLDownload = https://ps1emulator.com/PCSXR_Setup.exe
 SHA1 = d28c0b8933815141392ef407738bc9e2fc7f7c8d
 SizeBytes = 2431014
 RegName = PCSXR PCSXR
+Dependencies = vc2010sp1run
 
 [Section.0a]
 Description = PCSX-r es una versión del emulador clásico PCSX de la consola PlayStation 1. Para que los plugins funcionen, necesitarás Microsoft Visual C++ 2010 redistributable.
@@ -16,4 +17,3 @@ Description = PCSX-r es una versión del emulador clásico PCSX de la consola Pl
 [Section.0404]
 License = 免費軟體
 Description = PCSX-r 是一款 Playstation 1 的模擬器。
-

@@ -9,9 +9,8 @@ URLSite = https://github.com/GerbilSoft/rom-properties
 URLDownload = https://github.com/GerbilSoft/rom-properties/releases/download/v2.5.1/rom-properties_2.5.1-windows.zip
 SHA1 = c7febbe88becbe493916739edc0f173f88882ac1
 SizeBytes = 7313084
+Dependencies = vc2017run
 Installer = ExeInZip
 
 [ExeInZip]
 Exe = install.exe
-
-

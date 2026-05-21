@@ -37,6 +37,7 @@ OPTIONAL_SECTION_KEYS = [
     b'SaveAs',
     b'Scope',
     b'SilentParameters',
+    b'Dependencies',
 ]
 
 

@@ -8,6 +8,7 @@ URLSite = https://desmume.org
 URLDownload = https://download.sourceforge.net/project/desmume/desmume/0.9.11/desmume-0.9.11-win32.zip
 SHA1 = 3040b9c5457f623c33b98cbeb7f35343aaf6748e
 SizeBytes = 1194684
+Dependencies = vc2010sp1run
 Installer = Generate
 
 [Generate]

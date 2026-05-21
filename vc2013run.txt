@@ -9,12 +9,17 @@ URLDownload = https://download.visualstudio.microsoft.com/download/pr/10912113/5
 SHA1 = 0f5d66bcaf120f2d3f340e448a268fe4bbf7709d
 SizeBytes = 6510136
 Icon = newwinsetup.ico
+SilentParameters = /install /quiet /norestart
+
+[Section.x86]
+RegName = {9dff3540-fc85-4ed5-ac84-9e3c7fd8bece}
 
 [Section.amd64]
 Version = 12.0.30501.0
 URLDownload = https://download.microsoft.com/download/2/E/6/2E61CFA4-993B-4DD4-91DA-3737CD5CD6E3/vcredist_x64.exe
 SHA1 = 8bf41ba9eef02d30635a10433817dbb6886da5a2
 SizeBytes = 7194312
+RegName = {050d4fc8-5d48-4b8f-8972-47c82c46020f}
 
 [Section.arm]
 Version = 12.0.30501.0

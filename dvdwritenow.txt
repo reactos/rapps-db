@@ -2,7 +2,7 @@
 Name = DVD Write Now
 Version = 1.5.12 SP2
 License = Freeware
-Description = A free direct CD/DVD recording software. Once installed, you can use your CD/DVD RW as USB Flash or removable hard drives. Along with this you can write to CD/DVD RW recorded with UDF filesystem. You can also read UDF disks created with other software (Microsoft DVD−ROMs, RW disks recorded with Ahead InCD). You need a ZIP decompression program to install it.
+Description = A free direct CD/DVD recording software. Once installed, you can use your CD/DVD RW as USB Flash or removable hard drives. Along with this you can write to CD/DVD RW recorded with UDF filesystem. You can also read UDF disks created with other software (Microsoft DVD−ROMs, RW disks recorded with Ahead InCD).
 Category = 12
 URLSite = https://dwn.alter.org.ua/
 URLDownload = https://web.archive.org/web/20150606193303if_/http://dwn.alter.org.ua/downloads/dwn_1_5_12_sp2.zip
@@ -15,37 +15,36 @@ Exe = setup.exe
 
 [Section.0a]
 License = Gratuito
-Description = Un programa gratuito de grabación de CD/DVD. Una vez instalado, es posible utilizar CD/DVDs regrabables como memorias flash o discos duros extraíbles. Aparte, también permite escribir CD/DVDs regrabables que utilicen el sistema de archivos UDF. Además permite leer discos creados con otros programas(DVD−ROMs de Microsoft, discos regrabables hechos con Ahead InCD). Para instalarlo es necesario utilizar un extractor ZIP.
+Description = Un programa gratuito de grabación de CD/DVD. Una vez instalado, es posible utilizar CD/DVDs regrabables como memorias flash o discos duros extraíbles. Aparte, también permite escribir CD/DVDs regrabables que utilicen el sistema de archivos UDF. Además permite leer discos creados con otros programas(DVD−ROMs de Microsoft, discos regrabables hechos con Ahead InCD).
 
 [Section.0404]
 License = 免費軟體
 Description = 一款免費的 CD/DVD 直接刻錄軟體。安裝後，您可以將 CD/DVD RW 當作 USB 隨身碟或移動硬碟來使用。您也可以使用這個工具來將 CD/DVD RW 以 UDF 檔案系統燒錄。這個程式也可以讀取由其他軟體（如 Microsoft DVD−ROMs，在 Ahead InCD 燒錄的 RW 光碟）建立的 UDF 光碟。您需要一個 ZIP 解壓縮程式才能安裝這個應用程式。
 
 [Section.0407]
-Description = Kostenlose CD/DVD Brennsoftware. Sobald es installiert ist, kann man CD/DVD RW als USB Flash oder Wechseldatenträger beschreiben. Auch kann man hiermit auf CD/DVD RW schreiben, welche mit dem UDF Dateisystem beschrieben wurden. Auch kann man mit dieser Software UDF Disks, welche mit anderer Software erstellt wurden, lesen. (Microsoft DVD−ROMs, RW Disks erstellt mit Ahead InCD). Es wird für die Installation ein ZIP Dekomprimierprogramm benötigt.
+Description = Kostenlose CD/DVD Brennsoftware. Sobald es installiert ist, kann man CD/DVD RW als USB Flash oder Wechseldatenträger beschreiben. Auch kann man hiermit auf CD/DVD RW schreiben, welche mit dem UDF Dateisystem beschrieben wurden. Auch kann man mit dieser Software UDF Disks, welche mit anderer Software erstellt wurden, lesen. (Microsoft DVD−ROMs, RW Disks erstellt mit Ahead InCD).
 
 [Section.0410]
-Description = Un software di masterizzazione CD/DVD diretto e gratuito. Una volta installato, è possibile utilizzare il CD/DVD RW da flash USB o dischi rigidi rimovibili. Insieme a questo è possibile scrivere CD/DVD RW registrati con filesystem UDF. È anche possibile leggere i dischi UDF creati con altri software. (Microsoft DVD-ROM, dischi RW registrati con InCD Ahead). Il programma ha bisogno di un programma di decompressione ZIP per installarlo.
+Description = Un software di masterizzazione CD/DVD diretto e gratuito. Una volta installato, è possibile utilizzare il CD/DVD RW da flash USB o dischi rigidi rimovibili. Insieme a questo è possibile scrivere CD/DVD RW registrati con filesystem UDF. È anche possibile leggere i dischi UDF creati con altri software. (Microsoft DVD-ROM, dischi RW registrati con InCD Ahead).
 
 [Section.0415]
-Description = Darmowe oprogramowanie do nagrywania CD/DVD. Po zainstalowaniu, możesz używać płyty CD RW i DVD RW tak, jak dyski przenośne / pendrive. Możesz także zapisywać (i odczytywać dyski utworzone przez inne programy) dane do dysków RW zapisanych w systemie UDF. Wymaga programu archiwizującego do wypakowania i instalacji.
+Description = Darmowe oprogramowanie do nagrywania CD/DVD. Po zainstalowaniu, możesz używać płyty CD RW i DVD RW tak, jak dyski przenośne / pendrive. Możesz także zapisywać (i odczytywać dyski utworzone przez inne programy) dane do dysków RW zapisanych w systemie UDF.
 
 [Section.0418]
 License = Gratuită
-Description = Program de înscriere CD/DVD directă. Odată instalat, puteți utiliza CD/DVD ca memorie USB sau disc dur detașabil. Pe lângă aceasta, veți putea scrie pe CD/DVD inscripționate cu sistem de fișiere UDF. Se pot de asemenea citi discuri UDF create cu alte programe. (Microsoft DVD-ROM, discuri RW inscripționate cu Ahead InCD). Este necesar un program de decompresie ZIP pentru a-l instala.
+Description = Program de înscriere CD/DVD directă. Odată instalat, puteți utiliza CD/DVD ca memorie USB sau disc dur detașabil. Pe lângă aceasta, veți putea scrie pe CD/DVD inscripționate cu sistem de fișiere UDF. Se pot de asemenea citi discuri UDF create cu alte programe. (Microsoft DVD-ROM, discuri RW inscripționate cu Ahead InCD).
 
 [Section.0419]
 Description = DVD Write Now - бесплатная программа для прямой записи на CD и DVD диски. Позволяет использовать перезаписываемые CD и DVD диски как USB-Flash или съемные жесткие диски, записывать файлы на перезаписываемые CD/DVD диски, созданные в формате UDF, и читать UDF-диски, созданные другими программами.
 URLSite = https://dwn.alter.org.ua/ru/
 
 [Section.041f]
-Description = Ücretsiz bir doğrudan CD/DVD kaydetme yazılımı. Bir kez kurulduktan sonra CD/DVD RW'lerinizi, USB Flash veya çıkarılabilir sabit disk sürücüleri olarak kullanabilirsiniz. Bununla birlikte UDF dosya sistemiyle kaydedilmiş CD/DVD RW'lere yazabilirsiniz. Ayrıca Microsoft DVD−ROM'ları, Ahead InCD ile kaydedilmiş RW diskleri gibi başka yazılımlarla oluşturulmuş UDF diskleri okuyabilirsiniz. Kurmak için bir ZIP çıkartma programı gerekir.
+Description = Ücretsiz bir doğrudan CD/DVD kaydetme yazılımı. Bir kez kurulduktan sonra CD/DVD RW'lerinizi, USB Flash veya çıkarılabilir sabit disk sürücüleri olarak kullanabilirsiniz. Bununla birlikte UDF dosya sistemiyle kaydedilmiş CD/DVD RW'lere yazabilirsiniz. Ayrıca Microsoft DVD−ROM'ları, Ahead InCD ile kaydedilmiş RW diskleri gibi başka yazılımlarla oluşturulmuş UDF diskleri okuyabilirsiniz.
 
 [Section.0425]
 License = Vabavaraline
-Description = Tasuta otsene CD/DVD salvestus tarkvara. Installituna saab kasutada CD/DVD RW kui USB mälupulga või irdkettana. Peale selle saab ka kirjutada CD/DVD RW-le kirjutatud UDF failisüsteemile. Saab ka lugeda UDF kettaid loodud muu tarkvaraga (Microsofti DVD-ROMid, RW kettad savlestatud Ahead InCD-ga). ZIP arhiivi dekompressiooni programmi on vaja selle installimiseks. 
+Description = Tasuta otsene CD/DVD salvestus tarkvara. Installituna saab kasutada CD/DVD RW kui USB mälupulga või irdkettana. Peale selle saab ka kirjutada CD/DVD RW-le kirjutatud UDF failisüsteemile. Saab ka lugeda UDF kettaid loodud muu tarkvaraga (Microsofti DVD-ROMid, RW kettad savlestatud Ahead InCD-ga).
 
 [Section.0804]
 License = 免费软件
-Description = 免费的 CD/DVD 直接刻录软件。安装后，您可以将 CD/DVD RW 作为 U 盘或移动硬盘来使用。使用这个工具您也可以将 CD/DVD RW 烧写上 UDF 文件系统。您也可以读取其他软件（如 Microsoft DVD−ROMs, 刻录有 Ahead InCD 的 RW 光盘）创建的 UDF 光盘。您将需要一个 ZIP 解压缩程序来安装它。
-
+Description = 免费的 CD/DVD 直接刻录软件。安装后，您可以将 CD/DVD RW 作为 U 盘或移动硬盘来使用。使用这个工具您也可以将 CD/DVD RW 烧写上 UDF 文件系统。您也可以读取其他软件（如 Microsoft DVD−ROMs, 刻录有 Ahead InCD 的 RW 光盘）创建的 UDF 光盘。

@@ -8,8 +8,7 @@ URLSite = http://neonfloppy.sytes.net/projects/pcsx2-xp/
 URLDownload = http://neonfloppy.sytes.net/projects/pcsx2-xp/releases/1.6.0/pcsx2-xp-binaries.7z
 SHA1 = 3dff7c6478942685b84bf7145c1c87621f03af7f 
 SizeBytes = 5897396
+Dependencies = vc2013run
 
 [Section.0a]
 Description = PCSX2 es un emulador de la consola PlayStation 2. Para que los funcione, necesitarás Microsoft Visual C++ 2013 redistributable.
-
-

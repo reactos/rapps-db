@@ -8,6 +8,7 @@ URLSite = https://www.blizzard.com/diablo2/
 URLDownload = https://bitbucket.org/Swyter/tld-downloads/downloads/diabloiidemo.exe
 SHA1 = f7aa7f76b9f4c7584d4980cb32a7de97394a3f05
 SizeBytes = 138309685
+Dependencies = glidewrapzbag
 
 [Section.0a]
 Description = Versión de demostración. El adaptador de compatibilidad para Glide de Zeckensack es necesario para poder ejecutar el juego.
@@ -56,4 +57,3 @@ Description = 演示版游戏，需要 Zeckensack's Glide wrapper 才能运行�
 
 [Section.0813]
 Description = Maakt gebruik van Zeckensack's Glide wrapper.
-

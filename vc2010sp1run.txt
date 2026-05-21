@@ -9,6 +9,16 @@ URLDownload = https://web.archive.org/web/20200810231845/http://download.microso
 SHA1 = 28c54491be70c38c97849c3d8cfbfdd0d3c515cb
 SizeBytes = 8990552
 Icon = newwinsetup.ico
+SilentParameters = /quiet /norestart
+
+[Section.x86]
+RegName = {F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}
+
+[Section.amd64]
+URLDownload = https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x64.exe
+SHA1 = 8691972f0a5bf919701ac3b80fb693fc715420c2
+SizeBytes = 10277328
+RegName = {1D8E6291-B0D5-35EC-8441-6616F567A0F7}
 
 [Section.0a]
 Description = Necesario para aplicaciones compiladas con Visual Studio 2010. Incluye: atl100.dll, mfc100.dll, mfc100u.dll, mfcm100.dll, mfcm100u.dll, msdia100.dll, msvcm100.dll, msvcp100.dll, msvcr100.dll, vcomp100.dll.

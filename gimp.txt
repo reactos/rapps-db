@@ -10,11 +10,15 @@ URLDownload = https://download.gimp.org/gimp/v2.8/windows/gimp-2.8.22-setup.exe
 SHA1 = cf6fa10746a056ac728a83bd0121b83d645423de
 SizeBytes = 89579672
 
+[Section.x86]
+Dependencies = vc2008sp1run
+
 [Section.amd64]
 Version = 2.8.10
 URLDownload = https://web.archive.org/web/20140625183541if_/http://partha.com/downloads/Gimp-2.8-10-64bit.exe
 SHA1 = 2bbe8b37468e61be1a72f1d53ec9c2dde0db8e41
 SizeBytes = 121149747
+Dependencies = vc2008sp1run
 
 [Section.arm]
 Version = 2
@@ -54,4 +58,3 @@ Description = Lühend "GNU Image Manipulation Progamm" jaoks. Tasuta jagatud pro
 
 [Section.0804]
 Description = “GNU 图片编辑程序”的首字母缩写。它是一个用于譬如照片修描、图像构图和设计的自由软件。
-

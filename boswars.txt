@@ -8,6 +8,7 @@ URLSite = https://www.boswars.org
 URLDownload = https://www.boswars.org/dist/releases/BosWars-2.6.1.exe
 SHA1 = d3f12d5f8529edfb924dca789f779f6b593a2221
 SizeBytes = 65299934
+Dependencies = vc2008sp1run
 
 [Section.0a]
 Description = Un juego de estrategia futurista en tiempo real. Para ejecutar el juego es necesario instalar Microsoft Visual C++ 2008 runtime.
@@ -38,4 +39,3 @@ Description = Futuristlik reaalajas strateegiamäng. Vajab Microsoft Visual C++ 
 
 [Section.0804]
 Description = 一个未来风的即时战略游戏。需要 Microsoft Visual C++ 2008 运行库才能运行。
-

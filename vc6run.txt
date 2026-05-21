@@ -2,13 +2,14 @@
 Name = Microsoft Visual C++ 6 Redistributable Package
 Version = 6.0
 License = EULA
-Description = Needed by applications compiled with Visual Studio 6. Contains: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll, oleaut32.dll, olepro32.dll.
+Description = Needed by applications compiled with Visual Studio 6. Contains: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll, oleaut32.dll, olepro32.dll. The inner vcredist.exe must have its compatibility set to NT4SP5.
 Category = 14
 URLSite = https://support.microsoft.com/kb/259403/
 URLDownload = https://download.microsoft.com/download/vc60pro/Update/2/W9XNT4/EN-US/VC6RedistSetup_deu.exe
 SHA1 = a8c4dd33e281c166488846a10edf97ff0ce37044
 SizeBytes = 1837888
 Icon = oldwinsetup.ico
+SilentParameters = /Q /R:N
 
 [Section.0a]
 Description = Necesario para aplicaciones compiladas con Visual Studio 6. Incluye: advpack.dll, asycfilt.dll, atla.dll, atlu.dll, comcat.dll, mfc42.dll, mfc42u.dll, msvcirt.dll, msvcp60.dll, msvcrt.dll, oleaut32.dll, olepro32.dll.
