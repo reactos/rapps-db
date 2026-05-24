@@ -6,7 +6,7 @@ Description = Fopnu is a new and powerful P2P file sharing system of the same cr
 Category = 5
 URLSite = https://fopnu.com/
 URLDownload = https://download1.fopnu.com/download/fopnu-1.68-1.win32-install.exe
-SHA1 = 8d372e9f0b06dae123082b1d2803d36b585ba310 
+SHA1 = 2412bcdfde6b5bca27b0320f653819137a1135c2
 SizeBytes = 14105840
 
 [Section.amd64]
