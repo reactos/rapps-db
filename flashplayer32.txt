@@ -7,7 +7,7 @@ Category = 12
 URLSite = https://www.adobe.com/
 URLDownload = https://fpdownload.macromedia.com/pub/flashplayer/updaters/32/flashplayer_32_sa.exe
 SHA1 = 7736efc1c76e6a80132a22e1f9fc87a5884fa375
-SizeBytes = 15986688
+SizeBytes = 15983672
 Icon = flashplayer32.ico
 Screenshot1 = https://i.imgur.com/JlSKduT.png
 
