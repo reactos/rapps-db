@@ -1,0 +1,12 @@
+[Section]
+Name = Unreal Tournament: Game of the Year Edition
+LicenseType = 2
+Description = (Choose "Direct3D 9" and "Cursor input") An arena first-person shooter, with head-to-head multiplayer deathmatches.
+Category = 4
+Publisher = Epic Games
+Screenshot1 = https://web.archive.org/web/20120602003535im_/http://upload.wikimedia.org/wikipedia/en/f/f4/Unrealtournament.jpg
+URLDownload = https://github.com/OldUnreal/FullGameInstallers/releases/download/windows-game-installers/UT_GOTY.exe
+SHA1 = d22350da85cbccebd142a93d86873417b9c11c3e
+SizeBytes = 787654321
+RegName = OldUnreal_ut99
+Dependencies = mesagallium|vc2008sp1run|vc2015run
