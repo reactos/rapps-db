@@ -8,6 +8,7 @@ URLSite = https://www.mesa3d.org
 URLDownload = https://svn.reactos.org/packages/mesa3d_setup.exe
 SHA1 = 4c0d42844ff3693612edfdac51799fd7c63dcafd
 SizeBytes = 5978718
+RegName = Mesa3D
 
 [Section.0a]
 Name = Librería gráfica Mesa3D

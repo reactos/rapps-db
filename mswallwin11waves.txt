@@ -6,6 +6,7 @@ Category = 15
 Publisher = Microsoft
 URLSite = https://microsoft.design/wallpapers/
 URLDownload = https://web.archive.org/web/20240107024959/https://msdesign.blob.core.windows.net/wallpapers/windows-color-waves.zip
+SHA1 = e87fee101a9819422493a20f4bc3a7fbdc0f4fa4
 SizeBytes = 60949121
 Screenshot1 = https://web.archive.org/web/2024im_/https://microsoft.design/wp-content/uploads/2024/06/feature-17-375x250.jpg
 Icon = wallpaper.ico

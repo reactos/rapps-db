@@ -1,0 +1,14 @@
+[Section]
+Name = Alex the Allegator 4
+LicenseType = 1
+License = GPLv2
+Description = In the latest installment of the series Alex travels through the jungle in search of his kidnapped girlfriend. Plenty of classic platforming in four nice colors guaranteed! (Controls: Arrow keys, Ctrl and Alt)
+Category = 4
+Publisher = Free Lunch Design
+URLSite = https://allegator.sourceforge.net/
+Screenshot1 = https://archive.org/download/alex4_install/56109.png
+Version = 1.1
+URLDownload = https://download.sourceforge.net/allegator/alex4_install.exe
+SHA1 = 34521bf9d31130190c4fdb1050a43831f69a067f
+SizeBytes = 1161973
+RegName = Alex the Allegator 4_is1
