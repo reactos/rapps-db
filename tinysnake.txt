@@ -6,6 +6,7 @@ Description = A simple console game of "Snake". Play with English keyboard!
 Category = 4
 URLSite = https://github.com/DosX-dev/TinySnake-game
 URLDownload = https://github.com/DosX-dev/TinySnake-game/releases/download/Builds/TinySnake.x32.exe
+SHA1 = f03d474cca2b8027a0a082379e5c03f7d729c09f
 SizeBytes=3584
 
 [Section.0419]
