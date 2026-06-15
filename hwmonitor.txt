@@ -7,7 +7,7 @@ Category = 12
 URLSite = https://www.cpuid.com/softwares/hwmonitor.html
 URLDownload = https://download.cpuid.com/hwmonitor/hwmonitor_1.52.exe
 SHA1 = 1ff6a10902d3fd343aad94243c82db3afb9b8e04
-SizeBytes = 1515520
+SizeBytes = 1512448
 RegName = CPUID HWMonitor_is1
 
 [Section.041f]
