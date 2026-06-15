@@ -8,6 +8,7 @@ URLSite = https://samba-tng.org/
 URLDownload = https://svn.reactos.org/packages/samba-tng.exe
 SHA1 = 23daea49ec9fb08cbee044fa49dfbcc195073c62
 SizeBytes = 2238545
+Icon = samba.ico
 
 [Section.0a]
 Description = Permite acceder a carpetas e impresoras compartidas en Windows con ReactOS.
