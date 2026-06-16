@@ -8,6 +8,7 @@ URLSite = https://www.microsoft.com/en-us/download/details.aspx?id=26368
 URLDownload = https://web.archive.org/web/20200819111521/http://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x86.exe
 SHA1 = 470640aa4bb7db8e69196b5edb0010933569e98d
 SizeBytes = 4479832
+SaveAs = vcredist_x86_vs2008.exe
 Icon = oldwinsetup.ico
 SilentParameters = /q /norestart
 
@@ -18,6 +19,7 @@ RegName = {9BE518E6-ECC6-35A9-88E4-87755C07200F}
 URLDownload = https://download.microsoft.com/download/5/D/8/5D8C65CB-C849-4025-8E95-C3966CAFD8AE/vcredist_x64.exe
 SHA1 = ce8ff6572e86b0bba39d88fa3a6d56b59100613d
 SizeBytes = 5211080
+SaveAs = vcredist_x64_vs2008.exe
 RegName = {5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}
 
 [Section.0a]
