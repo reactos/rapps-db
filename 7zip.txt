@@ -14,8 +14,8 @@ SilentParameters = /S
 [Section.amd64]
 Version = 26.00
 URLDownload = https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.msi
-SHA1 = 50bab6b6088e1c3c2f3acc531edc346534591df5
-SizeBytes = 1655627
+SHA1 = 41e7990b056ebaf0d427f2a00bf1aa12b6010975
+SizeBytes = 1999872
 SilentParameters = /S
 
 [Section.arm]
