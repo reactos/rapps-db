@@ -1,7 +1,8 @@
 [Section]
 Name = WinDirStat
 Version = 1.1.2
-License = GPL
+License = GPLv2
+LicenseType = 1
 Description = Program for analyzing disk usage and his cleanup.
 Category = 12
 URLSite = https://windirstat.net/

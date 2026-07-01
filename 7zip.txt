@@ -1,35 +1,32 @@
 [Section]
 Name = 7-Zip
-Version = 26.00
+Version = 26.02
 License = LGPL v2.1
 LicenseType = 1
 Description = A file archiving utility with support for 7zip, zip, tar, rar and many other archive formats.
 Category = 12
 URLSite = https://www.7-zip.org/
-URLDownload = https://github.com/ip7z/7zip/releases/download/26.00/7z2600.exe
-SHA1 = d730e5629122f7cdc1cf78f5667e75e1ffb05672
-SizeBytes = 1355804
+URLDownload = https://github.com/ip7z/7zip/releases/download/26.02/7z2602.exe
+SHA1 = 31bba021743eb5b872be8924cb67c428ed4ac861
+SizeBytes = 1357836
 SilentParameters = /S
 
 [Section.amd64]
-Version = 26.00
-URLDownload = https://github.com/ip7z/7zip/releases/download/26.00/7z2600-x64.msi
-SHA1 = 41e7990b056ebaf0d427f2a00bf1aa12b6010975
-SizeBytes = 1999872
+URLDownload = https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.exe
+SHA1 = b563e139acab81cc7ddf358bec6cee1e6b8b2b17
+SizeBytes = 1657896
 SilentParameters = /S
 
 [Section.arm]
-Version = 26.00
-URLDownload = https://github.com/ip7z/7zip/releases/download/26.00/7z2600-arm.exe
-SHA1 = d5f097ce74d5133d8b38bed98df17b078762781e
-SizeBytes = 1659567
+URLDownload = https://github.com/ip7z/7zip/releases/download/26.02/7z2602-arm.exe
+SHA1 = 5fba0e3f9b24409bb8970c43599c1fa452fe1d05
+SizeBytes = 1661739
 SilentParameters = /S
 
 [Section.arm64]
-Version = 26.00
-URLDownload = https://github.com/ip7z/7zip/releases/download/26.00/7z2600-arm64.exe
-SHA1 = f8c2aa3c8f98a11215cddb11340a12c166d67468
-SizeBytes = 1588342
+URLDownload = https://github.com/ip7z/7zip/releases/download/26.02/7z2602-arm64.exe
+SHA1 = afa8b55e5b715a488d55f79ab291df3e4568bfff
+SizeBytes = 1590118
 SilentParameters = /S
 
 [Section.0001]
