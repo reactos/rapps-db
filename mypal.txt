@@ -1,13 +1,14 @@
 [Section]
 Name = Mypal
-Version = 29.3.0
+Version = 78.0.2
 License = MPL/GPL/LGPL
-Description = Mypal is a current but abandoned Windows XP web browser.
+Description = Mypal is a current Windows XP web browser.
 Category = 5
 URLSite = https://www.mypal-browser.org/
-URLDownload = https://web.archive.org/web/20250711164648/https://www.mypal-browser.org/release/mypal-29.3.0.win32.installer.exe
-SHA1 = 1484333cdfb7f7d81a38a9b9462d53d880fee500
-SizeBytes = 34005984
+URLDownload = https://github.com/Feodor2/Mypal68/releases/download/78.0.2/mypal-78.0.2.en-US.win32.zip
+SHA1 = 70e205fcbdf57d40b999f6f708c58fdf20a788c7
+SizeBytes = 64503005
+Installer = Generate
 
 [Section.0a]
 Description = Mypal es un navegador web mantenido y actual para Windows XP, basado en PaleMoon y Firefox.
