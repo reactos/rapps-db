@@ -1,18 +1,18 @@
 [Section]
 Name = SuperTuxKart
-Version = 1.3
+Version = 1.5
 License = GPLv3
 Description = A 3D racing game featuring many mascots of open source projects.
 Category = 4
 URLSite = https://supertuxkart.net/Main_Page
-URLDownload = https://master.dl.sourceforge.net/project/supertuxkart/SuperTuxKart/1.3/SuperTuxKart-1.3-installer-i686.exe
-SHA1 = b7ac890fcec9e51e9f2f55298354cc19d598a772
-SizeBytes = 638616712
+URLDownload = https://master.dl.sourceforge.net/project/supertuxkart/SuperTuxKart/1.5/SuperTuxKart-1.5-installer-i686.exe
+SHA1 = 61731016afaa2fc8d8d185aac83c9dfb6fdb6027
+SizeBytes = 723623185
 
 [Section.amd64]
-URLDownload = https://master.dl.sourceforge.net/project/supertuxkart/SuperTuxKart/1.3/SuperTuxKart-1.3-installer-i686.exe
-SHA1 = b7ac890fcec9e51e9f2f55298354cc19d598a772
-SizeBytes = 638616712
+URLDownload = https://master.dl.sourceforge.net/project/supertuxkart/SuperTuxKart/1.5/SuperTuxKart-1.5-installer-x86_64.exe
+SHA1 = 75fa5a2ca7734c17c104ce40bc052b8704322a69
+SizeBytes = 723247478
 
 [Section.arm]
 Version = 1.3
