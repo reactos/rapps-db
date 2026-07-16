@@ -1,13 +1,13 @@
 [Section]
 Name = Agat Emulator
-Version = 1.29.1
+Version = 1.30.2
 License = GPL
 Description = Apple II and Agat 7/9 software simulation program for Win32.
 Category = 16
 URLSite = https://agatemulator.sourceforge.net/
-URLDownload = https://sourceforge.net/projects/agatemulator/files/agatemulator/1.29.1/agatemulator-1.29.1.exe
-SHA1 = 99db84ac514ea588d8d4938f09a9d0a0749ab461
-SizeBytes = 6346282
+URLDownload = https://sourceforge.net/projects/agatemulator/files/agatemulator/1.30.2/agatemulator-1.30.2.exe
+SHA1 = bd60debbd535d2ebf9f8661cb8d835207d56ea0d
+SizeBytes = 6352839
 
 [Section.0a]
 Name = Emulador Agat
