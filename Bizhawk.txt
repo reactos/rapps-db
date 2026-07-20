@@ -1,0 +1,12 @@
+[Section]
+Name = Bizhawk
+License = MIT
+Description = Bizhawk is a multi-system emulator designed for tool assisted speedruns.
+Category = 4
+URLSite = https://tasvideos.org/Bizhawk
+Version = 1.13.2
+URLDownload = https://github.com/TASEmulators/BizHawk/releases/download/1.13.2/BizHawk-1.13.2.zip
+Installer = Generate
+SHA1 = 495f9570d46b76e33a39f904c0753b89392eda63
+SizeBytes = 26515742
+Dependencies = vc2015run vc2010sp1run net40 directx
