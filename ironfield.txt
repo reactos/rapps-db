@@ -9,6 +9,4 @@ SizeBytes = 67065
 Installer = Generate
 
 [Generate]
-Files = ironfield-v1.1.exe
-Dir = Ironfield RTS
-Lnk = Ironfield RTS.lnk
+DelFile = ironfield.ini
