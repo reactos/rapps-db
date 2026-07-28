@@ -7,6 +7,7 @@ Category = 14
 URLDownload = https://aka.ms/vs/15/release/vc_redist.x86.exe
 SHA1 = d6e1f8c8fff153a59a11fab9777ddab60d9d023c
 SizeBytes = 14652200
+SaveAs = vc_redist.x86_vs2017.exe
 Icon = newwinsetup.ico
 SilentParameters = /install /quiet /norestart
 
@@ -17,6 +18,7 @@ RegName = {828c60b0-2de1-4d01-9534-a221878151eb}
 URLDownload = https://aka.ms/vs/15/release/vc_redist.x64.exe
 SHA1 = 747540e8001fa6f5b3a44af2a87d5c30b4183016
 SizeBytes = 15324768
+SaveAs = vc_redist.x64_vs2017.exe
 RegName = {9f38c96f-e8d2-4a17-96c1-c2ce3b79b8a9}
 
 [Section.arm]
