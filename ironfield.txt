@@ -1,0 +1,12 @@
+[Section]
+Name = Ironfield RTS
+Version = 1.1
+Description = A self-contained retro real-time strategy game for Windows 95 and compatible systems, using DirectDraw from DirectX 5.
+Category = 4
+URLDownload = https://starrts.vogonswiki.com/ironfield/files/ironfield-v1.1.zip
+SHA1 = 32b0e05b094c7d461113ff19168680d820deba2e
+SizeBytes = 67065
+Installer = Generate
+
+[Generate]
+DelFile = ironfield.ini
