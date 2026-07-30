@@ -1,0 +1,22 @@
+[Section]
+Name = Node.js
+Version = 5.12.0
+License = MIT License
+LicenseType = 1
+Description = Node.js® is a free, open-source JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+Category = 7
+URLSite = https://nodejs.org/
+URLDownload = https://nodejs.org/download/release/v5.12.0/node-v5.12.0-x86.msi
+SHA1 = 4e64140efd7c89aca32aff58d83626b255c3e0a8
+SizeBytes = 10162176
+
+[Section.amd64]
+URLDownload = https://nodejs.org/download/release/v5.12.0/node-v5.12.0-x64.msi
+SHA1 = 4fa26e7573bc84c402987845e9604a9839cba736
+SizeBytes = 11087872
+
+[Section.arm64]
+Version = 19.9.0
+URLDownload = https://nodejs.org/download/release/v19.9.0/node-v19.9.0-win-arm64.zip
+SHA1 = 212fffaf5821810bd4f73e8b0dc3a1cfe7021980
+SizeBytes = 26329039
