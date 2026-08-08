@@ -1,0 +1,12 @@
+[Section]
+Name = ePSXe
+Version = 2.0.2-1
+License = Freeware
+LicenseType = 2
+Description = ePSXe is a Sony Playstation emulator for your PC running under Windows Vista+ or linux. It takes advantage of the popular PSEmu Pro plugin system.
+Category = 4
+URLSite = https://www.epsxe.com
+URLDownload = https://www.epsxe.com/files/ePSXe202-1.zip
+SHA1 = 6e0b9e994efba7d5c13255f25fcb1397cff4190c
+SizeBytes = 1307547
+Installer = Generate
