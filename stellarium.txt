@@ -1,0 +1,11 @@
+[Section]
+Name = Stellarium
+Version = 0.12.9
+License = GPLv2
+LicenseType = 1
+Description = Stellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a telescope.
+Category = 8
+URLSite = https://stellarium.org
+URLDownload = https://github.com/Stellarium/stellarium/releases/download/v0.12.9/stellarium-0.12.9-win32.exe
+SHA1 = 39d362917b150ade0732d64aa50b7b8ba977500e
+SizeBytes = 111885141
