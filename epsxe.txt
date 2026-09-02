@@ -10,3 +10,6 @@ URLDownload = https://www.epsxe.com/files/ePSXe202-1.zip
 SHA1 = 6e0b9e994efba7d5c13255f25fcb1397cff4190c
 SizeBytes = 1307547
 Installer = Generate
+
+Generate]
+DelReg = HKCU\Software\epsxe
