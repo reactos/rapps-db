@@ -1,0 +1,27 @@
+[Section]
+Name = Explorer++
+Version = 1.3.5
+License = GPLv3
+LicenseType = 1
+Description = Explorer++ is a fast, lightweight and portable file manager for Windows and ReactOS.
+Category = 12
+Publisher = Explorer++
+URLSite = https://explorerplusplus.com/
+URLDownload = https://download.explorerplusplus.com/stable/1.3.5/explorerpp_x86.zip
+SHA1 = 828a7222f0e8daf9e395063e296d86c0cb78248f
+SizeBytes = 628537
+Installer = Generate
+
+[Generate]
+Files = Explorer++.exe|*.dll|*.ini|*.chm|*.txt|
+Dir = Explorer++
+Icon = Explorer++.exe,0
+Lnk = Explorer++.lnk
+
+DelFile = Explorer++\Explorer++.exe
+DelFile = Explorer++\Readme.txt
+DelFile = Explorer++\history.txt
+DelFile = Explorer++\license.txt
+
+DelDirEmpty = Explorer++
+DelReg = HKCU\Software\Explorer++
