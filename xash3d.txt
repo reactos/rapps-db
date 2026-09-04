@@ -1,0 +1,21 @@
+[Section]
+Name = Xash3D FWGS
+Version = continuous-master
+License = GPLv3
+Description = Open-source compatibility engine for Half-Life and old GoldSrc games.
+Category = 4
+URLSite = https://github.com/FWGS/xash3d-fwgs
+URLDownload = https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-win32-i386.7z
+SHA1 = 4b2a2f1081bdc3ce183577796ecf5bc0a19d9d6c
+SizeBytes = 20770586
+
+[Section.amd64]
+URLDownload = https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-win32-amd64.7z
+SHA1 = 31bfa5a5aaccb88e7e81254c087f4b03cc1ed49d
+SizeBytes = 20039643
+
+[Section.0407]
+Description = Open-Source-Kompatibilitäts-Engine zum Starten von Half-Life und alten GoldSrc-Spielen.
+
+[Section.0419]
+Description = Открытый движок для запуска Half-Life и других старых игр на базе GoldSrc.
