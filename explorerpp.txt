@@ -13,15 +13,5 @@ SizeBytes = 628537
 Installer = Generate
 
 [Generate]
-Files = Explorer++.exe|*.dll|*.ini|*.chm|*.txt|
-Dir = Explorer++
-Icon = Explorer++.exe,0
-Lnk = Explorer++.lnk
-
-DelFile = Explorer++\Explorer++.exe
-DelFile = Explorer++\Readme.txt
-DelFile = Explorer++\history.txt
-DelFile = Explorer++\license.txt
-
-DelDirEmpty = Explorer++
 DelReg = HKCU\Software\Explorer++
+DelFile = config.xml
