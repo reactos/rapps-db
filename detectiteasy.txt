@@ -1,0 +1,10 @@
+[Section]
+Name = Detect It Easy
+Version = 3.21
+LicenseType = MIT
+Description = Program for determining types of files.
+Category = 12
+URLSite = https://ntinfo.biz/
+URLDownload = https://github.com/horsicq/DIE-engine/releases/download/3.21/die_winxp_portable_3.21_x86.zip
+SHA1 = 9501a79e94fb52db38539e66579778ad408b8847
+SizeBytes = 21802698
