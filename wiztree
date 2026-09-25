@@ -1,0 +1,11 @@
+[Section]
+Name = WizTree
+Version = 4.30
+License = Freeware
+Description = WizTree is a very fast disk space analyzer. It scans your hard drive and shows you which files and folders are using the most disk space.
+Category = 6
+URLSite = https://diskanalyzer.com/
+URLDownload = https://diskanalyzer.com/files/archive/wiztree_4_30_setup.exe
+SHA1 = 5cff805e61e1c001b431fe4d47e4b075c5d02532
+SizeBytes = 5129352
+SilentInstall = /SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART
