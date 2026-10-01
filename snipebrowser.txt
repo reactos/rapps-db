@@ -1,0 +1,10 @@
+[Section]
+Name = SnipeBrowser
+Version = 144.0.7559.256
+License = BSD (Chromium derivative)
+Description = Modern degoogled Chromium 144 browser built for ReactOS. TLS 1.3, Cloudflare-gated sites, HD/1080p video (software path), bundled uBlock Origin and Ruffle. No Google services, telemetry, or sign-in. Recommended ReactOS 0.4.16 x86 (earlier 0.4.x may work; Earliest successful test 0.4.5). Sweet spot 1 to 3 GB RAM. Details: https://snipebrowser.com/ and https://archive.org/details/snipe-browser-144.0.7559.256-win-x-86-reactos-rc-102-portable
+Category = 5
+URLSite = https://snipebrowser.com/
+URLDownload = https://archive.org/download/snipe-browser-144.0.7559.256-win-x-86-reactos-rc-102-portable/SnipeBrowser-144.0.7559.256-win-x86-reactos-setup.exe
+SHA1 = 8bcbf10432a873e61996f47acd7d5f287bd9968c
+SizeBytes = 211155935
