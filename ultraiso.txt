@@ -1,7 +1,7 @@
 [Section]
 Name = UltraISO
 Version = 9.7.1.3519
-License = Trial verison
+License = Trial version
 Description = An ISO CD/DVD image file creating/editing/converting tool and a bootable CD/DVD maker, it can directly edit the CD/DVD image file and extract files and folders from it, as well as directly make ISO files from your CD/DVD-ROM or hard disk.
 Category = 12
 URLSite = https://www.ezbsystems.com/ultraiso/

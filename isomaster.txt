@@ -1,0 +1,31 @@
+[Section]
+Name = ISO Master
+Version = 3.0.0
+License = GNU GPL v2
+Description = ISO Master is an open-source, easy to use, graphical CD image editor. It is based on bkisofs - a library for reading, modifying and writing ISO images. It can open ISO, NRG, and some MDF files but can only save as ISO.
+Category = 12
+URLSite = http://littlesvr.ca/isomaster/
+URLDownload = https://archive.org/download/iso-master-windows/ISO-Master-Windows-x86-xp.zip
+SHA1 = e3fc3906381f10e0afbfc57b21d040ecfc77b312
+SizeBytes = 18709493
+Installer = Generate
+
+[Section.amd64]
+URLDownload = https://archive.org/download/iso-master-windows/ISO-Master-Windows-xp.zip
+SHA1 = 2ebc084f4b648680543f7073ad19f398787ee5ed
+SizeBytes = 19880473
+
+[Section.arm]
+URLDownload = https://archive.org/download/iso-master-windows/ISO-Master-Windows-arm32.zip
+SHA1 = d25cf6649d8803202a2f3c619a73fe25b0913269
+SizeBytes = 35834396
+
+[Section.arm64]
+URLDownload = https://archive.org/download/iso-master-windows/ISO-Master-Windows-arm64.zip
+SHA1 = 75011a42fa738a5f931658d1ee678b93b1a0d747
+SizeBytes = 15380593
+
+[Section.0a]
+Description = La herramienta ISO Master es una utilidad sencilla para editar imágenes de CD/DVD. Se basa en bkisofs, una librería de lectura, modificación y escritura de imágenes ISO. Puede abrir ISO, NRG y MDF, pero solo puede guardar en ISO.
+
+
