@@ -15,9 +15,6 @@ Installer = Generate
 [Section.amd64]
 URLDownload = https://web.archive.org/web/20210503071949/http://download.sysinternals.com/Files/ZoomIt.zip
 
-[Section.arm64]
-URLDownload = https://web.archive.org/web/20210503071949/http://download.sysinternals.com/Files/ZoomIt.zip
-
 [Generate]
 Files = *it.exe
 Dir = SysInternals\ZoomIt
@@ -28,5 +25,3 @@ DelDirEmpty = .|..
 [Generate.amd64]
 Files = *64.exe
 
-[Generate.arm64]
-Files = *64a.exe

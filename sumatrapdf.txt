@@ -21,12 +21,6 @@ URLDownload = https://raw.githubusercontent.com/plumeqi/RT_Arm32_Porting/refs/he
 SHA1 = b750eec0f91a5cf2e43259c935c5473c82d27d72
 SizeBytes = 4860560
 
-[Section.arm64]
-Version = 3.5.2
-URLDownload = https://www.sumatrapdfreader.org/dl/rel/3.5.2/SumatraPDF-3.5.2-arm64-install.exe
-SHA1 = cb958302dc5ce79af01948de544f039d25074f32
-SizeBytes = 7598552
-
 [Section.0a]
 Description = Un lector PDF ligero, libre y de código abierto que no necesita instalación.
 URLSite = https://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader-es.html

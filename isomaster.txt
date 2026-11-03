@@ -20,11 +20,6 @@ URLDownload = https://archive.org/download/iso-master-windows/ISO-Master-Windows
 SHA1 = d25cf6649d8803202a2f3c619a73fe25b0913269
 SizeBytes = 35834396
 
-[Section.arm64]
-URLDownload = https://archive.org/download/iso-master-windows/ISO-Master-Windows-arm64.zip
-SHA1 = 75011a42fa738a5f931658d1ee678b93b1a0d747
-SizeBytes = 15380593
-
 [Section.0a]
 Description = La herramienta ISO Master es una utilidad sencilla para editar imágenes de CD/DVD. Se basa en bkisofs, una librería de lectura, modificación y escritura de imágenes ISO. Puede abrir ISO, NRG y MDF, pero solo puede guardar en ISO.
 

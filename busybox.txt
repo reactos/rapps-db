@@ -15,8 +15,3 @@ URLDownload = https://frippery.org/files/busybox/busybox-w64-FRP-5857-g3681e397f
 SHA1 = 43332c88c8abb023313ac65e7c8f67ea9383caa6
 SizeBytes = 717824
 
-[Section.arm64]
-URLDownload = https://frippery.org/files/busybox/busybox-w64a-FRP-5857-g3681e397f.exe
-SHA1 = d9d7fa5dbd38bc5a11135cbf43c621c2adeab35b
-SizeBytes = 663040
-

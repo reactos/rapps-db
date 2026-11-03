@@ -26,12 +26,6 @@ URLDownload = https://download.fryelum.dev/Rakko/Applications/GIMP/Downloads/202
 SHA1 = 919a5d351542a426d435de47496049afd7fa7628
 SizeBytes = 1247694269
 
-[Section.arm64]
-Version = 3.0.4
-URLDownload = https://download.gimp.org/gimp/v3.0/windows/gimp-3.0.4-setup.exe
-SHA1 = 2f7c0b96b67b09177fb0e8ebb2a9842a980b824a
-SizeBytes = 300178176
-
 [Section.0a]
 Description = Es un acrónimo en inglés de «Programa de Manipulación de Imágenes GNU». Se distribuye libremente y está pensado para el retoque fotográfico, composición de imágenes y dibujo.
 

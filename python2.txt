@@ -20,12 +20,6 @@ SHA1 = 5c3c3df40f4aef26545e7ea34d9eda61d9faff5d
 SizeBytes = 14085824
 Installer = Generate
 
-[Section.arm64]
-URLDownload = https://archive.org/download/Arm64-Compiled-set/Python27-arm64.zip
-SHA1 = 9a8eea9a73fcf0c2bdcfece848e08211f38d7f57
-SizeBytes = 23551177
-Installer = Generate
-
 [Section.0a]
 Description = Un lenguaje de programación dinámico sumamente potente.
 

@@ -14,12 +14,6 @@ URLDownload = https://github.com/git-for-windows/git/releases/download/v2.10.0.w
 SHA1 = 261569e93779faf4a11985055e639744bdec8197
 SizeBytes = 33049944
 
-[Section.arm64]
-Version = v2.50.1
-URLDownload = https://github.com/git-for-windows/git/releases/download/v2.50.1.windows.1/Git-2.50.1-arm64.exe
-SHA1 = f042a8494c865e67d610cf34650687cc7168a9e7
-SizeBytes = 69166752
-
 [Section.0a]
 Name = Git para Windows
 Description = Git es un sistema de control y revision de sistemas rápido, escalable y distribucional con una variedad rica de comandos que proveen operaciones a alto nivel y un control total de los elementos.

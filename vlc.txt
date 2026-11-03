@@ -20,11 +20,6 @@ URLDownload = https://archive.org/download/vlc-3.0.20-arm32/vlc-3.0.20-arm32.zip
 SHA1 = 7327aed1e8ad81d82623d66251e3d31ae830b5de
 SizeBytes = 48581802
 
-[Section.arm64]
-URLDownload = https://download.videolan.org/pub/videolan/vlc/3.0.23/winarm64/vlc-3.0.23-winarm64.msi
-SHA1 = ce111c82adaf3405e63aa90bec3527e513f5e151
-SizeBytes = 51630080
-
 [Section.0a]
 Description = Completo reproductor multimedia, de código abierto y con códecs propios.
 

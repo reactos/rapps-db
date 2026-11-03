@@ -28,12 +28,6 @@ Files = Notepad++\notepad++.exe|Notepad++\*.*|Notepad++\plugins\*.dll
 Icon = notepad++.exe,4
 Lnk = Notepad++.lnk
 
-[Section.arm64]
-Version = 8.1.4
-URLDownload = https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.arm64.exe
-SHA1 = e5bbe8b1a775160795053544ede6fad2688b5656
-SizeBytes = 3936136
-
 [Section.0a]
 Description = Un editor de texto completo, libre y con gran cantidad de extensiones.
 
