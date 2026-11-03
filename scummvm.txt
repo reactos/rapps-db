@@ -16,13 +16,6 @@ SHA1 = e3d70bb84f53f94edf599c2b45f46da769d6c492
 SizeBytes = 111686821
 Installer = Generate
 
-[Section.arm64]
-Version = 2.5.1
-URLDownload = https://archive.org/download/Arm64-Compiled-set/ScummVM-251-arm64.zip
-SHA1 = df72f47edc1341dae439815fdaf4c857feae5924
-SizeBytes = 11985315
-Installer = Generate
-
 [Section.0a]
 Description = Reimplementación de código abierto de motores de juegos de aventura clásicos (como «Monkey Island», «Sam and Max» o «Day of the Tentacle»), haciéndolos funcionar en ReactOS.
 

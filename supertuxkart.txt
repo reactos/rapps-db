@@ -21,12 +21,6 @@ SHA1 = 1ed992dd4a54c5ee12480cda987db4721035022c
 SizeBytes = 697107824
 Installer = Generate
 
-[Section.arm64]
-Version = 1.4
-URLDownload = https://github.com/supertuxkart/stk-code/releases/download/1.4/SuperTuxKart-1.4-installer-aarch64.exe
-SHA1 = 95fc5b0148c3460cc8800309151a4df998c7a3f7
-SizeBytes = 703238170
-
 [Section.041f]
 License = GPL sürüm 3
 Description = Açık kaynak projelerden birçok maskot özellikli bir 3D yarış oyunudur.

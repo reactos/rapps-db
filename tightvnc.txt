@@ -25,13 +25,6 @@ SHA1 = 0635b5b8bf3f6e4ab02ac113233d1e9d7c08289b
 SizeBytes = 1220069
 Installer = Generate
 
-[Section.arm64]
-Version = 2.8.11
-URLDownload = https://github.com/driver1998/tightvnc-gpl-woa/releases/download/v2.8.11/tightvnc-2.8.11-gpl-win-arm64.zip
-SHA1 = c47e5ef06535c502ef2646ca4e598cae67edaccd
-SizeBytes = 1299846
-Installer = Generate
-
 [Section.0a]
 Description = Paquete de software que sirve para el control remoto del equipo vía VNC.
 

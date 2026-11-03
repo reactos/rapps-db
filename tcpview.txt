@@ -19,9 +19,6 @@ SizeBytes = 291606
 [Section.amd64]
 URLDownload = https://web.archive.org/web/20221116090816/https://download.sysinternals.com/files/TCPView.zip
 
-[Section.arm64]
-URLDownload = https://web.archive.org/web/20221116090816/https://download.sysinternals.com/files/TCPView.zip
-
 [Generate]
 Files = *view.exe|tcp*
 Dir = SysInternals\TCPView
@@ -32,5 +29,3 @@ DelDirEmpty = .|..
 [Generate.amd64]
 Files = *w64.exe|*64.exe|*.chm
 
-[Generate.arm64]
-Files = *w64a.exe|*64a.exe|*.chm

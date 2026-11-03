@@ -18,12 +18,6 @@ SHA1 = 20c79f83ab875fe27cf20e0472ac97c5bbf32bcb
 SizeBytes = 20263423
 Installer = Generate
 
-[Section.arm64]
-Version = 25.03
-URLDownload = https://mirror.msys2.org/mingw/clangarm64/mingw-w64-clang-aarch64-codeblocks-25.03-6-any.pkg.tar.zst
-SHA1 = 6ae33f62f6660f2472d6d59993a41f85bab67833
-SizeBytes = 13474951
-
 [Section.0a]
 Name = Code::Blocks (sin compilador)
 Description = Un IDE potente, de código abierto y multiplataforma. No viene con compilador.

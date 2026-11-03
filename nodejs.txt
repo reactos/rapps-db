@@ -15,8 +15,3 @@ URLDownload = https://nodejs.org/download/release/v5.12.0/node-v5.12.0-x64.msi
 SHA1 = 4fa26e7573bc84c402987845e9604a9839cba736
 SizeBytes = 11087872
 
-[Section.arm64]
-Version = 19.9.0
-URLDownload = https://nodejs.org/download/release/v19.9.0/node-v19.9.0-win-arm64.zip
-SHA1 = 212fffaf5821810bd4f73e8b0dc3a1cfe7021980
-SizeBytes = 26329039

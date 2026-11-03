@@ -15,9 +15,3 @@ SHA1 = c81b6da286b23b018e7e4dd1e3061d6eb272dc4b
 SizeBytes = 5468357
 Installer = Generator
 
-[Section.arm64]
-Version = 7.1.1
-URLDownload = https://github.com/tordona/ffmpeg-win-arm64/releases/download/7.1.1/ffmpeg-7.1.1-essentials-shared-win-arm64.7z
-SHA1 = 0f12f1d3ada8903789f58336497a5285965732ab
-SizeBytes = 25821162
-
