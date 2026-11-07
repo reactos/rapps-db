@@ -1,0 +1,17 @@
+[Section]
+Name = DepCheck
+Description = DepCheck shows why a Windows module (exe, dll, ocx) will not load. It resolves imports the way the loader does, including KnownDLLs, apiset contracts and SxS redirection, and reports missing or wrong-bitness dependencies.
+License = Freeware
+LicenseType = 2
+Category = 7
+URLSite = https://depcheck.com/
+Version = 0.5.0
+URLDownload = https://github.com/learn-more/DepCheck-releases/releases/download/v0.5.0/DepCheck-x86.zip
+SHA1 = 981287b927c3dc5e34ea3dc3eed7dea825638c28
+SizeBytes = 256649
+Installer = Generate
+
+[Section.amd64]
+URLDownload = https://github.com/learn-more/DepCheck-releases/releases/download/v0.5.0/DepCheck-x64.zip
+SHA1 = e68de11c091db2ddec9e379577749852d0dae465
+SizeBytes = 268582
