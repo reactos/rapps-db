@@ -1,0 +1,25 @@
+[Section]
+Name = Rufus
+Version = 2.18
+License = GNU GLPv3
+Description = Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.
+Category = 12
+URLSite = https://rufus.ie/
+URLDownload = https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18.exe
+SHA1 = d0054fc533603004a107436f47bc020afd54fa05
+SizeBytes = 967800
+
+[Section.amd64]
+URLDownload = https://github.com/pbatard/rufus/releases/download/v4.0/rufus-4.0.exe
+SHA1 = f165233f7d4ac46b1150eef6e9d1ff16d2b496a0
+SizeBytes = 1411144
+
+[Section.arm]
+URLDownload = https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18_arm.exe
+SHA1 = 7b2f5bdd31f48a725b2afa0fcd663461650b301e
+SizeBytes = 2557184
+
+[Section.arm64]
+URLDownload = https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18_arm64.exe
+SHA1 = 98d88de6399978ec67ccad104b38f0fae1e22da7
+SizeBytes = 2763056
